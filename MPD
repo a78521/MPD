@@ -176,7 +176,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2610/default_primary.m
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_primary.mpd
 
 
-EXTINF:-1 group-title="Astro" tvg-logo="https://pictr.com/images/2023/07/24/EbV0E9.png",Discovery Asia
+#EXTINF:-1 group-title="Astro" tvg-logo="https://pictr.com/images/2023/07/24/EbV0E9.png",Discovery Asia
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -258,7 +258,7 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/5067/default_primary.mp
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5093/default_primary.mpd
 
 
-EXTINF:-1 group-title="Astro" tvg-logo="https://pictr.com/images/2025/01/14/x135f6.png",CGTN
+#EXTINF:-1 group-title="Astro" tvg-logo="https://pictr.com/images/2025/01/14/x135f6.png",CGTN
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
