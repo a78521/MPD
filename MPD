@@ -292,8 +292,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/127/default_primary.mpd
 
 #EXTINF:-1 group-title="Astro" tvg-logo="",Zee Cinema HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5106/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4                                         
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_primary.mpd
 
 
 
@@ -310,7 +310,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_primary.mpd
 #EXTINF:-1 group-title="Astro" tvg-logo="https://pictr.com/images/2025/01/14/x122E5.png",HBO Family            
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b9ff7cc1a3dc9fef47cc5773472d510:7e37588e893ab9252e505bd6dda35beb
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd
 
 #EXTINF:-1 group-title="Astro" tvg-logo="https://pictr.com/images/2025/01/14/x12RMv.png",Astro Showcase
 #KODIPROP:inputstream.adaptive.license_type=clearkey
