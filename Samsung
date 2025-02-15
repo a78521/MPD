@@ -277,8 +277,6 @@ https://jmp2.uk/sam-USBA3000100X.m3u8
 https://jmp2.uk/sam-GBBC2300002GG.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300001X5_20250107T022818SQUARE.png" group-title="Reality",American Idol
 https://jmp2.uk/sam-GBBC2300001X5.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA2000001BR_20241105T024249SQUARE.png" group-title="Reality",Baywatch
-https://jmp2.uk/sam-USBA2000001BR.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300002Q6_20241105T024252SQUARE.png" group-title="Reality",Fear Factor
 https://jmp2.uk/sam-USBB2300002Q6.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700005ID_20241014T232306SQUARE.png" group-title="Reality",WWE Superstar Central
@@ -288,6 +286,7 @@ https://jmp2.uk/sam-US700005ID.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD600002XT_20250107T030556SQUARE.png" group-title="TV Series",Baywatch
 https://jmp2.uk/sam-GBBD600002XT.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400010S0_20250121T101231SQUARE.png" group-title="Ambiance",Winter Vibes
