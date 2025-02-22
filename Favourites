@@ -3,24 +3,25 @@
 
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Star_Plus_HD.png" group-title="Fav",Star Plus HD
 https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Star%20Plus%20HD.m3u8
-
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png" group-title="Fav",Star Bharat HD
 https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Star%20Bharat%20HD.m3u8
-
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Star_Gold_Select_HD.png" group-title="Fav",Star Gold HD
 https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Star%20Gold%20HD.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Fav",Star Movies HD
 https://github.com/a78521/Channels/raw/refs/heads/main/Star Movies HD.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Fav",Star Movies Select HD
 https://github.com/a78521/Channels/raw/refs/heads/main/Star Movies Select HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/Star_Sports_1_HD.png" group-title="Fav",Star Sports 1 HD
+https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Star%20Sports%201%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/Star_Sports_1_HD_Hindi.png" group-title="Fav",Star Sports 1 Hindi HD
+https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Star%20Sports%201%20Hindi%20HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Colors_TV_HD.png" group-title="Fav",Colors HD
 https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Colors%20HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/Star_Sports_1_HD.png" group-title="Fav",Star Sports 1 HD
-https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Star%20Sports%201%20HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/Star_Sports_1_HD_Hindi.png" group-title="Fav",Star Sports 1 Hindi HD
-https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Star%20Sports%201%20Hindi%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/english/And_Prive_HD.png" group-title="Fav",& Prive HD
+https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/%26%20Prive%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png" group-title="Fav",Zee Cafe HD
+https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Zee%20Cafe%20HD.m3u8
