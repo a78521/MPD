@@ -10,6 +10,12 @@ https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Star%20Bharat%
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Star_Gold_Select_HD.png" group-title="Fav",Star Gold HD
 https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Star%20Gold%20HD.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Fav",Star Movies HD
+https://github.com/a78521/Channels/raw/refs/heads/main/Star Movies HD.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Fav",Star Movies Select HD
+https://github.com/a78521/Channels/raw/refs/heads/main/Star Movies Select HD.m3u8
+
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Colors_TV_HD.png" group-title="Fav",Colors HD
 https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Colors%20HD.m3u8
 
