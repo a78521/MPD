@@ -381,12 +381,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9988/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=ad3cb242cde3b687e2398cd21eb9bd10:6ed9b4976a854a289ce62cac957a55d5
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_primary.mpd
 
-#EXTINF:-1 group-title="Astro" tvg-logo="",Radio India Beat
+#EXTINF:-1 group-title="Astro" tvg-logo="https://pictr.com/images/2025/01/20/xpG0vj.png",Radio India Beat
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b4e873bc93eff959ba232e1fa016f10:3e84b173e8997210fd270b7029491a9e
 https://linearjitp-playback.astro.com.my/dash-wv/linear/127/default_primary.mpd
 
-#EXTINF:-1 group-title="Astro" tvg-logo="",Zee Cinema HD
+#EXTINF:-1 group-title="Astro" tvg-logo="https://pictr.com/images/2025/01/14/x12rI8.png",Zee Cinema HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4                                         
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_primary.mpd
