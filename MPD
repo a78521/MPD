@@ -31,66 +31,15 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
 =========================================== Watcho ===========================================
 
-#EXTINF:-1 tvg-logo="" group-title="watcho",9XM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9xm2/default/manifest.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="watcho",9X Jalwa
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9xjalwa2/default/manifest.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="watcho",9X Tashan
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9xtashan2/default/manifest.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="watcho",9X Jhakaas
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9xjhakaas2/default/manifest.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="watcho",Music India
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia2/default/manifest.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="watcho",DD National
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ddnational2/default/manifest.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="watcho",DD Bharti
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ddbharti2/default/manifest.mpd
-
-
-#EXTINF:-1 tvg-logo="" group-title="watcho", And TV HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="watcho", And TV SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HivVrdof.png" group-title="watcho", And Pictures HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HivVrdof.png" group-title="watcho", And Pictures SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8dea532cabfe4f71ba20f62310e7949f:7a214a974e4f4d1d9bb66364d5f0cb92
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="watcho", Zee TV HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yHNSuG1V.png" group-title="watcho", Zee TV SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -126,11 +75,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=812411cba8bc42c79eb2b19cd78ad3f3:468a0b8d3d5d42d8a5c41bb875390a74
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="watcho", Zee News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeenews2/default/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/vExrDK9r.png" group-title="watcho", Zee Business
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -206,16 +150,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverykids2/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e48e7373d6be47ecab83a20849f6823e:513ce07a2ee24ffdbe667eff5a9d46a8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="watcho", News Nation
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Newsnation2/default/manifest.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="watcho", Sansad TV HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sansadtvhd2/default/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="korean-drama-active" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BNu8WvFw.png" group-title="watcho", Korean Drama Active
