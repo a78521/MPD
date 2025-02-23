@@ -29,12 +29,6 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
 =========================================== Sports ===========================================
 
-#EXTINF:-1 tvg-logo="" group-title="Sports",CT 2025
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f108f8cb08c765aedf55d5b5eae58f4c:04a4ed8c992d291ce2097663b2adb677
-https://live5.shoq.com.pk/live/eds/ICC_CT_2025/DASH/ICC_CT_2025.mpd
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="Sports",ASTRO Cricket
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
