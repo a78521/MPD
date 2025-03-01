@@ -29,6 +29,17 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
 =========================================== Sports ===========================================
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToN2X3FO3ePY0JWnFJ8g6WwzKvxluMQE5AZQX0aaacpEQso8pVm1PjkCY&s=10" group-title="Sports",Prime Hindi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a5191838da17a2ab771f4258fad347f:54b7a084437459368eed07d182ad644c
+https://aba5sdmaaaaaaaammj2q5nkaoee4b.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/l2xzhgmjur/out/v1/fe9782633a364a6a84c9410f26d9b2c4/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToN2X3FO3ePY0JWnFJ8g6WwzKvxluMQE5AZQX0aaacpEQso8pVm1PjkCY&s=10" group-title="Sports",Prime English
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7aa124253d518f18740c5bd932d581a3:1819c82fc27225f5e79ae189ddece0ea
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/cw64xbclda/out/v1/190f1d69a3d5467f8fb7d9df4339bc49/cenc.mpd
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="Sports",ASTRO Cricket
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
