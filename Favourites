@@ -1,27 +1,90 @@
 #EXTM3U 
 
-
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Star_Plus_HD.png" group-title="Fav",Star Plus HD
 https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Star%20Plus%20HD.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png" group-title="Fav",Star Bharat HD
 https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Star%20Bharat%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Star_Gold_Select_HD.png" group-title="Fav",Star Gold HD
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Fav",Star Gold HD
 https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Star%20Gold%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Star_Gold_Select_HD.png" group-title="Fav",Star Gold Select HD
+https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Star%20Gold%20Select%20HD.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Fav",Star Movies HD
-https://github.com/a78521/Channels/raw/refs/heads/main/Star Movies HD.m3u8
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" group-title="Fav",Star Movies HD
+https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Star%20Movies%20HD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Fav",Star Movies Select HD
-https://github.com/a78521/Channels/raw/refs/heads/main/Star Movies Select HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/Star_Sports_1_HD.png" group-title="Fav",Star Sports 1 HD
-https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Star%20Sports%201%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/Star_Sports_1_HD_Hindi.png" group-title="Fav",Star Sports 1 Hindi HD
-https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Star%20Sports%201%20Hindi%20HD.m3u8
+https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Star%20Movies%20Select%20HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Colors_TV_HD.png" group-title="Fav",Colors HD
 https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Colors%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Cineplex_HD.png"" group-title="Fav",Colors Cineplex HD
+https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Colors%20Cineplex%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="Fav",Colors Infinity HD
+https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Colors%20Infinity%20HD.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Fav",MTV HD
+https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/MTV%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/MTV_Beats_HD.png" group-title="Fav",MTV Beats HD
+https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/MTV%20Beats%20HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/And_TV_HD.png" group-title="Fav",&TV HD
+https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/%26TV%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/AndPictures_HD.png" group-title="Fav",& Pictures HD
+https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/%26%20Pictures%20HD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Fav",& Xplor HD
+https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/%26%20Xplor%20HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/english/And_Prive_HD.png" group-title="Fav",& Prive HD
 https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/%26%20Prive%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/And_Flix_HD.png" group-title="Fav",& Flix HD
+https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/%26%20Flix%20HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Fav",Zee TV HD
+https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Zee%20TV%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Cinema_HD.png" group-title="Fav",Zee Cinema HD
+https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Zee%20Cinema%20HD.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png" group-title="Fav",Zee Cafe HD
 https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Zee%20Cafe%20HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Sony_TV_HD.png" group-title="Fav",Sony TV HD
+https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Sony%20TV%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Sab_HD.png" group-title="Fav",Sony Sab HD
+https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Sony%20Sab%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Max_HD.png" group-title="Fav",Sony Max HD
+https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Sony%20Max%20HD.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Fav",Miniplex HD
+https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Miniplex%20HD.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/english/Sony_Pix.png" group-title="Fav",Sony Pix HD
+https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Sony%20Pix%20HD.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Fav",MNX HD
+https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/MNX%20HD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Fav",MN+ HD
+https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/MN%2B%20HD.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/Star_Sports_1_HD.png" group-title="Fav",Star Sports 1 English HD
+https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Star%20Sports%201%20English%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/Star_Sports_1_HD_Hindi.png" group-title="Fav",Star Sports 1 Hindi HD
+https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Star%20Sports%201%20Hindi%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/Star_Sports_1_HD_Hindi.png" group-title="Fav",Willow Cricket HD
+https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Willow%20Cricket%20HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Fav",Discovery HD
+https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Discovery%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" group-title="Fav",Animal Planet HD
+https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Animal%20Planet%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/History_TV_HD.png" group-title="Fav",History TV18 HD
+https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/History%20TV18%20HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/National_Geographic_HD.png" group-title="Fav",Nat Geo HD
+https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Nat%20Geo%20HD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Fav",Nat Geo Wild HD
+https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Nat%20Geo%20Wild%20HD.m3u8
+
