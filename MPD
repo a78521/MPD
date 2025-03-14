@@ -33,7 +33,10 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 https://mix.drmlive.au/mix/icctv1.mpd
 
 
-
+#EXTINF:-1 tvg-logo="" group-title="Sports",Geo Super
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7641daa5bacfbb61936c40a221c9e78e:5732dd242f28338e909dc06cb1a1e5a2
+https://live3.shoq.com.pk/live/eds/Geo_Super/DASH/Geo_Super.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zhr5RgC/Cric-streaming-tencric.png" group-title="Sports",Ten Cricket
 #KODIPROP:inputstream.adaptive.license_type=clearkey
