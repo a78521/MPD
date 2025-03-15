@@ -773,6 +773,11 @@ https://live2.shoq.com.pk/live/eds/Bol_News/DASH/Bol_News.mpd
 #KODIPROP:inputstream.adaptive.license_key=c1ac1dd655f85140d18f7c0fc2617345:9ecaefa3a20f1a7b7b157633832a79a3
 https://live2.shoq.com.pk/live/eds/City_21/DASH/City_21.mpd
 
+#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/city-42.png" group-title="Shoq",City 42
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3bb15c2db2a7bf86ffa5375cd308e2aa:c58cfa4890b72b939bfd64c95f94f7aa
+https://live2.shoq.com.pk/live/eds/City_42/DASH/City_42.mpd
+
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Dawn-news.png" group-title="Shoq",Dawn News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1e81332129957ee4b3b16ebf04abcb45:92754de589fbd6d3b288bb30d66c7e06
@@ -785,7 +790,7 @@ https://live2.shoq.com.pk/live/eds/Dunya_News/DASH/Dunya_News.mpd
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/express-news.png" group-title="Shoq",Express News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=3cc797eec44e9de28e0383d6f8053ef1:a27a46fc0b462ee9d35845b086284728
 https://live2.shoq.com.pk/live/eds/Express_News/DASH/Express_News.mpd
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/hum-news.png" group-title="Shoq",Hum News
@@ -833,13 +838,18 @@ https://live2.shoq.com.pk/live/eds/Geo_Entertainment/DASH/Geo_Entertainment.mpd
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/geo-kahani.png" group-title="Shoq",Geo Kahani
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=b6be026722c0e0f5d3b6fe4b32e51734:bd3a91241ac6c52999ada34f8fa73a38
 https://live2.shoq.com.pk/live/eds/Geo_Kahani/DASH/Geo_Kahani.mpd
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Hum.png" group-title="Shoq",Hum TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=83404dd4292fec9e27173696f6e42dee:a9dd477034d4fb2e7e5dc7c21ce73fed
 https://live2.shoq.com.pk/live/eds/HUM_TV/DASH/HUM_TV.mpd
+
+#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/LTN-Family.png" group-title="Shoq",LTN Family
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c99a24c82f16a3792bd21a262fea52a0:bf418e034623e18dc0102dc3731e43d8
+https://live2.shoq.com.pk/live/eds/LTN_Family/DASH/LTN_Family.mpd
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/minimax.png" group-title="Shoq",Minimax
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -868,6 +878,11 @@ https://live2.shoq.com.pk/live/eds/FILMAX/DASH/FILMAX.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=93c6258dbedced1dab30a88d89c32557:113607765a0faaa15a2cea43a0697453
 https://live2.shoq.com.pk/live/eds/Discover_Pakistan/DASH/Discover_Pakistan.mpd
+
+#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/discovery-science.png" group-title="Shoq",Discovery Science
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c00da2a838a8989bc26e314dd7fb3775:1e4c2a8c011e138a2190ab19c2b30f86
+https://live2.shoq.com.pk/live/eds/Discovery_Science/DASH/Discovery_Science.mpd
 
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Planet-Fun.png" group-title="Shoq",Planet Fun
@@ -902,7 +917,7 @@ https://live3.shoq.com.pk/live/eds/Geo_Super/DASH/Geo_Super.mpd
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/PTV-Sports.png" group-title="Shoq",PTV Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=9ecad6c4413f8bdc54712ce6c072a2cf:442df559c369bdada8ba3abe97811575
 https://live2.shoq.com.pk/live/eds/PTV_Sports/DASH/PTV_Sports.mpd
 
 
