@@ -75,6 +75,10 @@ https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Star%20Sports%
 https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Star%20Sports%201%20Hindi%20HD.m3u8
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/Star_Sports_1_HD_Hindi.png" group-title="Fav",Willow Cricket HD
 https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Willow%20Cricket%20HD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Fav",Fox 501 HD
+https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Fox%20501%20HD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Fav",WWE HD
+https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/WWE%20HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Fav",Discovery HD
 https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Discovery%20HD.m3u8
