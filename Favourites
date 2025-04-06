@@ -92,3 +92,303 @@ https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Nat%20Geo%20HD
 #EXTINF:-1 tvg-logo="" group-title="Fav",Nat Geo Wild HD
 https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Nat%20Geo%20Wild%20HD.m3u8
 
+
+
+
+#EXTM3U url-tvg="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/epgs/tvpass-epg.xml" 
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51529_dark_360w_270h.png" group-title="tvpass",A&E East HD
+https://v3.thetvapp.to/hls/AEEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",ABC Los Angeles HD
+https://v12.thetvapp.to/hls/abc-kabc-los-angeles-ca/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",ABC WABC HD
+https://v15.thetvapp.to/hls/WABCDT1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",ACC Network HD
+https://v12.thetvapp.to/hls/ACCNetwork/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",AMC East HD
+https://v5.thetvapp.to/hls/AMCEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Americas Heroes Channel HD
+https://v17.thetvapp.to/hls/AmericanHeroesChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Animal Planet HD
+https://v13.thetvapp.to/hls/AnimalPlanetEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",BBC America East HD
+https://v1.thetvapp.to/hls/BBCAmericaEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",BBC World News America HD
+https://v17.thetvapp.to/hls/BBCWorldNewsNorthAmerica/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Bet East HD
+https://v15.thetvapp.to/hls/BETEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Bet Her East HD
+https://v4.thetvapp.to/hls/BETHerEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Big Ten Network HD
+https://v17.thetvapp.to/hls/BTN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Bloomberg TV HD
+https://v16.thetvapp.to/hls/BloombergTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Boomerang HD
+https://v2.thetvapp.to/hls/Boomerang/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Bravo East HD
+https://v1.thetvapp.to/hls/BravoEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",C Span HD
+https://v16.thetvapp.to/hls/CSPAN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",C Span 2 HD
+https://v13.thetvapp.to/hls/CSPAN2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",CBS LA HD
+https://v5.thetvapp.to/hls/cbs-kcbs-los-angeles-ca/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",CBS NY HD
+https://v17.thetvapp.to/hls/WCBSDT1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",CBS Sports HD
+https://v12.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",CMT HD
+https://v16.thetvapp.to/hls/CMTEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",CNBC HD
+https://v2.thetvapp.to/hls/CNBC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",CNN HD
+https://v15.thetvapp.to/hls/CNN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",CW San Diego
+https://v8.thetvapp.to/hls/cw-kfmbtv2-san-diego-ca/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",CWDCW
+https://v12.thetvapp.to/hls/cw-wdcw-district-of-columbia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Cartoon Network East HD
+https://v18.thetvapp.to/hls/CartoonNetworkEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Chicago Sports Network HD
+https://v14.thetvapp.to/hls/chicago-sports-network/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Cinemax HD
+https://v3.thetvapp.to/hls/CinemaxEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Comedy Central HD
+https://v3.thetvapp.to/hls/ComedyCentralEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Crime+Investigation HD
+https://v3.thetvapp.to/hls/CrimePlusInvestigation/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Destination America HD
+https://v18.thetvapp.to/hls/DestinationAmerica/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Discovery Channel East HD
+https://v18.thetvapp.to/hls/DiscoveryChannelEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Discovery Family HD
+https://v1.thetvapp.to/hls/DiscoveryFamily/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Discovery Life HD
+https://v4.thetvapp.to/hls/DiscoveryLife/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Disney Channel East HD
+https://v17.thetvapp.to/hls/DisneyChannelEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Disney Junior East HD
+https://v14.thetvapp.to/hls/DisneyJuniorEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Disney XD East HD
+https://v2.thetvapp.to/hls/DisneyXDEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",E! East HD
+https://v12.thetvapp.to/hls/EEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",ESPN HD
+https://v1.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",ESPN 2 HD
+https://v5.thetvapp.to/hls/ESPN2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",ESPN Deportes HD
+https://v13.thetvapp.to/hls/espn-deportes/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",ESPN News HD
+https://v14.thetvapp.to/hls/ESPNews/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",ESPNU HD
+https://v4.thetvapp.to/hls/ESPNU/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Fuse East HD
+https://v12.thetvapp.to/hls/FuseEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",FX Movies HD
+https://v12.thetvapp.to/hls/FXMovieChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",FX East HD
+https://v4.thetvapp.to/hls/FXEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",FXX East HD
+https://v5.thetvapp.to/hls/FXXEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",FYI East HD
+https://v18.thetvapp.to/hls/FYIEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Food Network HD
+https://v14.thetvapp.to/hls/FoodNetworkEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Fox Business HD
+https://v3.thetvapp.to/hls/FoxBusiness/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Fox News Channel HD
+https://v12.thetvapp.to/hls/FoxNewsChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Fox Sports HD
+https://v12.thetvapp.to/hls/FoxSports1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Fox Sports 2 HD
+https://v18.thetvapp.to/hls/FoxSports2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Free From East HD
+https://v18.thetvapp.to/hls/FreeformEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Game Network East HD
+https://v13.thetvapp.to/hls/game-show-network-east/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Golf Channel HD
+https://v12.thetvapp.to/hls/GolfChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",HBO East HD
+https://v2.thetvapp.to/hls/HBOEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",HBO 2 East HD
+https://v13.thetvapp.to/hls/HBO2East/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",HBO Comedy East HD
+https://v3.thetvapp.to/hls/HBOComedyEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",HBO Family East HD
+https://v14.thetvapp.to/hls/HBOFamilyEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",HBO Signature East HD
+https://v18.thetvapp.to/hls/HBOSignatureEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",HBO Zone East HD
+https://v12.thetvapp.to/hls/HBOZoneEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",HGTV East HD
+https://v1.thetvapp.to/hls/HGTVEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",HLN HD
+https://v13.thetvapp.to/hls/HLN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Hallmark Channel East HD
+https://v1.thetvapp.to/hls/HallmarkChannelEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Hallmark Drama HD
+https://v8.thetvapp.to/hls/HallmarkDrama/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Hallmark Movies Mysteries East HD
+https://v14.thetvapp.to/hls/HallmarkMoviesMysteriesEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",History East HD
+https://v14.thetvapp.to/hls/HistoryEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",ION TV East HD
+https://v4.thetvapp.to/hls/IONTVEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Independent Film Channel East HD
+https://v14.thetvapp.to/hls/IFCEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Investigation Discovery East HD
+https://v18.thetvapp.to/hls/InvestigationDiscoveryEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Logo East HD
+https://v14.thetvapp.to/hls/LogoEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Lifetime Movies East HD
+https://v2.thetvapp.to/hls/LifetimeMoviesEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Lifetime East HD
+https://v14.thetvapp.to/hls/LifetimeEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",MLB Network HD
+https://v15.thetvapp.to/hls/MLBNetwork/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Madison Square Gardens HD
+https://v13.thetvapp.to/hls/msg-madison-square-gardens/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",MSG Plus HD
+https://v5.thetvapp.to/hls/msg-plus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",MSNBC HD
+https://v15.thetvapp.to/hls/MSNBC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",MTV East HD
+https://v8.thetvapp.to/hls/MTVEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",MTV 2 East HD
+https://v2.thetvapp.to/hls/mtv-2-east/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Monumental Sports Network HD
+https://v14.thetvapp.to/hls/monumental-sports-network/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",More Max HD
+https://v8.thetvapp.to/hls/MoreMaxEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Moto Trend HD
+ttps://v4.thetvapp.to/hls/Motortrend/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Movies Max East HD
+https://v5.thetvapp.to/hls/MovieMaxEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",NBA TV HD
+https://v17.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",NBC Sports Bay Area HD
+https://v16.thetvapp.to/hls/nbc-sports-bay-area/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",NBC Sports Boston HD
+https://v2.thetvapp.to/hls/nbc-sports-boston/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",NBC Sports California HD
+https://v13.thetvapp.to/hls/nbc-sports-california/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",NBC Sports Philadelphia HD
+https://v5.thetvapp.to/hls/nbc-sports-philadelphia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",NFL Network HD
+https://v13.thetvapp.to/hls/NFLNetwork/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",NFL Red Zone HD
+https://v14.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",NHL Network HD
+https://v1.thetvapp.to/hls/NHLNetwork/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Nat Geo East HD
+https://v16.thetvapp.to/hls/NationalGeographicEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Nat Geo Wild East HD
+https://v3.thetvapp.to/hls/NationalGeographicWildEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",New England Sports HD
+https://v14.thetvapp.to/hls/new-england-sports-network/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Newsmax TV HD
+https://v17.thetvapp.to/hls/NewsmaxTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Nick Jr.East HD
+https://v5.thetvapp.to/hls/NickJrEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Nickelodeon East HD
+https://v1.thetvapp.to/hls/NickelodeonEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Nicktoons East HD
+https://v18.thetvapp.to/hls/NicktoonsEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Oprah Winfrey Network HD
+https://v12.thetvapp.to/hls/OWNEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Outdoor Channel HD
+https://v13.thetvapp.to/hls/OutdoorChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Oxygen East HD
+https://v18.thetvapp.to/hls/OxygenEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",WWET HD
+https://v18.thetvapp.to/hls/WNET/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Reelz HD
+https://v18.thetvapp.to/hls/Reelz/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Sec Network HD
+https://v13.thetvapp.to/hls/SECN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Science HD
+https://v17.thetvapp.to/hls/Science/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Show Time East HD
+https://v17.thetvapp.to/hls/ShowtimeEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Show Time 2 East HD
+https://v13.thetvapp.to/hls/Showtime2East/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Space City Home Network HD
+https://v5.thetvapp.to/hls/space-city-home-network/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Starz East HD
+https://v8.thetvapp.to/hls/StarzEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Sundance TV East HD
+https://v15.thetvapp.to/hls/SundanceTVEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Syfy East HD
+https://v13.thetvapp.to/hls/SyfyEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",TBS East HD
+https://v17.thetvapp.to/hls/TBSEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",TLC East HD
+https://v4.thetvapp.to/hls/TLCEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",The Movie Channel HD
+https://v5.thetvapp.to/hls/TheMovieChannelEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",TNT East HD
+https://v5.thetvapp.to/hls/TNTEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",TSN 1 HD
+https://v12.thetvapp.to/hls/tsn1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",TSN 2 HD
+https://v15.thetvapp.to/hls/tsn2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",TSN 3 HD
+https://v8.thetvapp.to/hls/tsn3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",TSN 4 HD
+https://v18.thetvapp.to/hls/tsn4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",TSN 5 HD
+https://v15.thetvapp.to/hls/tsn5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",TV Land Eastern HD
+https://v15.thetvapp.to/hls/tv-land-eastern/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",TVOne HD
+https://v4.thetvapp.to/hls/TVOne/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Teen Nick East HD
+https://v18.thetvapp.to/hls/TeenNickEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Telemundo East HD
+https://v17.thetvapp.to/hls/TelemundoEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Cooking Channel HD
+https://v1.thetvapp.to/hls/CookingChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Tennis Channel HD
+https://v1.thetvapp.to/hls/TennisChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",The Weather Channel HD
+https://v3.thetvapp.to/hls/TheWeatherChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Travel Channel HD
+https://v8.thetvapp.to/hls/TravelChannelEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Turner Classic Movies HD
+https://v15.thetvapp.to/hls/TCMEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",USA Network East HD
+https://v17.thetvapp.to/hls/USANetworkEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Universal Kids East HD
+https://v4.thetvapp.to/hls/UniversalKidsEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Univision East HD
+https://v8.thetvapp.to/hls/UnivisionEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",VH1 East HD
+https://v17.thetvapp.to/hls/VH1East/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Vice TV HD
+https://v12.thetvapp.to/hls/VICETV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",We TV East HD
+https://v3.thetvapp.to/hls/WeTVEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Yes Network HD
+https://v14.thetvapp.to/hls/yes-network/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",Tru TV East HD
+https://v13.thetvapp.to/hls/truTVEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",MLB Los Angeles HD
+https://v4.thetvapp.to/hls/mlb-03/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",MLB Boston HD
+https://v3.thetvapp.to/hls/mlb-13/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",MLB Chicago HD
+https://v14.thetvapp.to/hls/mlb-09/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",MLB Pittsburgh HD
+https://v1.thetvapp.to/hls/mlb-07/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",MLB San Francisco HD
+https://v5.thetvapp.to/hls/mlb-04/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",MLB Atlanta HD
+https://v17.thetvapp.to/hls/mlb-02/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",MLB Colarado HD
+https://v4.thetvapp.to/hls/mlb-11/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",MLB Seaatle HD
+https://v13.thetvapp.to/hls/mlb-10/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tvpass",MLB Detroit HD
+https://v5.thetvapp.to/hls/mlb-14/tracks-v1a1/mono.m3u8
