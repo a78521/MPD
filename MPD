@@ -259,6 +259,11 @@ https://otttv.co.in/d2h/livestream/music-india/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/mtv-beats/drmLicense
 https://otttv.co.in/d2h/livestream/mtv-beats/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/mtv-beats-hd.png" group-title="D2H",Sangeet Bhojpuri
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/sangeet-bhojpuri/drmLicense
+https://otttv.co.in/d2h/livestream/sangeet-bhojpuri/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/aoglGdo.png?v=1.0.0.1" group-title="D2H",Zoom
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -269,6 +274,47 @@ https://otttv.co.in/d2h/livestream/zoom/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zing/drmLicense
 https://otttv.co.in/d2h/livestream/zing/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="" group-title="D2H",Movies Now HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/movies-now-hd/drmLicense
+https://otttv.co.in/d2h/livestream/movies-now-hd/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="" group-title="D2H",MNX HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/mnx-hd/drmLicense
+https://otttv.co.in/d2h/livestream/mnx-hd/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="" group-title="D2H",MN+ HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/mn-plus-hd/drmLicense
+https://otttv.co.in/d2h/livestream/mn-plus-hd/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="" group-title="D2H",Romedy Now
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/romedy-now/drmLicense
+https://otttv.co.in/d2h/livestream/romedy-now/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="" group-title="D2H",epic TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/epic-tv/drmLicense
+https://otttv.co.in/d2h/livestream/epic-tv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="D2H",Korean Drama
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/korean-drama-active/drmLicense
+https://otttv.co.in/d2h/livestream/korean-drama-active/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="" group-title="D2H",Shorts TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/shorts-tv-active/drmLicense
+https://otttv.co.in/d2h/livestream/shorts-tv-active/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="D2H",Discovery English HD
@@ -294,16 +340,52 @@ https://otttv.co.in/d2h/livestream/discovery-turbo/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/discovery-science/drmLicense
 https://otttv.co.in/d2h/livestream/discovery-science/manifest.mpd
 
+#EXTINF:-1 tvg-logo="" group-title="D2H",Discovery Kids
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/discovery-kids/drmLicense
+https://otttv.co.in/d2h/livestream/discovery-kids/manifest.mpd
+
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/tlc-hindi.png" group-title="D2H",TLC Hindi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/tlc/drmLicense
 https://otttv.co.in/d2h/livestream/tlc/manifest.mpd
+  
+
+#EXTINF:-1 tvg-logo="" group-title="D2H",DD National
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/dd-national/drmLicense
+https://otttv.co.in/d2h/livestream/dd-national/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="" group-title="D2H",DD Bharti
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/dd-bharati/drmLicense
+https://otttv.co.in/d2h/livestream/dd-bharati/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="" group-title="D2H",Sansad TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/sansad-tv-sd/drmLicense
+https://otttv.co.in/d2h/livestream/sansad-tv-sd/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="D2H",Sansad TV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/sansad-tv-hd/drmLicense
+https://otttv.co.in/d2h/livestream/sansad-tv-hd/manifest.mpd
+
+
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-cinema-hd-veqq3heoalzv.png" group-title="D2H",Zee Cinema
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-cinema/drmLicense
 https://otttv.co.in/d2h/livestream/zee-cinema/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="" group-title="D2H",Zee Anmol
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-anmol/drmLicense
+https://otttv.co.in/d2h/livestream/zee-anmol/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/DYI3Nyc.png?v=1.0.0.1" group-title="D2H",Zee Action
 #KODIPROP:inputstream=inputstream.adaptive
@@ -313,6 +395,64 @@ https://otttv.co.in/d2h/livestream/zee-cinema/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-action/drmLicense
 https://otttv.co.in/d2h/livestream/zee-action/manifest.mpd
 
+
+#EXTINF:-1 tvg-logo="" group-title="D2H",Zee Bollywood
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-bollywood/drmLicense
+https://otttv.co.in/d2h/livestream/zee-bollywood/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="D2H",NDTV 24x7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/ndtv-24x7/drmLicense
+https://otttv.co.in/d2h/livestream/ndtv-24x7/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="D2H",News Nation
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/news-nation/drmLicense
+https://otttv.co.in/d2h/livestream/news-nation/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="D2H",News 18 India
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/news18-india/drmLicense
+https://otttv.co.in/d2h/livestream/news18-india/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="D2H",Zee Hindustan
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-hindustan/drmLicense
+https://otttv.co.in/d2h/livestream/zee-hindustan/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="D2H",Zee Business
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-business/drmLicense
+https://otttv.co.in/d2h/livestream/zee-business/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="D2H",Zee News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-news/drmLicense
+https://otttv.co.in/d2h/livestream/zee-news/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="D2H",News 18 Rajasthan
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/news18-rajasthan/drmLicense
+https://otttv.co.in/d2h/livestream/news18-rajasthan/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="" group-title="D2H",News 18 UP
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/news18-uttar-pradesh-uttrakhand/drmLicense
+https://otttv.co.in/d2h/livestream/news18-uttar-pradesh-uttrakhand/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="D2H",Zee Bihar Jharkhand
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-bihar-jharkhand/drmLicense
+https://otttv.co.in/d2h/livestream/zee-bihar-jharkhand/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="D2H",ET Now
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/et-now/drmLicense
+https://otttv.co.in/d2h/livestream/et-now/manifest.mpd
 
 =========================================== MPD ===========================================
 
