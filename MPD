@@ -211,6 +211,50 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
 
 
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/DYI3Nyc.png?v=1.0.0.1" group-title="watcho",Zee Action
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-action/drmLicense
+https://otttv.co.in/d2h/livestream/zee-action/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/6ggO0cA.png?v=1.0.0.1" group-title="watcho",Music India
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/music-india/drmLicense
+https://otttv.co.in/d2h/livestream/music-india/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/aoglGdo.png?v=1.0.0.1" group-title="watcho",Zoom
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zoom/drmLicense
+https://otttv.co.in/d2h/livestream/zoom/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/pgujqPc.png?v=1.0.0.1" group-title="watcho", Zing
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zing/drmLicense
+https://otttv.co.in/d2h/livestream/zing/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Ah87mIL.png?v=1.0.0.1" group-title="watcho", &pictures
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/-pictures/drmLicense
+https://otttv.co.in/d2h/livestream/-pictures/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Ah87mIL.png?v=1.0.0.1" group-title="watcho", &TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/-tv/drmLicense
+https://otttv.co.in/d2h/livestream/-tv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/BnqiX3o.png?v=1.0.0.1" group-title="watcho",Discovery Science
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/discovery-science/drmLicense
+https://otttv.co.in/d2h/livestream/discovery-science/manifest.mpd
 
 
 
