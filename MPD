@@ -317,7 +317,7 @@ https://otttv.co.in/d2h/livestream/korean-drama-active/manifest.mpd
 https://otttv.co.in/d2h/livestream/shorts-tv-active/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="D2H",Discovery English HD
+#EXTINF:-1 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="D2H",Discovery
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/discovery-channel/drmLicense
 https://otttv.co.in/d2h/livestream/discovery-channel/manifest.mpd
@@ -375,6 +375,10 @@ https://otttv.co.in/d2h/livestream/sansad-tv-sd/manifest.mpd
 https://otttv.co.in/d2h/livestream/sansad-tv-hd/manifest.mpd
 
 
+#EXTINF:-1 tvg-logo="" group-title="D2H",Zee TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-tv/drmLicense
+https://otttv.co.in/d2h/livestream/zee-tv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-cinema-hd-veqq3heoalzv.png" group-title="D2H",Zee Cinema
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -453,6 +457,11 @@ https://otttv.co.in/d2h/livestream/zee-bihar-jharkhand/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/et-now/drmLicense
 https://otttv.co.in/d2h/livestream/et-now/manifest.mpd
+
+
+
+
+
 
 =========================================== MPD ===========================================
 
