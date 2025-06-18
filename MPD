@@ -32,67 +32,72 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" group-title="Indian",Sun Neo HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09ffaaff477d490abb4516b7e0711d35:759cc157a993e8a76ff4d675e34b5400
+https://livestream8.sunnxt.com/248c92b73514435686fd72ba325d4008/SunNeoHDB_IN_index.mpd
+
 #EXTINF:-1 tvg-id="124" group-title="Indian" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740380280065.png",Sony Entertainment 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/368f3847-ed5e
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1718/output/index.mpd
 
 
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735554654688.png" group-title="Indian",STAR GOLD 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/ssuwd28er-ihda
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1729/output/index.mpd
 
 
 #EXTINF:-1 group-title="Indian" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735050221313.png",Cineplex HD 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/e7eb2b46-bc76
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1730/output/index.mpd
 
 
 #EXTINF:-1 tvg-id="82" group-title="Indian" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735048740482.png",Star Movies HD 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/0f2ba568-bf5b
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1725/output/index.mpd
 
 #EXTINF:-1 tvg-id="87" group-title="Indian" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735043602147.png",Star Sports Select 1 HD 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/120d3fdc-8b3e
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1708/output/index.mpd
 
 #EXTINF:-1 tvg-id="89" group-title="Indian" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045174734.png",Star Sports Select 2 HD 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/26ba8aaf-c2cf
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1710/output/index.mpd
 
 #EXTINF:-1 tvg-id="90" group-title="Indian" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045577141.png",Euro Sports HD 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/df67fc1a-01d1
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1712/output/index.mpd
 
 #EXTINF:-1 tvg-id="118" group-title="Indian" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739906901952.png",Sony Sports TEN 1 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/35fee7f3-d55d
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1719/output/index.mpd
 
 
 #EXTINF:-1 tvg-id="117" group-title="Indian" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739907006666.png",Sony Sports TEN 2 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/f352d057-1907
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1726/output/index.mpd
 
 #EXTINF:-1 tvg-id="116" group-title="Indian" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739906861365.png",Sony Sports TEN 5 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/2659ffb3-2b08
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1717/output/index.mpd
 
 #EXTINF:-1 tvg-id="85" group-title="Indian" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735547218986.png",Al Jazeera 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/ff28ffed-0cb9
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1707/output/index.mpd
 
 #EXTINF:-1 tvg-id="78" group-title="Indian" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735049252557.png",CNN 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/801c26dd-8035
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1727/output/index.mpd
 
