@@ -250,30 +250,12 @@ https://legacy-global-cdn.visionplus.id/live/eds/KompasTV/sa_dash/KompasTV.mpd
 #EXTINF:-1 tvg-id="tvOne.id" group-title="Vision+" tvg-logo="https://www.visionplus.id/images/repository/589/589-LOGO-m.png",TVOne
 https://legacy-global-cdn.visionplus.id/live/eds/TVOne-2/sa_dash/TVOne-2.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#EXTINF:-1 tvg-id="" group-title="Vision+" tvg-logo="https://www.visionplus.id/images/repository/592/592-LOGO-m.png",BTV
-https://legacy-global-cdn.visionplus.id/live/eds/BeritaSatu/sa_dash/BeritaSatu.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#EXTINF:-1 tvg-id="" group-title="Vision+" tvg-logo="https://www.visionplus.id/images/repository/584/584-LOGO-m.png”,Sindo News
-https://legacy-global-cdn.visionplus.id/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#EXTINF:-1 tvg-id="" group-title="Vision+" tvg-logo="https://www.visionplus.id/images/repository/659/659-LOGO-m.png",IDX Channel
-https://legacy-global-cdn.visionplus.id/live/eds/IDX/sa_dash/IDX.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-id="" group-title="Vision+" tvg-logo="https://www.visionplus.id/images/repository/594/594-LOGO-m.png",SEA Today
 https://legacy-global-cdn.visionplus.id/live/eds/SEA-Channel/sa_dash/SEA-Channel.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#EXTINF:-1 tvg-id="" group-title="Vision+" tvg-logo="https://www.visionplus.id/images/repository/856/856-LOGO-m.png",JTV
-https://legacy-global-cdn.visionplus.id/live/eds/JTV/sa_dash/JTV.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
