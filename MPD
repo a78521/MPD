@@ -37,56 +37,20 @@ https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
 #KODIPROP:inputstream.adaptive.license_key=09ffaaff477d490abb4516b7e0711d35:759cc157a993e8a76ff4d675e34b5400
 https://livestream8.sunnxt.com/248c92b73514435686fd72ba325d4008/SunNeoHDB_IN_index.mpd
 
-
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies.png" group-title="Indian",Star Movies HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ac6943751e558b181da32727f03dff7:f36e5cd48252bcd0fcda2bfe21f5b365
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Movies_HD_BTS/output/index.mpd
-
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" group-title="Indian",Star Movies Select HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.6 YGX/69.69.69.69
-#KODIPROP:inputstream.adaptive.license_key=b55393cd147a54debaf2b0f2d82b5d9f:6b168db49241a78c1b423ab9a29409ef
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_BTS/output/index.mpd
-
-
-
-#EXTINF:-1 tvg-id="1110" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png",Star Movies Select HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b55393cd147a54debaf2b0f2d82b5d9f:6b168db49241a78c1b423ab9a29409ef
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.6 YGX/69.69.69.69
-#EXTHTTP:{"cookie":"__hdnea__=st=1750245720~exp=1750332120~acl=/*~hmac=83a6e85819235a9152efa1f8009d68974735b8a73fdd88d472f71ac6b2417925"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_BTS/output/index.mpd?%7Ccookie=__hdnea__=st=1750159300~exp=1750245700~acl=/*~hmac=dc9aefe01d42aec99a9cf17876cc0bc115ce2a38f69131a022c2a0f0563a9487
-
-
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="Indian",Disney Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5181d3e6698055578cedc5bfc86b3e56:3dca7917d8cf9bb7095dc72b48bdcd3c
-https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_BTS/output/index.mpd
-
-
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Indian",Star Gold HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec7ad3786d9e5efa9e0c4aeb3e58c7b7:907509ccae7e68b30ae75b5d09fe60ef
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_HD_BTS/output/index.mpd
-
 #EXTINF:-1 tvg-id="124" group-title="Indian" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740380280065.png",Sony Entertainment 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/368f3847-ed5e
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1718/output/index.mpd
-
 
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735554654688.png" group-title="Indian",STAR GOLD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/ssuwd28er-ihda
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1729/output/index.mpd
 
-
 #EXTINF:-1 group-title="Indian" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735050221313.png",Cineplex HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/e7eb2b46-bc76
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1730/output/index.mpd
-
 
 #EXTINF:-1 tvg-id="82" group-title="Indian" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735048740482.png",Star Movies HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
