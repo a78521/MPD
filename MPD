@@ -33,6 +33,13 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
 
 
+#EXTINF:-1 tvg-logo="" group-title="Indian",Sony TV
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzfbmDpUTHxO/sgo/widevine/getlicense?id=143247
+#EXTVLCOPT:http-user-agent=Safari/537.36
+https://sundirectgo-live.pc.cdn.bitgravity.com/hd24/dth.mpd
+
+
 EXTINF:-1 tvg-logo="" group-title="Indian",Sony 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5e833f4019554aa394ff6de2eb19bf78:f60e08a145804890492f315b61789ac5
