@@ -60,6 +60,12 @@ https://livestream8.sunnxt.com/248c92b73514435686fd72ba325d4008/SunNeoHDB_IN_ind
 #EXTVLCOPT:http-user-agent=Denver1769
 https://play.denver1769.fun/J/Jtv.mpd?id=1132
 
+
+#EXTINF:-1 tvg-id="931" tvg-logo="" group-title="Denver",Star Bharat HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=931&key
+https://play.denver1769.fun/J/Jtv.mpd?id=931
+
 #EXTINF:-1 tvg-id="1113" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="Denver",Star Gold Select HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1113&key
