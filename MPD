@@ -53,57 +53,13 @@ https://sundirectgo-live.pc.cdn.bitgravity.com/hd38/dth.mpd
 https://livestream8.sunnxt.com/248c92b73514435686fd72ba325d4008/SunNeoHDB_IN_index.mpd
 
 
-
-#EXTINF:-1 tvg-id="1132" tvg-logo="" group-title="Airtel",ID HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=65ecbf9c00f83bcbbe1fbc760defb97b:104323e26915a719541f40cd66129320
-https://companion-live-play1.streamready.in/live/med14-2/investigation_discovery_hd/ndashhd/investigation_discovery_hd.mpd
-
-
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/837.png" group-title="Indian",Hare Krsna
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="1132" tvg-logo="" group-title="Denver",Star Plus HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1132&key
-#EXTVLCOPT:http-user-agent=Denver1769
-https://play.denver1769.fun/J/Jtv.mpd?id=1132
-
-
-#EXTINF:-1 tvg-id="931" tvg-logo="" group-title="Denver",Star Bharat HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=931&key
-https://play.denver1769.fun/J/Jtv.mpd?id=931
-
-#EXTINF:-1 tvg-id="1113" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="Denver",Star Gold Select HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1113&key
-#EXTVLCOPT:http-user-agent=Denver1769
-https://play.denver1769.fun/J/Jtv.mpd?id=1113
-
-#EXTINF:-1 tvg-id="1155" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png" group-title="Denver",Star Gold 2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1155&key
-#EXTVLCOPT:http-user-agent=Denver1769
-https://play.denver1769.fun/J/Jtv.mpd?id=1155
-
-#EXTINF:-1 tvg-id="1152" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Romance.png" group-title="Denver",Star Gold Romance
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1152&key
-#EXTVLCOPT:http-user-agent=Denver1769
-https://play.denver1769.fun/J/Jtv.mpd?id=1152
-
-#EXTINF:-1 tvg-id="1136" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav_Movies.png" group-title="Denver",Star Utsav Movies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1136&key
-#EXTVLCOPT:http-user-agent=Denver1769
-https://play.denver1769.fun/J/Jtv.mpd?id=1136
-
-
-#EXTINF:-1 tvg-id="202" tvg-logo="" group-title="Denver",DD National
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=202&key
-#EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv.mpd?id=202
 
 =========================================== Vision+ ===========================================
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
