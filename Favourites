@@ -276,3 +276,104 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/e903e03c2b414ee0b74db68d7779ccad/in
 https://d2lk5u59tns74c.cloudfront.net/out/v1/40f46fa036df45ee9d28b6eda42eb27c/index.m3u8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/376927479.jpeg" group-title="Devotional",Hare Krsna
 https://samacar.hk.harekrsnatv.com/harekrsna/tv/chunks.m3u8
+
+
+#EXTINF:0, tvg-logo="" group-title="pishow",9X Jhakaas
+https://cdn-3.pishow.tv/live/6/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="pishow",DD Urdu
+https://cdn-4.pishow.tv/live/8/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="pishow",DD Kisan
+https://cdn-6.pishow.tv/live/9/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="pishow",DD Bharti
+https://cdn-1.pishow.tv/live/10/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="pishow",DD National
+https://cdn-1.pishow.tv/live/11/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="pishow",DD Chhatisgarh
+https://cdn-1.pishow.tv/live/15/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="pishow",DD Uttrakhand
+https://cdn-1.pishow.tv/live/17/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="pishow",DD News
+https://cdn-7.pishow.tv/live/19/19_1.m3u8
+#EXTINF:0, tvg-logo="" group-title="pishow",DD India
+https://cdn-1.pishow.tv/live/23/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="pishow",DD Madhya Pradesh
+https://cdn-1.pishow.tv/live/31/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="pishow",DD Bihar
+https://cdn-4.pishow.tv/live/35/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="pishow",Sansad TV 2
+https://cdn-2.pishow.tv/live/39/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="pishow",Sansad TV 2 HD
+https://cdn-7.pishow.tv/live/40/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="pishow",Hi Dost
+https://cdn-1.pishow.tv/live/224/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="pishow",Music India
+https://cdn-2.pishow.tv/live/226/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="pishow",Shemaroo TV
+https://cdn-3.pishow.tv/live/230/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="pishow",WoW Cinema
+https://cdn-2.pishow.tv/live/231/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="pishow",Oscar Movies
+https://cdn-4.pishow.tv/live/233/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="pishow",Dhamaka Movies
+https://cdn-1.pishow.tv/live/235/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="pishow",TRT World
+https://cdn-7.pishow.tv/live/266/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="pishow",R. Live
+https://cdn-2.pishow.tv/live/271/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="pishow",News India 
+https://cdn-3.pishow.tv/live/273/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="pishow",B4U Music
+https://cdn-2.pishow.tv/live/415/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="pishow",Al Jazeera
+https://cdn-7.pishow.tv/live/429/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="pishow",DW News
+https://cdn-7.pishow.tv/live/431/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="pishow",NHK World
+https://cdn-7.pishow.tv/live/455/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="pishow",Swadesh News
+https://cdn-2.pishow.tv/live/465/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="pishow",Santwani
+https://cdn-2.pishow.tv/live/475/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="pishow",Swaraj Express 
+https://cdn-2.pishow.tv/live/477/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="pishow",balle balle
+https://cdn-4.pishow.tv/live/987/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="pishow",anjan
+https://cdn-1.pishow.tv/live/993/master.m3u8
+
+
+#EXTINF:0, tvg-logo="" group-title="pishow",Manoranjan Grand
+https://cdn-1.pishow.tv/live/1011/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="pishow",Manoranjan TV
+https://cdn-1.pishow.tv/live/1013/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="pishow",Bhojpuri Cinema
+https://cdn-4.pishow.tv/live/1033/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="pishow",Bansal News
+https://cdn-2.pishow.tv/live/1051/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="pishow",Dangal
+https://cdn-1.pishow.tv/live/1141/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="pishow",Goldmines 2
+https://cdn-2.pishow.tv/live/1460/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="pishow",Sudarshan News
+https://cdn-2.pishow.tv/live/1516/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="pishow",Tabbar Hits
+https://cdn-4.pishow.tv/live/1521/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="pishow",Total TV
+https://cdn-2.pishow.tv/live/1522/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="pishow",DD Jharkhand
+https://cdn-1.pishow.tv/live/1617/master.m3u8
+
+#EXTINF:0, tvg-logo="" group-title="pishow",Dhamaal
+https://cdn-1.pishow.tv/live/1291/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="pishow",Sageet Bhojpuri
+https://cdn-4.pishow.tv/live/1293/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="pishow",Chumbak
+https://cdn-1.pishow.tv/live/1451/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="pishow",Punjabi Hits
+https://cdn-4.pishow.tv/live/1504/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="pishow",9X Tashan
+https://cdn-2.pishow.tv/live/1613/master.m3u8
+
+
+#EXTINF:0, tvg-logo="" group-title="pishow",Mahamovie
+https://cdn-6.pishow.tv/live/10007/master.m3u8
