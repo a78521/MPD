@@ -1367,6 +1367,32 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_primary.mpd
 
 =========================================== UK Channels ===========================================
 
+#EXTINF:-1 group-title="UK Channels" tvg-id="SkyMix.uk",Sky Mix
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2d1bc558ff4d40f5b7094313ae31c58c:078f4f836ddb48705fb10b2fcc794add
+https://d3ulpxjxf8pfh5.cloudfront.net/out/v1/316245defadc4a61bb09258e05eef128/HLS_CMAF_DRM/index.m3u8
+
+#EXTINF:-1 group-title="UK Channels" tvg-id="Challenge.uk",Challenge
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f1cfa40698654247aac41bebc51b9042:f6a493ce85930e3ddd9ff14a41377904
+https://d33c53jye60q66.cloudfront.net/out/v1/778eabe924be48288f1f695913d8abd3/HLS_CMAF_DRM/index.m3u8
+
+
+#EXTINF:-1 group-title="UK Channels" tvg-id="SkyArts.uk",Sky Arts
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c23867431604d7787f5a03456fdfd32:810e479ebe2ec8d111a8b7c465e1f980
+https://d263m8g5my89g4.cloudfront.net/out/v1/b2814f8068dd4b64a0ba0471ffac35fc/HLS_CMAF_DRM/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Channel 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
