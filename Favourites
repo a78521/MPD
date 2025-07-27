@@ -247,13 +247,15 @@ https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10932.jpg" group-title="Music",Gangaur
 https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/desi_tashan.jpg" group-title="Music",Desi Tashan
+https://cloudcdn.in/livetv/DesiTashan/index.m3u8
 
 #EXTINF:0, tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/B4UMOV/TV/thumbnail/d4287ab1-409a-4afb-9e92-57f185f83bda.png" group-title="Movies",B4U Movies
 https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
 #EXTINF:0, tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/B4UKAD/TV/thumbnail/03b91d0d-88bf-4dce-89fe-70f9fcf78b95.png" group-title="Movies",B4U Kadak
 https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
 
-#EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10647.jpg" group-title="Movies",Abz Movies
+#EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10647.jpg" group-title="Movies",Abzy Movies
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10648.jpg" group-title="Movies",Abzy Dhakhad
 https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8
@@ -270,6 +272,10 @@ http://209.52.98.98/justintv/index.m3u8
 http://livestream.unlimitedcdn.com/onlymusic/index.m3u8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/738780686.jpeg" group-title="Punjabi Music",Global Desi
 https://live.ottlive.co.in/globaldesi/globaldesi/index.m3u8
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/a578dc90-8ad4-4d06-a7ae-13e3325af2d3.jpg" group-title="Punjabi Music",7x Punjabi
+https://cdn2.in/7xPunjabihls/live.m3u8
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Indoo z tv 004.jpg" group-title="Punjabi Music",Indo Oz
+https://cdn2.in/IndozeTvhls/live.m3u8
 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10553.jpg"" group-title="Punjabi Movies",Pitaara Movies
 https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/index.m3u8
