@@ -547,5 +547,49 @@ https://cdn-4.pishow.tv/live/1627/master.m3u8
 
 
 
+#EXTINF:0, tvg-logo="" group-title="Local News",Aaj Ki Khabar
+https://server.livelegitpro.in/aajkikhabar/aajkikhabar/index.m3u8
+#EXTINF:0, tvg-logo="" group-title="Local News",Ab News
+https://legitpro.co.in/abnews/abnews/index.m3u8
+#EXTINF:0, tvg-logo="" group-title="Local News",Abc News
+https://live.abcnews.media/abcnews/abcnews/index.m3u8
+#EXTINF:0, tvg-logo="" group-title="Local News",C News
+https://legitpro.co.in/cnews/cnews/index.m3u8
+#EXTINF:0, tvg-logo="" group-title="Local News",Express News
+http://103.47.14.9:8080/hls/enbnews.m3u8
+#EXTINF:0, tvg-logo="" group-title="Local News",in24 News
+https://server.livelegitpro.in/in24news/in24news/index.m3u8
+#EXTINF:0, tvg-logo="" group-title="Local News",Janadesh
+https://5dd3981940faa.streamlock.net/janadesh/janadesh/playlist.m3u8
+#EXTINF:0, tvg-logo="" group-title="Local News",Jansetu News
+https://server.thelegitpro.in/JansetuNews/index.m3u8
+#EXTINF:0, tvg-logo="" group-title="Local News",Kashish News
+https://server.thelegitpro.in/kashishnews/kashishnews/index.m3u8
+#EXTINF:0, tvg-logo="" group-title="Local News",KBC News
+https://server.thelegitpro.in/kbcnews/kbcnews/index.m3u8
+#EXTINF:0, tvg-logo="" group-title="Local News",Media 9
+http://tv.media9news.com:8080/hls/media9.m3u8
+#EXTINF:0, tvg-logo="" group-title="Local News",News 21
+https://server.livelegitpro.in/news21/news21/index.m3u8
+#EXTINF:0, tvg-logo="" group-title="Local News",News Only
+http://livestream.unlimitedcdn.com/newsonly/index.m3u8
+#EXTINF:0, tvg-logo="" group-title="Local News",Public First
+http://publicfirst.livebox.co.in/PUBLICFIRSThls/PUBLIC.m3u8
+#EXTINF:0, tvg-logo="" group-title="Local News",Prime TV
+https://legitpro.co.in/hls9/primetv/index.m3u8
+#EXTINF:0, tvg-logo="" group-title="Local News",Sachi Report
+http://38.242.242.5:8080/hls/sachhireport/index.m3u8
+#EXTINF:0, tvg-logo="" group-title="Local News",SBS News
+https://sbnews.livebox.co.in/sbnewshls/live.m3u8
+#EXTINF:0, tvg-logo="" group-title="Local News",Susarshan News
+https://ott.livelegitpro.in:9899/sudarshannews/sudarshannews/index.m3u8
+#EXTINF:0, tvg-logo="" group-title="Local News",TP News
+https://server.thelegitpro.in/tnpnews/tnpnews/index.m3u8
+#EXTINF:0, tvg-logo="" group-title="Local News",TV 45 News
+https://server.livelegitpro.in/bnews24/bnews24/index.m3u8
+
+
+
+
 #EXTINF:0, tvg-logo="" group-title="pishow",Mahamovie
 https://cdn-6.pishow.tv/live/10007/master.m3u8
