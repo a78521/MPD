@@ -95,6 +95,71 @@ https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Nat%20Geo%20Wi
 
 
 
+
+
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Star_Plus_HD.png" group-title="Fav",Star Plus HD
+https://live.dinesh29.com.np/stream/livetv/starplushd/master.m3u8
+
+https://live.dinesh29.com.np/stream/livetv/starbharathd/master.m3u8
+
+
+https://live.dinesh29.com.np/stream/livetv/stargoldhd/master.m3u8
+
+https://live.dinesh29.com.np/stream/livetv/stargoldselecthd/master.m3u8
+
+https://live.dinesh29.com.np/stream/livetv/colorshd/master.m3u8
+
+https://live.dinesh29.com.np/stream/livetv/cineplexhd/master.m3u8
+
+https://live.dinesh29.com.np/stream/tataplay/colorsinfinityhd/master.m3u8
+
+https://live.dinesh29.com.np/stream/livetv/zeetvhd/master.m3u8
+
+https://live.dinesh29.com.np/stream/tataplay/zeetvhd/master.m3u8
+
+https://live.dinesh29.com.np/stream/tataplay/zeecinemahd/master.m3u8
+
+https://live.dinesh29.com.np/stream/livetv/andtvhd/master.m3u8
+
+https://live.dinesh29.com.np/stream/livetv/andpictureshd/master.m3u8
+
+https://live.dinesh29.com.np/stream/tataplay/andxplorhd/master.m3u8
+
+
+https://live.dinesh29.com.np/stream/livetv/disneyinternationalhd/master.m3u8
+
+https://live.dinesh29.com.np/stream/livetv/sonyentertainmenthd/master.m3u8
+
+https://live.dinesh29.com.np/stream/livetv/sonysabhd/master.m3u8
+
+https://live.dinesh29.com.np/stream/livetv/sonymaxhd/master.m3u8
+
+https://live.dinesh29.com.np/stream/livetv/starmovieshd/master.m3u8
+
+https://live.dinesh29.com.np/stream/livetv/starmoviesselecthd/master.m3u8
+
+https://live.dinesh29.com.np/stream/livetv/starsports1hd/master.m3u8
+
+https://live.dinesh29.com.np/stream/livetv/starsports2hd/master.m3u8
+
+https://live.dinesh29.com.np/stream/livetv/starsports1hdhindi/master.m3u8
+
+https://live.dinesh29.com.np/stream/livetv/starsportsselecthd1/master.m3u8
+
+https://live.dinesh29.com.np/stream/livetv/starsportsselecthd2/master.m3u8
+
+https://live.dinesh29.com.np/stream/tataplay/nationalgeographichd/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Fav",Nat Geo Wild HD
+https://live.dinesh29.com.np/stream/livetv/natgeowildhd/master.m3u8
+#EXTINF:-1 tvg-logo="https://live.dinesh29.com.np/logos/tataplay/natgeowildhd.png" group-title="Fav",Nat Geo Wild HD
+https://live.dinesh29.com.np/stream/tataplay/natgeowildhd/master.m3u8
+#EXTINF:-1 tvg-logo="https://live.dinesh29.com.np/logos/tataplay/mtvhd.png" group-title="Fav",MTV HD
+https://live.dinesh29.com.np/stream/tataplay/mtvhd/master.m3u8
+
+
+
+
+
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SonyLiv",Sony HD
 https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="SonyLiv",Sab HD
