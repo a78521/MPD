@@ -156,13 +156,6 @@ https://live.dinesh29.com.np/stream/livetv/starsportsselecthd1/master.m3u
 #EXTINF:-1 tvg-id="star-sports-select-hd-2" tvg-logo="https://live.dinesh29.com.np/logos/star-sports-select-hd-2.png" group-title="Temp",Star Sports Select HD 2
 https://live.dinesh29.com.np/stream/livetv/starsportsselecthd2/master.m3u8
 
-
-https://live.dinesh29.com.np/stream/livetv/starsports1hdhindi/master.m3u8
-
-https://live.dinesh29.com.np/stream/livetv/starsportsselecthd1/master.m3u8
-
-https://live.dinesh29.com.np/stream/livetv/starsportsselecthd2/master.m3u8
-
 #EXTINF:-1 tvg-id="812" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/eurosporthd.png" group-title="Temp",Eurosport HD
 https://live.dinesh29.com.np/stream/tataplay/eurosporthd/master.m3u8
 
@@ -381,6 +374,8 @@ https://live.ottlive.co.in/globaldesi/globaldesi/index.m3u8
 https://cdn2.in/7xPunjabihls/live.m3u8
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Indoo z tv 004.jpg" group-title="Punjabi Music",Indo Oz
 https://cdn2.in/IndozeTvhls/live.m3u8
+#EXTINF:0, tvg-logo="" group-title="Punjabi Music",Pure Punjabi HD
+http://livestream.unlimitedcdn.com/agm-pp/pure-punjabi/index.m3u8
 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10553.jpg"" group-title="Punjabi Movies",Pitaara Movies
 https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/index.m3u8
@@ -399,8 +394,40 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/bc57af15b4df4200af5fa4c1d6ab0a72/in
 https://d2lk5u59tns74c.cloudfront.net/out/v1/e903e03c2b414ee0b74db68d7779ccad/index.m3u8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10550.jpg" group-title="Devotional",Divya
 https://d2lk5u59tns74c.cloudfront.net/out/v1/40f46fa036df45ee9d28b6eda42eb27c/index.m3u8
+#EXTINF:0, tvg-logo="" group-title="Devotional",Divyalok
+http://divyaloktv.livebox.co.in/divyaloktvhls/divyaloktvchannel.m3u8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/376927479.jpeg" group-title="Devotional",Hare Krsna
 https://samacar.hk.harekrsnatv.com/harekrsna/tv/chunks.m3u8
+#EXTINF:0, tvg-logo="" group-title="Devotional",Kalyan TV
+https://ott.livelegitpro.in/kalyantv/index.m3u8
+#EXTINF:0, tvg-logo="" group-title="Devotional",Kartavya TV HD
+https://ott.livelegitpro.in/lakshayatv/lakshayatv/index.m3u8
+#EXTINF:0, tvg-logo="" group-title="Devotional",Lakshya TV
+https://ott.livelegitpro.in/lakshayatv/lakshayatv/index.m3u8
+#EXTINF:0, tvg-logo="" group-title="Devotional",Santvani TV
+https://server.thelegitpro.in/santvanitv/santvanitv/index.m3u8
+#EXTINF:0, tvg-logo="" group-title="Devotional",Swarshree
+https://live.ottlive.co.in/vedantswarshree/vedantswarshree/index.m3u8
+
+
+
+
+
+
+#EXTINF:0, tvg-logo="" group-title="Punjabi",Global Desi
+https://live.ottlive.co.in/globaldesi/globaldesi/index.m3u8
+#EXTINF:0, tvg-logo="" group-title="Punjabi",Global Punjab
+https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8
+#EXTINF:0, tvg-logo="" group-title="Punjabi",Gurmat TV HD
+http://livestream.unlimitedcdn.com/agm/gurmat-tv/index.m3u8
+#EXTINF:0, tvg-logo="" group-title="Punjabi",Live Punjabi
+https://live.ottlive.co.in/livepunjabi/livepunjabi/index.m3u8
+
+
+#EXTINF:0, tvg-logo="" group-title="Punjabi Devotional",Fateh TV
+https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8
+#EXTINF:0, tvg-logo="" group-title="Punjabi Devotional",Guru Ki Bani
+http://livestream.unlimitedcdn.com/gurkibani/index.m3u8
 
 
 #EXTINF:0, tvg-logo="" group-title="pishow",9X Jhakaas
