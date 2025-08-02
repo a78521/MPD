@@ -633,6 +633,140 @@ https://server.livelegitpro.in/bnews24/bnews24/index.m3u8
 
 
 
+
+#EXTINF:-1 tvg-id="1373" tvg-name="Disney Channel" group-title="JioTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png",Disney Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5181d3e6698055578cedc5bfc86b3e56:3dca7917d8cf9bb7095dc72b48bdcd3c
+https://playflix.icu/mahesh/Jiotv/manifest.php?id=1373
+
+#EXTINF:-1 tvg-id="1391" tvg-name="Hungama" group-title="JioTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Hungama.png",Hungama
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=454f8353caac500d95d641e0c7cfe048:0aaca46ea0f5096335598781fbe590e4
+https://playflix.icu/mahesh/Jiotv/manifest.php?id=1391
+
+#EXTINF:-1 tvg-id="554" tvg-name="Discovery Kids" group-title="JioTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Kids_2.png",Discovery Kids 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e921b8507a5e5cd1bb4433b3fd1f5e0a:037835bab43e7ef4a41a97c638cd9c1d
+https://playflix.icu/mahesh/Jiotv/manifest.php?id=554
+
+#EXTINF:-1 tvg-id="1392" tvg-name="Super Hungama" group-title="JioTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Super_Hungama.png",Super Hungama
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a450f0820c4589690eb336c29f18da6:820e84119563b56d6e6f0bf514cbdc3c
+https://playflix.icu/mahesh/Jiotv/manifest.php?id=1392
+
+#EXTINF:-1 tvg-id="559" tvg-name="Pogo Hindi" group-title="JioTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Hindi.png",Pogo Hindi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b967f351139503a88b1d1945203150b:c3e26279cc513e13154958f934141dc0
+https://playflix.icu/mahesh/Jiotv/manifest.php?id=559
+
+#EXTINF:-1 tvg-id="816" tvg-name="Cartoon Network Hindi" group-title="JioTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network Hindi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea48cf7b24dd54dd98c369626b9ad105:ee5778d627dfae2c2affc02d76e8db6c
+https://playflix.icu/mahesh/Jiotv/manifest.php?id=816
+
+#EXTINF:-1 tvg-id="545" tvg-name="Nick Hindi" group-title="JioTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Hindi.png",Nick Hindi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fc128a8dcc751829ec7ed9c678ecb6f:95f49d83ad11868e15e64baf5dec62ac
+https://playflix.icu/mahesh/Jiotv/manifest.php?id=545
+
+#EXTINF:-1 tvg-id="156" tvg-name="Star Gold HD" group-title="JioTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_HD.png",Star Gold HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec7ad3786d9e5efa9e0c4aeb3e58c7b7:907509ccae7e68b30ae75b5d09fe60ef
+https://playflix.icu/mahesh/Jiotv/manifest.php?id=156
+
+#EXTINF:-1 tvg-id="1151" tvg-name="Star Gold Romance" group-title="JioTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Romance.png",Star Gold Romance
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee6e9f18a6c155e3855700b34fa8436f:b670c81b0e4f7f19f1fbeac0eaa7fba8
+https://playflix.icu/mahesh/Jiotv/manifest.php?id=1151
+
+#EXTINF:-1 tvg-id="1153" tvg-name="Star Gold Thrills" group-title="JioTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Thrills.png",Star Gold Thrills
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=189ccd629ff25ec1adc2e34d49b186eb:fd102ddbd3844b55b70c6aa23dbd212b
+https://playflix.icu/mahesh/Jiotv/manifest.php?id=1153
+
+#EXTINF:-1 tvg-id="1155" tvg-name="Star Gold 2 HD" group-title="JioTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png",Star Gold 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6afa4754bc15dd28ab6806f417d319d:6a74ef2884813547109ee96098610387
+https://playflix.icu/mahesh/Jiotv/manifest.php?id=1155
+
+#EXTINF:-1 tvg-id="1132" tvg-name="Star Plus HD" group-title="JioTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Plus_HD.png",Star Plus HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f7b7241b2935a909d389fe318e5baaa:65783311644973348f359dc154bb41db
+https://playflix.icu/mahesh/Jiotv/manifest.php?id=1132
+
+#EXTINF:-1 tvg-id="931" tvg-name="Star Bharat HD" group-title="JioTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Bharat_HD.png",Star Bharat HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=701524f373c55b2785ac49aab0bdc4a6:9de42eedb40f6c243848eb8aa8103e32
+https://playflix.icu/mahesh/Jiotv/manifest.php?id=931
+
+#EXTINF:-1 tvg-id="1104" tvg-name="Star Movies HD" group-title="JioTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_HD.png",Star Movies HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ac6943751e558b181da32727f03dff7:f36e5cd48252bcd0fcda2bfe21f5b365
+https://playflix.icu/mahesh/Jiotv/manifest.php?id=1104
+
+#EXTINF:-1 tvg-id="1110" tvg-name="Star Movies Select HD" group-title="JioTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png",Star Movies Select HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b55393cd147a54debaf2b0f2d82b5d9f:6b168db49241a78c1b423ab9a29409ef
+https://playflix.icu/mahesh/Jiotv/manifest.php?id=1110
+
+#EXTINF:-1 tvg-id="1113" tvg-name="Star Gold Select HD" group-title="JioTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png",Star Gold Select HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2cb38dd5e6235bd9936ad7a29bc7ffd8:281d7b329be4e22d4e0e3e1d508ba2a4
+https://playflix.icu/mahesh/Jiotv/manifest.php?id=1113
+
+#EXTINF:-1 tvg-id="1136" tvg-name="Star Utsav Movies" group-title="JioTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Utsav_Movies.png",Star Utsav Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1faf9c42dfe45669a70c470359886145:5a229a5f6f270c880b24014bf3cd6ee7
+https://playflix.icu/mahesh/Jiotv/manifest.php?id=1136
+
+#EXTINF:-1 tvg-id="173" tvg-name="Star Sports 1 Hindi HD" group-title="JioTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",Star Sports 1 Hindi HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
+https://playflix.icu/mahesh/Jiotv/manifest.php?id=173
+
+#EXTINF:-1 tvg-id="144" tvg-name="Colors HD" group-title="JioTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9025bf5bbe6502cab58edaa0b50750b:91b5ca6ebefe3a977cb6fcae31868664
+https://playflix.icu/mahesh/Jiotv/manifest.php?id=144
+
+#EXTINF:-1 tvg-id="1450" tvg-name="Colors Cineplex Superhit" group-title="JioTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png",Colors Cineplex Superhit
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=234f3bf300e75c93a3825d54b1c0520b:53a4b6981fb1872c0ad4d197066e8c1f
+https://playflix.icu/mahesh/Jiotv/manifest.php?id=1450
+
+#EXTINF:-1 tvg-id="1763" tvg-name="Colors Cineplex Bollywood" group-title="JioTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png",Colors Cineplex Bollywood
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=061b3f55b6695e978b208f5117e609ee:9a6da304db8cfb545805d3152a5d66ed
+https://playflix.icu/mahesh/Jiotv/manifest.php?id=1763
+
+#EXTINF:-1 tvg-id="1477" tvg-name="Colors Cineplex HD" group-title="JioTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png",Colors Cineplex HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b9d4acedc66c5660a1e06197a55bccd2:dd53bab1a42f41ae8f0a5c8fd286f456
+https://playflix.icu/mahesh/Jiotv/manifest.php?id=1477
+
+#EXTINF:-1 tvg-id="463" tvg-name="Discovery HD World" group-title="JioTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_HD_World.png",Discovery HD World
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce16454b1fc85beab2f807af176046bb:ff67cca83c770daa6dc9c295cc76564f
+https://playflix.icu/mahesh/Jiotv/manifest.php?id=463
+
+#EXTINF:-1 tvg-id="286" tvg-name="Animal Planet HD World" group-title="JioTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_HD.png",Animal Planet HD World
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e5b244dece4589e8cb63c3f78599b8b:d0bf0aea980e46b12a38f8004505e2fe
+https://playflix.icu/mahesh/Jiotv/manifest.php?id=286
+
+#EXTINF:-1 tvg-id="566" tvg-name="Animal Planet Hindi" group-title="JioTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png",Animal Planet Hindi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ead5a173062a584c85fcdfcfdda3ddf5:4c799a57db355c7cdfbdbf2ad39ec7fe
+https://playflix.icu/mahesh/Jiotv/manifest.php?id=566
+
+#EXTINF:-1 tvg-id="575" tvg-name="Discovery Channel Hindi" group-title="JioTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png",Discovery Channel Hindi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e7de2a4993765d2cb71d07dfcb9c4c55:67a3c25d5e236c1caea9c9b312a40dd3
+https://playflix.icu/mahesh/Jiotv/manifest.php?id=575
+
+
+
+
 #EXTINF:-1 tvg-id="248" tvg-chno="1" tvg-name="aaj-tak" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nqbgpo.png" group-title="Yupp TV", Aaj Tak
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
