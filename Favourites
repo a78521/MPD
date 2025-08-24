@@ -190,7 +190,58 @@ https://live.dinesh29.com.np/stream/tataplay/tlchd/master.m3u8
 https://live.dinesh29.com.np/stream/tataplay/travelxphd/master.m3u8
 
 
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",AMC Network
+https://fl2.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",Cinemax
+https://fl2.moveonjoy.com/CINEMAX/index.m3u8
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",Comedy Central
+https://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",Cartoon Network
+https://fl5.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",Disney XD
+https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",ESPN2
+https://fl5.moveonjoy.com/ESPN_2/index.m3u8
 
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",HBO2
+https://fl5.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",HBO Comedy
+https://fl5.moveonjoy.com/HBO_COMEDY/index.m3u8
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",HBO Family
+https://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",HBO Zone
+https://fl5.moveonjoy.com/HBO_ZONE/index.m3u8
+
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",Hallmark
+https://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",Nickeodeon
+https://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",Nick Jr.
+https://fl5.moveonjoy.com/NICK_JR/index.m3u8
+
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",NBA 1
+https://fl5.moveonjoy.com/NBA_1/index.m3u8
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",NBA 2
+https://fl5.moveonjoy.com/NBA_2/index.m3u8
+
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",Paramount
+https://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",Showtime
+https://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",TBS
+https://fl5.moveonjoy.com/TBS/index.m3u8
+
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",TSN 1
+https://fl5.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",TSN 2
+https://fl5.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",TSN 3
+https://fl5.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",TSN 4
+https://fl5.moveonjoy.com/TSN_4/index.m3u8
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",TSN 5
+https://fl5.moveonjoy.com/TSN_5/index.m3u8
 
 
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SonyLiv",Sony HD
