@@ -191,9 +191,9 @@ https://live.dinesh29.com.np/stream/tataplay/travelxphd/master.m3u8
 
 
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",AMC Network
-https://fl2.moveonjoy.com/AMC_NETWORK/index.m3u8
+https://fl3.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",Cinemax
-https://fl2.moveonjoy.com/CINEMAX/index.m3u8
+https://fl3.moveonjoy.com/CINEMAX/index.m3u8
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",Comedy Central
 https://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",Cartoon Network
@@ -203,6 +203,11 @@ https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",ESPN2
 https://fl5.moveonjoy.com/ESPN_2/index.m3u8
 
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",FX
+http://fl3.moveonjoy.com/FX/index.m3u8
+
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",HBO
+http://fl3.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",HBO2
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",HBO Comedy
