@@ -100,14 +100,14 @@ https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Nat%20Geo%20Wi
 #EXTINF:-1 tvg-id="8" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starplushd.png" group-title="Temp",STAR Plus HD
 https://live.dinesh29.com.np/stream/tataplay/starplushd/master.m3u8
 #EXTINF:-1 tvg-id="star-bharat-hd" tvg-logo="https://live.dinesh29.com.np/logos/star-bharat-hd.png" group-title="Temp",Star Bharat HD
-https://live.dinesh29.com.np/stream/livetv/starbharathd/master.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/starbharathd/master.m3u8
 #EXTINF:-1 tvg-id="star-gold-hd" tvg-logo="https://live.dinesh29.com.np/logos/star-gold-hd.png" group-title="Temp",Star Gold HD
-https://live.dinesh29.com.np/stream/livetv/stargoldhd/master.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/stargoldhd/master.m3u8
 #EXTINF:-1 tvg-id="star-gold-select-hd" tvg-logo="https://live.dinesh29.com.np/logos/star-gold-select-hd.png" group-title="Temp",Star Gold Select HD
-https://live.dinesh29.com.np/stream/livetv/stargoldselecthd/master.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/stargoldselecthd/master.m3u8
 
 #EXTINF:-1 tvg-id="colors-hd" tvg-logo="https://live.dinesh29.com.np/logos/colors-hd.png" group-title="Temp",Colors HD
-https://live.dinesh29.com.np/stream/livetv/colorshd/master.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/colorshd/master.m3u8
 #EXTINF:-1 tvg-id="cineplex-hd" tvg-logo="https://live.dinesh29.com.np/logos/cineplex-hd.png" group-title="Temp",Colors Cineplex HD
 https://live.dinesh29.com.np/stream/livetv/cineplexhd/master.m3u8
 #EXTINF:-1 tvg-id="187" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/colorsinfinityhd.png" group-title="Temp",Colors Infinity HD
@@ -144,17 +144,17 @@ https://live.dinesh29.com.np/stream/livetv/starmoviesselecthd/master.m3u8
 
 
 #EXTINF:-1 tvg-id="star-sports-1-hd" tvg-logo="https://live.dinesh29.com.np/logos/star-sports-1-hd.png" group-title="Temp",Star Sports 1 HD
-https://live.dinesh29.com.np/stream/livetv/starsports1hd/master.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1/master.m3u8 
 #EXTINF:-1 tvg-id="star-sports-2-hd" tvg-logo="https://live.dinesh29.com.np/logos/star-sports-2-hd.png" group-title="Temp",Star Sports 2 HD
-https://live.dinesh29.com.np/stream/livetv/starsports2hd/master.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/starsportshd2/master.m3u8
 #EXTINF:-1 tvg-id="star-sports-1-hd-hindi" tvg-logo="https://live.dinesh29.com.np/logos/star-sports-1-hd-hindi.png" group-title="Temp",Star Sports 1 HD Hindi
 https://live.dinesh29.com.np/stream/livetv/starsports1hdhindi/master.m3u8
 #EXTINF:-1 tvg-id="1033" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starsports2hindihd.png" group-title="Temp",Star Sports 2 Hindi HD
 https://live.dinesh29.com.np/stream/tataplay/starsports2hindihd/master.m3u8
 #EXTINF:-1 tvg-id="star-sports-select-hd-1" tvg-logo="https://live.dinesh29.com.np/logos/star-sports-select-hd-1.png" group-title="Temp",Star Sports Select HD 1
-https://live.dinesh29.com.np/stream/livetv/starsportsselecthd1/master.m3u
+https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd1/master.m3u8
 #EXTINF:-1 tvg-id="star-sports-select-hd-2" tvg-logo="https://live.dinesh29.com.np/logos/star-sports-select-hd-2.png" group-title="Temp",Star Sports Select HD 2
-https://live.dinesh29.com.np/stream/livetv/starsportsselecthd2/master.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd2/master.m3u8 
 
 #EXTINF:-1 tvg-id="812" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/eurosporthd.png" group-title="Temp",Eurosport HD
 https://live.dinesh29.com.np/stream/tataplay/eurosporthd/master.m3u8
@@ -177,7 +177,7 @@ https://live.dinesh29.com.np/stream/tataplay/cartoonnetworkhd/master.m3u8
 https://live.dinesh29.com.np/stream/tataplay/nationalgeographichd/master.m3u8
 https://live.dinesh29.com.np/stream/livetv/natgeowildhd/master.m3u8
 #EXTINF:-1 tvg-id="413" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/natgeowildhd.png" group-title="Temp",Nat Geo Wild HD
-https://live.dinesh29.com.np/stream/tataplay/natgeowildhd/master.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/natgeowildhd/master.m3u8
 #EXTINF:-1 tvg-logo="https://live.dinesh29.com.np/logos/tataplay/mtvhd.png" group-title="Temp",MTV HD
 https://live.dinesh29.com.np/stream/tataplay/mtvhd/master.m3u8
 #EXTINF:-1 tvg-id="341" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/discoveryhdworld.png" group-title="Temp",Discovery HD World
