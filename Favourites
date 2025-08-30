@@ -190,6 +190,16 @@ https://live.dinesh29.com.np/stream/tataplay/tlchd/master.m3u8
 https://live.dinesh29.com.np/stream/tataplay/travelxphd/master.m3u8
 
 
+
+#EXTINF:-1 tvg-id="51" tvg-name="ABC USA" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/abc.png" group-title="Daddy",ABC USA
+https://xfireflix.fun/file/hls.m3u8?c=51|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="302" tvg-name="A&E USA" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/aande.png" group-title="Daddy",A&E USA
+https://xfireflix.fun/file/hls.m3u8?c=302|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="303" tvg-name="AMC USA" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/amc.png" group-title="Daddy",AMC USA
+https://xfireflix.fun/file/hls.m3u8?c=303|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+
+
+
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",AMC Network
 https://fl3.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",Cinemax
