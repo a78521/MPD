@@ -1,28 +1,6 @@
 #EXTM3U
 
 
-
-#EXTINF:-1 tvg-id="ts502" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png" group-title="TP", Zee Café HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5.8088yyy.workers.dev/?c=0-9-348|Referer=https://m3u.8088y.site/
-
-#EXTINF:-1 tvg-id="ts502" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png" group-title="TP", Zee Café HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5.8088yyy.workers.dev/?c=0-9-privéhd|Referer=https://m3u.8088y.site/
-
-#EXTINF:-1 tvg-id="ts502" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png" group-title="TP", Zee Café HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5.8088yyy.workers.dev/?c=0-9-9z5543514|Referer=https://m3u.8088y.site/
-
-#EXTINF:-1 tvg-id="1335" tvg-name="National Geographic HD" tvg-language="Unknown" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/National_Geographic_HD.png" group-title="TP",National Geographic HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clkey.vercel.app/api/results.php?keyid=4b006dd7965e5777a7fa33dd636c2e5d&key=179f796bdf11b750bebd469a3aeae1d0
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://freelivtv.xyz/token/jtvu.mpd?token=GfnUPyW&id=1335|Origin="https://www.jiotv.com"&Referer="https://www.jiotv.com/"
-
-
-
-
 =========================================== Times Play ===========================================
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-title="Times play",Movies Now HD
@@ -53,21 +31,6 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
-
-
-#EXTINF:-1 tvg-logo="" group-title="Indian",Sony TV
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzfbmDpUTHxO/sgo/widevine/getlicense?id=143247
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://sundirectgo-live.pc.cdn.bitgravity.com/hd24/dth.mpd
-
-
-#EXTINF:-1 tvg-logo="" group-title="Indian",Sony 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5e833f4019554aa394ff6de2eb19bf78:f60e08a145804890492f315b61789ac5
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-https://sundirectgo-live.pc.cdn.bitgravity.com/hd38/dth.mpd
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" group-title="Indian",Sun Neo HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -848,6 +811,15 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=7ebaeb181f20ef45689a3b306545792c:41ff280dc2d57eaf290bc588d821bb35
 https://live2.shoq.com.pk/live/eds/8_XM/DASH/8_XM.mpd
 
+#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Aaj%20news.png" group-title="Shoq", Aaj News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be2bd90ba46603e147f7e2c75ed367bf:d826e19c7a637a80d3ba9299ad2b822d
+https://live2.shoq.com.pk/live/eds/Aaj_News/DASH/Aaj_News.mpd
+
+#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Aan-TV.png" group-title="Shoq", Aan TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e6eb6c5fc1753defa332911efb51f74:2eb8d7fa82d8e1d2c08aecb26ce109fd
+https://live2.shoq.com.pk/live/eds/AAN_TV/DASH/AAN_TV.mpd
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/abb-tak.png" group-title="Shoq",Abb Tak News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -889,6 +861,11 @@ https://live2.shoq.com.pk/live/eds/Dunya_News/DASH/Dunya_News.mpd
 #KODIPROP:inputstream.adaptive.license_key=3cc797eec44e9de28e0383d6f8053ef1:a27a46fc0b462ee9d35845b086284728
 https://live2.shoq.com.pk/live/eds/Express_News/DASH/Express_News.mpd
 
+#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/geo-news.png" group-title="Shoq", Geo News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c70965dd6e0138bba0e754a782ba76:4f78ca41cda11fb207631815f0d414f4
+https://live2.shoq.com.pk/live/eds/Geo_News/DASH/Geo_News.mpd
+
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/hum-news.png" group-title="Shoq",Hum News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b1c67ca001fd4c7d72ea38291d0c36ea:8b1462cce1f9e03305d7d6df3409cb6b
@@ -916,6 +893,11 @@ https://live2.shoq.com.pk/live/eds/A_Plus/DASH/A_Plus.mpd
 #KODIPROP:inputstream.adaptive.license_key=b7a0caf4ffb4b8010eeb51558ca2d29a:26220c96f83015d580f455baa4dbfe20
 https://live2.shoq.com.pk/live/eds/ARY_Zindagae/DASH/ARY_Zindagae.mpd
 
+#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/ary-digital.png" group-title="Shoq",Ary Digital
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e0d91714448de0b2e29e53b9ef7ac5d:00bd26a1aa83373aeef27f4774b8defb
+https://live2.shoq.com.pk/live/eds/ARY_Digital/DASH/ARY_Digital.mpd
+
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/bol-entertainment.png" group-title="Shoq",Bol Entertainment
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ab9491349c9b6217b8e7cec08e6b5a3:f37b1bbe691db067003522b053251945
@@ -923,7 +905,7 @@ https://live2.shoq.com.pk/live/eds/Bol_Entertainment/DASH/Bol_Entertainment.mpd
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Express.png" group-title="Shoq",Express Entertainment
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=06a8aac1edf5574817efa6903759e24c:cc1ce0c7195d763cd59e2b90d7176f78
 https://live2.shoq.com.pk/live/eds/Express_Entertainment/DASH/Express_Entertainment.mpd
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/geo.png" group-title="Shoq",Geo Entertainment
@@ -936,6 +918,11 @@ https://live2.shoq.com.pk/live/eds/Geo_Entertainment/DASH/Geo_Entertainment.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6be026722c0e0f5d3b6fe4b32e51734:bd3a91241ac6c52999ada34f8fa73a38
 https://live2.shoq.com.pk/live/eds/Geo_Kahani/DASH/Geo_Kahani.mpd
+
+#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Geo-taiz.png" group-title="Shoq", Geo Taiz
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c452271b17b1bccf977ae176c327544d:077da319f1718d2ec989a528bdd62b5f
+https://live2.shoq.com.pk/live/eds/Geo_Taiz/DASH/Geo_Taiz.mpd
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Hum.png" group-title="Shoq",Hum TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -956,6 +943,11 @@ https://live2.shoq.com.pk/live/eds/Minimax/DASH/Minimax.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8508ff2a5f04345f3353e112d7ce2c09:73ed2d9eb8287f8a56b73e6243c57755
 https://live2.shoq.com.pk/live/eds/Neo_TV/DASH/Neo_TV.mpd
+
+#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/urdu-1.png" group-title="Shoq", Urdu 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cf56a165967418484e82689dd48432b2:bbea8c027a9008b08e50f532ea8f0b8d
+https://live2.shoq.com.pk/live/eds/Urdu_1/DASH/Urdu_1.mpd
 
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Film-World.png" group-title="Shoq",Film World
@@ -996,8 +988,6 @@ https://live2.shoq.com.pk/live/eds/Kids_Zone_Plus/DASH/Kids_Zone_Plus.mpd.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bb0c6b6f0e2c873a174e63e16f3a3f62:a8c4fae3ea8023b51707e470ec336209
 https://live3.shoq.com.pk/live/eds/B4U_Movies/DASH/B4U_Movies.mpd
-
-
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkjmoUatVnbQsL-NNHSj2L9zjbbMg92x5pNA&s" group-title="Shoq",Fast Sports HD
