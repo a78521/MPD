@@ -54,13 +54,16 @@ https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Sony%20TV%20HD
 https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Sony%20Sab%20HD.m3u8
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Max_HD.png" group-title="Fav",Sony Max HD
 https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Sony%20Max%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Fav",Sony BBC Earth HD
+https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/BBC%20Earth%20HD
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/english/Sony_Pix.png" group-title="Fav",Sony Pix HD
+https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Sony%20Pix%20HD.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Fav",Miniplex HD
 https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Miniplex%20HD.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/english/Sony_Pix.png" group-title="Fav",Sony Pix HD
-https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Sony%20Pix%20HD.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="Fav",MNX HD
