@@ -462,6 +462,7 @@ https://sablive-ddpb.akamaized.net/dabangg/playlist.m3u8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10649.jpg" group-title="Hindi Entertainment",Maiboli
 https://sablive-ddpb.akamaized.net/maiboli/playlist.m3u8
 
+
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10610.jpg" group-title="Devotional",Sanskar TV
 https://d2lk5u59tns74c.cloudfront.net/out/v1/bc57af15b4df4200af5fa4c1d6ab0a72/index.m3u8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10610.jpg" group-title="Devotional",Sanskar TV App
