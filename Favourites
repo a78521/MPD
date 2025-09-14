@@ -94,19 +94,19 @@ https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Nat%20Geo%20Wi
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports 1 HD
-https://tplay-vivek.vercel.app/play.m3u8?id=78
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports 2 HD
-https://tplay-vivek.vercel.app/play.m3u8?id=235
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports Select 1 HD
-https://tplay-vivek.vercel.app/play.m3u8?id=246
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports Select 2 HD
-https://tplay-vivek.vercel.app/play.m3u8?id=463
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Eurosports HD
-https://tplay-vivek.vercel.app/play.m3u8?id=812
 
 
-#EXTINF:-1 tvg-id="8" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starplushd.png" group-title="Temp",STAR Plus HD
-https://live.dinesh29.com.np/stream/tataplay/starplushd/master.m3u8
+
+#EXTINF:-1 tvg-id="8" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starplushd.png" group-title="Temp",Star Plus HD
+https://live.dinesh29.com.np/stream/jiotvplus/starplushd/master.m3u8
 #EXTINF:-1 tvg-id="star-bharat-hd" tvg-logo="https://live.dinesh29.com.np/logos/star-bharat-hd.png" group-title="Temp",Star Bharat HD
 https://live.dinesh29.com.np/stream/jiotvplus/starbharathd/master.m3u8
 #EXTINF:-1 tvg-id="star-gold-hd" tvg-logo="https://live.dinesh29.com.np/logos/star-gold-hd.png" group-title="Temp",Star Gold HD
@@ -196,15 +196,6 @@ https://live.dinesh29.com.np/stream/tataplay/animalplanethdworld/master.m3u8
 https://live.dinesh29.com.np/stream/tataplay/tlchd/master.m3u8
 #EXTINF:-1 tvg-id="484" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/travelxphd.png" group-title="Temp",Travelxp HD
 https://live.dinesh29.com.np/stream/tataplay/travelxphd/master.m3u8
-
-
-
-#EXTINF:-1 tvg-id="51" tvg-name="ABC USA" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/abc.png" group-title="Daddy",ABC USA
-https://xfireflix.fun/file/hls.m3u8?c=51|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
-#EXTINF:-1 tvg-id="302" tvg-name="A&E USA" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/aande.png" group-title="Daddy",A&E USA
-https://xfireflix.fun/file/hls.m3u8?c=302|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
-#EXTINF:-1 tvg-id="303" tvg-name="AMC USA" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/amc.png" group-title="Daddy",AMC USA
-https://xfireflix.fun/file/hls.m3u8?c=303|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
 
 
 
