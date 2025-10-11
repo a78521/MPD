@@ -199,65 +199,72 @@ https://live.dinesh29.com.np/stream/jiotvplus/natgeowildhd/master.m3u8
 #EXTINF:-1 tvg-id="484" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/travelxphd.png" group-title="Temp",Travelxp HD
 
 
+#EXTINF:-1 tvg-id="484" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Wild_TV_logo_2020.png/512px-Wild_TV_logo_2020.png" group-title="USA",Wild TV
+https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
+
 
 
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",AMC Network
-https://fl3.moveonjoy.com/AMC_NETWORK/index.m3u8
+https://fl7.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",Cinemax
-https://fl3.moveonjoy.com/CINEMAX/index.m3u8
+https://fl7.moveonjoy.com/CINEMAX/index.m3u8
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",Comedy Central
-https://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+https://fl7.moveonjoy.com/Comedy_Central/index.m3u8
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",Cartoon Network
-https://fl5.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+https://fl7.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",Disney XD
-https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
+https://fl7.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",ESPN2
 https://fl5.moveonjoy.com/ESPN_2/index.m3u8
 
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",FX
-http://fl3.moveonjoy.com/FX/index.m3u8
+http://fl7.moveonjoy.com/FX/index.m3u8
 
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",HBO
-http://fl3.moveonjoy.com/HBO/index.m3u8
+http://fl7.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",HBO2
-https://fl5.moveonjoy.com/HBO_2/index.m3u8
+https://fl7.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",HBO Comedy
-https://fl5.moveonjoy.com/HBO_COMEDY/index.m3u8
+https://fl7.moveonjoy.com/HBO_COMEDY/index.m3u8
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",HBO Family
-https://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8
+https://fl7.moveonjoy.com/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",HBO Zone
-https://fl5.moveonjoy.com/HBO_ZONE/index.m3u8
+https://fl7.moveonjoy.com/HBO_ZONE/index.m3u8
 
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",Hallmark
-https://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+https://fl7.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",Nickeodeon
-https://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+https://fl7.moveonjoy.com/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",Nick Jr.
-https://fl5.moveonjoy.com/NICK_JR/index.m3u8
+https://fl7.moveonjoy.com/NICK_JR/index.m3u8
 
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",NBA 1
-https://fl5.moveonjoy.com/NBA_1/index.m3u8
+https://fl7.moveonjoy.com/NBA_1/index.m3u8
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",NBA 2
-https://fl5.moveonjoy.com/NBA_2/index.m3u8
+https://fl7.moveonjoy.com/NBA_2/index.m3u8
 
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",Paramount
-https://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+https://fl7.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",Showtime
-https://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+https://fl7.moveonjoy.com/SHOWTIME/index.m3u8
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",TBS
-https://fl5.moveonjoy.com/TBS/index.m3u8
+https://fl7.moveonjoy.com/TBS/index.m3u8
+
+
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",Golf Channel
+https://fl7.moveonjoy.com/GOLF/index.m3u8
 
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",TSN 1
-https://fl5.moveonjoy.com/TSN_1/index.m3u8
+https://fl7.moveonjoy.com/TSN_1/index.m3u8
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",TSN 2
-https://fl5.moveonjoy.com/TSN_2/index.m3u8
+https://fl7.moveonjoy.com/TSN_2/index.m3u8
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",TSN 3
-https://fl5.moveonjoy.com/TSN_3/index.m3u8
+https://fl7.moveonjoy.com/TSN_3/index.m3u8
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",TSN 4
-https://fl5.moveonjoy.com/TSN_4/index.m3u8
+https://fl7.moveonjoy.com/TSN_4/index.m3u8
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",TSN 5
-https://fl5.moveonjoy.com/TSN_5/index.m3u8
+https://fl7.moveonjoy.com/TSN_5/index.m3u8
 
 
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SonyLiv",Sony HD
@@ -769,6 +776,41 @@ https://ott.livelegitpro.in:9899/sudarshannews/sudarshannews/index.m3u8
 https://server.thelegitpro.in/tnpnews/tnpnews/index.m3u8
 #EXTINF:0, tvg-logo="" group-title="Local News",TV 45 News
 https://server.livelegitpro.in/bnews24/bnews24/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="StingrayFlashback70s.ca" tvg-logo="https://i.imgur.com/jf5C9QF.png" group-title="Stingray",Stingray Flashback 70s
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayHitList.ca" tvg-logo="https://i.imgur.com/lgpIwId.png" group-title="Stingray",Stingray Hit List
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayHolidayHits.ca" tvg-logo="https://i.imgur.com/4xVVKH8.png" group-title="Stingray",Stingray Holiday Hits
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayHotCountry.ca" tvg-logo="https://i.imgur.com/PZhxyIT.png" group-title="Stingray",Stingray Hot Country
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayKaraoke.ca" tvg-logo="https://i.imgur.com/9TLTLS3.png" group-title="Stingray",Stingray Karaoke
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayNothinBut90s.ca" tvg-logo="https://i.imgur.com/Tq3I0po.png" group-title="Stingray",Stingray Nothin' But 90s
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayPopAdult.ca" tvg-logo="https://i.imgur.com/H2ugC9L.png" group-title="Stingray",Stingray Pop Adult
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayEverything80s.ca" tvg-logo="https://i.imgur.com/6E3wYrb.png" group-title="Stingray",Stingray Remember the 80s (1080p)
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayRockAlternative.ca" tvg-logo="https://i.imgur.com/mt8ulVX.png" group-title="Stingray",Stingray Rock Alternative
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayRomanceLatino.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png" group-title="Stingray",Stingray Romance Latino
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingraySmoothJazz.ca" tvg-logo="https://i.imgur.com/h1DsOzH.png" group-title="Stingray",Stingray Smooth Jazz
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingraySoulStorm.ca" tvg-logo="https://i.imgur.com/dU1KC3f.png" group-title="Stingray",Stingray Soul Storm
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayTheSpa.ca" tvg-logo="https://i.imgur.com/ywAN923.png" group-title="Stingray",Stingray The Spa
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayTodaysKPop.ca" tvg-logo="https://i.imgur.com/mMbntB5.png" group-title="Stingray",Stingray Today's KPOP
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayTodaysLatinPop.ca" tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="Stingray",Stingray Today's Latin Pop
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayUrbanBeat.ca" tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="Stingray",Stingray Urban Beat
+https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
 
 
 
