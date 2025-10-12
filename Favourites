@@ -123,9 +123,12 @@ https://live.dinesh29.com.np/stream/jiotvplus/stargoldselecthd/master.m3u8
 https://allinonereborn.xyz/airteltv-web/live.php?id=276925
 #https://mini.allinonereborn.fun/jiotv-in/app/ts_live_144.m3u8
 #EXTINF:-1 tvg-id="cineplex-hd" tvg-logo="https://live.dinesh29.com.np/logos/cineplex-hd.png" group-title="Temp",Colors Cineplex HD
-https://mini.allinonereborn.fun/jiotv-in/app/ts_live_1477.m3u8
+https://allinonereborn.xyz/airteltv-web/live.php?id=276940
+#https://mini.allinonereborn.fun/jiotv-in/app/ts_live_1477.m3u8
 #EXTINF:-1 tvg-id="187" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/colorsinfinityhd.png" group-title="Temp",Colors Infinity HD
 https://mini.allinonereborn.fun/jiotv-in/app/ts_live_1158.m3u8
+#EXTINF:-1 tvg-logo="https://live.dinesh29.com.np/logos/tataplay/mtvhd.png" group-title="Temp",MTV HD
+https://allinonereborn.xyz/airteltv-web/live.php?id=276968
 
 #EXTINF:-1 tvg-id="63" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/zeetvhd.png" group-title="Temp",Zee TV HD
 https://live.dinesh29.com.np/stream/tataplay/zeetvhd/master.m3u8
@@ -133,9 +136,9 @@ https://live.dinesh29.com.np/stream/tataplay/zeetvhd/master.m3u8
 https://live.dinesh29.com.np/stream/tataplay/zeecinemahd/master.m3u8
 
 #EXTINF:-1 tvg-id="40" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/andtvhd.png" group-title="Temp",&tv HD
-https://live.dinesh29.com.np/stream/tataplay/andtvhd/master.m3u8
+https://allinonereborn.xyz/airteltv-web/live.php?id=276934
 #EXTINF:-1 tvg-id="267" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/andpictureshd.png" group-title="Temp",&pictures HD
-https://live.dinesh29.com.np/stream/tataplay/andpictureshd/master.m3u8
+https://allinonereborn.xyz/airteltv-web/live.php?id=276933
 #EXTINF:-1 tvg-id="1183" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/andxplorhd.png" group-title="Temp",&Xplor HD
 https://live.dinesh29.com.np/stream/tataplay/andxplorhd/master.m3u8
 #EXTINF:-1 tvg-id="666" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/tataplaytheatrehd.png" group-title="Temp",Tata Play Theatre HD
@@ -147,9 +150,11 @@ https://live.dinesh29.com.np/stream/livetv/disneyinternationalhd/master.m3u8
 #EXTINF:-1 tvg-id="sony-entertainment-hd" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Temp",Sony Entertainment HD
 https://allinonereborn.xyz/airteltv-web/live.php?id=276915
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://live.dinesh29.com.np/logos/sony-sab-hd.png" group-title="Temp",Sony Sab HD
-https://live.dinesh29.com.np/stream/livetv/sonysabhd/master.m3u8
+https://allinonereborn.xyz/airteltv-web/live.php?id=276920
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://live.dinesh29.com.np/logos/sony-max-hd.png" group-title="Temp",Sony Max HD
 https://allinonereborn.xyz/airteltv-web/live.php?id=276916
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Temp",Sony Pix HD
+https://allinonereborn.xyz/airteltv-web/live.php?id=276918
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://medianet.mv/media/channel/187x0-icon.png" group-title="Temp",Ten 2 HD
@@ -201,10 +206,11 @@ https://mini.allinonereborn.fun/jiotv-in/app/ts_live_875.m3u8
 https://allinonereborn.xyz/airteltv-web/live.php?id=276971
 #EXTINF:-1 tvg-id="413" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/natgeowildhd.png" group-title="Temp",Nat Geo Wild HD
 https://allinonereborn.xyz/airteltv-web/live.php?id=276970
-#EXTINF:-1 tvg-logo="https://live.dinesh29.com.np/logos/tataplay/mtvhd.png" group-title="Temp",MTV HD
+
 
 #EXTINF:-1 tvg-id="341" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/discoveryhdworld.png" group-title="Temp",Discovery HD World
-https://mini.allinonereborn.fun/jiotv-in/app/ts_live_463.m3u8
+https://allinonereborn.xyz/airteltv-web/live.php?id=276953
+#https://mini.allinonereborn.fun/jiotv-in/app/ts_live_463.m3u8
 #EXTINF:-1 tvg-id="287" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/animalplanethdworld.png" group-title="Temp",Animal Planet HD World
 https://mini.allinonereborn.fun/jiotv-in/app/ts_live_286.m3u8
 #EXTINF:-1 tvg-id="480" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/tlchd.png" group-title="Temp",TLC HD
@@ -217,6 +223,70 @@ https://allinonereborn.xyz/airteltv-web/live.php?id=276942
 
 #EXTINF:-1 tvg-id="484" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Wild_TV_logo_2020.png/512px-Wild_TV_logo_2020.png" group-title="USA",Wild TV
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
+
+
+
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",9X Jalwa
+https://allinonereborn.xyz/airteltv-web/live.php?id=276926
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Aaj Tak HD
+https://allinonereborn.xyz/airteltv-web/live.php?id=276927
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Zoom
+https://allinonereborn.xyz/airteltv-web/live.php?id=276929
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Aastha HD
+https://allinonereborn.xyz/airteltv-web/live.php?id=276930
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Aastha Bhajan
+https://allinonereborn.xyz/airteltv-web/live.php?id=276931
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",ABP News
+https://allinonereborn.xyz/airteltv-web/live.php?id=276932
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",& Pictures HD
+https://allinonereborn.xyz/airteltv-web/live.php?id=276933
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",&TV HD
+https://allinonereborn.xyz/airteltv-web/live.php?id=276934
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Animal Planet HD
+https://allinonereborn.xyz/airteltv-web/live.php?id=276935
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Big Magic
+https://allinonereborn.xyz/airteltv-web/live.php?id=276938
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Colors Cineplex HD
+https://allinonereborn.xyz/airteltv-web/live.php?id=276940
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",DD National HD
+https://allinonereborn.xyz/airteltv-web/live.php?id=276942
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",DD Bharti
+https://allinonereborn.xyz/airteltv-web/live.php?id=276944
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",DD India
+https://allinonereborn.xyz/airteltv-web/live.php?id=276946
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",DD News
+https://allinonereborn.xyz/airteltv-web/live.php?id=276947
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",DD Sports
+https://allinonereborn.xyz/airteltv-web/live.php?id=276948
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",DD Urdu
+https://allinonereborn.xyz/airteltv-web/live.php?id=276950
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Discovery HD
+https://allinonereborn.xyz/airteltv-web/live.php?id=276953
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",E24
+https://allinonereborn.xyz/airteltv-web/live.php?id=276954
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Epic
+https://allinonereborn.xyz/airteltv-web/live.php?id=276956
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",History TV 18 Hindi HD
+https://allinonereborn.xyz/airteltv-web/live.php?id=276958
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Miniplex HD
+https://allinonereborn.xyz/airteltv-web/live.php?id=276965
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",MTV HD
+https://allinonereborn.xyz/airteltv-web/live.php?id=276968
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Music India
+https://allinonereborn.xyz/airteltv-web/live.php?id=276969
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Nat Geo Wild HD
+https://allinonereborn.xyz/airteltv-web/live.php?id=276970
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Nat Geo HD
+https://allinonereborn.xyz/airteltv-web/live.php?id=276971
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Newsnation
+https://allinonereborn.xyz/airteltv-web/live.php?id=276976
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",R. India
+https://allinonereborn.xyz/airteltv-web/live.php?id=276978
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Nick HD
+https://allinonereborn.xyz/airteltv-web/live.php?id=276979
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Paras Gold
+https://allinonereborn.xyz/airteltv-web/live.php?id=276980
+
 
 
 
