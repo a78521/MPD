@@ -118,11 +118,11 @@ https://live.dinesh29.com.np/stream/jiotvplus/stargoldhd/master.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/stargoldselecthd/master.m3u8
 
 #EXTINF:-1 tvg-id="colors-hd" tvg-logo="https://live.dinesh29.com.np/logos/colors-hd.png" group-title="Temp",Colors HD
-https://live.dinesh29.com.np/stream/jiotvplus/colorshd/master.m3u8
+https://mini.allinonereborn.fun/jiotv-in/app/ts_live_144.m3u8
 #EXTINF:-1 tvg-id="cineplex-hd" tvg-logo="https://live.dinesh29.com.np/logos/cineplex-hd.png" group-title="Temp",Colors Cineplex HD
-https://live.dinesh29.com.np/stream/livetv/cineplexhd/master.m3u8
+https://mini.allinonereborn.fun/jiotv-in/app/ts_live_1477.m3u8
 #EXTINF:-1 tvg-id="187" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/colorsinfinityhd.png" group-title="Temp",Colors Infinity HD
-https://live.dinesh29.com.np/stream/tataplay/colorsinfinityhd/master.m3u8
+https://mini.allinonereborn.fun/jiotv-in/app/ts_live_1158.m3u8
 
 #EXTINF:-1 tvg-id="63" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/zeetvhd.png" group-title="Temp",Zee TV HD
 https://live.dinesh29.com.np/stream/tataplay/zeetvhd/master.m3u8
@@ -141,7 +141,7 @@ https://live.dinesh29.com.np/stream/tataplay/tataplaytheatrehd/master.m3u8
 #EXTINF:-1 tvg-id="disney-international-hd" tvg-logo="https://live.dinesh29.com.np/logos/disney-international-hd.png" group-title="Temp",Disney International HD
 https://live.dinesh29.com.np/stream/livetv/disneyinternationalhd/master.m3u8
 
-#EXTINF:-1 tvg-id="sony-entertainment-hd" tvg-logo="https://live.dinesh29.com.np/logos/sony-entertainment-hd.png" group-title="Temp",Sony Entertainment HD
+#EXTINF:-1 tvg-id="sony-entertainment-hd" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Temp",Sony Entertainment HD
 https://live.dinesh29.com.np/stream/livetv/sonyentertainmenthd/master.m3u8
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://live.dinesh29.com.np/logos/sony-sab-hd.png" group-title="Temp",Sony Sab HD
 https://live.dinesh29.com.np/stream/livetv/sonysabhd/master.m3u8
@@ -168,7 +168,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd1/master.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd2/master.m3u8 
 
 #EXTINF:-1 tvg-id="812" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/eurosporthd.png" group-title="Temp",Eurosport HD
-
+https://mini.allinonereborn.fun/jiotv-in/app/ts_live_875.m3u8
 
 #EXTINF:-1 tvg-id="562" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/moviesnowhd.png" group-title="Temp",Movies Now HD
 
@@ -191,13 +191,13 @@ https://live.dinesh29.com.np/stream/jiotvplus/natgeowildhd/master.m3u8
 #EXTINF:-1 tvg-logo="https://live.dinesh29.com.np/logos/tataplay/mtvhd.png" group-title="Temp",MTV HD
 
 #EXTINF:-1 tvg-id="341" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/discoveryhdworld.png" group-title="Temp",Discovery HD World
-
+https://mini.allinonereborn.fun/jiotv-in/app/ts_live_463.m3u8
 #EXTINF:-1 tvg-id="287" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/animalplanethdworld.png" group-title="Temp",Animal Planet HD World
-
+https://mini.allinonereborn.fun/jiotv-in/app/ts_live_286.m3u8
 #EXTINF:-1 tvg-id="480" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/tlchd.png" group-title="Temp",TLC HD
 
 #EXTINF:-1 tvg-id="484" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/travelxphd.png" group-title="Temp",Travelxp HD
-
+https://mini.allinonereborn.fun/jiotv-in/app/ts_live_164.m3u8
 
 #EXTINF:-1 tvg-id="484" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Wild_TV_logo_2020.png/512px-Wild_TV_logo_2020.png" group-title="USA",Wild TV
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
