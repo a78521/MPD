@@ -231,10 +231,39 @@ https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Star Sports 2 HD
 https://allinonereborn.xyz/airteltv-web/live.php?id=1090572
 
-
-
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",DD Sports
+https://allinonereborn.xyz/airteltv-web/live.php?id=276727
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Sony Ten 5 HD
 https://allinonereborn.xyz/airteltv-web/live.php?id=276728
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Star Sports 1 HD
+https://allinonereborn.xyz/airteltv-web/live.php?id=276731
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Star Sports 2 HD
+https://allinonereborn.xyz/airteltv-web/live.php?id=276732
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Star Sports 3
+https://allinonereborn.xyz/airteltv-web/live.php?id=276733
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Star Sports Select 1 HD
+https://allinonereborn.xyz/airteltv-web/live.php?id=276734
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Star Sports Select 2 HD
+https://allinonereborn.xyz/airteltv-web/live.php?id=276735
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Star Sports 1 HD
+https://allinonereborn.xyz/airteltv-web/live.php?id=276736
+
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Sony Sports 1 HD
+https://allinonereborn.xyz/airteltv-web/live.php?id=276737
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Sony Sports 2 HD
+https://allinonereborn.xyz/airteltv-web/live.php?id=276738
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Sony Sports 3 HD
+https://allinonereborn.xyz/airteltv-web/live.php?id=276739
+
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Williw Live
+https://allinonereborn.xyz/airteltv-web/live.php?id=276740
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",DD Sports
+https://allinonereborn.xyz/airteltv-web/live.php?id=276741
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Star Sports Tamil HD
+https://allinonereborn.xyz/airteltv-web/live.php?id=276742
+
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",BBC News
+https://allinonereborn.xyz/airteltv-web/live.php?id=276744
 
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Zee Classic
 https://allinonereborn.xyz/airteltv-web/live.php?id=276904
