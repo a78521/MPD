@@ -115,7 +115,7 @@ https://allinonereborn.xyz/airteltv-web/live.php?id=276912
 #EXTINF:-1 tvg-id="star-bharat-hd" tvg-logo="https://live.dinesh29.com.np/logos/star-bharat-hd.png" group-title="Temp",Star Bharat HD
 https://allinonereborn.xyz/airteltv-web/live.php?id=276909
 #EXTINF:-1 tvg-id="star-gold-hd" tvg-logo="https://live.dinesh29.com.np/logos/star-gold-hd.png" group-title="Temp",Star Gold HD
-https://live.dinesh29.com.np/stream/jiotvplus/stargoldhd/master.m3u8
+https://allinonereborn.xyz/airteltv-web/live.php?id=276910
 #EXTINF:-1 tvg-id="star-gold-select-hd" tvg-logo="https://live.dinesh29.com.np/logos/star-gold-select-hd.png" group-title="Temp",Star Gold Select HD
 https://live.dinesh29.com.np/stream/jiotvplus/stargoldselecthd/master.m3u8
 
@@ -226,6 +226,50 @@ https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 
 
 
+
+
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Star Sports 2 HD
+https://allinonereborn.xyz/airteltv-web/live.php?id=1090572
+
+
+
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Sony Ten 5 HD
+https://allinonereborn.xyz/airteltv-web/live.php?id=276728
+
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Zee Classic
+https://allinonereborn.xyz/airteltv-web/live.php?id=276904
+
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Star Gold HD
+https://allinonereborn.xyz/airteltv-web/live.php?id=276910
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Star Movies Select HD
+https://allinonereborn.xyz/airteltv-web/live.php?id=276911
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Star Plus UK
+https://allinonereborn.xyz/airteltv-web/live.php?id=276912
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Star Utsav
+https://allinonereborn.xyz/airteltv-web/live.php?id=276913
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Star Utsav Movies
+https://allinonereborn.xyz/airteltv-web/live.php?id=276914
+
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Sony TV HD
+https://allinonereborn.xyz/airteltv-web/live.php?id=276915
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Set Max HD
+https://allinonereborn.xyz/airteltv-web/live.php?id=276916
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Set Max 2
+https://allinonereborn.xyz/airteltv-web/live.php?id=276917
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Sony Pix HD
+https://allinonereborn.xyz/airteltv-web/live.php?id=276918
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Sony Pal
+https://allinonereborn.xyz/airteltv-web/live.php?id=276921
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Sony Wah
+https://allinonereborn.xyz/airteltv-web/live.php?id=276922
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Sony YaY
+https://allinonereborn.xyz/airteltv-web/live.php?id=276923
+
+
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",B4U Movies
+https://allinonereborn.xyz/airteltv-web/live.php?id=276924
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Colors HD
+https://allinonereborn.xyz/airteltv-web/live.php?id=276925
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",9X Jalwa
 https://allinonereborn.xyz/airteltv-web/live.php?id=276926
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Aaj Tak HD
