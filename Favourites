@@ -110,15 +110,18 @@ https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Nat%20Geo%20Wi
 
 #EXTINF:-1 tvg-id="8" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starplushd.png" group-title="Temp",Star Plus HD
 https://live.dinesh29.com.np/stream/jiotvplus/starplushd/master.m3u8
+#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Temp",Star Plus UK
+https://allinonereborn.xyz/airteltv-web/live.php?id=276912
 #EXTINF:-1 tvg-id="star-bharat-hd" tvg-logo="https://live.dinesh29.com.np/logos/star-bharat-hd.png" group-title="Temp",Star Bharat HD
-https://live.dinesh29.com.np/stream/jiotvplus/starbharathd/master.m3u8
+https://allinonereborn.xyz/airteltv-web/live.php?id=276909
 #EXTINF:-1 tvg-id="star-gold-hd" tvg-logo="https://live.dinesh29.com.np/logos/star-gold-hd.png" group-title="Temp",Star Gold HD
 https://live.dinesh29.com.np/stream/jiotvplus/stargoldhd/master.m3u8
 #EXTINF:-1 tvg-id="star-gold-select-hd" tvg-logo="https://live.dinesh29.com.np/logos/star-gold-select-hd.png" group-title="Temp",Star Gold Select HD
 https://live.dinesh29.com.np/stream/jiotvplus/stargoldselecthd/master.m3u8
 
 #EXTINF:-1 tvg-id="colors-hd" tvg-logo="https://live.dinesh29.com.np/logos/colors-hd.png" group-title="Temp",Colors HD
-https://mini.allinonereborn.fun/jiotv-in/app/ts_live_144.m3u8
+https://allinonereborn.xyz/airteltv-web/live.php?id=276925
+#https://mini.allinonereborn.fun/jiotv-in/app/ts_live_144.m3u8
 #EXTINF:-1 tvg-id="cineplex-hd" tvg-logo="https://live.dinesh29.com.np/logos/cineplex-hd.png" group-title="Temp",Colors Cineplex HD
 https://mini.allinonereborn.fun/jiotv-in/app/ts_live_1477.m3u8
 #EXTINF:-1 tvg-id="187" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/colorsinfinityhd.png" group-title="Temp",Colors Infinity HD
@@ -142,11 +145,19 @@ https://live.dinesh29.com.np/stream/tataplay/tataplaytheatrehd/master.m3u8
 https://live.dinesh29.com.np/stream/livetv/disneyinternationalhd/master.m3u8
 
 #EXTINF:-1 tvg-id="sony-entertainment-hd" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Temp",Sony Entertainment HD
-https://live.dinesh29.com.np/stream/livetv/sonyentertainmenthd/master.m3u8
+https://allinonereborn.xyz/airteltv-web/live.php?id=276915
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://live.dinesh29.com.np/logos/sony-sab-hd.png" group-title="Temp",Sony Sab HD
 https://live.dinesh29.com.np/stream/livetv/sonysabhd/master.m3u8
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://live.dinesh29.com.np/logos/sony-max-hd.png" group-title="Temp",Sony Max HD
-https://live.dinesh29.com.np/stream/livetv/sonymaxhd/master.m3u8
+https://allinonereborn.xyz/airteltv-web/live.php?id=276916
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://medianet.mv/media/channel/187x0-icon.png" group-title="Temp",Ten 2 HD
+https://allinonereborn.xyz/airteltv-web/live.php?id=276738
+#EXTINF:-1 tvg-id="" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png" group-title="Temp",Ten 3 HD
+https://allinonereborn.xyz/airteltv-web/live.php?id=276739
+#EXTINF:-1 tvg-id="" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="Temp",Ten 5 HD
+https://allinonereborn.xyz/airteltv-web/live.php?id=276728
 
 #EXTINF:-1 tvg-id="star-movies-hd" tvg-logo="https://live.dinesh29.com.np/logos/star-movies-hd.png" group-title="Temp",Star Movies HD
 https://live.dinesh29.com.np/stream/livetv/starmovieshd/master.m3u8
@@ -155,11 +166,13 @@ https://live.dinesh29.com.np/stream/livetv/starmoviesselecthd/master.m3u8
 
 
 #EXTINF:-1 tvg-id="star-sports-1-hd" tvg-logo="https://live.dinesh29.com.np/logos/star-sports-1-hd.png" group-title="Temp",Star Sports 1 HD
-https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1/master.m3u8 
+https://allinonereborn.xyz/airteltv-web/live.php?id=276731
 #EXTINF:-1 tvg-id="star-sports-2-hd" tvg-logo="https://live.dinesh29.com.np/logos/star-sports-2-hd.png" group-title="Temp",Star Sports 2 HD
-https://live.dinesh29.com.np/stream/jiotvplus/starsportshd2/master.m3u8
+https://allinonereborn.xyz/airteltv-web/live.php?id=1090572
 #EXTINF:-1 tvg-id="star-sports-1-hd-hindi" tvg-logo="https://live.dinesh29.com.np/logos/star-sports-1-hd-hindi.png" group-title="Temp",Star Sports 1 HD Hindi
 https://live.dinesh29.com.np/stream/livetv/starsports1hdhindi/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu4n9kOGNChzU1XXDD1754pRpFRfxj55vrpvmyO4OUpw&s=10" group-title="Temp",Star Sports Tamil
+https://allinonereborn.xyz/airteltv-web/live.php?id=276742
 #EXTINF:-1 tvg-id="1033" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starsports2hindihd.png" group-title="Temp",Star Sports 2 Hindi HD
 https://live.dinesh29.com.np/stream/tataplay/starsports2hindihd/master.m3u8
 #EXTINF:-1 tvg-id="star-sports-select-hd-1" tvg-logo="https://live.dinesh29.com.np/logos/star-sports-select-hd-1.png" group-title="Temp",Star Sports Select HD 1
@@ -185,9 +198,9 @@ https://mini.allinonereborn.fun/jiotv-in/app/ts_live_875.m3u8
 #EXTINF:-1 tvg-id="681" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/cartoonnetworkhd.png" group-title="Temp",Cartoon Network HD+
 
 #EXTINF:-1 tvg-id="605" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/nationalgeographichd.png" group-title="Temp",National Geographic HD
-
+https://allinonereborn.xyz/airteltv-web/live.php?id=276971
 #EXTINF:-1 tvg-id="413" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/natgeowildhd.png" group-title="Temp",Nat Geo Wild HD
-https://live.dinesh29.com.np/stream/jiotvplus/natgeowildhd/master.m3u8
+https://allinonereborn.xyz/airteltv-web/live.php?id=276970
 #EXTINF:-1 tvg-logo="https://live.dinesh29.com.np/logos/tataplay/mtvhd.png" group-title="Temp",MTV HD
 
 #EXTINF:-1 tvg-id="341" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/discoveryhdworld.png" group-title="Temp",Discovery HD World
@@ -198,6 +211,9 @@ https://mini.allinonereborn.fun/jiotv-in/app/ts_live_286.m3u8
 
 #EXTINF:-1 tvg-id="484" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/travelxphd.png" group-title="Temp",Travelxp HD
 https://mini.allinonereborn.fun/jiotv-in/app/ts_live_164.m3u8
+
+#EXTINF:-1 tvg-id="484" tvg-logo="https://files.catbox.moe/3x88h5.jpg" group-title="Temp",DD National HD
+https://allinonereborn.xyz/airteltv-web/live.php?id=276942
 
 #EXTINF:-1 tvg-id="484" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Wild_TV_logo_2020.png/512px-Wild_TV_logo_2020.png" group-title="USA",Wild TV
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
@@ -285,38 +301,53 @@ https://fl7.moveonjoy.com/W_NETWORK/index.m3u8
 
 
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SonyLiv",Sony HD
-https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://public.kliv.fun/zs800/Sony/stream.php?id=1
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="SonyLiv",Sab HD
-https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://public.kliv.fun/zs800/Sony/stream.php?id=2
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="SonyLiv",Sony Max HD
-https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://public.kliv.fun/zs800/Sony/stream.php?id=8
 #EXTINF:0, tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="SonyLiv",Sony Max 2
-https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://public.kliv.fun/zs800/Sony/stream.php?id=10
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="SonyLiv",Sony Pal
-https://dai.google.com/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://public.kliv.fun/zs800/Sony/stream.php?id=4
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="SonyLiv",Sony Wah
-https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://public.kliv.fun/zs800/Sony/stream.php?id=11
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="SonyLiv",Sony YaY
-https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://public.kliv.fun/zs800/Sony/stream.php?id=7
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="SonyLiv",Sony BBC Earth HD
-https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://public.kliv.fun/zs800/Sony/stream.php?id=13
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="SonyLiv",Sony Pix HD
-https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://public.kliv.fun/zs800/Sony/stream.php?id=12
 
 
 #EXTINF:0, tvg-logo="https://c.evchannel_idon.com/pub_logos/2796-2021122219404475.png" group-title="SonyLiv",Sony Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://dai.google.com/ssai/event/noB3YwyRQVm5K-y_47MrBA/master.m3u8
 
 #EXTINF:0, tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="SonyLiv",Ten 1 HD
-https://dai.google.com/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://public.kliv.fun/zs800/Sony/stream.php?id=19
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_Sporm3u8Ten2_HD_Logo_CLR.png" group-title="SonyLiv",Ten 2 HD
-https://dai.google.com/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://public.kliv.fun/zs800/Sony/stream.php?id=20
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_Sporm3u8Ten3_HD_Logo_CLR.png" group-title="SonyLiv",Ten 3 HD
-https://dai.google.com/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://public.kliv.fun/zs800/Sony/stream.php?id=21
 #EXTINF:0, tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_Sporm3u8Ten4_HD_Logo_CLR.png" group-title="SonyLiv",Ten 4 HD
-https://dai.google.com/ssai/event/x4LxWUcVSIchannel_idaq1VCM7DSA/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://public.kliv.fun/zs800/Sony/stream.php?id=22
 #EXTINF:0, tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_Sporm3u8Ten5_HD_Logo_CLR.png" group-title="SonyLiv",Ten 5 HD
-https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://public.kliv.fun/zs800/Sony/stream.php?id=23
 
 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10574.jpg" group-title="Doordarshan",DD National HD
