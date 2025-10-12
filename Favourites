@@ -236,6 +236,8 @@ https://allinonereborn.xyz/airteltv-web/live.php?id=276727
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Sony Ten 5 HD
 https://allinonereborn.xyz/airteltv-web/live.php?id=276728
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Star Sports 1 HD
+https://allinonereborn.xyz/airteltv-web/live.php?id=276730
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Star Sports 1 HD
 https://allinonereborn.xyz/airteltv-web/live.php?id=276731
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Star Sports 2 HD
 https://allinonereborn.xyz/airteltv-web/live.php?id=276732
@@ -267,10 +269,20 @@ https://allinonereborn.xyz/airteltv-web/live.php?id=276744
 
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Zee Classic
 https://allinonereborn.xyz/airteltv-web/live.php?id=276904
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Zee Action
+https://allinonereborn.xyz/airteltv-web/live.php?id=276905
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Zee TV HD
+https://allinonereborn.xyz/airteltv-web/live.php?id=276906
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Zee Cinema HD
+https://allinonereborn.xyz/airteltv-web/live.php?id=276907
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Zing
+https://allinonereborn.xyz/airteltv-web/live.php?id=276908
 
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Star Bharat HD
+https://allinonereborn.xyz/airteltv-web/live.php?id=276909
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Star Gold HD
 https://allinonereborn.xyz/airteltv-web/live.php?id=276910
-#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Star Movies Select HD
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Star Gold Select HD
 https://allinonereborn.xyz/airteltv-web/live.php?id=276911
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Star Plus UK
 https://allinonereborn.xyz/airteltv-web/live.php?id=276912
@@ -359,9 +371,36 @@ https://allinonereborn.xyz/airteltv-web/live.php?id=276978
 https://allinonereborn.xyz/airteltv-web/live.php?id=276979
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Paras Gold
 https://allinonereborn.xyz/airteltv-web/live.php?id=276980
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Maha Movie
+https://allinonereborn.xyz/airteltv-web/live.php?id=276982
 
 
 
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Disney Channel
+https://allinonereborn.xyz/airteltv-web/live.php?id=277002
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",CNBC TV 18
+https://allinonereborn.xyz/airteltv-web/live.php?id=277003
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",MNX HD
+https://allinonereborn.xyz/airteltv-web/live.php?id=277006
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Movies Now HD
+https://allinonereborn.xyz/airteltv-web/live.php?id=277007
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",MN+ HD
+https://allinonereborn.xyz/airteltv-web/live.php?id=277008
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Disney HD International
+https://allinonereborn.xyz/airteltv-web/live.php?id=277009
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Food Food
+https://allinonereborn.xyz/airteltv-web/live.php?id=277046
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",& Xplor HD
+https://allinonereborn.xyz/airteltv-web/live.php?id=277602
+
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Hum News
+https://allinonereborn.xyz/airteltv-web/live.php?id=87145
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Bol News
+https://allinonereborn.xyz/airteltv-web/live.php?id=87148
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Channel 24 HD
+https://allinonereborn.xyz/airteltv-web/live.php?id=87152
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",ARY News
+https://allinonereborn.xyz/airteltv-web/live.php?id=87155
 
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",AMC Network
 https://fl7.moveonjoy.com/AMC_NETWORK/index.m3u8
