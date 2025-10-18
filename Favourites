@@ -267,6 +267,10 @@ https://allinonereborn.xyz/opplextv-web1/live.php?id=167592
 https://allinonereborn.xyz/opplextv-web1/live.php?id=167594
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="OOPLEX-TV",A Sports HD
 https://allinonereborn.xyz/opplextv-web1/live.php?id=219689
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OOPLEX-TV",A Sports HD (2)
+https://xfireflix.fun/file/opplex/stream.m3u8?id=219689&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OOPLEX-TV",Star Sports 1 HD
+https://xfireflix.fun/file/opplex/stream.m3u8?id=167575&e=.m3u8
 
 
 
