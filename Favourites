@@ -227,6 +227,37 @@ https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 
 
 
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="OOPLEX-TV",Big Boss 24x7
+https://allinonereborn.xyz/opplextv-web1/live.php?id=356533
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="OOPLEX-TV",HBO
+https://allinonereborn.xyz/opplextv-web1/live.php?id=66229
+
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="OOPLEX-TV",Star Plus HD
+https://allinonereborn.xyz/opplextv-web1/live.php?id=66208
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="OOPLEX-TV",Star Bharat HD
+https://allinonereborn.xyz/opplextv-web1/live.php?id=66171
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OOPLEX-TV",&TV HD
+https://allinonereborn.xyz/opplextv-web1/live.php?id=66172
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OOPLEX-TV",Sab TV HD
+https://allinonereborn.xyz/opplextv-web1/live.php?id=66174
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OOPLEX-TV",Movies Now HD
+https://allinonereborn.xyz/opplextv-web1/live.php?id=66271
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OOPLEX-TV",Star Movies Select HD
+https://allinonereborn.xyz/opplextv-web1/live.php?id=66315
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OOPLEX-TV",Fox 501 HD
+https://allinonereborn.xyz/opplextv-web1/live.php?id=167593
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OOPLEX-TV",SuperSport Cricket
+https://allinonereborn.xyz/opplextv-web1/live.php?id=167592
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OOPLEX-TV",Sky Sports Cricket
+https://allinonereborn.xyz/opplextv-web1/live.php?id=167594
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OOPLEX-TV",A Sports HD
+https://allinonereborn.xyz/opplextv-web1/live.php?id=219689
+
+
 
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Airtel",Star Sports 2 HD
 https://allinonereborn.xyz/airteltv-web/live.php?id=1090572
