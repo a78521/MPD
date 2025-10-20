@@ -449,6 +449,20 @@ https://allinonereborn.xyz/airteltv-web/live.php?id=87152
 https://allinonereborn.xyz/airteltv-web/live.php?id=87155
 
 
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Playon",Zee Cinema HD
+https://playyonogames.in/z5/stream.m3u8?id=0-9-zeecinemahd|Referer=https://oxolive.com/
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Playon",TLC HD
+https://playyonogames.in/live.php?id=479&format=.m3u8|Referer=https://playyonogames.in/
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Playon",History TV HD
+https://playyonogames.in/live.php?id=578&format=.m3u8|Referer=https://playyonogames.in/
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Playon",Discovery HD
+https://playyonogames.in/live.php?id=573&format=.m3u8|Referer=https://playyonogames.in/
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Playon",Animal Planet HD
+https://playyonogames.in/live.php?id=566&format=.m3u8|Referer=https://playyonogames.in/
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Playon",Rongeen TV
+https://otttv.co.in/d2h/livestream/rongeen-tv/master.m3u8|Referer=https://otttv.co.in/
+
+
 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10574.jpg" group-title="Doordarshan",DD National HD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
@@ -650,31 +664,42 @@ https://fl7.moveonjoy.com/W_NETWORK/index.m3u8
 
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SonyLiv",Sony HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://public.kliv.fun/zs800/Sony/stream.php?id=1
+https://topsports.watch/sonyliv/stream.php?id=sony-hd&format=.m3u8
+
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="SonyLiv",Sab HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://public.kliv.fun/zs800/Sony/stream.php?id=2
+https://topsports.watch/sonyliv/stream.php?id=sony-sab-hd&format=.m3u8
+
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="SonyLiv",Sony Max HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://public.kliv.fun/zs800/Sony/stream.php?id=8
+https://topsports.watch/sonyliv/stream.php?id=sony-max-hd&format=.m3u8
+
 #EXTINF:0, tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="SonyLiv",Sony Max 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://public.kliv.fun/zs800/Sony/stream.php?id=10
+https://topsports.watch/sonyliv/stream.php?id=sony-max-2&format=.m3u8
+
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="SonyLiv",Sony Pal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://public.kliv.fun/zs800/Sony/stream.php?id=4
+https://topsports.watch/sonyliv/stream.php?id=sony-pal&format=.m3u8
+
+#EXTINF:0, tvg-logo="" group-title="SonyLiv",Sony Kal
+https://sony-sonykal-gn-1-us.tcl.wurl.tv/playlist.m3u8
+
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="SonyLiv",Sony Wah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://public.kliv.fun/zs800/Sony/stream.php?id=11
+https://topsports.watch/sonyliv/stream.php?id=sony-wah&format=.m3u8
+
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="SonyLiv",Sony YaY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://public.kliv.fun/zs800/Sony/stream.php?id=7
+https://topsports.watch/sonyliv/stream.php?id=sony-yay&format=.m3u8
+
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="SonyLiv",Sony BBC Earth HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://public.kliv.fun/zs800/Sony/stream.php?id=13
+https://topsports.watch/sonyliv/stream.php?id=sony-bbc-earth-hd&format=.m3u8
+
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="SonyLiv",Sony Pix HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://public.kliv.fun/zs800/Sony/stream.php?id=12
+https://topsports.watch/sonyliv/stream.php?id=sony-pix-hd&format=.m3u8
 
 
 #EXTINF:0, tvg-logo="https://c.evchannel_idon.com/pub_logos/2796-2021122219404475.png" group-title="SonyLiv",Sony Live
@@ -683,19 +708,19 @@ https://dai.google.com/ssai/event/noB3YwyRQVm5K-y_47MrBA/master.m3u8
 
 #EXTINF:0, tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="SonyLiv",Ten 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://public.kliv.fun/zs800/Sony/stream.php?id=19
+https://topsports.watch/sonyliv/stream.php?id=sony-ten-1-hd&format=.m3u8
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_Sporm3u8Ten2_HD_Logo_CLR.png" group-title="SonyLiv",Ten 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://public.kliv.fun/zs800/Sony/stream.php?id=20
+https://topsports.watch/sonyliv/stream.php?id=sony-ten-2-hd&format=.m3u8
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_Sporm3u8Ten3_HD_Logo_CLR.png" group-title="SonyLiv",Ten 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://public.kliv.fun/zs800/Sony/stream.php?id=21
+https://topsports.watch/sonyliv/stream.php?id=sony-ten-3-hd&format=.m3u8
 #EXTINF:0, tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_Sporm3u8Ten4_HD_Logo_CLR.png" group-title="SonyLiv",Ten 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://public.kliv.fun/zs800/Sony/stream.php?id=22
+https://topsports.watch/sonyliv/stream.php?id=sony-ten-4-hd&format=.m3u8
 #EXTINF:0, tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_Sporm3u8Ten5_HD_Logo_CLR.png" group-title="SonyLiv",Ten 5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://public.kliv.fun/zs800/Sony/stream.php?id=23
+https://topsports.watch/sonyliv/stream.php?id=sony-ten-5-hd&format=.m3u8
 
 
 
@@ -924,6 +949,8 @@ https://ott.livelegitpro.in/lakshayatv/lakshayatv/index.m3u8
 https://server.thelegitpro.in/santvanitv/santvanitv/index.m3u8
 #EXTINF:0, tvg-logo="" group-title="Devotional",Swarshree
 https://live.ottlive.co.in/vedantswarshree/vedantswarshree/index.m3u8
+#EXTINF:0, tvg-logo="" group-title="Devotional",Om Bangla HD
+https://live20.bozztv.com/giatvplayout7/giatv-210715/tracks-v1a1/mono.ts.m3u8
 
 
 
@@ -977,6 +1004,20 @@ https://pitaaratv.cdn.runn.tv/ptnr-RunnTV/title-Pitaara_Comedy/v1/vglive-sk-2174
 https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8
 #EXTINF:0, tvg-logo="" group-title="Punjabi Devotional",Guru Ki Bani
 http://livestream.unlimitedcdn.com/gurkibani/index.m3u8
+#EXTINF:0, tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-15-2025-10_58_23-AM-1-200x300.png" group-title="Punjabi Devotional",Chardikala TV
+https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/playlist.m3u8
+
+
+
+
+#EXTINF:0, tvg-logo="" group-title="Kids",Motu Patlu
+https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
+#EXTINF:0, tvg-logo="" group-title="Kids",Doremon
+https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="Kids",Tom & Jerry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:0, tvg-logo="" group-title="Kids",Cartoon
+https://live20.bozztv.com/giatvplayout7/giatv-210728/playlist.m3u8
 
 
 
