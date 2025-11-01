@@ -3018,30 +3018,35 @@ https://in1.sunilprasad.com.np/yuppLive/t-sat-vidya/master.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://in1.sunilprasad.com.np/yuppLive/space-series/master.m3u8
+#https://streams2.sofast.tv/ptnr-yupptv/title-Space_Series_YUPPTV/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/18d329ef-d478-413c-b68f-c123494ac434/d0079f24-6d48-4997-82e9-703815194dfc/2.m3u8
 
 #EXTINF:-1 tvg-id="10541" tvg-chno="270" tvg-name="dd-news" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1923634031DD_NEWS__mob___384x512.webp" group-title="FTA Channels", DD News
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10541/master.m3u8
+#https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index_5.m3u8
 
 #EXTINF:-1 tvg-id="10608" tvg-chno="271" tvg-name="aaj-tak" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1114380993aaj_tak_mob___384x512.webp" group-title="FTA Channels", AAJ TAK
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10608/master.m3u8
+#https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7b044d82f0bc462b8be3e2dec0bf2bd2/index_6.m3u8
 
 #EXTINF:-1 tvg-id="10549" tvg-chno="272" tvg-name="abp-news" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1055584017ABP__mob___384x512.webp" group-title="FTA Channels", ABP NEWS
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10549/master.m3u8
+#https://abpmitv.akamaized.net/hls/live/2042842/abpnews/master_1080p.m3u8
 
 #EXTINF:-1 tvg-id="10595" tvg-chno="273" tvg-name="tv9-bharatvarsh" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1787540310TV_9__mob___384x512.webp" group-title="FTA Channels", TV9 BHARATVARSH
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10595/master.m3u8
+#https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2774c390ad884e06a7b0257c8489e23d/index_5.m3u8
 
 #EXTINF:-1 tvg-id="15306" tvg-chno="274" tvg-name="bharat-24" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1335619945BHARAT__24___mob___384x512.webp" group-title="FTA Channels", Bharat 24
 #KODIPROP:inputstream=inputstream.adaptive
@@ -3054,36 +3059,42 @@ https://in1.sunilprasad.com.np/wavespb/15306/master.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10539/master.m3u8
+#https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index_6.m3u8
 
 #EXTINF:-1 tvg-id="10546" tvg-chno="276" tvg-name="good-news-today" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1579634869GNT__mob___384x512.webp" group-title="FTA Channels", GOOD NEWS TODAY
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10546/master.m3u8
+#https://d2lk5u59tns74c.cloudfront.net/out/v1/75f3183e143240a29fbddd502a6a3f8d/index_5.m3u8
 
 #EXTINF:-1 tvg-id="10594" tvg-chno="277" tvg-name="ibc24" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1883776933IBC24___TV____720x960.webp" group-title="FTA Channels", IBC24
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10594/master.m3u8
+#https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0bfbd0b9de7f4407949202296560c0fe/index_1.m3u8
 
 #EXTINF:-1 tvg-id="10547" tvg-chno="278" tvg-name="india-today" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1245247643INDIA_TODAY_TV____384x512.webp" group-title="FTA Channels", INDIA TODAY
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10547/master.m3u8
+#https://d2lk5u59tns74c.cloudfront.net/out/v1/d4435039c7d1433d9b9d0b6cdc9dd4ff/index_6.m3u8
 
 #EXTINF:-1 tvg-id="14854" tvg-chno="279" tvg-name="india-tv-news" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1506549014India_TV_News____720x960.webp" group-title="FTA Channels", India TV News
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/14854/master.m3u8
+#https://vg-indiatvlive.akamaized.net/ptnr-waves/title-IndiaTV_MI_Waves/vglive-sk-394591/playlist_1.m3u8
 
 #EXTINF:-1 tvg-id="10585" tvg-chno="280" tvg-name="navbharat" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/410715399times_now_navbharat_____720x960.webp" group-title="FTA Channels", NAVBHARAT
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10585/master.m3u8
+#https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a5ee7c4e7a2a4b15a22a3bcf523b9776/index_2.m3u8
 
 #EXTINF:-1 tvg-id="10593" tvg-chno="281" tvg-name="ndtv-india" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1172695391NDTV_INDIA_TVW_720x960.webp" group-title="FTA Channels", NDTV INDIA
 #KODIPROP:inputstream=inputstream.adaptive
@@ -3096,18 +3107,21 @@ https://in1.sunilprasad.com.np/wavespb/10593/master.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10552/master.m3u8
+#https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index_5.m3u8
 
 #EXTINF:-1 tvg-id="10590" tvg-chno="283" tvg-name="news-18-india" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/68286256NEWS_18__mob___384x512.webp" group-title="FTA Channels", NEWS 18 INDIA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10590/master.m3u8
+#https://n18syndication-prasar-bharati.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8
 
 #EXTINF:-1 tvg-id="10554" tvg-chno="284" tvg-name="news-24-think-first" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1525787808NEWS_24___mob___384x512.webp" group-title="FTA Channels", NEWS 24 THINK FIRST
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10554/master.m3u8
+#https://bagnetwork.digivive.com/hlslive/Admin/px09241091/live/News24liveB/chunklist_0.m3u8
 
 #EXTINF:-1 tvg-id="10645" tvg-chno="285" tvg-name="raj-tv" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/336749630RAJ_TV____720x960.webp" group-title="FTA Channels", RAJ TV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -3126,78 +3140,91 @@ https://in1.sunilprasad.com.np/wavespb/10551/master.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10827/master.m3u8
+#https://d2lk5u59tns74c.cloudfront.net/out/v1/7e8b490d6b9c4013a3e3e874aa352212/index_4.m3u8
 
 #EXTINF:-1 tvg-id="11022" tvg-chno="288" tvg-name="sansad-tv-1" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/737787656sansad_tv_1_HD___384x512.webp" group-title="FTA Channels", SANSAD TV 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/11022/master.m3u8
+#https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index_5.m3u8
 
 #EXTINF:-1 tvg-id="11021" tvg-chno="289" tvg-name="sansad-tv-2" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/952763056sansad_tv_2HD___384x512.webp" group-title="FTA Channels", SANSAD TV 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/11021/master.m3u8
+#https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index_5.m3u8
 
 #EXTINF:-1 tvg-id="14582" tvg-chno="290" tvg-name="zee-news" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/2121812114ZEE_NEWS__720x960.webp" group-title="FTA Channels", Zee News
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/14582/master.m3u8
+#https://dt3lrqnyx3dks.cloudfront.net/index_57.m3u8
 
 #EXTINF:-1 tvg-id="10648" tvg-chno="291" tvg-name="abzy-dhakad" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1200604348ABZY_DHAKAD_TV____720x960.webp" group-title="FTA Channels", ABZY DHAKAD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10648/master.m3u8
+#https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index_3.m3u8
 
 #EXTINF:-1 tvg-id="10647" tvg-chno="292" tvg-name="abzy-movies" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/434886526ABZY_Movies__TV____720x960.webp" group-title="FTA Channels", ABZY Movies
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10647/master.m3u8
+#https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index_3.m3u8
 
 #EXTINF:-1 tvg-id="10543" tvg-chno="293" tvg-name="b4u-bhojpuri" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1075363785B4UBHOJPURI_TVSETS_TVW_720x960.webp" group-title="FTA Channels", B4U Bhojpuri
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10543/master.m3u8
+#https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/HD1080/HD1080.m3u8
 
 #EXTINF:-1 tvg-id="10544" tvg-chno="294" tvg-name="b4u-kadak" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1769340356KADAK_TVSETS_TVW_720x960.webp" group-title="FTA Channels", B4U KADAK
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10544/master.m3u8
+#https://cdnb4u.wiseplayout.com/B4U_Kadak/HD1080/HD1080.m3u8
 
 #EXTINF:-1 tvg-id="10548" tvg-chno="295" tvg-name="b4u-movies" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1487466742B4UMOVIES_TVSETS_TVW_720x960.webp" group-title="FTA Channels", B4U Movies
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10548/master.m3u8
+#https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8
 
 #EXTINF:-1 tvg-id="10598" tvg-chno="296" tvg-name="dabanng" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1638698552dabangTV___mob___384x512.webp" group-title="FTA Channels", DABANNG
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10598/master.m3u8
+#https://sablive-ddpb.akamaized.net/dabangg/dabangg_3000k.m3u8
 
 #EXTINF:-1 tvg-id="10542" tvg-chno="297" tvg-name="dd-bharati" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/261265808DD_BHARTI_______720x960.webp" group-title="FTA Channels", DD Bharati
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10542/master.m3u8
+#https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index_3.m3u8
 
 #EXTINF:-1 tvg-id="10574" tvg-chno="298" tvg-name="dd-national-hd" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/310398427DD_national__mob___384x512.webp" group-title="FTA Channels", DD National HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10574/master.m3u8
+#https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index_3.m3u8
 
 #EXTINF:-1 tvg-id="10596" tvg-chno="299" tvg-name="e24" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1715950932E24_TVW_720x960.webp" group-title="FTA Channels", E24
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10596/master.m3u8
+#https://bagnetwork.digivive.com/hlslive/Admin/px09241091/live/E24LiveB/chunklist_0.m3u8
 
 #EXTINF:-1 tvg-id="10932" tvg-chno="300" tvg-name="gangaur" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1615915601Gangaur_TV____720x960.webp" group-title="FTA Channels", Gangaur
 #KODIPROP:inputstream=inputstream.adaptive
@@ -3210,84 +3237,98 @@ https://in1.sunilprasad.com.np/wavespb/10932/master.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10649/master.m3u8
+#https://sablive-ddpb.akamaized.net/maiboli/maiboli_3000k.m3u8
 
 #EXTINF:-1 tvg-id="10553" tvg-chno="302" tvg-name="pitaara-movies" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1406677642PITARAMOVIES_TVSETS_TVW_720x960.webp" group-title="FTA Channels", PITAARA MOVIES
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10553/master.m3u8
+#https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/index_5.m3u8
 
 #EXTINF:-1 tvg-id="10556" tvg-chno="303" tvg-name="ptc-punjabi" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1414934314PTCPUNJABI_TVSETS_TVW_720x960.webp" group-title="FTA Channels", PTC PUNJABI
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10556/master.m3u8
+#https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index_5.m3u8
 
 #EXTINF:-1 tvg-id="10555" tvg-chno="304" tvg-name="ptc-punjabi-gold" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1276523660PTCPUNJABIGOLD_TVSETS_TVW_720x960.webp" group-title="FTA Channels", PTC PUNJABI GOLD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10555/master.m3u8
+#https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index_2.m3u8
 
 #EXTINF:-1 tvg-id="10545" tvg-chno="305" tvg-name="b4u-music" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1133093497B4U_Music_TVW_720x960.webp" group-title="FTA Channels", B4U Music
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10545/master.m3u8
+#https://cdnb4u.wiseplayout.com/B4U_Music/HD1080/HD1080.m3u8
 
 #EXTINF:-1 tvg-id="10651" tvg-chno="306" tvg-name="masti" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1289247853MASTI_TV___mob___384x512.webp" group-title="FTA Channels", MASTI
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10651/master.m3u8
+#https://sablive-ddpb.akamaized.net/mastii/mastii_poc_3500k.m3u8
 
 #EXTINF:-1 tvg-id="15037" tvg-chno="307" tvg-name="ptc-music" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1674728606PTC_MUSIC______720x960.webp" group-title="FTA Channels", PTC MUSIC
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/15037/master.m3u8
+#https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index_4.m3u8
 
 #EXTINF:-1 tvg-id="10605" tvg-chno="308" tvg-name="9x-jalwa" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/7812127779x_jalwa__mob___384x512.webp" group-title="FTA Channels", 9X JALWA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10605/master.m3u8
+#https://wiselp.wiseplayout.com/9X_Jalwa/HD1080/HD1080.m3u8
 
 #EXTINF:-1 tvg-id="10606" tvg-chno="309" tvg-name="9x-jhakaas" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/18845391659x_JHAKAAS__mob___384x512.webp" group-title="FTA Channels", 9X JHAKAAS
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10606/master.m3u8
+#https://wiselp.wiseplayout.com/9X_Jhakaas/HD1080/HD1080.m3u8
 
 #EXTINF:-1 tvg-id="10607" tvg-chno="310" tvg-name="9x-tashan" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/14041644189x_Tashan__mob___384x512.webp" group-title="FTA Channels", 9X TASHAN
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10607/master.m3u8
+#https://wiselp.wiseplayout.com/9X_Tashan/HD1080/HD1080.m3u8
 
 #EXTINF:-1 tvg-id="10591" tvg-chno="311" tvg-name="9xm" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/11112553419xm___384x512.webp" group-title="FTA Channels", 9XM
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10591/master.m3u8
+#https://wiselp.wiseplayout.com/9XM/HD1080/HD1080.m3u8
 
 #EXTINF:-1 tvg-id="10550" tvg-chno="312" tvg-name="divya" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1014643382DIVYA_TVSETS_TVW_720x960.webp" group-title="FTA Channels", DIVYA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10550/master.m3u8
+#https://d2lk5u59tns74c.cloudfront.net/out/v1/40f46fa036df45ee9d28b6eda42eb27c/index_5.m3u8
 
 #EXTINF:-1 tvg-id="10610" tvg-chno="313" tvg-name="sanskar" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1596768461sanskar__mob___384x512.webp" group-title="FTA Channels, Sanskar
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10610/master.m3u8
+#https://d2lk5u59tns74c.cloudfront.net/out/v1/bc57af15b4df4200af5fa4c1d6ab0a72/index_5.m3u8
 
 #EXTINF:-1 tvg-id="10611" tvg-chno="314" tvg-name="satsang" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1682838178satsang______720x960.webp" group-title="FTA Channels, SATSANG
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10611/master.m3u8
+#https://d2lk5u59tns74c.cloudfront.net/out/v1/e903e03c2b414ee0b74db68d7779ccad/index_5.m3u8
 
 #EXTINF:-1 tvg-id="10574" tvg-chno="315" tvg-name="dd-national-hd" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/310398427DD_national__mob___384x512.webp" group-title="FTA Channels", DD National HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -3324,12 +3365,14 @@ https://in1.sunilprasad.com.np/wavespb/10569/master.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10540/master.m3u8
+#https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index_2.m3u8
 
 #EXTINF:-1 tvg-id="10570" tvg-chno="321" tvg-name="dd-urdu" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1423354137DD_URDU______720x960.webp" group-title="FTA Channels", DD URDU
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10570/master.m3u8
+#https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/9b91e9007e754db39a8b32c6bfc5b24a/index_3.m3u8
 
 #EXTINF:-1 tvg-id="10583" tvg-chno="322" tvg-name="dd-madhyapradesh" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/584732940DD_MADHYAPRADESH__TV___mob___384x512.webp" group-title="FTA Channels", DD MADHYAPRADESH
 #KODIPROP:inputstream=inputstream.adaptive
