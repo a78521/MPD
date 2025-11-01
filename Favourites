@@ -664,63 +664,68 @@ https://fl7.moveonjoy.com/W_NETWORK/index.m3u8
 
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SonyLiv",Sony HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://topsports.watch/sonyliv/stream.php?id=sony-hd&format=.m3u8
+https://dishmt.joker-verse.workers.dev/hls/live/2011671/SETHD/master.m3u8
 
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="SonyLiv",Sab HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://topsports.watch/sonyliv/stream.php?id=sony-sab-hd&format=.m3u8
+https://dishmt.joker-verse.workers.dev/hls/live/2011749/SABHD/master.m3u8
 
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="SonyLiv",Sony Max HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://topsports.watch/sonyliv/stream.php?id=sony-max-hd&format=.m3u8
+https://dishmt.joker-verse.workers.dev/hls/live/2011670/SonyMaxhd/master.m3u8
 
 #EXTINF:0, tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="SonyLiv",Sony Max 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://topsports.watch/sonyliv/stream.php?id=sony-max-2&format=.m3u8
+https://dishmt.joker-verse.workers.dev/hls/live/2011908/MAX2/master.m3u8
 
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="SonyLiv",Sony Pal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://topsports.watch/sonyliv/stream.php?id=sony-pal&format=.m3u8
+https://dishmt.joker-verse.workers.dev/hls/live/2011741/SonyPalSD/master.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="SonyLiv",Sony Kal
 https://sony-sonykal-gn-1-us.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="SonyLiv",Sony Wah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://topsports.watch/sonyliv/stream.php?id=sony-wah&format=.m3u8
+https://dishmt.joker-verse.workers.dev/hls/live/2011906/SonyWah/master.m3u8
 
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="SonyLiv",Sony YaY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://topsports.watch/sonyliv/stream.php?id=sony-yay&format=.m3u8
+https://dishmt.joker-verse.workers.dev/hls/live/2011746/SonyYaySD/master.m3u8
 
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="SonyLiv",Sony BBC Earth HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://topsports.watch/sonyliv/stream.php?id=sony-bbc-earth-hd&format=.m3u8
+https://dishmt.joker-verse.workers.dev/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="SonyLiv",Sony Pix HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://topsports.watch/sonyliv/stream.php?id=sony-pix-hd&format=.m3u8
+https://dishmt.joker-verse.workers.dev/hls/live/2011748/PIXHD/master.m3u8
 
 
 #EXTINF:0, tvg-logo="https://c.evchannel_idon.com/pub_logos/2796-2021122219404475.png" group-title="SonyLiv",Sony Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://dai.google.com/ssai/event/noB3YwyRQVm5K-y_47MrBA/master.m3u8
+
 
 #EXTINF:0, tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="SonyLiv",Ten 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://topsports.watch/sonyliv/stream.php?id=sony-ten-1-hd&format=.m3u8
+https://dishmt.joker-verse.workers.dev//hls/live/2011747/TEN1HD/master.m3u8
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_Sporm3u8Ten2_HD_Logo_CLR.png" group-title="SonyLiv",Ten 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://topsports.watch/sonyliv/stream.php?id=sony-ten-2-hd&format=.m3u8
+https://dishmt.joker-verse.workers.dev/hls/live/2020434/TEN2HD/master.m3u8
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_Sporm3u8Ten3_HD_Logo_CLR.png" group-title="SonyLiv",Ten 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://topsports.watch/sonyliv/stream.php?id=sony-ten-3-hd&format=.m3u8
+https://dishmt.joker-verse.workers.dev/hls/live/2020591/TEN3HD/master.m3u8
 #EXTINF:0, tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_Sporm3u8Ten4_HD_Logo_CLR.png" group-title="SonyLiv",Ten 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://topsports.watch/sonyliv/stream.php?id=sony-ten-4-hd&format=.m3u8
+https://dishmt.joker-verse.workers.dev/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:0, tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_Sporm3u8Ten5_HD_Logo_CLR.png" group-title="SonyLiv",Ten 5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://topsports.watch/sonyliv/stream.php?id=sony-ten-5-hd&format=.m3u8
+https://dishmt.joker-verse.workers.dev/hls/live/2020593/SONYSIXHD/master.m3u8
+
+
+#EXTINF:0, tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="SonyLiv",Sony Max SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://dishmt.joker-verse.workers.dev/hls/live/2011745/SonyMaxSD/master.m3u8
 
 
 
