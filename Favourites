@@ -676,11 +676,15 @@ https://damso2e2yhynu.cloudfront.net/master.m3u8
 https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8
 
 
-
-#EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/099260397.jpeg" group-title="International News",CNA
-http://d2e1asnsl7br7b.cloudfront.net/4c152bfc7ad2463d928bfbec0990eaeb/index.m3u8
 #EXTINF:0, tvg-logo="" group-title="International News",BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/099260397.jpeg" group-title="International News",CNA
+http://d2e1asnsl7br7b.cloudfront.net/4c152bfc7ad2463d928bfbec0990eaeb/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/Euronews/euronews_logo_resized_400x200_updated.png" group-title="International News",Euro News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg00882-amg00882c2-lg-in-5560.playouts.now.amagi.tv/playlist/amg00882-euronewsfast-euronewseng-lgin/playlist.m3u8
+
 #EXTINF:0, tvg-logo="" group-title="International News",Sky News
 https://d25w9q07b2mtmw.cloudfront.net/live/master_4.m3u8
 
@@ -755,13 +759,25 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991756/hls/master.m3u8?includeAsset
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Z Bolly Movies
 https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Z Comedy Nights
+
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png" group-title="Movies",Zee Cine Classic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcomedynation.png" group-title="Movies",Zee Comedy Nation
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Z Dil Se
+
+#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Zee_Dil_Se.png" group-title="Movies",Zee Dil Se
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Z Horror Nights
+
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zhornights.png" group-title="Movies",Zee Horror Nights
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Z South Flix
+
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png" group-title="Movies",Zee South Flix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
 
 
@@ -772,6 +788,8 @@ https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-a
 https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:0, tvg-logo="" group-title="Hindi Entertainment",TV Asia
 https://amg00206-amg00206c1-distrotv-us-6886.playouts.now.amagi.tv/24-25-6886.m3u8
+#EXTINF:0, tvg-logo="https://d3s2p39m306u7r.cloudfront.net/atrangii/LG/Atrangii_FullandFinal.png" group-title="Hindi Entertainment",Atrangi
+https://amg13343-amg13343c1-amgplt0173.playout.now3.amagi.tv/playlist/amg13343-amg13343c1-amgplt0173/playlist.m3u8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10598.jpg" group-title="Hindi Entertainment",Dabangg
 https://sablive-ddpb.akamaized.net/dabangg/playlist.m3u8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10649.jpg" group-title="Hindi Entertainment",Maiboli
@@ -808,7 +826,7 @@ https://samacar.hk.harekrsnatv.com/harekrsna/tv/chunks.m3u8
 #EXTINF:0, tvg-logo="" group-title="Devotional",Kalyan TV
 https://ott.livelegitpro.in/kalyantv/index.m3u8
 #EXTINF:0, tvg-logo="" group-title="Devotional",Kartavya TV HD
-https://ott.livelegitpro.in/lakshayatv/lakshayatv/index.m3u8
+
 #EXTINF:0, tvg-logo="" group-title="Devotional",Lakshya TV
 https://ott.livelegitpro.in/lakshayatv/lakshayatv/index.m3u8
 #EXTINF:0, tvg-logo="" group-title="Devotional",Santvani TV
