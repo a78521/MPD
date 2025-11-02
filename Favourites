@@ -97,9 +97,17 @@ https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Nat%20Geo%20Wi
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports 1 HD
+http://87.255.35.150:18891
+#http://116.90.120.149:8000/play/a0je
+#http://116.90.120.149:8000/play/a0gs
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports 1 Hindi HD
+http://87.255.35.150:18302
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports 2 HD
-https://mini.allinonereborn.fun/jiotv-in/app/ts_live_1984.m3u8
+http://87.255.35.150:18828
+#https://mini.allinonereborn.fun/jiotv-in/app/ts_live_1984.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports Select 1 HD
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports Select 2 HD
