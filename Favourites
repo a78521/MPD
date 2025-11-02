@@ -104,8 +104,15 @@ https://mini.allinonereborn.fun/jiotv-in/app/ts_live_1984.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports Select 2 HD
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Astro Cricket
+https://smart.bengaldigital.live/AstroCricket/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Eurosports HD
 https://mini.allinonereborn.fun/jiotv-in/app/ts_live_875.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Fox 501 HD
+https://hugh.cdn.rumble.cloud/live/hr6yv36f/slot-33/4gs2-f72z/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Fox 505 HD
+https://hugh.cdn.rumble.cloud/live/k5e12sb4/slot-101/v594-ykwe/index.m3u8
 
 
 #EXTINF:-1 tvg-id="8" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starplushd.png" group-title="Temp",Star Plus HD
