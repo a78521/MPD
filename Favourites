@@ -125,21 +125,27 @@ https://hugh.cdn.rumble.cloud/live/k5e12sb4/slot-101/v594-ykwe/index.m3u8
 
 #EXTINF:-1 tvg-id="8" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starplushd.png" group-title="Temp",Star Plus HD
 
-#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Temp",Star Plus UK
-https://allinonereborn.xyz/airteltv-web/live.php?id=276912
 #EXTINF:-1 tvg-id="star-bharat-hd" tvg-logo="https://live.dinesh29.com.np/logos/star-bharat-hd.png" group-title="Temp",Star Bharat HD
-https://allinonereborn.xyz/airteltv-web/live.php?id=276909
+http://87.255.35.150:18555
 #EXTINF:-1 tvg-id="star-gold-hd" tvg-logo="https://live.dinesh29.com.np/logos/star-gold-hd.png" group-title="Temp",Star Gold HD
 https://allinonereborn.xyz/airteltv-web/live.php?id=276910
 #EXTINF:-1 tvg-id="star-gold-select-hd" tvg-logo="https://live.dinesh29.com.np/logos/star-gold-select-hd.png" group-title="Temp",Star Gold Select HD
-
+http://87.255.35.150:18429
+#EXTINF:-1 tvg-id="star-gold-select-hd" tvg-logo="" group-title="Temp",Star Movies HD
+http://87.255.35.150:18301
+#EXTINF:-1 tvg-id="star-gold-select-hd" tvg-logo="" group-title="Temp",Star Movies Select HD
+http://87.255.35.150:18548
 
 #EXTINF:-1 tvg-id="colors-hd" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Temp",Colors HD
 https://mini.allinonereborn.fun/jiotv-in/app/ts_live_144.m3u8
+#http://87.255.35.150:18890
+
 #EXTINF:-1 tvg-id="cineplex-hd" tvg-logo="https://live.dinesh29.com.np/logos/cineplex-hd.png" group-title="Temp",Colors Cineplex HD
 https://mini.allinonereborn.fun/jiotv-in/app/ts_live_1477.m3u8
 #EXTINF:-1 tvg-id="187" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/colorsinfinityhd.png" group-title="Temp",Colors Infinity HD
 https://mini.allinonereborn.fun/jiotv-in/app/ts_live_1158.m3u8
+#http://87.255.35.150:18838
+
 #EXTINF:-1 tvg-logo="https://live.dinesh29.com.np/logos/tataplay/mtvhd.png" group-title="Temp",MTV HD
 https://mini.allinonereborn.fun/jiotv-in/app/ts_live_1145.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Temp",CN HD+
@@ -156,6 +162,9 @@ https://allinonereborn.xyz/airteltv-web/live.php?id=276934
 https://allinonereborn.xyz/airteltv-web/live.php?id=276933
 #EXTINF:-1 tvg-id="1183" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/andxplorhd.png" group-title="Temp",&Xplor HD
 
+#EXTINF:-1 tvg-id="1183" tvg-logo="" group-title="Temp",&Prive HD
+http://87.255.35.150:18494
+
 #EXTINF:-1 tvg-id="666" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/tataplaytheatrehd.png" group-title="Temp",Tata Play Theatre HD
 
 
@@ -167,7 +176,7 @@ https://allinonereborn.xyz/airteltv-web/live.php?id=276915
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://live.dinesh29.com.np/logos/sony-sab-hd.png" group-title="Temp",Sony Sab HD
 https://allinonereborn.xyz/airteltv-web/live.php?id=276920
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://live.dinesh29.com.np/logos/sony-max-hd.png" group-title="Temp",Sony Max HD
-https://allinonereborn.xyz/airteltv-web/live.php?id=276916
+http://87.255.35.150:18851
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Temp",Sony Pix HD
 https://allinonereborn.xyz/airteltv-web/live.php?id=276918
 
@@ -741,15 +750,28 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/in
 #EXTINF:-1 tvg-id="MBCBollywood.ae@SD" tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="Movies",MBC Bollywood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Xumo Bollywood Cinema
+https://dbrb49pjoymg4.cloudfront.net/10001/99991756/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991756
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Z Bolly Movies
+https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Z Comedy Nights
+https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Z Dil Se
+https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Z Horror Nights
+https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Z South Flix
+https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
 
 
 
 
 
-
-
-
-
+#EXTINF:0, tvg-logo="" group-title="Hindi Entertainment",&TV HD
+https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+#EXTINF:0, tvg-logo="" group-title="Hindi Entertainment",TV Asia
+https://amg00206-amg00206c1-distrotv-us-6886.playouts.now.amagi.tv/24-25-6886.m3u8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10598.jpg" group-title="Hindi Entertainment",Dabangg
 https://sablive-ddpb.akamaized.net/dabangg/playlist.m3u8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10649.jpg" group-title="Hindi Entertainment",Maiboli
