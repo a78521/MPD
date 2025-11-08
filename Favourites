@@ -311,22 +311,6 @@ https://xfireflix.fun/file/opplex/stream.m3u8?id=167575&e=.m3u8
 
 
 
-
-#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Playon",Zee Cinema HD
-https://playyonogames.in/z5/stream.m3u8?id=0-9-zeecinemahd|Referer=https://oxolive.com/
-#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Playon",TLC HD
-https://playyonogames.in/live.php?id=479&format=.m3u8|Referer=https://playyonogames.in/
-#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Playon",History TV HD
-https://playyonogames.in/live.php?id=578&format=.m3u8|Referer=https://playyonogames.in/
-#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Playon",Discovery HD
-https://playyonogames.in/live.php?id=573&format=.m3u8|Referer=https://playyonogames.in/
-#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Playon",Animal Planet HD
-https://playyonogames.in/live.php?id=566&format=.m3u8|Referer=https://playyonogames.in/
-#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Playon",Rongeen TV
-https://otttv.co.in/d2h/livestream/rongeen-tv/master.m3u8|Referer=https://otttv.co.in/
-
-
-
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10574.jpg" group-title="Doordarshan",DD National HD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
 #EXTINF:-1 tvg-id="10539" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1194248787Frame_1597877919.webp" group-title="Doordarshan", DD INDIA
@@ -756,47 +740,65 @@ https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/desi_tashan.jpg" group-title="Hindi Music",Desi Tashan
 https://cloudcdn.in/livetv/DesiTashan/index.m3u8
 
-#EXTINF:0, tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/B4UMOV/TV/thumbnail/d4287ab1-409a-4afb-9e92-57f185f83bda.png" group-title="Movies",B4U Movies
+#EXTINF:0, tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/B4UMOV/TV/thumbnail/d4287ab1-409a-4afb-9e92-57f185f83bda.png" group-title="Hindi Movies",B4U Movies
 https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
-#EXTINF:0, tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/B4UKAD/TV/thumbnail/03b91d0d-88bf-4dce-89fe-70f9fcf78b95.png" group-title="Movies",B4U Kadak
+#EXTINF:0, tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/B4UKAD/TV/thumbnail/03b91d0d-88bf-4dce-89fe-70f9fcf78b95.png" group-title="Hindi Movies",B4U Kadak
 https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
 
-#EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10647.jpg" group-title="Movies",Abzy Movies
+#EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10647.jpg" group-title="Hindi Movies",Abzy Movies
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8
-#EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10648.jpg" group-title="Movies",Abzy Dhakhad
+#EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10648.jpg" group-title="Hindi Movies",Abzy Dhakhad
 https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8
 
-#EXTINF:0, tvg-logo="" group-title="Movies",Big Star Bollywood
+#EXTINF:0, tvg-logo="" group-title="Hindi Movies",Big Star Bollywood
 https://amigofx.com:1936/bigstarmovie/bigstarmovie/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MBCBollywood.ae@SD" tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="Movies",MBC Bollywood
+#EXTINF:-1 tvg-id="MBCBollywood.ae@SD" tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="Hindi Movies",MBC Bollywood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Xumo Bollywood Cinema
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",Xumo Bollywood Cinema
 https://dbrb49pjoymg4.cloudfront.net/10001/99991756/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991756
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Z Bolly Movies
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",Z Bolly Movies
 https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png" group-title="Movies",Zee Cine Classic
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png" group-title="Hindi Movies",Zee Cine Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcomedynation.png" group-title="Movies",Zee Comedy Nation
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcomedynation.png" group-title="Hindi Movies",Zee Comedy Nation
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Zee_Dil_Se.png" group-title="Movies",Zee Dil Se
+#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Zee_Dil_Se.png" group-title="Hindi Movies",Zee Dil Se
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zhornights.png" group-title="Movies",Zee Horror Nights
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zhornights.png" group-title="Hindi Movies",Zee Horror Nights
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png" group-title="Movies",Zee South Flix
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png" group-title="Hindi Movies",Zee South Flix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="English Movies",Xumo Free Her Movies
+https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992291
+#EXTINF:-1 tvg-logo="" group-title="English Movies",Xumo Free Comedy Movies
+https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992292
+#EXTINF:-1 tvg-logo="" group-title="English Movies",Xumo Free Movies
+https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992293
+#EXTINF:-1 tvg-logo="" group-title="English Movies",Xumo Free Westeners
+https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992299
+#EXTINF:-1 tvg-logo="" group-title="English Movies",Xumo Free Action Movies
+https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992300
+#EXTINF:-1 tvg-logo="" group-title="English Movies",Xumo Free Horror & Thriller Movies
+https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992301
+#EXTINF:-1 tvg-logo="" group-title="English Movies",Xumo Free Black Cinema
+https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992302
+
+
 
 
 
@@ -875,7 +877,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/in
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
 #EXTINF:-1 tvg-id="15037" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/2073643161PTC-Music.webp" group-title="Punjabi Music", PTC MUSIC
 https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
-#EXTINF:0, tvg-logo="" group-title="Punjabi Music",PTC Simran
+#EXTINF:0, tvg-logo="" group-title="Punjabi Devotional",PTC Simran
 https://d3kdywbtdfbp9z.cloudfront.net/v1/master/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/index.m3u8?aws.sessionId=c4509884-d559-41b5-b902-ce399466f69d
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/417479419.jpeg" group-title="Punjabi Music",Just In
 http://209.52.98.98/justintv/index.m3u8
