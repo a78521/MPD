@@ -1892,20 +1892,13 @@ https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=1763
 #KODIPROP:inputstream.adaptive.license_key=b9d4acedc66c5660a1e06197a55bccd2:dd53bab1a42f41ae8f0a5c8fd286f456
 https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=1477
 
-#EXTINF:-1 tvg-id="463" tvg-name="Discovery HD World" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_HD_World.png",Discovery HD World
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce16454b1fc85beab2f807af176046bb:ff67cca83c770daa6dc9c295cc76564f
-https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=463
 
 #EXTINF:-1 tvg-id="286" tvg-name="Animal Planet HD World" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_HD.png",Animal Planet HD World
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e5b244dece4589e8cb63c3f78599b8b:d0bf0aea980e46b12a38f8004505e2fe
 https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=286
 
-#EXTINF:-1 tvg-id="566" tvg-name="Animal Planet Hindi" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png",Animal Planet Hindi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ead5a173062a584c85fcdfcfdda3ddf5:4c799a57db355c7cdfbdbf2ad39ec7fe
-https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=566
+
 
 
 #EXTINF:-1 tvg-id="412" tvg-name="Wion" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Wion.png" group-title="Jiostar",Wion
@@ -1925,6 +1918,11 @@ https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=440
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=441
 https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=441
+
+#EXTINF:-1 tvg-id="463" tvg-name="Discovery HD World" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_HD_World.png",Discovery HD World
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce16454b1fc85beab2f807af176046bb:ff67cca83c770daa6dc9c295cc76564f
+https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=463
 
 #EXTINF:-1 tvg-id="479" tvg-name="TLC HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TLC_HD_World.png" group-title="Jiostar",TLC HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1949,3 +1947,8 @@ https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=485
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=486
 https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=486
+
+#EXTINF:-1 tvg-id="566" tvg-name="Animal Planet Hindi" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png",Animal Planet Hindi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ead5a173062a584c85fcdfcfdda3ddf5:4c799a57db355c7cdfbdbf2ad39ec7fe
+https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=566
