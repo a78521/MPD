@@ -1598,7 +1598,7 @@ https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=212
 #EXTINF:-1 tvg-id="231" tvg-name="News 18 India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/IBN_7.png" group-title="Jiostar",News 18 India
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=231
+#KODIPROP:inputstream.adaptive.license_key=b9d4acedc66c5660a1e06197a55bccd2:dd53bab1a42f41ae8f0a5c8fd286f456
 https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=231
 
 #EXTINF:-1 tvg-id="235" tvg-name="India TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_TV.png" group-title="Jiostar",India TV
@@ -1606,6 +1606,12 @@ https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=231
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=235
 https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=235
+
+#EXTINF:-1 tvg-id="242" tvg-name="Discovery" tvg-logo="" group-title="Jiostar",Discovery
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a77c9893335a5c7da2b32343d0dfff50:26d646a63b8b006dd1317ce69e2132e6
+https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=242
 
 #EXTINF:-1 tvg-id="248" tvg-name="MTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV.png" group-title="Jiostar",MTV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1637,7 +1643,7 @@ https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=258
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=259
 https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=259
 
-#EXTINF:-1 tvg-id="279" tvg-name="Rishtey" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rishtey.png" group-title="Jiostar",Rishtey
+#EXTINF:-1 tvg-id="279" tvg-name="Rishtey" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rishtey.png" group-title="Jiostar",Colors Rishtey
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=279
@@ -1791,6 +1797,11 @@ https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=712
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea48cf7b24dd54dd98c369626b9ad105:ee5778d627dfae2c2affc02d76e8db6c
 https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=816
+
+#EXTINF:-1 tvg-id="817" tvg-name="Cartoon Network" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network Hindi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dfdcfe466f865e51ac6b9345a03478fc:4cfddb414841586f0f992f2810ec2931
+https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=817
 
 #EXTINF:-1 tvg-id="831" tvg-name="Living India" group-title="Jiostar" tvg-logo="",Living India
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2018,6 +2029,41 @@ https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=1450
 #KODIPROP:inputstream.adaptive.license_key=b9d4acedc66c5660a1e06197a55bccd2:dd53bab1a42f41ae8f0a5c8fd286f456
 https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=1477
 
+#EXTINF:-1 tvg-id="1780" tvg-name="Hoopla Kidz TV" group-title="Jiostar" tvg-logo="",Hoopla Kidz TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbd95fc6a9e453f0a47c5765a6a50124:533ca1d6c99de08b40e3110329ed077a
+https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=1780
+
+#EXTINF:-1 tvg-id="1795" tvg-name="Jio Live" group-title="Jiostar" tvg-logo="",Jio Live
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a88f5047ab3458b4a662dc31e54f9339:21065f6f0045d1e60fe6e403338a61cc
+https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=1795
+
+#EXTINF:-1 tvg-id="1798" tvg-name="Pasand" group-title="Jiostar" tvg-logo="",Pasand
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8d2af0fef385958978524be4a7957fd:0447f0f7470b61c28867f10259cd22a5
+https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=1798
+
+#EXTINF:-1 tvg-id="1834" tvg-name="Green Chillies" group-title="Jiostar" tvg-logo="",Green Chillies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b2918958cf7f50dabf4f693e37f94d60:78ec5e5cca4c9e2b77f8ba814452ac61
+https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=1834
+
+#EXTINF:-1 tvg-id="1883" tvg-name="Pogo" group-title="Jiostar" tvg-logo="",Pogo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d19984624fc15209b3cb5cf3bf99232f:baca6aa9494ed43cf02975eda742eeab
+https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=1883
+
+#EXTINF:-1 tvg-id="1906" tvg-name="Times Now Navbharat" group-title="Jiostar" tvg-logo="",Times Now Navbharat
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b9d4acedc66c5660a1e06197a55bccd2:dd53bab1a42f41ae8f0a5c8fd286f456
+https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=1906
+
+#EXTINF:-1 tvg-id="1961" tvg-name="Shemaroo TV" group-title="Jiostar" tvg-logo="",Shemaroo TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca5769c7002a5baaa1a7213fb5b702f1:ca9b74278d4ab34a04dbeef64bc5e6dd
+https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=1961
+
 
 #EXTINF:-1 tvg-id="1984" group-title="Sports" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/2QTUuuBj.png",Star Sports 2 Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2038,7 +2084,11 @@ https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=1985
 https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=1998
 
 
-
+#EXTINF:-1 tvg-id="2252" group-title="Sports" tvg-logo="",Merchant Records
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e5c53427c790509ca9bf36e49b60b9fe:01705766fa40219ff290c2685e71a300
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
+https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=2252
 
 
 
