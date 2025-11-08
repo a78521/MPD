@@ -1557,6 +1557,27 @@ https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=1391
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=1392
 
+#EXTINF:-1 tvg-id="554" tvg-name="Discovery Kids" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Kids_2.png",Discovery Kids 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e921b8507a5e5cd1bb4433b3fd1f5e0a:037835bab43e7ef4a41a97c638cd9c1d
+https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=554
+
+
+#EXTINF:-1 tvg-id="559" tvg-name="Pogo Hindi" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Hindi.png",Pogo Hindi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b967f351139503a88b1d1945203150b:c3e26279cc513e13154958f934141dc0
+https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=559
+
+#EXTINF:-1 tvg-id="816" tvg-name="Cartoon Network Hindi" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network Hindi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea48cf7b24dd54dd98c369626b9ad105:ee5778d627dfae2c2affc02d76e8db6c
+https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=816
+
+#EXTINF:-1 tvg-id="545" tvg-name="Nick Hindi" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Hindi.png",Nick Hindi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fc128a8dcc751829ec7ed9c678ecb6f:95f49d83ad11868e15e64baf5dec62ac
+https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=545
+
 
 #EXTINF:-1 tvg-id="1116" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Plus.png",Star Plus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1606,6 +1627,11 @@ https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=1154
 #KODIPROP:inputstream.adaptive.license_key=e6afa4754bc15dd28ab6806f417d319d:6a74ef2884813547109ee96098610387
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=1155
+
+#EXTINF:-1 tvg-id="1153" tvg-name="Star Gold Thrills" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Thrills.png",Star Gold Thrills
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=189ccd629ff25ec1adc2e34d49b186eb:fd102ddbd3844b55b70c6aa23dbd212b
+https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=1153
 
 #EXTINF:-1 tvg-id="1127" group-title="Jiostar" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_BHARAT/images/LOGO_HD/image.png",Star Bharat
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1723,4 +1749,41 @@ https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=1143
 #KODIPROP:inputstream.adaptive.license_key=1faf9c42dfe45669a70c470359886145:5a229a5f6f270c880b24014bf3cd6ee7
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=1136
+
+#EXTINF:-1 tvg-id="144" tvg-name="Colors HD" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9025bf5bbe6502cab58edaa0b50750b:91b5ca6ebefe3a977cb6fcae31868664
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux; Android 13) ExoPlayerLib/2.11.7
+https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=144
+
+#EXTINF:-1 tvg-id="1450" tvg-name="Colors Cineplex Superhit" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png",Colors Cineplex Superhit
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=234f3bf300e75c93a3825d54b1c0520b:53a4b6981fb1872c0ad4d197066e8c1f
+https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=1450
+
+
+#EXTINF:-1 tvg-id="1763" tvg-name="Colors Cineplex Bollywood" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png",Colors Cineplex Bollywood
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=061b3f55b6695e978b208f5117e609ee:9a6da304db8cfb545805d3152a5d66ed
+https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=1763
+
+#EXTINF:-1 tvg-id="1477" tvg-name="Colors Cineplex HD" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png",Colors Cineplex HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b9d4acedc66c5660a1e06197a55bccd2:dd53bab1a42f41ae8f0a5c8fd286f456
+https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=1477
+
+#EXTINF:-1 tvg-id="463" tvg-name="Discovery HD World" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_HD_World.png",Discovery HD World
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce16454b1fc85beab2f807af176046bb:ff67cca83c770daa6dc9c295cc76564f
+https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=463
+
+#EXTINF:-1 tvg-id="286" tvg-name="Animal Planet HD World" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_HD.png",Animal Planet HD World
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e5b244dece4589e8cb63c3f78599b8b:d0bf0aea980e46b12a38f8004505e2fe
+https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=286
+
+#EXTINF:-1 tvg-id="566" tvg-name="Animal Planet Hindi" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png",Animal Planet Hindi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ead5a173062a584c85fcdfcfdda3ddf5:4c799a57db355c7cdfbdbf2ad39ec7fe
+https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=566
 
