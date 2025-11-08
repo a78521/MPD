@@ -123,6 +123,21 @@ https://hugh.cdn.rumble.cloud/live/hr6yv36f/slot-33/4gs2-f72z/chunklist.m3u8
 https://hugh.cdn.rumble.cloud/live/k5e12sb4/slot-101/v594-ykwe/index.m3u8
 
 
+#EXTINF:-1 tvg-id="147" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Mac", Sony PIX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
+#KODIPROP:http-referer=http:///stalker_portal/c/
+http://webhop.live:80/live/haPPy/haPPy123/147.ts|User-Agent=
+#EXTINF:-1 tvg-id="222" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Mac", Sony BBC Earth HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
+#KODIPROP:http-referer=http:///stalker_portal/c/
+http://webhop.live:80/live/haPPy/haPPy123/222.ts|User-Agent=
+#EXTINF:-1 tvg-id="98872" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="IMac",Discovery HD World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
+#KODIPROP:http-referer=http:///stalker_portal/c/
+http://webhop.live:80/live/haPPy/haPPy123/98872.ts|User-Agent=
+
+
+
 #EXTINF:-1 tvg-id="8" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starplushd.png" group-title="Temp",Star Plus HD
 
 #EXTINF:-1 tvg-id="star-bharat-hd" tvg-logo="https://live.dinesh29.com.np/logos/star-bharat-hd.png" group-title="Temp",Star Bharat HD
