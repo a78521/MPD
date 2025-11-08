@@ -1724,16 +1724,3 @@ https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=1143
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=1136
 
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
-#EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-select-1-hd.webp" group-title="Jiostar",Star Sports Select 1 HD
-#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1762145408~acl=*ssselecthd1*~id=70e567463bffe2cfd1a4865d2732cab3~data=hdntl~hmac=8ebee22af5ea1039db0434f85db0c85fc2347b9760caec26f490eb426c1411a1","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
-https://livetv-push.hotstar.com:443/dash/live/2002470-b/ssselecthd1wv/master.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
-#EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-select-2-hd.webp" group-title="Jiostar",Star Sports Select 2 HD
-#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1762145408~acl=*ssselecthd2*~id=f7c150777c751740775ce458b85fd4a7~data=hdntl~hmac=e32fd9f97292a4a397c5e6ed2649feae56b8eeabbbb3a869d78e433c258ccabf","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
-https://livetv-push.hotstar.com:443/dash/live/2002471-b/ssselecthd2wv/master.mpd
-
