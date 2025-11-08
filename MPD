@@ -1550,7 +1550,7 @@ https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=173
 #EXTINF:-1 tvg-id="177" tvg-name="ABP News India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="Jiostar",ABP News India
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=177
+#KODIPROP:inputstream.adaptive.license_key=177a4826f7395b3cbcc7c6f94f495f52:db77e50ed2b92483b416f914e1e118df
 https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=177
 
 #EXTINF:-1 tvg-id="182" tvg-name="B4U Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="Jiostar",B4U Movies
