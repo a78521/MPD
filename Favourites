@@ -900,8 +900,8 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/in
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
 #EXTINF:-1 tvg-id="15037" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/2073643161PTC-Music.webp" group-title="Punjabi Music", PTC MUSIC
 https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
-#EXTINF:0, tvg-logo="" group-title="Punjabi Devotional",PTC Simran
-https://d3kdywbtdfbp9z.cloudfront.net/v1/master/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/index.m3u8?aws.sessionId=c4509884-d559-41b5-b902-ce399466f69d
+#EXTINF:0, tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/848111902PTC_SIMRAN____TV__TVW______720x405.webp" group-title="Punjabi Devotional",PTC Simran
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3bc92ffb55814535801f929a1ac96c57/index.m3u8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/417479419.jpeg" group-title="Punjabi Music",Just In
 http://209.52.98.98/justintv/index.m3u8
 
@@ -1134,6 +1134,39 @@ https://ott.livelegitpro.in:9899/sudarshannews/sudarshannews/index.m3u8
 https://server.thelegitpro.in/tnpnews/tnpnews/index.m3u8
 #EXTINF:0, tvg-logo="" group-title="Local News",TV 45 News
 https://server.livelegitpro.in/bnews24/bnews24/index.m3u8
+
+
+
+#EXTINF:0, tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/19829495741103500801WhatsApp_Image_2025-07-10_at_11__3_.webp" group-title="Radio",FM Gold Hindi
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio00564kbps.m3u8
+
+#EXTINF:0, tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/19888916861499126866Lucknow_akashvani.webp" group-title="Radio",Akashwani Lucknow
+
+#EXTINF:0, tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/11828713441585983292Mumbai_akashvani.webp" group-title="Radio",Akashwani Mumbai
+
+#EXTINF:0, tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/137169436791730191Jaipur_akashvani.webp" group-title="Radio",Akashwani Jaipur
+
+#EXTINF:0, tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/13848397411054377435Delhi.webp" group-title="Radio",Akashwani Delhi
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio006/hlspbaudio00664kbps.m3u8
+#EXTINF:0, tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/251829361838050453Raagam.webp" group-title="Radio",Akashwani Ragam
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudioragam/hlspbaudioragam64kbps.m3u8
+#EXTINF:0, tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/32137028580346761aaradhana.webp" group-title="Radio",Akashwani Aradhna
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio003/hlspbaudio00364kbps.m3u8
+#EXTINF:0, tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/460749149398317407Akashvani_Patiala.webp" group-title="Radio",Akashwani Patiala
+
+#EXTINF:0, tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/6706092201860026609Shimla_akashvani.webp" group-title="Radio",Akashwani Shimla
+
+#EXTINF:0, tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/492534211943019800Bhopal_akashvani.webp" group-title="Radio",Akashwani Bhopal
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio146/playlist.m3u8
+#EXTINF:0, tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/14256556881795106856Ayodhya_akashvani.webp" group-title="Radio",Akashwani Ayodhya
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio152/playlist.m3u8
+#EXTINF:0, tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1531761964952272419Chandigarh_akashvani.webp" group-title="Radio",Akashwani Chandigarh
+
+#EXTINF:0, tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/155608833315889139981.webp" group-title="Radio",Vividh Bharti
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8
+#EXTINF:0, tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1832547705903964862.webp" group-title="Radio",FM Rainbow
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio00464kbps.m3u8
+
 
 
 
