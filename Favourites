@@ -121,32 +121,17 @@ http://87.255.35.150:18881
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports 3
 http://87.255.35.150:18804/
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Astro Cricket
-https://smart.bengaldigital.live/AstroCricket/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Eurosports HD
 https://mini.allinonereborn.fun/jiotv-in/app/ts_live_875.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Willow
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Willow Live
 http://xui.mainserver.cc/play/oCkZyqACmAE6FvzKu_186PEFGOk9LoJ4xGfS1beyo7s/.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Fox 501 HD
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Fox 505 HD
 https://hugh.cdn.rumble.cloud/live/t5qc33px/slot-89/ne5u-izq9/chunklist.m3u8
-
-
-#EXTINF:-1 tvg-id="147" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Mac", Sony PIX HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
-#KODIPROP:http-referer=http:///stalker_portal/c/
-http://webhop.live:80/live/haPPy/haPPy123/147.ts|User-Agent=
-#EXTINF:-1 tvg-id="222" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Mac", Sony BBC Earth HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
-#KODIPROP:http-referer=http:///stalker_portal/c/
-http://webhop.live:80/live/haPPy/haPPy123/222.ts|User-Agent=
-#EXTINF:-1 tvg-id="98872" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Mac",Discovery HD World
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
-#KODIPROP:http-referer=http:///stalker_portal/c/
-http://webhop.live:80/live/haPPy/haPPy123/98872.ts|User-Agent=
-
 
 
 #EXTINF:-1 tvg-id="8" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starplushd.png" group-title="Temp",Star Plus HD
@@ -296,43 +281,8 @@ https://mini.allinonereborn.fun/jiotv-in/app/ts_live_578.m3u8
 
 
 
-#EXTINF:-1 tvg-id="484" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Wild_TV_logo_2020.png/512px-Wild_TV_logo_2020.png" group-title="USA",Wild TV
+#EXTINF:-1 tvg-id="484" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Wild_TV_logo_2020.png/512px-Wild_TV_logo_2020.png" group-title="Canada",Wild TV
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="OOPLEX-TV",Big Boss 24x7
-
-#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="OOPLEX-TV",HBO
-
-
-#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="OOPLEX-TV",Star Plus HD
-
-#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="OOPLEX-TV",Star Bharat HD
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OOPLEX-TV",&TV HD
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OOPLEX-TV",Sab TV HD
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OOPLEX-TV",Movies Now HD
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OOPLEX-TV",Star Movies Select HD
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OOPLEX-TV",Fox 501 HD
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OOPLEX-TV",SuperSport Cricket
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OOPLEX-TV",Sky Sports Cricket
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OOPLEX-TV",A Sports HD
-https://xfireflix.fun/file/opplex/playlist.m3u?id=167590
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OOPLEX-TV",Star Sports 1 HD
-https://xfireflix.fun/file/opplex/stream.m3u8?id=167575&e=.m3u8
 
 
 
@@ -674,14 +624,14 @@ https://vg-tv9live.akamaized.net/ptnr-dd_free_dish/title-TV9_Bharatvarsh_DD/vgli
 https://d3kdywbtdfbp9z.cloudfront.net/v1/master/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/playlist.m3u8?aws.sessionId=f21b10d5-f4c4-4fe5-8aec-b9bf92e104b8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10590.jpg" group-title="Hindi News",News 18 India
 https://n18syndication-prasar-bharati.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8
-#EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10590.jpg" group-title="Hindi News",News 18 India
-https://d3kdywbtdfbp9z.cloudfront.net/v1/master/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/index.m3u8?aws.sessionId=8986c015-3813-4ecc-b15d-aa9dfb5ef705 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10552.jpg" group-title="Hindi News",News Nation
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10554.jpg" group-title="Hindi News",News 24
 https://bagnetwork.digivive.com/hlslive/Admin/px09241091/live/News24liveB/master_1.m3u8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10594.jpg" group-title="Hindi News",IBC 24
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0bfbd0b9de7f4407949202296560c0fe/index.m3u8
+#EXTINF:0, tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1335619945BHARAT__24__TVW______720x405.webp" group-title="Hindi News",Bharat 24
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2774c390ad884e06a7b0257c8489e23d/index.m3u8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10593.jpg" group-title="Hindi News",NDTV India
 https://backupndtvindiaelemarchana.akamaized.net/hls/live/2004134/ndtvindia/master_1.m3u8
 
