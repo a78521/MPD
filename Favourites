@@ -270,11 +270,12 @@ https://mini.allinonereborn.fun/jiotv-in/app/ts_live_164.m3u8
 #EXTINF:-1 tvg-id="164" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png" group-title="Temp",Travelxp Hindi HD
 https://mini.allinonereborn.fun/jiotv-in/app/ts_live_562.m3u8
 #EXTINF:-1 tvg-id="146" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" group-title="Temp",History TV English HD
-https://mini.allinonereborn.fun/jiotv-in/app/ts_live_146.m3u8
+https://n18syndication-amagi.akamaized.net/bpk-tv/History_HD_NW18_MOB/output01/index.m3u8
+#https://mini.allinonereborn.fun/jiotv-in/app/ts_live_146.m3u8
 #EXTINF:-1 tvg-id="578" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="Temp",History TV Hindi HD
 https://mini.allinonereborn.fun/jiotv-in/app/ts_live_578.m3u8
 
-#EXTINF:-1 tvg-id="484" tvg-logo="https://files.catbox.moe/3x88h5.jpg" group-title="Temp",DD National HD
+
 
 
 
@@ -643,6 +644,12 @@ https://poclive-indiatvnews.akamaized.net/hlslive/Admin/px0219297/live/janya/mas
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/512px-Zee_news.svg.png" group-title="Hindi News",Zee News
 https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
 
+
+
+#EXTINF:0, tvg-logo="" group-title="English News",CNN News 18
+https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
+#EXTINF:0, tvg-logo="" group-title="English News",CNBC TV 18
+https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/695950420.jpeg" group-title="English News",Republic India
 https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8?ads.partner=PlayBox
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/695950420.jpeg" group-title="English News",Republic India
@@ -670,6 +677,7 @@ https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/099260397.jpeg" group-title="International News",CNA
 http://d2e1asnsl7br7b.cloudfront.net/4c152bfc7ad2463d928bfbec0990eaeb/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/Euronews/euronews_logo_resized_400x200_updated.png" group-title="International News",Euro News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
@@ -780,6 +788,10 @@ https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Zee Bollymovies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="English Movies",Xumo Free Her Movies
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992291
@@ -876,6 +888,8 @@ http://livestream.unlimitedcdn.com/sanjhatv/index.m3u8
 #EXTINF:0, tvg-logo="" group-title="Punjabi",The Unmute
 https://legitpro.co.in/theunmute/theunmute/index.m3u8
 
+
+
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10556.jpg" group-title="Punjabi Music",PTC Punjabi
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10555.jpg" group-title="Punjabi Music",PTC Punjabi Gold
@@ -884,6 +898,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/in
 https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
 #EXTINF:0, tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/848111902PTC_SIMRAN____TV__TVW______720x405.webp" group-title="Punjabi Devotional",PTC Simran
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3bc92ffb55814535801f929a1ac96c57/index.m3u8
+
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/417479419.jpeg" group-title="Punjabi Music",Just In
 http://209.52.98.98/justintv/index.m3u8
 
