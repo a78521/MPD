@@ -148,8 +148,10 @@ http://87.255.35.150:18301
 http://87.255.35.150:18548
 
 #EXTINF:-1 tvg-id="colors-hd" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Temp",Colors HD
+http://116.90.120.149:8000/play/a0gt/index.m3u8
 https://mini.allinonereborn.fun/jiotv-in/app/ts_live_144.m3u8
 #http://87.255.35.150:18890
+
 
 #EXTINF:-1 tvg-id="cineplex-hd" tvg-logo="https://live.dinesh29.com.np/logos/cineplex-hd.png" group-title="Temp",Colors Cineplex HD
 http://87.255.35.150:18296/
@@ -176,7 +178,7 @@ http://87.255.35.150:18507
 http://87.255.35.150:18861
 
 #EXTINF:-1 tvg-id="40" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/andtvhd.png" group-title="Temp",&tv HD
-
+http://116.90.120.149:8000/play/a0j5/index.m3u8
 #EXTINF:-1 tvg-id="267" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/andpictureshd.png" group-title="Temp",&pictures HD
 http://87.255.35.150:18510
 #EXTINF:-1 tvg-id="1183" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/andxplorhd.png" group-title="Temp",&Xplor HD
@@ -254,15 +256,19 @@ https://mini.allinonereborn.fun/jiotv-in/app/ts_live_1226.m3u8
 #EXTINF:-1 tvg-id="1079" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/cartoonnetworkhd.png" group-title="Temp",Cartoon Network HD+
 https://mini.allinonereborn.fun/jiotv-in/app/ts_live_1079.m3u8
 #EXTINF:-1 tvg-id="605" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/nationalgeographichd.png" group-title="Temp",National Geographic HD
-
+http://116.90.120.149:8000/play/a0in/index.m3u8
 #EXTINF:-1 tvg-id="413" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/natgeowildhd.png" group-title="Temp",Nat Geo Wild HD
-
+http://116.90.120.149:8000/play/a0ie/index.m3u8
 
 
 #EXTINF:-1 tvg-id="341" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/discoveryhdworld.png" group-title="Temp",Discovery HD World
-https://mini.allinonereborn.fun/jiotv-in/app/ts_live_463.m3u8
+http://116.90.120.149:8000/play/a0iu/index.m3u8
+#https://mini.allinonereborn.fun/jiotv-in/app/ts_live_463.m3u8
+
 #EXTINF:-1 tvg-id="287" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/animalplanethdworld.png" group-title="Temp",Animal Planet HD World
-https://mini.allinonereborn.fun/jiotv-in/app/ts_live_286.m3u8
+http://116.90.120.149:8000/play/a0hv/index.m3u8
+#https://mini.allinonereborn.fun/jiotv-in/app/ts_live_286.m3u8
+
 #EXTINF:-1 tvg-id="480" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/tlchd.png" group-title="Temp",TLC HD
 https://mini.allinonereborn.fun/jiotv-in/app/ts_live_479.m3u8
 #EXTINF:-1 tvg-id="164" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/travelxphd.png" group-title="Temp",Travelxp English HD
