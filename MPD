@@ -106,6 +106,29 @@ https://la.drmlive.net/tp/sling-672.mpd
 
 
 
+#EXTINF:-1 tvg-logo="" group-title="Sports",Eurosports 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=01a665d487aa4c1c898c9eb0ff1a21df:a0b9df5f92e6b218ddb6aa40a2cd996d
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561802/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Sports",Eurosports 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=657707bbd1e240e08bd6969df27fef7c:364e00581c1432f4175e4a2e8e0cd57e
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561705/index.mpd
+
+
+#EXTINF:-1 tvg-logo="" group-title="Sports",Eurosports 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://p-img.movetv.com/1280x720/3dca399cce2d5ddec3993ae3dc351399.png" group-title="Sports",Eurosports 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
+
+
+
 =========================================== Watcho ===========================================
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="watcho",And TV SD
@@ -861,6 +884,38 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_primary.mpd
 
 
 =========================================== UK Channels ===========================================
+
+
+#EXTINF:-1 group-title="UK Channels" tvg-id="",BBC 2
+https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
+
+#EXTINF:-1 group-title="UK Channels" tvg-id="",Channel 4
+https://viamotionhsi.netplus.ch/live/eds/channel4/browser-dash/channel4.mpd
+
+#EXTINF:-1 group-title="UK Channels" tvg-id="",Channel 5
+https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
+
+#EXTINF:-1 group-title="UK Channels" tvg-id="",More 4
+https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
+
+#EXTINF:-1 group-title="UK Channels" tvg-id="",ITV 2
+https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
+#EXTINF:-1 group-title="UK Channels" tvg-id="",ITV 3
+https://viamotionhsi.netplus.ch/live/eds/itv3/browser-dash/itv3.mpd
+#EXTINF:-1 group-title="UK Channels" tvg-id="",ITV 4
+https://viamotionhsi.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
+
+#EXTINF:-1 group-title="UK Channels" tvg-id="",Paramount
+https://viamotionhsi.netplus.ch/live/eds/paramount/browser-dash/paramount.mpd
+
+#EXTINF:-1 group-title="UK Channels" tvg-id="",Food Network
+https://viamotionhsi.netplus.ch/live/eds/foodnetwork/browser-dash/foodnetwork.mpd
+
+#EXTINF:-1 group-title="UK Channels" tvg-id="",Sky News
+https://viamotionhsi.netplus.ch/live/eds/skynews/browser-dash/skynews.mpd
+
+
+
 
 #EXTINF:-1 group-title="UK Channels" tvg-id="SkyMix.uk",Sky Mix
 #KODIPROP:inputstream=inputstream.adaptive
