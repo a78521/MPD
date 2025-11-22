@@ -915,32 +915,36 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_primary.mpd
 =========================================== UK Channels ===========================================
 
 
-#EXTINF:-1 group-title="UK Channels" tvg-id="",BBC 2
+#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/BBC_Two_HD.svg/2560px-BBC_Two_HD.svg.png",BBC 2 HD
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
+#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://static.seriesreminder.com/network-img/BBC_THREE.png",BBC 3
+https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
 
-#EXTINF:-1 group-title="UK Channels" tvg-id="",Channel 4
+#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="",Channel 4
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-dash/channel4.mpd
-
-#EXTINF:-1 group-title="UK Channels" tvg-id="",Channel 5
+#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="",Channel 5
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
 
-#EXTINF:-1 group-title="UK Channels" tvg-id="",More 4
+#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="",More 4
 https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
 
-#EXTINF:-1 group-title="UK Channels" tvg-id="",ITV 2
+#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="",Film 4
+https://viamotionhsi.netplus.ch/live/eds/film4/browser-dash/film4.mpd
+
+#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="",ITV 2
 https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
-#EXTINF:-1 group-title="UK Channels" tvg-id="",ITV 3
+#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="",ITV 3
 https://viamotionhsi.netplus.ch/live/eds/itv3/browser-dash/itv3.mpd
-#EXTINF:-1 group-title="UK Channels" tvg-id="",ITV 4
+#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="",ITV 4
 https://viamotionhsi.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
 
-#EXTINF:-1 group-title="UK Channels" tvg-id="",Paramount
+#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="",Paramount
 https://viamotionhsi.netplus.ch/live/eds/paramount/browser-dash/paramount.mpd
 
-#EXTINF:-1 group-title="UK Channels" tvg-id="",Food Network
+#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="",Food Network
 https://viamotionhsi.netplus.ch/live/eds/foodnetwork/browser-dash/foodnetwork.mpd
 
-#EXTINF:-1 group-title="UK Channels" tvg-id="",Sky News
+#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="",Sky News
 https://viamotionhsi.netplus.ch/live/eds/skynews/browser-dash/skynews.mpd
 
 
