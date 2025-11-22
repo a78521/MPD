@@ -510,7 +510,8 @@ https://fl7.moveonjoy.com/W_NETWORK/index.m3u8
 
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SonyLiv",Sony HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://dishmt.joker-verse.workers.dev/hls/live/2011671/SETHD/master.m3u8
+https://colorsportscreen.com/sliv/stream.m3u8?id=1000009246|Referer=https://colorsportscreen.com/
+#https://dishmt.joker-verse.workers.dev/hls/live/2011671/SETHD/master.m3u8
 
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="SonyLiv",Sab HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
@@ -518,7 +519,8 @@ https://dishmt.joker-verse.workers.dev/hls/live/2011749/SABHD/master.m3u8
 
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="SonyLiv",Sony Max HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://dishmt.joker-verse.workers.dev/hls/live/2011670/SonyMaxhd/master.m3u8
+https://colorsportscreen.com/sliv/stream.m3u8?id=1000009247|Referer=https://colorsportscreen.com/
+#https://dishmt.joker-verse.workers.dev/hls/live/2011670/SonyMaxhd/master.m3u8
 
 #EXTINF:0, tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="SonyLiv",Sony Max 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
@@ -752,6 +754,8 @@ https://cloudcdn.in/livetv/DesiTashan/index.m3u8
 https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
 #EXTINF:0, tvg-logo="" group-title="Hindi Movies",Zee Cinema HD
 https://amg17931-zee-amg17931c5-samsung-au-8873.playouts.now.amagi.tv/playlist1080p.m3u8
+#EXTINF:0, tvg-logo="https://oxolive.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-21-2025-06_42_31-AM-1-200x300.png" group-title="Hindi Movies",The Movie Club 2
+https://cc-el8oh7stk6uz8.akamaized.net/RMNK/Amagi/TMC2_IN/TMC2_IN.m3u8
 
 #EXTINF:0, tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/B4UMOV/TV/thumbnail/d4287ab1-409a-4afb-9e92-57f185f83bda.png" group-title="Hindi Movies",B4U Movies
 https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
