@@ -537,7 +537,7 @@ https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_nhk_japan/default/index.
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zd5zm7C.png" group-title="Cignal TV",NBA
+#EXTINF:-1 tvg-logo="https://clipground.com/images/nba-tv-logo-png-1.png" group-title="Cignal TV",NBA
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f36eed9e95f140fabbc88a08abbeafff:0125600d0eb13359c28bdab4a2ebe75a
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_nba/default/index.mpd
@@ -920,25 +920,25 @@ https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
 #EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://static.seriesreminder.com/network-img/BBC_THREE.png",BBC 3
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
 
-#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="",Channel 4
+#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Channel-4-Logo-1982-1996.png",Channel 4
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-dash/channel4.mpd
-#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="",Channel 5
+#EXTINF:-1 group-title="UK Channels" tvg-id="https://tse4.mm.bing.net/th/id/OIP.b2lRLQ192rTf4gzmuR3T7AAAAA?pid=Api&P=0&h=220" tvg-logo="",Channel 5
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
 
-#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="",More 4
+#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://cdn.comedy.co.uk/images/channels/more4.jpg",More 4
 https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
 
-#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="",Film 4
+#EXTINF:-1 group-title="UK Channels" tvg-id="https://tse2.mm.bing.net/th/id/OIP.CBifcJseyVMrWu8sGlLt6QHaHD?pid=Api&P=0&h=220" tvg-logo="",Film 4
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-dash/film4.mpd
 
-#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="",ITV 2
+#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.DfsHlnwRB6ruwoNtxol9RAHaC9?pid=Api&P=0&h=220",ITV 2
 https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
-#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="",ITV 3
+#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.4mnB1qwjLkNC52Bep3kXHwHaCf?pid=Api&P=0&h=220",ITV 3
 https://viamotionhsi.netplus.ch/live/eds/itv3/browser-dash/itv3.mpd
 #EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="",ITV 4
 https://viamotionhsi.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
 
-#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="",Paramount
+#EXTINF:-1 group-title="UK Channels" tvg-id="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/560dfea6-13fc-45c5-abb5-0692213c6010/dgeo342-ddbfaaca-10c5-4cb0-8ec5-6d1f4241ad4b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU2MGRmZWE2LTEzZmMtNDVjNS1hYmI1LTA2OTIyMTNjNjAxMFwvZGdlbzM0Mi1kZGJmYWFjYS0xMGM1LTRjYjAtOGVjNS02ZDFmNDI0MWFkNGIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.3OP-lbaOPZDhNlOrNanpORGpnE3D_G6uO-yLQRtp6Dc" tvg-logo="",Paramount
 https://viamotionhsi.netplus.ch/live/eds/paramount/browser-dash/paramount.mpd
 
 #EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="",Food Network
