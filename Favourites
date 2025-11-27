@@ -610,6 +610,34 @@ https://vglivessai.akamaized.net/ptnr-lg/title-AUTOMOTIONS-LGIndia/sg/v1/master/
 
 
 
+#EXTINF:-1 tvg-logo="" group-title="Samsung TV",Crime Tak
+https://amg01448-amg01448c19-samsung-in-4352.playouts.now.amagi.tv/playlist/amg01448-samsungindia-crimetak-samsungin/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Samsung TV",Republic Bharat
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/samsungin-republicbharat-samsungindia/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Samsung TV",Republic TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/samsungin-republictv-samsungindia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Samsung TV",India TV Aap Ki Adalat
+https://amg01550-amg01550c6-samsung-in-4679.playouts.now.amagi.tv/playlist/amg01550-indiatvfast-indiatvakasamsung-samsungin/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Samsung TV",Pitara Comedy
+https://amg01864-amg01864c1-samsung-in-3266.playouts.now.amagi.tv/playlist/amg01864-pitaaratvfast-pitaaracomedy-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Samsung TV",Divya Bhajan
+https://amg01864-amg01864c2-samsung-in-3265.playouts.now.amagi.tv/playlist/amg01864-pitaaratvfast-divyabhajan-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Samsung TV",E24
+https://amg13643-amg13643c2-amgplt0016.playout.now3.amagi.tv/playlist/amg13643-amg13643c2-amgplt0016/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300008ZY_20250604T011416SQUARE.png" group-title="Samsung TV",CNBC TV18
+https://amg01448-samsungin-nw18cnbc-samsungin-ad-n4.amagi.tv/playlist/amg01448-samsungin-nw18cnbc-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800006GF_20240912T093654SQUARE.png" group-title="Samsung TV",NDTV Profit
+https://amg01448-samsungin-ndtvprofit-samsungin-ad-dq.amagi.tv/playlist/amg01448-samsungin-ndtvprofit-samsungin/playlist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="" group-title="Xiaomi TV",B4U Movies
 https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
