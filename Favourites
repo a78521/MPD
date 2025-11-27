@@ -675,6 +675,8 @@ https://amg01448-samsungin-news9live-samsungin-y3kuf.amagi.tv/playlist/amg01448-
 https://amg01448-samsungin-ndtv24x7-samsungin-ad.amagi.tv/playlist/amg01448-samsungin-ndtv24x7-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800001D8_20240131T032458SQUARE.png_20240131032459.png" group-title="Samsung TV",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT23000034W_20251118T015444SQUARE.png" group-title="Samsung TV",Al Jazeera
+https://amg00222-amg00222c4-amgplt0007.playout.now3.amagi.tv/aljazeera-noscte/playlist1080P.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600009NL_20240912T093622SQUARE.png" group-title="Samsung TV",History TV 18 Hindi HD
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
