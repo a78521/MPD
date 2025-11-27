@@ -1005,68 +1005,53 @@ https://fl7.moveonjoy.com/W_NETWORK/index.m3u8
 
 
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SonyLiv",Sony HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://sl.vodep39240327.workers.dev/channel/SONY HD.m3u8
 
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="SonyLiv",Sab HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://sl.vodep39240327.workers.dev/channel/SAB HD.m3u8
 
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="SonyLiv",Sony Max HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://sl.vodep39240327.workers.dev/channel/SONY MAX HD.m3u8
 
 #EXTINF:0, tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="SonyLiv",Sony Max 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://sl.vodep39240327.workers.dev/channel/SONY MAX2.m3u8
 
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="SonyLiv",Sony Pal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://sl.vodep39240327.workers.dev/channel/SONY PAL.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="SonyLiv",Sony Kal
 https://sony-sonykal-gn-1-us.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="SonyLiv",Sony Wah
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://sl.vodep39240327.workers.dev/channel/SONY WAH.m3u8
 
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="SonyLiv",Sony YaY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://sl.vodep39240327.workers.dev/channel/SONY YAY.m3u8
 
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="SonyLiv",Sony BBC Earth HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://sl.vodep39240327.workers.dev/channel/BBC EARTH.m3u8
 
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="SonyLiv",Sony Pix HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://sl.vodep39240327.workers.dev/channel/SONY PIX HD.m3u8
 
 
 #EXTINF:0, tvg-logo="https://c.evchannel_idon.com/pub_logos/2796-2021122219404475.png" group-title="SonyLiv",Sony Live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
 
 
 #EXTINF:0, tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="SonyLiv",Ten 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://sl.vodep39240327.workers.dev/channel/SONY TEN 1 HD.m3u8
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_Sporm3u8Ten2_HD_Logo_CLR.png" group-title="SonyLiv",Ten 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://sl.vodep39240327.workers.dev/channel/SONY TEN 2 HD.m3u8
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_Sporm3u8Ten3_HD_Logo_CLR.png" group-title="SonyLiv",Ten 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://sl.vodep39240327.workers.dev/channel/SONY TEN 3 HD.m3u8
 #EXTINF:0, tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_Sporm3u8Ten4_HD_Logo_CLR.png" group-title="SonyLiv",Ten 4 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://sl.vodep39240327.workers.dev/channel/SONY TEN 4.m3u8
 #EXTINF:0, tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_Sporm3u8Ten5_HD_Logo_CLR.png" group-title="SonyLiv",Ten 5 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://sl.vodep39240327.workers.dev/channel/SONY TEN 5 HD.m3u8
 
 
 #EXTINF:0, tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="SonyLiv",Sony Max SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://sl.vodep39240327.workers.dev/channel/SONY MAX.m3u8
 
 
@@ -1278,8 +1263,6 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",Xumo Bollywood Cinema
 https://dbrb49pjoymg4.cloudfront.net/10001/99991756/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991756
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",Z Bolly Movies
-https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png" group-title="Hindi Movies",Zee Cine Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
@@ -1339,9 +1322,9 @@ https://amg00206-amg00206c1-distrotv-us-6886.playouts.now.amagi.tv/24-25-6886.m3
 #EXTINF:0, tvg-logo="https://d3s2p39m306u7r.cloudfront.net/atrangii/LG/Atrangii_FullandFinal.png" group-title="Hindi Entertainment",Atrangi
 https://amg13343-amg13343c1-amgplt0173.playout.now3.amagi.tv/playlist/amg13343-amg13343c1-amgplt0173/playlist.m3u8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10598.jpg" group-title="Hindi Entertainment",Dabangg
-https://sablive-ddpb.akamaized.net/dabangg/playlist.m3u8
+
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10649.jpg" group-title="Hindi Entertainment",Maiboli
-https://sablive-ddpb.akamaized.net/maiboli/playlist.m3u8
+
 
 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10610.jpg" group-title="Devotional",Sanskar TV
