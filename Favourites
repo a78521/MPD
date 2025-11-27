@@ -363,6 +363,261 @@ https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg0
 
 
 
+
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/4k-traval/logo/4Ktravel-400x200.png" group-title="LG TV",4K TRAVEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://streams2.sofast.tv/ptnr-lgtv/title-4K-TRAVEL-TV-ENG_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f92ab8c4-4897-46ad-8da0-d09d4a9bb25f/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://d3s2p39m306u7r.cloudfront.net/atrangii/LG/Atrangii_FullandFinal.png" group-title="LG TV",Atrangii
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg13343-amg13343c1-amgplt0173.playout.now3.amagi.tv/playlist/amg13343-amg13343c1-amgplt0173/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/comedytadka/logo/Comedytadka-400x200.png" group-title="LG TV",COMEDY TADKA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://vglivessai.akamaized.net/ptnr-lg/title-COMEDY_TADKA-LGIndia/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/79a85c7e-a12a-4739-a575-66b4684f91fa/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d3s2p39m306u7r.cloudfront.net/tvtn/Lg-images/LT%20400x200.png" group-title="LG TV",Lallantop
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg00644-amg00644c4-amgplt0173.playout.now3.amagi.tv/playlist/amg00644-amg00644c4-amgplt0173/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/Aajtak/AT-400x200-white-bg.png" group-title="LG TV",Aaj Tak
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg00644-tvtoday-amg00644c3-lg-in-3510.playouts.now.amagi.tv/playlist/amg00644-tvtodaynetworkltdfast-aajtak-lgin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/GNT/GNT-400x200-white-bg.png" group-title="LG TV",Good News Today
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg00644-tvtoday-amg00644c2-lg-in-3508.playouts.now.amagi.tv/playlist/amg00644-tvtodaynetworkltdfast-goodnewstoday-lgin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/IndiaToday/ITTV-400x200.png" group-title="LG TV",India Today
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg00644-tvtoday-amg00644c1-lg-in-3506.playouts.now.amagi.tv/playlist/amg00644-tvtodaynetworkltdfast-indiatoday-lgin/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/IndiaTV/ITVLIVE/ITVlogo200x400.png" group-title="LG TV",India TV News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01550-indiatv-indiatvlive-lg-lgin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/IndiaTV/SpeedNews/SpeedNewslogo200x400.png" group-title="LG TV",India TV Speed News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01550-indiatv-indiatv-speed-internalapp-ono/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/IndiaTV/AKA/AKAlogo200x400.png" group-title="LG TV",India TV Aap Ki Adalat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01550-indiatv-indiatvaapkiadalat-lg-lgin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/IndiaTV/ITVYOGA/ITVYogalogo200x400.png" group-title="LG TV",India TV Yoga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg01550-indiatv-amg01550c2-lg-in-5515.playouts.now.amagi.tv/playlist/amg01550-indiatvfast-indiatvyoga-lgin/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/BAGConvergence/E24/E24-Logo.jpg" group-title="LG TV",E24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg13643-amg13643c2-amgplt0173.playout.now3.amagi.tv/playlist/amg13643-amg13643c2-amgplt0173/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/klikk/Lglogos/Logoklikk.png" group-title="LG TV",Cine Jomjomat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg13779-amg13779c1-amgplt0173.playout.now3.amagi.tv/playlist/amg13779-amg13779c1-amgplt0173/playlist.m3u8
+EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/bollywood-masala-tv-epg/logo/Bollywood Masala Tv_400x200.png" group-title="LG TV",bollywood-masala-tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://vglivessai.akamaized.net/ptnr-lg/title-Bollywood_Masala-LGIndia/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f596316d-2890-43c9-b30d-eb7cc081a837/manifest.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/pitaara/logo/pitaara_400x200.png" group-title="LG TV",Pitaara
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://vglivessai.akamaized.net/ptnr-lgtv/title-PitaaraTV_NonSSAI_LG/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/36a2c703-80b0-44c3-b615-c6d830f42d42/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/pitaara-comedy/logo/pitaara comedy_400x200.png" group-title="LG TV",Pitaara comedy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://vglivessai.akamaized.net/ptnr-lgtv/title-Pitaara_Comedy_LG/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5a5410c0-1b79-4adc-9243-0139b249798b/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/B4U/B4U_MOVIES/b4u_movies_logo_resized_400x200.png" group-title="LG TV",B4U Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist/amg00877-b4unetworkeuropefast-b4umovies-lgin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/B4U/B4U_KADAK/kadak_logo_resized_400x200.png" group-title="LG TV",B4U Kadak
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist/amg00877-b4unetworkeuropefast-b4ukadak-lgin/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/B4U/B4U_MUSIC/b4u_music_logo_resized_400x200.png" group-title="LG TV",B4U Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg00877-b4unew-amg00877c3-lg-in-5261.playouts.now.amagi.tv/playlist/amg00877-b4unetworkeuropefast-b4umusic-lgin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/YRF_MUSIC/YRF-Music-Channel-Logo_200x400.jpg" group-title="LG TV",YRF Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg00223-unisys-amg00223c2-lg-in-2045.playouts.now.amagi.tv/playlist/amg00223-sevencolorsbroadcastingprivatelimited-yfrmusic-lgin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/SagaMusic/saga_music_logo_resized_black_400x200.png" group-title="LG TV",Saga-Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg00223-unisys-amg00223c5-lg-in-2048.playouts.now.amagi.tv/playlist/amg00223-sevencolorsbroadcastingprivatelimited-sagamusic-lgin/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/9xMedia/9XM/9xm_logo_resized_white_400x200.png" group-title="LG TV",9XM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg01281-amg01281c4-amgplt0173.playout.now3.amagi.tv/playlist/amg01281-amg01281c4-amgplt0173/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/9xMedia/9XJALWA/9xjalwa400x200_logo.jpg" group-title="LG TV",9X JALWA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg01281-amg01281c3-amgplt0173.playout.now3.amagi.tv/playlist/amg01281-amg01281c3-amgplt0173/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/9xMedia/9XTashan/9xtashan400x200_logo.jpg" group-title="LG TV",9X Tashan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg01281-amg01281c2-amgplt0173.playout.now3.amagi.tv/playlist/amg01281-amg01281c2-amgplt0173/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/9xMedia/9XJhakkas/9xjahakas400x200_logo.jpg" group-title="LG TV",9X Jhakkas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg01281-amg01281c1-amgplt0173.playout.now3.amagi.tv/playlist/amg01281-amg01281c1-amgplt0173/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/Ghaintpunjab/logo_400x200.png" group-title="LG TV",Ghaint Punjab
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg00223-unisys-amg00223c3-lg-in-2050.playouts.now.amagi.tv/playlist/amg00223-sevencolorsbroadcastingprivatelimited-ghaintpunjab-lgin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/SagaMusic/saga_haryanvi_logo_resized_black_400x200.png" group-title="LG TV",Saga Music Haryanvi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg00223-unisys-amg00223c4-lg-in-2049.playouts.now.amagi.tv/playlist/amg00223-sevencolorsbroadcastingprivatelimited-sagamusicharyanvi-lgin/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/ABP/NEWS/Channellogo200x400.png" group-title="LG TV",ABP News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg01043-abpnewsnetwork-amg01043c1-lg-in-2040.playouts.now.amagi.tv/playlist/amg01043-abpnewsnetwork-abpnews-lgin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/Images/News18_India_400x200.png" group-title="LG TV",News18 India
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg00866-amg00866c1-lg-in-3521.playouts.now.amagi.tv/playlist/amg00866-tv18broadcastlimitedfast-news18india-lgin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/TV9/Bharatvarsh_400x200-updated.jpg" group-title="LG TV",TV9 Bharatvarsh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01106-associatedbroad-tv9bharatvarsh-lgin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/BAGConvergence/News24liveA/LOGO/News24_logo_resized_400x200.jpg" group-title="LG TV",News24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg13643-amg13643c1-amgplt0173.playout.now3.amagi.tv/playlist/amg13643-amg13643c1-amgplt0173/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/News_Nation_Logo_400X200.png" group-title="LG TV",News Nation
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg24335-amg24335c1-amgplt0173.playout.now3.amagi.tv/playlist/amg24335-amg24335c1-amgplt0173/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/republic-bharat/logo/republic-bharat-400x200.png" group-title="LG TV",Republic Bharat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://vg-republictvlive.akamaized.net/ptnr-lg/title-Republic_Bharat_Playlist/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/95994198-9aa0-4de3-a0c5-c021653064b8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/republic-tv/logo/republic-tv-400x200.png" group-title="LG TV",Republic TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://vg-republictvlive.akamaized.net/ptnr-lg/title-Republic_TV_Playlist/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e40c1749-d5a7-435b-8739-1bf6b70fb95b/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://d2cv8l6xnxpisu.cloudfront.net/NDTV24x7-black.jpg" group-title="LG TV",NDTV 24x7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01605-ndtvconvergence-ndtv24x7-lgin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d2cv8l6xnxpisu.cloudfront.net/NDTV_India_dark.jpg" group-title="LG TV",NDTV India
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01605-ndtvconvergence-ndtvindia-lgin/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/ZEE/ZeeNews/200x-400px-landscape-zee-news.jpg" group-title="LG TV",Zee News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg02481-amg02481c3-lg-in-5171.playouts.now.amagi.tv/playlist/amg02481-indiadotcomdigitalprivatelimitedfast-zeenews-lgin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d2aqhkzukipl76.cloudfront.net/india-daily-24x7/logo/India daily_logo_400x200.png" group-title="LG TV",India Daily 24x7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://vglivessai.akamaized.net/ptnr-lg/title-India_Daily_24*7/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/594fc7fe-7762-4362-aba6-f3958757b8c5/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/Images/CNBC-All-Logos-White_AWAAZ-400-x-200.png" group-title="LG TV",CNBC Awaaz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg00866-amg00866c2-lg-in-3525.playouts.now.amagi.tv/playlist/amg00866-tv18broadcastlimitedfast-cnbcawaaz-lgin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/ZEE/ZeeBusiness/200-x-400-px-landscape-zee-biz.jpg" group-title="LG TV",Zee Business
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg02481-amg02481c2-lg-in-5172.playouts.now.amagi.tv/playlist/amg02481-indiadotcomdigitalprivatelimitedfast-zeebusiness-lgin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d2cv8l6xnxpisu.cloudfront.net/profit-logo-black.jpg" group-title="LG TV",NDTV Profit
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg01605-ndtv-amg01605c3-lg-in-2754.playouts.now.amagi.tv/playlist/amg01605-ndtv-ndtvprofit-lgin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/Images/News18_MPCG_400x200.png" group-title="LG TV",News18 MP Chhattisgarh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg00866-amg00866c3-lg-in-3518.playouts.now.amagi.tv/playlist/amg00866-tv18broadcastlimitedfast-news18mpchhattisgarh-lgin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/Images/News18_UPUK_400x200.png" group-title="LG TV",News18 UP Uttarakhand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg00866-amg00866c4-lg-in-3519.playouts.now.amagi.tv/playlist/amg00866-tv18broadcastlimitedfast-news18uputtarakhand-lgin/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/BAGConvergence/MPCG/LOGO-2.jpg" group-title="LG TV",News24 MP CG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg13643-amg13643c4-amgplt0173.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13643-amg13643c4-amgplt0173/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/NW18/CNN/CNN_News18_400x200.jpg" group-title="LG TV",CNN News18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg00866-amg00866c5-lg-in-3520.playouts.now.amagi.tv/playlist/amg00866-tv18broadcastlimitedfast-cnnnews18-lgin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/Images/CNBC_All_Logos_White_TV18_400x200.png" group-title="LG TV",CNBC TV18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg00866-amg00866c9-lg-in-4409.playouts.now.amagi.tv/playlist/amg00866-tv18broadcastlimitedfast-cnbctv18-lgin/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/ZEE/WION/200x-400-px-landscape-wion.jpg" group-title="LG TV",Zee Wion
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg02481-amg02481c1-lg-in-5173.playouts.now.amagi.tv/playlist/amg02481-indiadotcomdigitalprivatelimitedfast-wion-lgin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/TV9/NN_400x200-px-updated.jpg" group-title="LG TV",News9 Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg01106-tv9-amg01106c3-lg-in-2095.playouts.now.amagi.tv/playlist/amg01106-tv9fast-news9-lgin/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/Euronews/euronews_logo_resized_400x200_updated.png" group-title="LG TV",Euro News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg00882-amg00882c2-lg-in-5560.playouts.now.amagi.tv/playlist/amg00882-euronewsfast-euronewseng-lgin/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/bhakti-play/logo/Bhakti_Play_Logo_400x200.png" group-title="LG TV",BHAKTI-PLAY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://vglivessai.akamaized.net/ptnr-lg/title-Bhakti_Play_LG/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/566e7ecc-960b-4ce8-969e-fe622122b6b2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/divya/logo/divya_logo_400x200.png" group-title="LG TV",Divya
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://vglivessai.akamaized.net/ptnr-lg/title-Divya_TV_NONSSAI_LG/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ed18b2e1-80b8-4f13-a763-bc28a0674e30/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/divya-bhajan/logo/divya bhajan_logo_400x200.png" group-title="LG TV",Divya Bhajan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://vglivessai.akamaized.net/ptnr-lgtv/title-Divya_Bhajan_LG/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/6ab55dbd-de45-4239-80ea-8eacc13066b6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/SikhRatnavali/LG/Logo400x200.jpg" group-title="LG TV",Sikh Ratnavali
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg00223-amg00223c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00223-amg00223c6-amgplt0173/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/CRICKET-GOLD-USA/logo/Cricket-Gold_400x200.png" group-title="LG TV",CRICKET-GOLD-USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://vglivessai.akamaized.net/ptnr-lg/title-CricketGold-LGIndia/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2d588e31-21da-4f74-9fc8-a1313ce2b053/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/motorracing/logo/Motorracing-400x200.png" group-title="LG TV",motor racing
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://vglivessai.akamaized.net/ptnr-lg/title-Moto_Racing/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c10c238b-144a-4521-95d7-a7f11885d5e5/master.m3u8
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/KraveMedia/LG/Logo/LogowithTagline/MTR-LogoTagline-wht-LG.png" group-title="LG TV",MTRSPT1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg02873-kravemedia-amg02873c1-lg-in-1990.playouts.now.amagi.tv/playlist/amg02873-kravemediafast-mtrspt1-lgin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/SportsGrid/SportsGrid_live_logo_resized_black_400x200.png" group-title="LG TV",SportsGrid
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg00315-amg00315c1-lg-in-2546.playouts.now.amagi.tv/playlist/amg00315-sportsgridfast-sportsgrid-lgin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/fight-tv/logo/Fight-tv-400x200.png" group-title="LG TV",FIGHT-TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://streams2.sofast.tv/ptnr-lg/title-FIGHT-TV-ENG_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7f820a2f-e893-4ae1-8ad7-e62e9d9a9e07/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/justforlaughs/logo/Justforlaugh-400x200.png" group-title="LG TV",JUSTFORLAUGH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://streams2.sofast.tv/ptnr-lg/title-JUST_FOR_LAUGHS_GAGS_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e6c035de-2f3e-474d-87c1-8bd359911357/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/docuvision/logo/Docuvision-400x200.png" group-title="LG TV",DOCUVISION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://streams2.sofast.tv/ptnr-lg/title-DOCUVISION-ENG_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ab5b0da3-7f65-4f2c-b4e5-3d4947d70065/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/Outdoor/outdoor_logo_resized_400x200.png" group-title="LG TV",OUTDOOR TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg00718-outdoorchannelfast-amg00718c1-lg-in-2129.playouts.now.amagi.tv/playlist/amg00718-outdoorchannelfast-outdoor-lgin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/INFAST/infast_logo_resized_white_400x200.png" group-title="LG TV",INFAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg00861-terncloud-amg00861c8-lg-in-2384.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-infastlifestylehd-lgin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/INWONDER/InWonder_resized_400x200.png" group-title="LG TV",INWONDER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg00861-terncloud-amg00861c9-lg-in-2363.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-inwonderhd-lgin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/SHGL/shgl_logo_resized_400x200.png" group-title="LG TV",Smart Healthy Green Living
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg16109-shgliving-amg16109c1-lg-in-2094.playouts.now.amagi.tv/playlist/amg16109-shglivingnetwork-smarthealthygreenliving-lgin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/spaceseries/logo/Spaceseries-400x200.png" group-title="LG TV",Space Series
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://streams2.sofast.tv/ptnr-lg/title-Space_Series_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e7c8dc3b-ce82-46d1-bd86-426fd5c8adf0/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/automotions/logo/Automotions-400x200.png" group-title="LG TV",AUTOMOTIONS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://vglivessai.akamaized.net/ptnr-lg/title-AUTOMOTIONS-LGIndia/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2249fc5e-e639-4c40-8ee2-7dc5950325d7/manifest.m3u8
+
+
+
+
+
 #EXTINF:0, tvg-logo="" group-title="TCL",Backstage
 https://amg00375-fusemedia-amg00375c1-tclideo-northamerica-719.playouts.now.amagi.tv/playlist/amg00375-fusemediafast-backstage-tclideonorthamerica/playlist.m3u8
 #EXTINF:0, tvg-logo="" group-title="TCL",Baywatch
@@ -949,6 +1204,8 @@ https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8
 http://livestream.unlimitedcdn.com/gurkibani/index.m3u8
 #EXTINF:0, tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-15-2025-10_58_23-AM-1-200x300.png" group-title="Punjabi Devotional",Chardikala TV
 https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/playlist.m3u8
+#EXTINF:0, tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/SikhRatnavali/LG/Logo400x200.jpg" group-title="Punjabi Devotional",Sikh Ratnavali
+https://amg00223-amg00223c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00223-amg00223c6-amgplt0173/playlist.m3u8
 
 
 
