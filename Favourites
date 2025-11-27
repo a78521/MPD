@@ -164,6 +164,9 @@ https://mini.allinonereborn.fun/jiotv-ww5/app/ts_live_1145.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Temp",CN HD+
 https://mini.allinonereborn.fun/jiotv-ww5/app/ts_live_1079.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Temp",Colors Rishtey
+http://87.255.35.150:18886
+
 
 
 
@@ -180,11 +183,13 @@ http://87.255.35.150:18861
 #EXTINF:-1 tvg-id="40" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/andtvhd.png" group-title="Temp",&tv HD
 http://116.90.120.149:8000/play/a0j5/index.m3u8
 #EXTINF:-1 tvg-id="267" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/andpictureshd.png" group-title="Temp",&pictures HD
-http://87.255.35.150:18510
+http://66.102.120.18:8000/play/a01t/index.m3u8
 #EXTINF:-1 tvg-id="1183" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/andxplorhd.png" group-title="Temp",&Xplor HD
-
+http://66.102.120.18:8000/play/a012/index.m3u8
 #EXTINF:-1 tvg-id="1183" tvg-logo="" group-title="Temp",&Prive HD
 http://87.255.35.150:18494
+#EXTINF:-1 tvg-id="1183" tvg-logo="" group-title="Temp",&flix HD
+http://66.102.120.18:8000/play/a022/index.m3u8
 
 
 
@@ -282,7 +287,10 @@ https://n18syndication-amagi.akamaized.net/bpk-tv/History_HD_NW18_MOB/output01/i
 https://n18syndication-amagi.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/index.m3u8
 #https://mini.allinonereborn.fun/jiotv-ww5/app/ts_live_578.m3u8
 
-
+#EXTINF:-1 tvg-id="578" tvg-logo="" group-title="Temp",Disney Channel HD
+http://66.102.120.18:8000/play/a013/index.m3u8
+#EXTINF:-1 tvg-id="578" tvg-logo="" group-title="Temp",Disney International HD
+http://66.102.120.18:8000/play/a078/index.m3u8
 
 
 
@@ -779,6 +787,31 @@ https://janson-supersimplesongs-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Xiaomi TV",Drone TV
 https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Pakistan",A Sports HD
+http://66.102.120.18:8000/play/a032/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Pakistan",92 Entertainment HD
+http://66.102.120.18:8000/play/a06m/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Pakistan",Ary Digital HD
+http://66.102.120.18:8000/play/a030/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Pakistan",Set HD
+http://66.102.120.18:8000/play/a03c/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", HD
+http://163.61.227.29:8000/play/a02v/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Green",AXN
+http://66.102.120.18:8000/play/a06i/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Pakistan",92 News HD
+http://66.102.120.18:8000/play/a04y/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Pakistan",24 News HD
+http://66.102.120.18:8000/play/a04v/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Pakistan",Abb Tak HD
+http://66.102.120.18:8000/play/a051/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Pakistan",Dunya HD
+http://163.61.227.29:8000/play/a05p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Pakistan",Ary News
+http://66.102.120.18:8000/play/a02z/index.m3u8
+
 
 
 
