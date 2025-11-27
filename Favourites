@@ -412,9 +412,6 @@ https://amg01550-indiatv-amg01550c2-lg-in-5515.playouts.now.amagi.tv/playlist/am
 https://amg13643-amg13643c2-amgplt0173.playout.now3.amagi.tv/playlist/amg13643-amg13643c2-amgplt0173/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/klikk/Lglogos/Logoklikk.png" group-title="LG TV",Cine Jomjomat
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
-https://amg13779-amg13779c1-amgplt0173.playout.now3.amagi.tv/playlist/amg13779-amg13779c1-amgplt0173/playlist.m3u8
 EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/bollywood-masala-tv-epg/logo/Bollywood Masala Tv_400x200.png" group-title="LG TV",bollywood-masala-tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://vglivessai.akamaized.net/ptnr-lg/title-Bollywood_Masala-LGIndia/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f596316d-2890-43c9-b30d-eb7cc081a837/manifest.m3u8
@@ -576,9 +573,6 @@ https://amg00223-amg00223c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00223-a
 #EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/CRICKET-GOLD-USA/logo/Cricket-Gold_400x200.png" group-title="LG TV",CRICKET-GOLD-USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://vglivessai.akamaized.net/ptnr-lg/title-CricketGold-LGIndia/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2d588e31-21da-4f74-9fc8-a1313ce2b053/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/motorracing/logo/Motorracing-400x200.png" group-title="LG TV",motor racing
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
-https://vglivessai.akamaized.net/ptnr-lg/title-Moto_Racing/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c10c238b-144a-4521-95d7-a7f11885d5e5/master.m3u8
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/KraveMedia/LG/Logo/LogowithTagline/MTR-LogoTagline-wht-LG.png" group-title="LG TV",MTRSPT1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://amg02873-kravemedia-amg02873c1-lg-in-1990.playouts.now.amagi.tv/playlist/amg02873-kravemediafast-mtrspt1-lgin/playlist.m3u8
@@ -614,6 +608,87 @@ https://streams2.sofast.tv/ptnr-lg/title-Space_Series_LG/v1/master/611d79b11b77e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://vglivessai.akamaized.net/ptnr-lg/title-AUTOMOTIONS-LGIndia/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2249fc5e-e639-4c40-8ee2-7dc5950325d7/manifest.m3u8
 
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Xiaomi TV",B4U Movies
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Xiaomi TV",B4U Kadak
+https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Xiaomi TV",Saga Music HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Xiaomi TV",Saga Music Haryanvi
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusicharyanvi-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Xiaomi TV",YRF Music
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Xiaomi TV",ABP News
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-abpnews-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Xiaomi TV",India TV Asia
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-indiatv-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Xiaomi TV",India TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01550-indiatv-indiatvlive-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Xiaomi TV",India TV Speed News Asia
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01550-indiatv-indiatv-speed-mi-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Xiaomi TV",India TV Speed News
+https://amg01550-amg01550c3-xiaomi-in-4367.playouts.now.amagi.tv/playlist/amg01550-indiatvfast-indiatvspeednews-xiaomiin/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Xiaomi TV",India TV Aap Ki Adalat
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01550-indiatv-indiatv-aapkiadalat-mi-xiaomi/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Xiaomi TV",TV9 Bharatvarsh
+https://amg01106-tv9-amg01106c2-xiaomi-in-1187.playouts.now.amagi.tv/playlist/amg01106-tv9fast-tv9bharatvarsh-xiaomiin/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Xiaomi TV",Zee News
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zeenews-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Xiaomi TV",News 18 India
+https://amg00866-amg00866c1-xiaomi-in-3511.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Xiaomi TV",CNN News 18
+https://amg00866-amg00866c5-xiaomi-in-3550.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Xiaomi TV",CNBC TV 18
+https://amg00866-amg00866c2-xiaomi-in-3516.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Xiaomi TV",Wion
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zeewion-xiaomi/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Xiaomi TV",ABP Gaanga
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-abpganga-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Xiaomi TV",ABP Sanjha
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-abpsanjha-xiaomi/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Xiaomi TV",Zee BH/JK
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zeebihar-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Xiaomi TV",Zee Business
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zeebusiness-xiaomi/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Xiaomi TV",News 18 MP/JK
+https://amg00866-amg00866c3-xiaomi-in-3553.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Xiaomi TV",News 18 UP/UK
+https://amg00866-amg00866c4-xiaomi-in-3552.playouts.now.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Xiaomi TV",Now 70
+https://lightning-now70s-xiaomi.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Xiaomi TV",Now 80
+https://lightning-now80s-xiaomi.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Xiaomi TV",Now 90
+https://lightning-now90s-xiaomi.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Xiaomi TV",Arirang Korea
+https://amg02040-amg02040c6-xiaomi-international-5845.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Xiaomi TV",Trailers UK
+https://amg01821-lovetv-amg01821c3-xiaomi-international-656.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-trailersuk-xiaomiinternational/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Xiaomi TV",Super Simple Songs
+https://janson-supersimplesongs-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Xiaomi TV",Drone TV
+https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 
 
