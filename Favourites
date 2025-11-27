@@ -123,7 +123,7 @@ http://87.255.35.150:18804/
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Astro Cricket
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Eurosports HD
-https://mini.allinonereborn.fun/jiotv-in/app/ts_live_875.m3u8
+https://mini.allinonereborn.fun/jiotv-ww5/app/ts_live_875.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Willow Live
 http://xui.mainserver.cc/play/oCkZyqACmAE6FvzKu_186PEFGOk9LoJ4xGfS1beyo7s/.m3u8
@@ -131,7 +131,7 @@ http://xui.mainserver.cc/play/oCkZyqACmAE6FvzKu_186PEFGOk9LoJ4xGfS1beyo7s/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Fox 501 HD
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Fox 505 HD
-https://hugh.cdn.rumble.cloud/live/t5qc33px/slot-89/ne5u-izq9/chunklist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="8" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starplushd.png" group-title="Temp",Star Plus HD
@@ -149,20 +149,20 @@ http://87.255.35.150:18548
 
 #EXTINF:-1 tvg-id="colors-hd" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Temp",Colors HD
 http://116.90.120.149:8000/play/a0gt/index.m3u8
-https://mini.allinonereborn.fun/jiotv-in/app/ts_live_144.m3u8
+https://mini.allinonereborn.fun/jiotv-ww5/app/ts_live_144.m3u8
 #http://87.255.35.150:18890
 
 
 #EXTINF:-1 tvg-id="cineplex-hd" tvg-logo="https://live.dinesh29.com.np/logos/cineplex-hd.png" group-title="Temp",Colors Cineplex HD
 http://87.255.35.150:18296/
 #EXTINF:-1 tvg-id="187" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/colorsinfinityhd.png" group-title="Temp",Colors Infinity HD
-https://mini.allinonereborn.fun/jiotv-in/app/ts_live_1158.m3u8
+https://mini.allinonereborn.fun/jiotv-ww5/app/ts_live_1158.m3u8
 #http://87.255.35.150:18838
 
 #EXTINF:-1 tvg-logo="https://live.dinesh29.com.np/logos/tataplay/mtvhd.png" group-title="Temp",MTV HD
-https://mini.allinonereborn.fun/jiotv-in/app/ts_live_1145.m3u8
+https://mini.allinonereborn.fun/jiotv-ww5/app/ts_live_1145.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Temp",CN HD+
-https://mini.allinonereborn.fun/jiotv-in/app/ts_live_1079.m3u8
+https://mini.allinonereborn.fun/jiotv-ww5/app/ts_live_1079.m3u8
 
 
 
@@ -232,14 +232,14 @@ http://87.255.35.150:18818
 #EXTINF:-1 tvg-id="1033" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starsports2hindihd.png" group-title="Temp",Star Sports 2 Hindi HD
 
 #EXTINF:-1 tvg-id="1033" tvg-logo="" group-title="Temp",Star Sports Khel
-https://mini.allinonereborn.fun/jiotv-in/app/ts_live_1998.m3u8
+https://mini.allinonereborn.fun/jiotv-ww5/app/ts_live_1998.m3u8
 #EXTINF:-1 tvg-id="star-sports-select-hd-1" tvg-logo="https://live.dinesh29.com.np/logos/star-sports-select-hd-1.png" group-title="Temp",Star Sports Select HD 1
 
 #EXTINF:-1 tvg-id="star-sports-select-hd-2" tvg-logo="https://live.dinesh29.com.np/logos/star-sports-select-hd-2.png" group-title="Temp",Star Sports Select HD 2
 
 
 #EXTINF:-1 tvg-id="812" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/eurosporthd.png" group-title="Temp",Eurosport HD
-https://mini.allinonereborn.fun/jiotv-in/app/ts_live_875.m3u8
+https://mini.allinonereborn.fun/jiotv-ww5/app/ts_live_875.m3u8
 
 #EXTINF:-1 tvg-id="562" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/moviesnowhd.png" group-title="Temp",Movies Now HD
 http://87.255.35.150:18935
@@ -252,9 +252,9 @@ http://87.255.35.150:18936
 #EXTINF:-1 tvg-id="1489" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/tataplayfancodesports.png" group-title="Temp",Tata Play Fancode Sports
 
 #EXTINF:-1 tvg-id="1226" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/nickhd.png" group-title="Temp",Nick HD+
-https://mini.allinonereborn.fun/jiotv-in/app/ts_live_1226.m3u8
+https://mini.allinonereborn.fun/jiotv-ww5/app/ts_live_1226.m3u8
 #EXTINF:-1 tvg-id="1079" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/cartoonnetworkhd.png" group-title="Temp",Cartoon Network HD+
-https://mini.allinonereborn.fun/jiotv-in/app/ts_live_1079.m3u8
+https://mini.allinonereborn.fun/jiotv-ww5/app/ts_live_1079.m3u8
 #EXTINF:-1 tvg-id="605" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/nationalgeographichd.png" group-title="Temp",National Geographic HD
 http://116.90.120.149:8000/play/a0in/index.m3u8
 #EXTINF:-1 tvg-id="413" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/natgeowildhd.png" group-title="Temp",Nat Geo Wild HD
@@ -267,20 +267,20 @@ http://116.90.120.149:8000/play/a0iu/index.m3u8
 
 #EXTINF:-1 tvg-id="287" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/animalplanethdworld.png" group-title="Temp",Animal Planet HD World
 http://116.90.120.149:8000/play/a0hv/index.m3u8
-#https://mini.allinonereborn.fun/jiotv-in/app/ts_live_286.m3u8
+#https://mini.allinonereborn.fun/jiotv-ww5/app/ts_live_286.m3u8
 
 #EXTINF:-1 tvg-id="480" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/tlchd.png" group-title="Temp",TLC HD
-https://mini.allinonereborn.fun/jiotv-in/app/ts_live_479.m3u8
+https://mini.allinonereborn.fun/jiotv-ww5app/ts_live_479.m3u8
 #EXTINF:-1 tvg-id="164" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/travelxphd.png" group-title="Temp",Travelxp English HD
-https://mini.allinonereborn.fun/jiotv-in/app/ts_live_164.m3u8
+https://mini.allinonereborn.fun/jiotv-ww5/app/ts_live_164.m3u8
 #EXTINF:-1 tvg-id="164" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png" group-title="Temp",Travelxp Hindi HD
-https://mini.allinonereborn.fun/jiotv-in/app/ts_live_562.m3u8
+https://mini.allinonereborn.fun/jiotv-ww5/app/ts_live_562.m3u8
 #EXTINF:-1 tvg-id="146" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" group-title="Temp",History TV English HD
 https://n18syndication-amagi.akamaized.net/bpk-tv/History_HD_NW18_MOB/output01/index.m3u8
-#https://mini.allinonereborn.fun/jiotv-in/app/ts_live_146.m3u8
+#https://mini.allinonereborn.fun/jiotv-ww5/app/ts_live_146.m3u8
 #EXTINF:-1 tvg-id="578" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="Temp",History TV Hindi HD
 https://n18syndication-amagi.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/index.m3u8
-#https://mini.allinonereborn.fun/jiotv-in/app/ts_live_578.m3u8
+#https://mini.allinonereborn.fun/jiotv-ww5/app/ts_live_578.m3u8
 
 
 
@@ -634,8 +634,15 @@ https://amg00877-amg00877c4-samsung-in-6977.playouts.now.amagi.tv/playlist/amg00
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800001ZH_20241024T054104SQUARE.png" group-title="Samsung TV",Aaj Tak HD
 https://pb-coye21n36oqk8.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-coye21n36oqk8/09569a98-ede5-4fcb-8ed2-48046dfa4bf1/5.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300003OW_20240131T032351SQUARE.png_20240131032352.png" group-title="Samsung TV",Times Now Navbharat HD
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-tinnavbharat-samsungin/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300003OW_20240131T032351SQUARE.png_20240131032352.png" group-title="Samsung TV",Times Now Navbharat
 https://amg01448-samsungin-tinnavbharat-samsungin-ad-m8.amagi.tv/playlist/amg01448-samsungin-tinnavbharat-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Samsung TV",NDTV India
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-ndtvindia-samsungin/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="Samsung TV",Republic Bharat
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/samsungin-republicbharat-samsungindia/playlist.m3u8
@@ -666,6 +673,8 @@ https://amg01448-samsungin-ndtvprofit-samsungin-ad-dq.amagi.tv/playlist/amg01448
 https://amg01448-samsungin-news9live-samsungin-y3kuf.amagi.tv/playlist/amg01448-samsungin-news9live-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800001D8_20240131T032458SQUARE.png_20240131032459.png" group-title="Samsung TV",NDTV 24x7
 https://amg01448-samsungin-ndtv24x7-samsungin-ad.amagi.tv/playlist/amg01448-samsungin-ndtv24x7-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800001D8_20240131T032458SQUARE.png_20240131032459.png" group-title="Samsung TV",NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600009NL_20240912T093622SQUARE.png" group-title="Samsung TV",History TV 18 Hindi HD
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
@@ -680,6 +689,14 @@ https://amg00416-amg00416c10-samsung-in-4883.playouts.now.amagi.tv/playlist/amg0
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/tastemade-tastemade-int-aus-samsung-india/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800007ZP_20241024T054047SQUARE.png" group-title="Samsung TV",NDTV Good Times
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Samsung TV",Animax
+https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Samsung TV",Willow Sports
+https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="Xiaomi TV",B4U Movies
@@ -915,44 +932,42 @@ https://fl7.moveonjoy.com/W_NETWORK/index.m3u8
 
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SonyLiv",Sony HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://colorsportscreen.com/sliv/stream.m3u8?id=1000009246|Referer=https://colorsportscreen.com/
-#https://dishmt.joker-verse.workers.dev/hls/live/2011671/SETHD/master.m3u8
+https://sl.vodep39240327.workers.dev/channel/SONY HD.m3u8
 
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="SonyLiv",Sab HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://dishmt.joker-verse.workers.dev/hls/live/2011749/SABHD/master.m3u8
+https://sl.vodep39240327.workers.dev/channel/SAB HD.m3u8
 
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="SonyLiv",Sony Max HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://colorsportscreen.com/sliv/stream.m3u8?id=1000009247|Referer=https://colorsportscreen.com/
-#https://dishmt.joker-verse.workers.dev/hls/live/2011670/SonyMaxhd/master.m3u8
+https://sl.vodep39240327.workers.dev/channel/SONY MAX HD.m3u8
 
 #EXTINF:0, tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="SonyLiv",Sony Max 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://dishmt.joker-verse.workers.dev/hls/live/2011908/MAX2/master.m3u8
+https://sl.vodep39240327.workers.dev/channel/SONY MAX2.m3u8
 
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="SonyLiv",Sony Pal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://dishmt.joker-verse.workers.dev/hls/live/2011741/SonyPalSD/master.m3u8
+https://sl.vodep39240327.workers.dev/channel/SONY PAL.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="SonyLiv",Sony Kal
 https://sony-sonykal-gn-1-us.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="SonyLiv",Sony Wah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://dishmt.joker-verse.workers.dev/hls/live/2011906/SonyWah/master.m3u8
+https://sl.vodep39240327.workers.dev/channel/SONY WAH.m3u8
 
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="SonyLiv",Sony YaY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://dishmt.joker-verse.workers.dev/hls/live/2011746/SonyYaySD/master.m3u8
+https://sl.vodep39240327.workers.dev/channel/SONY YAY.m3u8
 
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="SonyLiv",Sony BBC Earth HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://dishmt.joker-verse.workers.dev/hls/live/2011907/SonyBBCEarthHD/master.m3u8
+https://sl.vodep39240327.workers.dev/channel/BBC EARTH.m3u8
 
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="SonyLiv",Sony Pix HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://dishmt.joker-verse.workers.dev/hls/live/2011748/PIXHD/master.m3u8
+https://sl.vodep39240327.workers.dev/channel/SONY PIX HD.m3u8
 
 
 #EXTINF:0, tvg-logo="https://c.evchannel_idon.com/pub_logos/2796-2021122219404475.png" group-title="SonyLiv",Sony Live
@@ -961,24 +976,24 @@ https://dishmt.joker-verse.workers.dev/hls/live/2011748/PIXHD/master.m3u8
 
 #EXTINF:0, tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="SonyLiv",Ten 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://dishmt.joker-verse.workers.dev//hls/live/2011747/TEN1HD/master.m3u8
+https://sl.vodep39240327.workers.dev/channel/SONY TEN 1 HD.m3u8
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_Sporm3u8Ten2_HD_Logo_CLR.png" group-title="SonyLiv",Ten 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://dishmt.joker-verse.workers.dev/hls/live/2020434/TEN2HD/master.m3u8
+https://sl.vodep39240327.workers.dev/channel/SONY TEN 2 HD.m3u8
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_Sporm3u8Ten3_HD_Logo_CLR.png" group-title="SonyLiv",Ten 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://dishmt.joker-verse.workers.dev/hls/live/2020591/TEN3HD/master.m3u8
+https://sl.vodep39240327.workers.dev/channel/SONY TEN 3 HD.m3u8
 #EXTINF:0, tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_Sporm3u8Ten4_HD_Logo_CLR.png" group-title="SonyLiv",Ten 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://dishmt.joker-verse.workers.dev/hls/live/2020589/ten4hd/master.m3u8
+https://sl.vodep39240327.workers.dev/channel/SONY TEN 4.m3u8
 #EXTINF:0, tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_Sporm3u8Ten5_HD_Logo_CLR.png" group-title="SonyLiv",Ten 5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://dishmt.joker-verse.workers.dev/hls/live/2020593/SONYSIXHD/master.m3u8
+https://sl.vodep39240327.workers.dev/channel/SONY TEN 5 HD.m3u8
 
 
 #EXTINF:0, tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="SonyLiv",Sony Max SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://dishmt.joker-verse.workers.dev/hls/live/2011745/SonyMaxSD/master.m3u8
+https://sl.vodep39240327.workers.dev/channel/SONY MAX.m3u8
 
 
 
@@ -1064,6 +1079,9 @@ https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
 https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
 #EXTINF:0, tvg-logo="" group-title="English News",CNBC TV 18
 https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
+#EXTINF:0, tvg-logo="" group-title="English News",First Post
+https://nw18live.cdn.jio.com/bpk-tv/Firstpost_NW18_MOB/output01/index.m3u8
+
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/695950420.jpeg" group-title="English News",Republic India
 https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8?ads.partner=PlayBox
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/695950420.jpeg" group-title="English News",Republic India
