@@ -310,6 +310,45 @@ http://66.102.120.18:8000/play/a078/index.m3u8
 
 
 
+
+
+================================================== Zee5 ===============================================================================================================
+
+#EXTINF:-1 tvg-id="&TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665.png" group-title="ZEE5",&TV HD
+https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-tvhd_0|Referer=https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-209
+#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_web/1170x658withlog1476130363.png" group-title="ZEE5", &pictures HD
+https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-tvpictureshd|Referer=https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-209
+
+#EXTINF:-1 tvg-id="Zee TV HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee TV HD.png" group-title="ZEE5",Zee TV HD
+https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-zeetvhd|Referer=https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-209
+#EXTINF:-1 tvg-id="Zee TV HD" tvg-logo="" group-title="ZEE5",Zee Cinema HD
+https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-zeecinemahd|Referer=https://colorsportscreen.com/
+
+#EXTINF:-1 tvg-id="&Xplor HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-209/channel_list/1170x658withlogo358457080.png" group-title="ZEE5",&xplorHD
+https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-209|Referer=https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-209
+
+#EXTINF:-1 tvg-id="Zee Classic" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee Classic.png" group-title="ZEE5",Zee Classic
+https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-176|Referer=https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-209
+
+
+
+#EXTINF:-1 tvg-id="Big Magic" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-bigmagic_1786965389/channel_list/1170x658withlog2022520414.png" group-title="ZEE5",Big Magic
+https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-bigmagic_1786965389|Referer=https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-209
+
+#EXTINF:-1 tvg-id="English &Flix HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1284,h_723,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list5d289fc39bef4ebca19c6bfe64e46e26.jpg" group-title="ZEE5",English &flix HD
+https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-channel_2105335046|Referer=https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-209
+
+#EXTINF:-1 tvg-id="English Zee Cafe HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeecafehd/list/1920x1080list813457fc09e349d9ac922d5268ecbf8a.jpg" group-title="ZEE5",English Zee Cafe HD
+https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-zeecafehd|Referer=https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-209
+
+#EXTINF:-1 tvg-id="&Prive HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1284,h_723,c_scale,f_webp,q_auto:eco/resources/0-9-9z5543514/list/1920x1080listd4a78816ce2d4ea7afc7efe5e639e9cd.jpg" group-title="ZEE5",&Prive HD
+https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-9z5543514|Referer=https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-209
+
+
+
+
+
+
 ================================================== Canada ===============================================================================================================
 
 #EXTINF:-1 tvg-id="484" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Wild_TV_logo_2020.png/512px-Wild_TV_logo_2020.png" group-title="Canada",Wild TV
