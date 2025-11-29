@@ -97,9 +97,7 @@ https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Nat%20Geo%20Wi
 
 
 
-=========================================== Cricket ===========================================
-
-
+======================================================== Cricket ===========================================================================================================
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports 1 HD
@@ -141,7 +139,7 @@ http://xui.mainserver.cc/play/oCkZyqACmAE6FvzKu_186PEFGOk9LoJ4xGfS1beyo7s/.m3u8
 
 
 
-=========================================== Temp ===========================================
+=================================================================== Temp ================================================================================================
 
 
 #EXTINF:-1 tvg-id="8" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starplushd.png" group-title="Temp",Star Plus HD
@@ -304,7 +302,7 @@ http://66.102.120.18:8000/play/a078/index.m3u8
 
 
 
-=========================================== Canada ===============================================================================================================
+================================================== Canada ===============================================================================================================
 
 #EXTINF:-1 tvg-id="484" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Wild_TV_logo_2020.png/512px-Wild_TV_logo_2020.png" group-title="Canada",Wild TV
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
@@ -312,7 +310,7 @@ https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 
 
 
-=========================================== Doordarshan =======================================================================================================================
+================================================ Doordarshan =======================================================================================================================
 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10574.jpg" group-title="Doordarshan",DD National HD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
@@ -363,7 +361,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/in
 
 
 
-=========================================== Infotainment =======================================================================================================================
+========================================================== Infotainment =======================================================================================================================
 
 #EXTINF:0, group-title="Infotainment",Ancient Aliens
 https://d3b6a5tp9s4ibt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-53xuhdrfd4e8a/v1/ae_networks_ancientaliens_1/samsungheadend_us/latest/main/hls/playlist.m3u8 
@@ -388,7 +386,7 @@ https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg0
 
 
 
-=========================================== LG TV =======================================================================================================================
+===================================================== LG TV =======================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/4k-traval/logo/4Ktravel-400x200.png" group-title="LG TV",4K TRAVEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
@@ -639,7 +637,8 @@ https://vglivessai.akamaized.net/ptnr-lg/title-AUTOMOTIONS-LGIndia/sg/v1/master/
 
 
 
-=========================================== Samsung TV =======================================================================================================================
+============================================================ Samsung TV =======================================================================================================================
+
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2600015OO_20240912T093637SQUARE.png" group-title="Samsung TV",Crime Tak
 https://amg01448-amg01448c19-samsung-in-4352.playouts.now.amagi.tv/playlist/amg01448-samsungindia-crimetak-samsungin/playlist.m3u8
@@ -770,7 +769,8 @@ https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02
 
 
 
-==========================================================Xiaomi TV =======================================================================================================================
+=============================================================Xiaomi TV =======================================================================================================================
+
 
 #EXTINF:-1 tvg-logo="" group-title="Xiaomi TV",B4U Movies
 https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
@@ -853,7 +853,7 @@ https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 
 
-==========================================================Pakistan ==========================================================================================================
+================================================================Pakistan ==========================================================================================================
 
 #EXTINF:-1 tvg-logo="" group-title="Pakistan",A Sports HD
 http://66.102.120.18:8000/play/a032/index.m3u8
@@ -881,7 +881,7 @@ http://66.102.120.18:8000/play/a02z/index.m3u8
 
 
 
-==========================================================TCL ==========================================================================================================
+=================================================================TCL ==========================================================================================================
 
 #EXTINF:0, tvg-logo="" group-title="TCL",Backstage
 https://amg00375-fusemedia-amg00375c1-tclideo-northamerica-719.playouts.now.amagi.tv/playlist/amg00375-fusemediafast-backstage-tclideonorthamerica/playlist.m3u8
@@ -1107,6 +1107,10 @@ https://fl1.moveonjoy.com/VH1/index.m3u8
 https://fl7.moveonjoy.com/W_NETWORK/index.m3u8
 
 
+
+
+======================================================== Sony Liv ===========================================================================================================
+
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SonyLiv",Sony HD
 https://sl.vodep39240327.workers.dev/channel/SONY HD.m3u8
 
@@ -1158,6 +1162,7 @@ https://sl.vodep39240327.workers.dev/channel/SONY TEN 5 HD.m3u8
 https://sl.vodep39240327.workers.dev/channel/SONY MAX.m3u8
 
 
+======================================================== Stirr ===========================================================================================================
 
 #EXTINF:0, tvg-logo="" group-title="Stirr",24 Hrs Movies
 https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
@@ -1198,6 +1203,7 @@ https://linear-492.frequency.stream/dist/stirr/492/hls/master/playlist.m3u8
 
 
 
+======================================================== Hindi News ===========================================================================================================
 
 
 #EXTINF:0, tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/925545393ABP_NEWS.webp" group-title="Hindi News",ABP News
@@ -1236,6 +1242,7 @@ https://poclive-indiatvnews.akamaized.net/hlslive/Admin/px0219297/live/janya/mas
 https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
 
 
+======================================================== English News ===========================================================================================================
 
 #EXTINF:0, tvg-logo="" group-title="English News",CNN News 18
 https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
@@ -1261,12 +1268,15 @@ https://d179muqh6u5263.cloudfront.net/master.m3u8
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 
 
+======================================================== Business News ===========================================================================================================
 
 #EXTINF:0, tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/ET_Now.png" group-title="Business News",ET Now
 https://damso2e2yhynu.cloudfront.net/master.m3u8
 #EXTINF:0, tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/ET_Now_Swadesh.png" group-title="Business News",ET Now Swadesh
 https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8
 
+
+======================================================== International News ===========================================================================================================
 
 #EXTINF:0, tvg-logo="" group-title="International News",BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
@@ -1287,6 +1297,8 @@ https://wisehttott.wiseplayout.com/RT/master.m3u8
 https://wisehttottrtd.wiseplayout.com/live/rtdoc/playlist.m3u8
 
 
+
+======================================================== Hindi Music ===========================================================================================================
 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10591.jpg" group-title="Hindi Music",9XM
 https://wiselp.wiseplayout.com/9XM/master.m3u8
@@ -1341,6 +1353,8 @@ https://cloudcdn.in/livetv/DesiTashan/index.m3u8
 
 
 
+======================================================== Hindi Movies ===========================================================================================================
+
 #EXTINF:0, tvg-logo="" group-title="Hindi Movies",Zee Cinema HD
 https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
 #EXTINF:0, tvg-logo="" group-title="Hindi Movies",Zee Cinema HD
@@ -1393,6 +1407,9 @@ https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-a
 https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
 
 
+
+======================================================== English Movies ===========================================================================================================
+
 #EXTINF:-1 tvg-logo="" group-title="English Movies",Xumo Free Her Movies
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992291
 #EXTINF:-1 tvg-logo="" group-title="English Movies",Xumo Free Comedy Movies
@@ -1416,7 +1433,7 @@ https://streams2.sofast.tv/ptnr-lg/title-BEST_ACTION_LG/v1/master/611d79b11b77e2
 
 
 
-
+======================================================== Hindi Entertainment ===========================================================================================================
 
 
 #EXTINF:0, tvg-logo="" group-title="Hindi Entertainment",&TV HD
@@ -1430,6 +1447,9 @@ https://amg13343-amg13343c1-amgplt0173.playout.now3.amagi.tv/playlist/amg13343-a
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10649.jpg" group-title="Hindi Entertainment",Maiboli
 
 
+
+
+======================================================== Devotional ===========================================================================================================
 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10610.jpg" group-title="Devotional",Sanskar TV
 https://d2lk5u59tns74c.cloudfront.net/out/v1/bc57af15b4df4200af5fa4c1d6ab0a72/index.m3u8
@@ -1475,6 +1495,8 @@ https://live20.bozztv.com/giatvplayout7/giatv-210715/tracks-v1a1/mono.ts.m3u8
 
 
 
+======================================================== Punjabi ===========================================================================================================
+
 #EXTINF:0, tvg-logo="" group-title="Punjabi",Global Desi
 https://live.ottlive.co.in/globaldesi/globaldesi/index.m3u8
 #EXTINF:0, tvg-logo="" group-title="Punjabi",Global Punjab
@@ -1489,6 +1511,8 @@ http://livestream.unlimitedcdn.com/sanjhatv/index.m3u8
 https://legitpro.co.in/theunmute/theunmute/index.m3u8
 
 
+
+======================================================== Punjabi Music ===========================================================================================================
 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10556.jpg" group-title="Punjabi Music",PTC Punjabi
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
@@ -1515,6 +1539,7 @@ http://livestream.unlimitedcdn.com/agm-pp/pure-punjabi/index.m3u8
 
 
 
+======================================================== Punjabi Movies ===========================================================================================================
 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10553.jpg"" group-title="Punjabi Movies",Pitaara Movies
 https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/index.m3u8
@@ -1522,6 +1547,7 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/in
 https://pitaaratv.cdn.runn.tv/ptnr-RunnTV/title-Pitaara_Comedy/v1/vglive-sk-217489/playlist.m3u8
 
 
+======================================================== Punjabi Devotional ===========================================================================================================
 
 #EXTINF:0, tvg-logo="" group-title="Punjabi Devotional",Fateh TV
 https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8
@@ -1534,6 +1560,7 @@ https://amg00223-amg00223c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00223-a
 
 
 
+========================================================Kids ===========================================================================================================
 
 #EXTINF:0, tvg-logo="" group-title="Kids",Motu Patlu
 https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
@@ -1548,6 +1575,7 @@ https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg0
 
 
 
+======================================================== Pishow ===========================================================================================================
 
 #EXTINF:0, tvg-logo="" group-title="pishow",9X Jhakaas
 https://cdn-3.pishow.tv/live/6/master.m3u8
@@ -1694,6 +1722,7 @@ https://cdn-1.pishow.tv/live/1617/master.m3u8
 https://cdn-4.pishow.tv/live/1627/master.m3u8
 
 
+======================================================== Local News ===========================================================================================================
 
 #EXTINF:0, tvg-logo="" group-title="Local News",Aaj Ki Khabar
 https://server.livelegitpro.in/aajkikhabar/aajkikhabar/index.m3u8
@@ -1738,6 +1767,9 @@ https://server.livelegitpro.in/bnews24/bnews24/index.m3u8
 
 
 
+
+======================================================== Radio ===========================================================================================================
+
 #EXTINF:0, tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/19829495741103500801WhatsApp_Image_2025-07-10_at_11__3_.webp" group-title="Radio",FM Gold Hindi
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio00564kbps.m3u8
 
@@ -1769,7 +1801,7 @@ https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio00464kbps.m3u8
 
 
-
+======================================================== Stringray ===========================================================================================================
 
 #EXTINF:-1 tvg-id="StingrayFlashback70s.ca" tvg-logo="https://i.imgur.com/jf5C9QF.png" group-title="Stingray",Stingray Flashback 70s
 https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
@@ -1807,7 +1839,7 @@ https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u
 
 
 
-
+======================================================== FTA Channels ===========================================================================================================
 
 #EXTINF:-1 tvg-id="249" tvg-chno="001" tvg-name="india-today" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fkszrn.png" group-title="FTA Channels", India Today
 #KODIPROP:inputstream=inputstream.adaptive
@@ -4238,6 +4270,8 @@ https://yuppftalive.akamaized.net/080823/hornbilltv/playlist.m3u8
 https://streams2.sofast.tv/ptnr-yupptv/title-OAN_PLUS/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/788b88ab-2266-4d4f-b43f-061bc7976f4a/playlist.m3u8
 
 
+
+======================================================== FSTV ===========================================================================================================
 
 #EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://live-tv.b-cdn.net/logos/channels/0cdnusausanetwork-sv3.png" group-title="FSTV",USA Network
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YWM5OGZjM2FkNDI1LTc2MzgtMjMwNC00OTUyLWRmZGVhYzlh/master.m3u8
