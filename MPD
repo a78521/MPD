@@ -1218,6 +1218,14 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
 
 
+
+
+#EXTINF:-1 tvg-logo="" group-title="USA Channels",FX Life
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a75f9a2300f448089c6cdebeb97bbbd:606ae417e0e6cf4b0d353764e3140dbc
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561301/index.mpd
+
+
 #EXTINF:-1  tvg-id="MGM+.HD.us2" tvg-logo="https://static.wikia.nocookie.net/mako-movies/images/d/d5/MGM_Holdings_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20190126193754" group-title="USA Channels",MGM+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=34bbe1d5cad94e81a2f2eb3275611f85:7e6a42fbe78e7ff8c20cb4eeb475ed17
