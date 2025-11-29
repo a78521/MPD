@@ -1228,7 +1228,7 @@ https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561301/index.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="USA Channels",MBC2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f
+#KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f
 https://shd-gcp-live.akamaized.net/live/bitmovin-mbc-2/51db9d7fa48a27d051f1eecb68069151/index.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="USA Channels",MBC Max HD
