@@ -533,8 +533,18 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/in
 
 ========================================================== Epicon ===================================================================================================
 
-#EXTINF:0, group-title="Epicon",Showbox
+#EXTINF:0, tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/EPI_Thumbnail-v2/EPI_Thumbnail.png" group-title="Epicon",Epic
+https://epiconvh.akamaized.net/live/epic/master.m3u8
+#EXTINF:0, tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/Ishara_Thumbnail-v3/Ishara_Thumbnail.png" group-title="Epicon",Ishara
+https://epiconvh.akamaized.net/live/ishaara/master.m3u8
+#EXTINF:0, tvg-logo="https://www.epicon.in/img/nazara-logo.png" group-title="Epicon",Nazara
+https://epiconvh.akamaized.net/live/nazara/master.m3u8
+#EXTINF:0, tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/Showbox_Thumbnail-v2/Showbox_Thumbnail.png" group-title="Epicon",Showbox
 https://epiconvh.akamaized.net/live/showbox/master.m3u8
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Filamchi-Bhojpuri_Tagline.jpg" group-title="Epicon",Filachi Bhojpuri
+https://epiconvh.akamaized.net/live/filamchi/master.m3u8
+#EXTINF:0, tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57985-khvdchrs-v2/imageContent-57985-khvdchrs-m2.png" group-title="Epicon",Gubbare
+https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 
 
 ========================================================== Infotainment =======================================================================================================================
