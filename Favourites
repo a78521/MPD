@@ -145,7 +145,7 @@ http://xui.mainserver.cc/play/oCkZyqACmAE6FvzKu_186PEFGOk9LoJ4xGfS1beyo7s/.m3u8
 
 #EXTINF:-1 tvg-id="Andflix.in@HD" group-title="Temp",&flix
 #EXTVLCOPT:http-referrer=https://onezoo.net
-#KODIPROP:inputstream.adaptive.stream_headers=referer==https://onezoo.net
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://onezoo.net
 https://playyonogames.in/z5/stream.m3u8?id=0-9-channel_2105335046
 
 
@@ -315,20 +315,41 @@ http://66.102.120.18:8000/play/a078/index.m3u8
 ================================================== Zee5 ===============================================================================================================
 
 #EXTINF:-1 tvg-id="&TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665.png" group-title="ZEE5",&TV HD
-https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-tvhd_0|Referer=https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-209
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
+https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-tvhd_0
+
 #EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_web/1170x658withlog1476130363.png" group-title="ZEE5", &pictures HD
-https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-tvpictureshd|Referer=https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-209
+#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
+https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-tvpictureshd
 
 #EXTINF:-1 tvg-id="Zee TV HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee TV HD.png" group-title="ZEE5",Zee TV HD
-https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-zeetvhd|Referer=https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-209
+#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
+https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-zeetvhd
+
+
 #EXTINF:-1 tvg-id="Zee TV HD" tvg-logo="" group-title="ZEE5",Zee Cinema HD
-https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-zeecinemahd|Referer=https://colorsportscreen.com/
+#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
+https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-zeecinemahd
 
 #EXTINF:-1 tvg-id="&Xplor HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-209/channel_list/1170x658withlogo358457080.png" group-title="ZEE5",&xplorHD
-https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-209|Referer=https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-209
+#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
+https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-209
+
+
+#EXTINF:-1 tvg-id="&flix HD" tvg-logo="" group-title="ZEE5",&flixHD
+Referer=https://colorsportscreen.com/
+https://colorsportscreen.com/sfive/play.php?c=0-9-channel_2105335046
 
 #EXTINF:-1 tvg-id="Zee Classic" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee Classic.png" group-title="ZEE5",Zee Classic
-https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-176|Referer=https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-209
+#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
+https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-176
 
 
 
