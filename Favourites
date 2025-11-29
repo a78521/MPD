@@ -308,6 +308,44 @@ http://66.102.120.18:8000/play/a078/index.m3u8
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 
 
+================================================== AUS & NZ===============================================================================================================
+
+#EXTINF:-1 tvg-logo="" group-title="NZ",Bravo +1
+https://mediapackage-bravo-plus-1-source.fullscreen.nz/index.m3u8
+#EXTINF:-1 tvg-logo="https://freeviewnz.tv/Media/w12nmsps/018-edenplus1-red.png" group-title="NZ",Eden +1
+https://mediapackage-eden-plus-1-source.fullscreen.nz/index.m3u8
+#EXTINF:-1 tvg-id="HGTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/Home_%26_Garden_Television.svg" group-title="NZ",HGTV
+https://mediapackage-hgtv-source.fullscreen.nz/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="NZ",WB TV Paranormal
+https://mediapackage-azf5-source.fullscreen.nz/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NZ",WB TV True Crime
+https://mediapackage-azf4-source.fullscreen.nz/index.m3u8
+
+================================================== United Kingdom ===============================================================================================================
+
+
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100007AC_20250107T030816SQUARE.png" group-title="UK",True Crime UK
+https://b6cca454.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9UcnVlQ3JpbWVVS2Zyb21DQlNSZWFsaXR5X0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD50000320_20250107T030722SQUARE.png" group-title="UK",Mystery TV
+https://amg00841-aenetworksukane-mysterytv-samsunguk-mggb7.amagi.tv/ts-eu-w1-n2/playlist/amg00841-aenetworksukane-mysterytv-samsunguk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB200005LI_20250107T031155SQUARE.png" group-title="UK",Mythbusters
+https://d1cgf0ptrv4t22.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xvoparaodgcw9/Mythbusters_GB.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB3800007BN_20250107T025810SQUARE.png" group-title="UK",Survivor
+http://amg00627-banijaygroup-surviour-uk-samsunguk-uyz22.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijaygroup-survivor-samsunguk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4900001NW_20250811T172507SQUARE.png" group-title="UK",Deadly Women
+https://d1mgh147xpmgs8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c1w8i9yzp8w93/DeadlyWomen_GB.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB5000002PL_20250107T025838SQUARE.png" group-title="UK",Wild Planet
+https://d1h8whhtg5u7om.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u3ceovu5thv6/WildPlanet_GB.m3u8
+
+
 
 
 ================================================ Doordarshan =======================================================================================================================
@@ -359,6 +397,13 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e5b9db1cc184406bb97159da2f120f91/in
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/index.m3u8
 
 
+
+
+
+========================================================== Epicon ===================================================================================================
+
+#EXTINF:0, group-title="Epicon",Showbox
+https://epiconvh.akamaized.net/live/showbox/master.m3u8
 
 
 ========================================================== Infotainment =======================================================================================================================
@@ -754,6 +799,10 @@ https://amg00416-amg00416c10-samsung-in-4883.playouts.now.amagi.tv/playlist/amg0
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/tastemade-tastemade-int-aus-samsung-india/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800007ZP_20241024T054047SQUARE.png" group-title="Samsung TV",NDTV Good Times
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
+
+
+EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460000585_20250416T020413SQUARE.png" group-title="Samsung TV",Wild Flix Hindi
+https://cc-qgrxgp51645lw.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qgrxgp51645lw/IQJW/WBD/WildFlix_IN/WildFlix_IN.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Samsung TV",Animax
