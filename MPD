@@ -1218,7 +1218,10 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
 
 
-
+#EXTINF:-1 tvg-logo="" group-title="USA Channels",FX Life
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-XTREME-HD/default.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="USA Channels",FX Life
 #KODIPROP:inputstream.adaptive.license_type=clearkey
