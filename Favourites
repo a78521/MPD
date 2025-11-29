@@ -99,7 +99,6 @@ https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Nat%20Geo%20Wi
 
 ======================================================== Cricket ===========================================================================================================
 
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports 1 HD
 http://87.255.35.150:18891
 #http://116.90.120.149:8000/play/a0je
@@ -445,17 +444,24 @@ https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 https://mediapackage-bravo-plus-1-source.fullscreen.nz/index.m3u8
 #EXTINF:-1 tvg-logo="https://freeviewnz.tv/Media/w12nmsps/018-edenplus1-red.png" group-title="NZ",Eden +1
 https://mediapackage-eden-plus-1-source.fullscreen.nz/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Three_NZ_2023.svg/1024px-Three_NZ_2023.svg.png" group-title="NZ",Three +1
+https://mediapackage-three-plus-1-source.fullscreen.nz/index.m3u8
 #EXTINF:-1 tvg-id="HGTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/Home_%26_Garden_Television.svg" group-title="NZ",HGTV
 https://mediapackage-hgtv-source.fullscreen.nz/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="NZ",WB TV Paranormal
+
+
+#EXTINF:-1 tvg-logo="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1700521701602/20231121T120842_paranormallogo.png" group-title="NZ",WB TV Paranormal
 https://mediapackage-azf5-source.fullscreen.nz/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NZ",WB TV True Crime
 https://mediapackage-azf4-source.fullscreen.nz/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1701633988394/20231204T090843_motorheadslogo.png" group-title="NZ",WB TV Motor Heads
+https://mediapackage-azf1-source.fullscreen.nz/index.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4000027F_20240214T034922SQUARE.png_20240214034923.png",The Graham Norton Show
+https://mediapackage-ptgn-source.fullscreen.nz/index.m3u8
 
 ================================================== United Kingdom ===============================================================================================================
-
 
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100007AC_20250107T030816SQUARE.png" group-title="UK",True Crime UK
@@ -477,6 +483,21 @@ https://d1mgh147xpmgs8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d1h8whhtg5u7om.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u3ceovu5thv6/WildPlanet_GB.m3u8
 
 
+
+================================================== United States ===============================================================================================================
+
+#EXTINF:-1 tvg-logo="" group-title="USA",ion
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ion-tablo/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA",ion Plus
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA",ion Mystery
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA",ion Mystery
+https://d2md0hqgew2ie6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-staiznrm1ejlo/Ion_Plus_US.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="USA",Grit Xtra
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8
 
 
 ================================================ Doordarshan =======================================================================================================================
@@ -1173,7 +1194,7 @@ https://fl7.moveonjoy.com/CRAVE_1/index.m3u8
 https://fl1.moveonjoy.com/CRAVE_2/index.m3u8
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Moveonjoy TV",Crave 3
 https://fl7.moveonjoy.com/CRAVE_3/index.m3u8
-#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="USA",Crave 4
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Moveonjoy TV",Crave 4
 https://fl1.moveonjoy.com/CRAVE_4/index.m3u8
 
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Moveonjoy TV",Comedy Central
