@@ -141,15 +141,6 @@ http://xui.mainserver.cc/play/oCkZyqACmAE6FvzKu_186PEFGOk9LoJ4xGfS1beyo7s/.m3u8
 
 =================================================================== Temp ================================================================================================
 
-
-
-#EXTINF:-1 tvg-id="Andflix.in@HD" group-title="Temp",&flix
-#EXTVLCOPT:http-referrer=https://onezoo.net
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://onezoo.net
-https://playyonogames.in/z5/stream.m3u8?id=0-9-channel_2105335046
-
-
-
 #EXTINF:-1 tvg-id="8" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starplushd.png" group-title="Temp",Star Plus HD
 http://87.255.35.150:18850/
 #EXTINF:-1 tvg-id="star-bharat-hd" tvg-logo="https://live.dinesh29.com.np/logos/star-bharat-hd.png" group-title="Temp",Star Bharat HD
@@ -336,37 +327,109 @@ https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-zeetvhd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
 https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-zeecinemahd
 
+
+#EXTINF:-1 tvg-id="English &Flix HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1284,h_723,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list5d289fc39bef4ebca19c6bfe64e46e26.jpg" group-title="ZEE5",English &flix HD
+#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
+https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-channel_2105335046
+
 #EXTINF:-1 tvg-id="&Xplor HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-209/channel_list/1170x658withlogo358457080.png" group-title="ZEE5",&xplorHD
 #EXTVLCOPT:http-referrer=https://colorsportscreen.com/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
 https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-209
 
+#EXTINF:-1 tvg-id="&Prive HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1284,h_723,c_scale,f_webp,q_auto:eco/resources/0-9-9z5543514/list/1920x1080listd4a78816ce2d4ea7afc7efe5e639e9cd.jpg" group-title="ZEE5",&Prive HD
+#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
+https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-9z5543514
 
-#EXTINF:-1 tvg-id="&flix HD" tvg-logo="" group-title="ZEE5",&flixHD
-Referer=https://colorsportscreen.com/
-https://colorsportscreen.com/sfive/play.php?c=0-9-channel_2105335046
+#EXTINF:-1 tvg-id="English Zee Cafe HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeecafehd/list/1920x1080list813457fc09e349d9ac922d5268ecbf8a.jpg" group-title="ZEE5",English Zee Cafe HD
+#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
+https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-zeecafehd
 
 #EXTINF:-1 tvg-id="Zee Classic" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee Classic.png" group-title="ZEE5",Zee Classic
 #EXTVLCOPT:http-referrer=https://colorsportscreen.com/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
 https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-176
 
-
-
 #EXTINF:-1 tvg-id="Big Magic" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-bigmagic_1786965389/channel_list/1170x658withlog2022520414.png" group-title="ZEE5",Big Magic
-https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-bigmagic_1786965389|Referer=https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-209
-
-#EXTINF:-1 tvg-id="English &Flix HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1284,h_723,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list5d289fc39bef4ebca19c6bfe64e46e26.jpg" group-title="ZEE5",English &flix HD
-https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-channel_2105335046|Referer=https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-209
-
-#EXTINF:-1 tvg-id="English Zee Cafe HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeecafehd/list/1920x1080list813457fc09e349d9ac922d5268ecbf8a.jpg" group-title="ZEE5",English Zee Cafe HD
-https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-zeecafehd|Referer=https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-209
-
-#EXTINF:-1 tvg-id="&Prive HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1284,h_723,c_scale,f_webp,q_auto:eco/resources/0-9-9z5543514/list/1920x1080listd4a78816ce2d4ea7afc7efe5e639e9cd.jpg" group-title="ZEE5",&Prive HD
-https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-9z5543514|Referer=https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-209
+#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
+https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-bigmagic_1786965389
 
 
 
+
+================================================== Oxolive ===============================================================================================================
+
+
+#EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony Sports 1 HD
+#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
+https://colorsportscreen.com/sliv/stream.m3u8?id=1000009276
+
+#EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony Sports 2 HD
+#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
+https://colorsportscreen.com/sliv/stream.m3u8?id=1000009277
+
+#EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony Sports 3 HD
+#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
+https://colorsportscreen.com/sliv/stream.m3u8?id=1000009278
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony Sports 5 HD
+#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
+https://colorsportscreen.com/sliv/stream.m3u8?id=1000009275
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony TV HD
+#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
+https://colorsportscreen.com/sliv/stream.m3u8?id=1000009246
+
+
+#EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony Max HD
+#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
+https://colorsportscreen.com/sliv/stream.m3u8?id=1000009247
+
+#EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony Sab HD
+#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
+https://colorsportscreen.com/sliv/stream.m3u8?id=1000009248
+
+#EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony BBC Earth HD
+#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
+https://colorsportscreen.com/sliv/stream.m3u8?id=1000009252
+
+#EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony Pix HD
+#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
+https://colorsportscreen.com/sliv/stream.m3u8?id=1000009258
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony Max
+#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
+https://colorsportscreen.com/sliv/stream.m3u8?id=1000009249
+
+#EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony Wah
+#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
+https://colorsportscreen.com/sliv/stream.m3u8?id=1000009253
+
+#EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony Pal
+#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
+https://colorsportscreen.com/sliv/stream.m3u8?id=1000009273
 
 
 
