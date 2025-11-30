@@ -461,6 +461,21 @@ https://mediapackage-azf1-source.fullscreen.nz/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4000027F_20240214T034922SQUARE.png_20240214034923.png",The Graham Norton Show
 https://mediapackage-ptgn-source.fullscreen.nz/index.m3u8
 
+
+
+
+================================================== BBC===============================================================================================================
+
+#EXTINF:-1 tvg-logo="" group-title="NZ",BBC News
+https://wurlrainbowmedia.global.transmit.live/hls/68c49fa109574e8405506cb6/v1/amcnetworks_bbcnews_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NZ",BBC Drama
+https://linear-938.frequency.stream/dist/lg-us/938/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NZ",BBC Earth
+https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NZ",BBC Top Gear
+https://amg00793-bbcstudios-amg00793c4-lg-us-2527.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctopgear8min-lgus/playlist.m3u8
+
+
 ================================================== United Kingdom ===============================================================================================================
 
 
