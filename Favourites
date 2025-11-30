@@ -1636,6 +1636,16 @@ https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.
 #EXTINF:-1 tvg-logo="" group-title="English Movies",Xumo Free Black Cinema
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992302
 
+
+#EXTINF:-1 tvg-logo="" group-title="English Movies",LG 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10957
+#EXTINF:-1 tvg-logo="" group-title="English Movies",LG 1 Film
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15465
+#EXTINF:-1 tvg-logo="" group-title="English Movies",LG Christmas
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16426
+#EXTINF:-1 tvg-logo="" group-title="English Movies",LG Spotlight
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13959
+
 #EXTINF:-1 tvg-logo="https://d2aqhkzukipl76.cloudfront.net/BEST-THRILLER-TV-ENG/logo/Best-thriller-400x200.png" group-title="English Movies",Best Thriller
 https://streams2.sofast.tv/ptnr-lg/title-BEST_THRILLER_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04a87d60-a79e-4a36-9df8-0ea3a4e2c173/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://d2aqhkzukipl76.cloudfront.net/BEST-ACTION-TV-ENG/logo/Bestaction-tv-400x200.png" group-title="English Movies",Best Action
