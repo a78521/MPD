@@ -1651,8 +1651,10 @@ https://streams2.sofast.tv/ptnr-lg/title-BEST_THRILLER_LG/v1/master/611d79b11b77
 #EXTINF:-1 tvg-logo="https://d2aqhkzukipl76.cloudfront.net/BEST-ACTION-TV-ENG/logo/Bestaction-tv-400x200.png" group-title="English Movies",Best Action
 https://streams2.sofast.tv/ptnr-lg/title-BEST_ACTION_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e95e2eab-0390-4ec1-9c90-92cc21fee6a9/manifest.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="" group-title="English Movies",CW Gold
+https://d1d726ny1vain2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-femoe55fvrdvc/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English Movies",CW Forever
+https://d1sknsnbkyvie.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbcl5hxexbihh/playlist.m3u8
 
 ======================================================== Hindi Entertainment ===========================================================================================================
 
