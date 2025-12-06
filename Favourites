@@ -856,6 +856,12 @@ https://vglivessai.akamaized.net/ptnr-lg/title-AUTOMOTIONS-LGIndia/sg/v1/master/
 
 
 
+===================================================================Plex TV ==============================================================================================================
+
+#EXTINF:-1 tvg-logo="" group-title="Plex TV",True History
+https://linear-188.frequency.stream/dist/plex/188/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Plex TV",One Crime & Justice
+https://linear-593.frequency.stream/dist/xumo/593/hls/master/playlist.m3u8
 
 
 
