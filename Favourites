@@ -300,7 +300,34 @@ http://66.102.120.18:8000/play/a078/index.m3u8
 
 
 
+================================================== Jio ===============================================================================================================
 
+
+#EXTINF:-1 tvg-id="Big Magic" tvg-logo="" group-title="Jio",Colors Rishtey
+#EXTVLCOPT:http-referrer=Referer=https://onezoo.net/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=Referer=https://onezoo.net/
+https://onezoo.net/leo/live.php?id=279&format=.m3u8
+
+#EXTINF:-1 tvg-id="Big Magic" tvg-logo="" group-title="Jio",Colors Cineplex Superhits
+#EXTVLCOPT:http-referrer=Referer=https://onezoo.net/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=Referer=https://onezoo.net/
+https://onezoo.net/leo/live.php?id=1450&format=.m3u8
+
+#EXTINF:-1 tvg-id="Big Magic" tvg-logo="" group-title="Jio",Colors Cineplex HD
+#EXTVLCOPT:http-referrer=Referer=https://onezoo.net/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=Referer=https://onezoo.net/
+https://onezoo.net/leo/live.php?id=1477&format=.m3u8
+
+#EXTINF:-1 tvg-id="Big Magic" tvg-logo="" group-title="Jio",Colors Cineplex Bollywood
+#EXTVLCOPT:http-referrer=Referer=https://onezoo.net/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=Referer=https://onezoo.net/
+https://onezoo.net/leo/live.php?id=1763&format=.m3u8
+
+
+#EXTINF:-1 tvg-id="Big Magic" tvg-logo="" group-title="Jio",MTV
+#EXTVLCOPT:http-referrer=Referer=https://onezoo.net/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=Referer=https://onezoo.net/
+https://onezoo.net/leo/live.php?id=248&format=.m3u8
 
 ================================================== Zee5 ===============================================================================================================
 
