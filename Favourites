@@ -304,29 +304,29 @@ http://66.102.120.18:8000/play/a078/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Big Magic" tvg-logo="" group-title="Jio",Colors Rishtey
-#EXTVLCOPT:http-referrer=Referer=https://onezoo.net/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=Referer=https://onezoo.net/
+#EXTVLCOPT:http-referrer="https://onezoo.net"
+#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
 https://onezoo.net/leo/live.php?id=279&format=.m3u8
 
 #EXTINF:-1 tvg-id="Big Magic" tvg-logo="" group-title="Jio",Colors Cineplex Superhits
-#EXTVLCOPT:http-referrer=Referer=https://onezoo.net/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=Referer=https://onezoo.net/
+#EXTVLCOPT:http-referrer="https://onezoo.net"
+#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
 https://onezoo.net/leo/live.php?id=1450&format=.m3u8
 
 #EXTINF:-1 tvg-id="Big Magic" tvg-logo="" group-title="Jio",Colors Cineplex HD
-#EXTVLCOPT:http-referrer=Referer=https://onezoo.net/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=Referer=https://onezoo.net/
+#EXTVLCOPT:http-referrer="https://onezoo.net"
+#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
 https://onezoo.net/leo/live.php?id=1477&format=.m3u8
 
 #EXTINF:-1 tvg-id="Big Magic" tvg-logo="" group-title="Jio",Colors Cineplex Bollywood
-#EXTVLCOPT:http-referrer=Referer=https://onezoo.net/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=Referer=https://onezoo.net/
+#EXTVLCOPT:http-referrer="https://onezoo.net"
+#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
 https://onezoo.net/leo/live.php?id=1763&format=.m3u8
 
 
 #EXTINF:-1 tvg-id="Big Magic" tvg-logo="" group-title="Jio",MTV
-#EXTVLCOPT:http-referrer=Referer=https://onezoo.net/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=Referer=https://onezoo.net/
+#EXTVLCOPT:http-referrer="https://onezoo.net"
+#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
 https://onezoo.net/leo/live.php?id=248&format=.m3u8
 
 ================================================== Zee5 ===============================================================================================================
@@ -651,15 +651,15 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 
 
-#EXTINF:-1 tvg-id="swar-shree" tvg-logo="https://a.jsrdn.com/hls/22994/swar-shree/poster_20210928_174619.jpg" group-title="Spirituality",Swar Shree
+#EXTINF:-1 tvg-id="swar-shree" tvg-logo="https://a.jsrdn.com/hls/22994/swar-shree/poster_20210928_174619.jpg" group-title="Distro TV",Swar Shree
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/swar-shree/index.m3u8
-#EXTINF:-1 tvg-id="hare-krsna" tvg-logo="https://a.jsrdn.com/hls/22994/hare-krsna/poster_20211123_183252.jpg" group-title="Spirituality",Hare Krsna
+#EXTINF:-1 tvg-id="hare-krsna" tvg-logo="https://a.jsrdn.com/hls/22994/hare-krsna/poster_20211123_183252.jpg" group-title="Distro TV",Hare Krsna
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hare-krsna/master.m3u8
-#EXTINF:-1 tvg-id="sanmarg-tv" tvg-logo="https://a.jsrdn.com/hls/23191/sanmarg-tv/poster_20240910_205357.jpg" group-title="Spirituality",SANMARG TV
+#EXTINF:-1 tvg-id="sanmarg-tv" tvg-logo="https://a.jsrdn.com/hls/23191/sanmarg-tv/poster_20240910_205357.jpg" group-title="Distro TV",SANMARG TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sanmarg-tv/master.m3u8
-#EXTINF:-1 tvg-id="kalyan-tv" tvg-logo="https://a.jsrdn.com/hls/22994/kalyan-tv/poster_20231017_223758.jpg" group-title="Spirituality",Kalyan TV
+#EXTINF:-1 tvg-id="kalyan-tv" tvg-logo="https://a.jsrdn.com/hls/22994/kalyan-tv/poster_20231017_223758.jpg" group-title="Distro TV",Kalyan TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kalyan-tv/index.m3u8
-#EXTINF:-1 tvg-id="lakshya-tv" tvg-logo="https://a.jsrdn.com/hls/22994/lakshya-tv/poster_20231017_222841.jpg" group-title="Spirituality",Lakshya TV
+#EXTINF:-1 tvg-id="lakshya-tv" tvg-logo="https://a.jsrdn.com/hls/22994/lakshya-tv/poster_20231017_222841.jpg" group-title="Distro TV",Lakshya TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/lakshya-tv/index.m3u8
 
 #EXTINF:-1 tvg-id="willow-sports" tvg-logo="https://a.jsrdn.com/hls/23197/willow-sports/poster_20241003_234951.jpg" group-title="Distro TV",Willow Sports
