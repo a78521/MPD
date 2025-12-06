@@ -1004,6 +1004,11 @@ https://shd-gcp-live.akamaized.net/live/bitmovin-mbc-max/b628d2bbaee0431a1785996
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xX2dRh0/showcase.png" group-title="USA Channels",SHOWCASE 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c99d8404fee24f907870cbf212924967:03591856cc3dd05a1e297de8ecd422f8
+https://live.corusdigitaldev.com/groupd/live/376c96cd-193f-46d1-a2b6-7c2b78cb0aa5/corus-showcase.isml/.mpd
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YZzpZx1.png" group-title="USA Channels",Love & Nature
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
