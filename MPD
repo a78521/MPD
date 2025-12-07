@@ -104,6 +104,16 @@ https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561205/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=54393232379c4a57898a8d4d12b6695c:2305a3f727638465116400f7c422af87
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560601/index.mpd
 
+#EXTINF:-1 tvg-id="Blu3Hu5tlerAdult" group-title="Sports" tvg-logo="",Go3 Sport 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f48a8131e05f4d6e84de19f086c781a6:fd28f2f966a906f4d4dcfd72ae90094e
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560502/index.mpd
+
+#EXTINF:-1 tvg-id="Blu3Hu5tlerAdult" group-title="Sports" tvg-logo="",Go3 Sport Open
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd
+
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",Eurosports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1038,10 +1048,27 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
 
 
+
+
 #EXTINF:-1 tvg-logo="" group-title="USA Channels",FX Life
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a75f9a2300f448089c6cdebeb97bbbd:606ae417e0e6cf4b0d353764e3140dbc
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561301/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="USA Channels",MTV Live
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1041d72f861c4e60a87a4e828250ded6:c75b1640bc83ec0c653902a775e5bb1a
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560701/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="USA Channels",National Geographic
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d647aff767c453daa5fb54a44c783c6:2f971e6a1cc58e7085afc761a3f13162
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561901/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="USA Channels",National Geo Wild
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ffa7c3ca6020428c919e13b817b7e31b:adf163c6c1729e6f77668d4e49f32352
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561201/index.mpd
 
 
 #EXTINF:-1  tvg-id="MGM+.HD.us2" tvg-logo="https://static.wikia.nocookie.net/mako-movies/images/d/d5/MGM_Holdings_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20190126193754" group-title="USA Channels",MGM+
