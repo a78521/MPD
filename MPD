@@ -1048,7 +1048,10 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
 
 
-
+#EXTINF:-1 tvg-logo="" group-title="USA Channels",AMC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34c1715a9fd24e7d8497da043669ad66:e3ce21758f33b38413d7cfecfddcb289
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560908/index.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="USA Channels",FX Life
 #KODIPROP:inputstream.adaptive.license_type=clearkey
