@@ -104,15 +104,25 @@ https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561205/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=54393232379c4a57898a8d4d12b6695c:2305a3f727638465116400f7c422af87
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560601/index.mpd
 
-#EXTINF:-1 tvg-id="Blu3Hu5tlerAdult" group-title="Sports" tvg-logo="",Go3 Sport 1
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="",Go3 Sport 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f48a8131e05f4d6e84de19f086c781a6:fd28f2f966a906f4d4dcfd72ae90094e
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560502/index.mpd
 
-#EXTINF:-1 tvg-id="Blu3Hu5tlerAdult" group-title="Sports" tvg-logo="",Go3 Sport Open
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="",Go3 Sport Open
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="",SETANTA SPORTS 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561002/index.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="",SETANTA SPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9552bcbabfbd4ac19744422143bfb875:e6daacaced7eba147d2b667441060a4f
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561004/index.mpd
 
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",Eurosports 1
@@ -1062,6 +1072,16 @@ https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/562104/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f500790fc198489bac7a5937cc5e2312:16ebfccee4852e9d63676106c11773bb
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561805/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="USA Channels",Nicktoons
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3161c6c45076419fbbc333c277a22f65:18827aad7e2e79e526f529fd5027cb47
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561208/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="USA Channels",FAST AND FUN BOX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6bd9264f24444c9a1bea842ba0bc33d:00c737b67ab210796510463a99b0b00d
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561203/index.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="USA Channels",FX Life
 #KODIPROP:inputstream.adaptive.license_type=clearkey
