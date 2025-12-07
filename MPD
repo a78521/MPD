@@ -1189,7 +1189,7 @@ https://live2.shoq.com.pk/live/eds/Dunya_News/DASH/Dunya_News.mpd
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/express-news.png" group-title="Shoq",Express News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3cc797eec44e9de28e0383d6f8053ef1:a27a46fc0b462ee9d35845b086284728
+#KODIPROP:inputstream.adaptive.license_key=4edc3a4011fb346018e4033377b20f22:5844c84e63b10e08cdb745eef7386ea6
 https://live2.shoq.com.pk/live/eds/Express_News/DASH/Express_News.mpd
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/geo-news.png" group-title="Shoq", Geo News
@@ -1237,7 +1237,7 @@ https://live2.shoq.com.pk/live/eds/Sun_News/DASH/Sun_News.mpd
 #KODIPROP:inputstream.adaptive.license_key=54aa47ddf8d6cbc147b7e61854d06dbb:afbef7ea4cce38bd7c84303bb7246756
 https://live2.shoq.com.pk/live/eds/A_Plus/DASH/A_Plus.mpd
 
-#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/ARY-Zindagi.png" group-title="Shoq",Ary Zindagi
+#EXTINF:-1 tvg-logo="" group-title="Shoq",Ary Zindagi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b7a0caf4ffb4b8010eeb51558ca2d29a:26220c96f83015d580f455baa4dbfe20
 https://live2.shoq.com.pk/live/eds/ARY_Zindagae/DASH/ARY_Zindagae.mpd
