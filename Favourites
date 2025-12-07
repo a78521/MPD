@@ -1763,7 +1763,8 @@ https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
 
 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10651.jpg" group-title="Hindi Music",Mastii
-https://d1msejlow1t3l4.cloudfront.net/211125/mastii/chunks.m3u8
+https://d1taaads3ztvmu.cloudfront.net/120723/mastii/chunklist.m3u8
+#https://d1msejlow1t3l4.cloudfront.net/211125/mastii/chunks.m3u8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10596.jpg" group-title="Hindi Music",E24
 https://bagnetwork.digivive.com/hlslive/Admin/px09241091/live/E24LiveB/master_1.m3u8
 
