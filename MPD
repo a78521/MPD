@@ -1307,10 +1307,10 @@ https://live2.shoq.com.pk/live/eds/Geo_Taiz/DASH/Geo_Taiz.mpd
 #KODIPROP:inputstream.adaptive.license_key=83404dd4292fec9e27173696f6e42dee:a9dd477034d4fb2e7e5dc7c21ce73fed
 https://live2.shoq.com.pk/live/eds/HUM_TV/DASH/HUM_TV.mpd
 
-#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/GreenTV.svg" group-title="Shoq", Green TV HD
+#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/GreenTV.png" group-title="Shoq", Green TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6d4be35ee287b6133c49ff1f6331725:750604f1cff4dcccdb370a4cdcd6b7ee
-https://live.shoq.com.pk/live/eds/Green_TV/DASH/Green_TV.mpd
+https://live2.shoq.com.pk/live/eds/Green_TV/DASH/Green_TV.mpd
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/h_now.png" group-title="Shoq", HNow TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
