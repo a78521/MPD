@@ -1053,6 +1053,16 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=34c1715a9fd24e7d8497da043669ad66:e3ce21758f33b38413d7cfecfddcb289
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560908/index.mpd
 
+#EXTINF:-1 tvg-logo="" group-title="USA Channels",Discovery
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e5b4f0f0bf641029b2b2000665a8b49:152408adb88d19b5bfac04ccb6c493bb
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/562104/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="USA Channels",Discovery ID
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f500790fc198489bac7a5937cc5e2312:16ebfccee4852e9d63676106c11773bb
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561805/index.mpd
+
 #EXTINF:-1 tvg-logo="" group-title="USA Channels",FX Life
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a75f9a2300f448089c6cdebeb97bbbd:606ae417e0e6cf4b0d353764e3140dbc
@@ -1068,10 +1078,15 @@ https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560701/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=6d647aff767c453daa5fb54a44c783c6:2f971e6a1cc58e7085afc761a3f13162
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561901/index.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="USA Channels",National Geo Wild
+#EXTINF:-1 tvg-logo="" group-title="USA Channels",Nat Geo Wild
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ffa7c3ca6020428c919e13b817b7e31b:adf163c6c1729e6f77668d4e49f32352
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561201/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="USA Channels",Animal Planet
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=999c783c19f6412fbd874ed21e17c9c2:494421f360d98a7fdda924130d662272
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561803/index.mpd
 
 
 #EXTINF:-1  tvg-id="MGM+.HD.us2" tvg-logo="https://static.wikia.nocookie.net/mako-movies/images/d/d5/MGM_Holdings_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20190126193754" group-title="USA Channels",MGM+
