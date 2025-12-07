@@ -99,6 +99,11 @@ https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561705/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=a9e3bdb344af427b90e4681174e41c97:de6bcb2bef4f1c7968296c1cde182494
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561205/index.mpd
 
+#EXTINF:-1 tvg-logo="https://tr.images.cdn.cgates.lt/static/channels/561205.png" group-title="Sports", Extreme Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e4293507d592df040f2186f1ce82a712:fcda490bfd8148179b0e93c5ef0d80e3
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561206/index.mpd
+
 #EXTINF:-1 tvg-id="Blu3Hu5tlerAdult" group-title="Sports" tvg-logo="",Blu3 Hu5tler Adult
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=54393232379c4a57898a8d4d12b6695c:2305a3f727638465116400f7c422af87
@@ -274,6 +279,102 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b994480f788d41ddbc805862ac469416:78a6a0fc1758483595da7113e58e4467
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
+
+
+================================================= Cgate =================================================================================================================
+
+#EXTINF:-1 tvg-logo="" group-title="Cgate",CNN International
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f4052e0dcb740b28b8fd49ee4ecd35a:e2e0d07b2767e46581c82cf87614e750
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560404/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Cgate",AMC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34c1715a9fd24e7d8497da043669ad66:e3ce21758f33b38413d7cfecfddcb289
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560908/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Cgate",Discovery
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e5b4f0f0bf641029b2b2000665a8b49:152408adb88d19b5bfac04ccb6c493bb
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/562104/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Cgate",Discovery ID
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f500790fc198489bac7a5937cc5e2312:16ebfccee4852e9d63676106c11773bb
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561805/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Cgate",Baby TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7707f7fb0c84c8ba54619f514eee4ec:fd2ceae6cddde71895e4718f00f34275
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561306/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Cgate",Cartoon Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5cebda34393a4b20b0748445ba89e8c4:2c125f88407aff752517ffc485436043
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560401/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Cgate",Nicktoons
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3161c6c45076419fbbc333c277a22f65:18827aad7e2e79e526f529fd5027cb47
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561208/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Cgate",Stingray Concerts
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa806baddc384a168eff4f95f06ad289:eb65e4b92473ed6e33ff05a56343dbab
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561101/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Cgate",FAST AND FUN BOX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6bd9264f24444c9a1bea842ba0bc33d:00c737b67ab210796510463a99b0b00d
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561203/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Cgate",FX Life
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a75f9a2300f448089c6cdebeb97bbbd:606ae417e0e6cf4b0d353764e3140dbc
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561301/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Cgate",MTV Live
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1041d72f861c4e60a87a4e828250ded6:c75b1640bc83ec0c653902a775e5bb1a
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560701/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Cgate",MTV Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c75b1640bc83ec0c653902a775e5bb1a:1041d72f861c4e60a87a4e828250ded6
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560612/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Cgate",MTV 00s
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba29ad1cfb7c4a8b95cca44cf4641e78:b5db7930ad42ca8e7eff680ffba8a713
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560410/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Cgate",National Geographic
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d647aff767c453daa5fb54a44c783c6:2f971e6a1cc58e7085afc761a3f13162
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561901/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Cgate",Nat Geo Wild
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ffa7c3ca6020428c919e13b817b7e31b:adf163c6c1729e6f77668d4e49f32352
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561201/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Cgate",Animal Planet
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=999c783c19f6412fbd874ed21e17c9c2:494421f360d98a7fdda924130d662272
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561803/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Cgate",Viasat Kino Action
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a3d36e39d7a348b8baefe91d766502fd:c7dbd70b01503a82d081f373bfb872a3
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560902/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Cgate",Viasat Kino Comedy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fc75aa7946574c98ba16581c6fcb482c:0067607f24eed00bbf50155760f8c6b3
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561404/index.mpd
+
+
+
 
 =============================================================== Viasat ==================================================================================================================
 
@@ -1056,58 +1157,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
 #EXTINF:-1 tvg-logo="" group-title="USA Channels",Studio Universal
 https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
-
-
-#EXTINF:-1 tvg-logo="" group-title="USA Channels",AMC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34c1715a9fd24e7d8497da043669ad66:e3ce21758f33b38413d7cfecfddcb289
-https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560908/index.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="USA Channels",Discovery
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0e5b4f0f0bf641029b2b2000665a8b49:152408adb88d19b5bfac04ccb6c493bb
-https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/562104/index.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="USA Channels",Discovery ID
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f500790fc198489bac7a5937cc5e2312:16ebfccee4852e9d63676106c11773bb
-https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561805/index.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="USA Channels",Nicktoons
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3161c6c45076419fbbc333c277a22f65:18827aad7e2e79e526f529fd5027cb47
-https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561208/index.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="USA Channels",FAST AND FUN BOX
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b6bd9264f24444c9a1bea842ba0bc33d:00c737b67ab210796510463a99b0b00d
-https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561203/index.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="USA Channels",FX Life
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a75f9a2300f448089c6cdebeb97bbbd:606ae417e0e6cf4b0d353764e3140dbc
-https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561301/index.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="USA Channels",MTV Live
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1041d72f861c4e60a87a4e828250ded6:c75b1640bc83ec0c653902a775e5bb1a
-https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560701/index.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="USA Channels",National Geographic
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d647aff767c453daa5fb54a44c783c6:2f971e6a1cc58e7085afc761a3f13162
-https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561901/index.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="USA Channels",Nat Geo Wild
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ffa7c3ca6020428c919e13b817b7e31b:adf163c6c1729e6f77668d4e49f32352
-https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561201/index.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="USA Channels",Animal Planet
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=999c783c19f6412fbd874ed21e17c9c2:494421f360d98a7fdda924130d662272
-https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561803/index.mpd
-
 
 #EXTINF:-1  tvg-id="MGM+.HD.us2" tvg-logo="https://static.wikia.nocookie.net/mako-movies/images/d/d5/MGM_Holdings_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20190126193754" group-title="USA Channels",MGM+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
