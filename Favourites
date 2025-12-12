@@ -300,6 +300,22 @@ http://66.102.120.18:8000/play/a078/index.m3u8
 
 
 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/SxVJGs6X/adnan-sami.jpg" group-title="Tplay",24/7 Adnan Sami
+https://tplay.live/playlist/music/adnan-sami/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HsvPf09Y/bollywood.jpg" group-title="Tplay",24/7 Bollywood Movies
+https://tplay.live/playlist/movies/bollywood-movies/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/DZmhKfbK/dubbed.jpg" group-title="Tplay",24/7 Dubbed Movies
+https://tplay.live/playlist/movies/dubbed-movies/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/QMQsqnGY/dance.jpg" group-title="Tplay",24/7 Dance Performance
+https://tplay.live/playlist/music/dance-performance/index.m3u8
+
+
+
+
 ================================================== Jio ===============================================================================================================
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Colors HD
