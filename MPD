@@ -1389,7 +1389,7 @@ https://live2.shoq.com.pk/live/eds/Neo_TV/DASH/Neo_TV.mpd
 #KODIPROP:inputstream.adaptive.license_key=89bae7f198d4e9864f140c9e28d2b42e:fb191b37d82118b60d1457f46d5f2306
 https://live2.shoq.com.pk/live/eds/PTV_News/DASH/PTV_News.mpd
 
-#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/ptv-national.png" group-title="Live", PTV National
+#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/ptv-national.png" group-title="Shoq", PTV National
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f199010df84af57109592ad679638052:0dbb21170f86de451b88294858051267
 https://live2.shoq.com.pk/live/eds/PTV_National/DASH/PTV_National.mpd
