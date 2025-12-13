@@ -101,8 +101,7 @@ https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Nat%20Geo%20Wi
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports 1 HD
 http://87.255.35.150:18891
-#http://116.90.120.149:8000/play/a0je
-#http://116.90.120.149:8000/play/a0gs
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports 1 Hindi HD
 http://87.255.35.150:18302
@@ -142,16 +141,21 @@ http://xui.mainserver.cc/play/oCkZyqACmAE6FvzKu_186PEFGOk9LoJ4xGfS1beyo7s/.m3u8
 
 #EXTINF:-1 tvg-id="8" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starplushd.png" group-title="Temp",Star Plus HD
 http://87.255.35.150:18850/
+#http://66.102.120.18:8000/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="star-bharat-hd" tvg-logo="https://live.dinesh29.com.np/logos/star-bharat-hd.png" group-title="Temp",Star Bharat HD
 http://87.255.35.150:18555
 #EXTINF:-1 tvg-id="star-gold-hd" tvg-logo="https://live.dinesh29.com.np/logos/star-gold-hd.png" group-title="Temp",Star Gold HD
 http://87.255.35.150:18859/
+#http://66.102.120.18:8000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-id="star-gold-select-hd" tvg-logo="https://live.dinesh29.com.np/logos/star-gold-select-hd.png" group-title="Temp",Star Gold Select HD
 http://87.255.35.150:18429
+#http://66.102.120.18:8000/play/a01s/index.m3u8
 #EXTINF:-1 tvg-id="star-gold-select-hd" tvg-logo="" group-title="Temp",Star Movies HD
 http://87.255.35.150:18301
+#http://66.102.120.18:8000/play/a021/index.m3u8
 #EXTINF:-1 tvg-id="star-gold-select-hd" tvg-logo="" group-title="Temp",Star Movies Select HD
 http://87.255.35.150:18548
+#http://66.102.120.18:8000/play/a020/index.m3u8
 
 #EXTINF:-1 tvg-id="colors-hd" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Temp",Colors HD
 http://87.255.35.150:18890
@@ -178,8 +182,10 @@ http://87.255.35.150:18886
 
 #EXTINF:-1 tvg-id="63" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/zeetvhd.png" group-title="Temp",Zee TV HD
 http://87.255.35.150:18849
+#http://66.102.120.18:8000/play/a00y/index.m3u8
 #EXTINF:-1 tvg-id="503" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/zeecinemahd.png" group-title="Temp",Zee Cinema HD
 http://87.255.35.150:18808
+#http://66.102.120.18:8000/play/a06w/index.m3u8
 
 #EXTINF:-1 tvg-id="63" tvg-logo="" group-title="Temp",Zee Action
 http://87.255.35.150:18507
@@ -197,12 +203,16 @@ http://87.255.35.150:18494
 #EXTINF:-1 tvg-id="1183" tvg-logo="" group-title="Temp",&flix HD
 http://66.102.120.18:8000/play/a022/index.m3u8
 
-
+#EXTINF:-1 tvg-id="1183" tvg-logo="" group-title="Temp",Zee Cafe HD
+http://66.102.120.18:8000/play/a076/index.m3u8
 
 #EXTINF:-1 tvg-id="666" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/tataplaytheatrehd.png" group-title="Temp",Tata Play Theatre HD
 
 
 #EXTINF:-1 tvg-id="disney-international-hd" tvg-logo="https://live.dinesh29.com.np/logos/disney-international-hd.png" group-title="Temp",Disney International HD
+http://66.102.120.18:8000/play/a078/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Temp",Disney Channel HD
+http://66.102.120.18:8000/play/a013/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-entertainment-hd" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Temp",Sony Entertainment HD
@@ -237,17 +247,17 @@ http://87.255.35.150:18818
 #EXTINF:-1 tvg-id="star-sports-2-hd" tvg-logo="https://live.dinesh29.com.np/logos/star-sports-2-hd.png" group-title="Temp",Star Sports 2 HD
 
 #EXTINF:-1 tvg-id="star-sports-1-hd-hindi" tvg-logo="https://live.dinesh29.com.np/logos/star-sports-1-hd-hindi.png" group-title="Temp",Star Sports 1 HD Hindi
-
+http://66.102.120.18:8000/play/a072/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu4n9kOGNChzU1XXDD1754pRpFRfxj55vrpvmyO4OUpw&s=10" group-title="Temp",Star Sports Tamil
 
 #EXTINF:-1 tvg-id="1033" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starsports2hindihd.png" group-title="Temp",Star Sports 2 Hindi HD
-
+http://66.102.120.18:8000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="1033" tvg-logo="" group-title="Temp",Star Sports Khel
 https://mini.allinonereborn.fun/jiotv-ww5/app/ts_live_1998.m3u8
 #EXTINF:-1 tvg-id="star-sports-select-hd-1" tvg-logo="https://live.dinesh29.com.np/logos/star-sports-select-hd-1.png" group-title="Temp",Star Sports Select HD 1
-
+http://66.102.120.18:8000/play/a06x/index.m3u8
 #EXTINF:-1 tvg-id="star-sports-select-hd-2" tvg-logo="https://live.dinesh29.com.np/logos/star-sports-select-hd-2.png" group-title="Temp",Star Sports Select HD 2
-
+http://66.102.120.18:8000/play/a06y/index.m3u8
 
 #EXTINF:-1 tvg-id="812" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/eurosporthd.png" group-title="Temp",Eurosport HD
 https://mini.allinonereborn.fun/jiotv-ww5/app/ts_live_875.m3u8
@@ -258,6 +268,9 @@ http://87.255.35.150:18935
 
 #EXTINF:-1 tvg-id="599" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/mnxhd.png" group-title="Temp",MNX HD
 http://87.255.35.150:18936
+#EXTINF:-1 tvg-id="599" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/mnxhd.png" group-title="Temp",Romedy Now
+http://66.102.120.18:8000/play/a01j/index.m3u8
+
 #EXTINF:-1 tvg-id="1033" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starsports2hindihd.png" group-title="Temp",Star Sports 2 Hindi HD
 
 #EXTINF:-1 tvg-id="1489" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/tataplayfancodesports.png" group-title="Temp",Tata Play Fancode Sports
@@ -268,9 +281,9 @@ https://mini.allinonereborn.fun/jiotv-ww5/app/ts_live_1226.m3u8
 http://66.102.120.18:8000/play/a017/index.m3u8
 #https://mini.allinonereborn.fun/jiotv-ww5/app/ts_live_1079.m3u8
 #EXTINF:-1 tvg-id="605" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/nationalgeographichd.png" group-title="Temp",National Geographic HD
-
+http://66.102.120.18:8000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="413" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/natgeowildhd.png" group-title="Temp",Nat Geo Wild HD
-
+http://66.102.120.18:8000/play/a01d/index.m3u8
 
 
 #EXTINF:-1 tvg-id="341" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/discoveryhdworld.png" group-title="Temp",Discovery HD World
@@ -278,7 +291,7 @@ http://66.102.120.18:8000/play/a01k/index.m3u8
 #https://mini.allinonereborn.fun/jiotv-in/app/ts_live_463.m3u8
 
 #EXTINF:-1 tvg-id="287" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/animalplanethdworld.png" group-title="Temp",Animal Planet HD World
-http://116.90.120.149:8000/play/a0hv/index.m3u8
+
 #https://mini.allinonereborn.fun/jiotv-ww5/app/ts_live_286.m3u8
 
 #EXTINF:-1 tvg-id="480" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/tlchd.png" group-title="Temp",TLC HD
@@ -294,10 +307,7 @@ https://n18syndication-amagi.akamaized.net/bpk-tv/History_HD_NW18_MOB/output01/i
 https://n18syndication-amagi.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/index.m3u8
 #https://mini.allinonereborn.fun/jiotv-ww5/app/ts_live_578.m3u8
 
-#EXTINF:-1 tvg-id="578" tvg-logo="" group-title="Temp",Disney Channel HD
-http://66.102.120.18:8000/play/a013/index.m3u8
-#EXTINF:-1 tvg-id="578" tvg-logo="" group-title="Temp",Disney International HD
-http://66.102.120.18:8000/play/a078/index.m3u8
+
 
 
 
