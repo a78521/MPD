@@ -1288,7 +1288,7 @@ https://d3fmqi91qduj7.cloudfront.net/11401/88814579/hls/master.m3u8?ads.xumo_cha
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5387
 #EXTINF:-1 tvg-logo="" group-title="TCL",Free Crime TV
 https://d3fmqi91qduj7.cloudfront.net/11401/88814532/hls/master.m3u8?ads.xumo_channelId=88814532&ads.xumo_streamId=88814532
-#EXTINF:-1,Unsolved Mysteries
+#EXTINF:-1 tvg-logo="" group-title="TCL",Unsolved Mysteries
 https://d3fmqi91qduj7.cloudfront.net/11401/88814518/hls/master.m3u8?ads.xumo_channelId=88814518&ads.xumo_streamId=88814518
 #EXTINF:-1 tvg-logo="" group-title="TCL",Dr. G: Medical Examiner
 https://d3fmqi91qduj7.cloudfront.net/11401/88814507/hls/master.m3u8?ads.xumo_channelId=88814507&ads.xumo_streamId=88814507
@@ -1528,7 +1528,7 @@ https://d3fmqi91qduj7.cloudfront.net/11401/88814525/hls/master.m3u8?ads.xumo_cha
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5391
 #EXTINF:-1 tvg-logo="" group-title="TCL",Like Nastya - Live Channel
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11110
-#EXTINF:-1,Tankee - Live Channel
+#EXTINF:-1 tvg-logo="" group-title="TCL",Tankee - Live Channel
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11109
 #EXTINF:-1 tvg-logo="" group-title="TCL",Strawberry Shortcake
 https://d3fmqi91qduj7.cloudfront.net/11401/88814630/hls/master.m3u8?ads.xumo_channelId=88814630&ads.xumo_streamId=88814630
@@ -1642,7 +1642,7 @@ https://amg09501-amg09501c3-tclideo-na-2402.playouts.now.amagi.tv/playlist/amg09
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5388
 #EXTINF:-1 tvg-logo="" group-title="TCL",The Asylum
 https://d3fmqi91qduj7.cloudfront.net/11401/88884521/hls/master.m3u8?ads.xumo_channelId=88884521&ads.xumo_streamId=88884521
-#EXTINF:-1,Free Horror & Thriller Movies
+#EXTINF:-1 tvg-logo="" group-title="TCL",Free Horror & Thriller Movies
 https://d3fmqi91qduj7.cloudfront.net/11401/88814529/hls/master.m3u8?ads.xumo_channelId=88814529&ads.xumo_streamId=88814529
 #EXTINF:-1 tvg-logo="" group-title="TCL",Filmrise Horror
 https://d3fmqi91qduj7.cloudfront.net/11401/88814513/hls/master.m3u8?ads.xumo_channelId=88814513&ads.xumo_streamId=88814513
