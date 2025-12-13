@@ -1939,6 +1939,11 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/in
 #EXTINF:-1 tvg-id="10595" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/896613924Tv9_bharatvarsha.webp" group-title="Waves",TV9 Bharatvarsh
 https://vg-tv9live.akamaized.net/ptnr-dd_free_dish/title-TV9_Bharatvarsh_DD/vglive-sk-501555/playlist.m3u8
 
+
+
+#EXTINF:-1 tvg-id="10595" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1245247643INDIA_TODAY_TV______720x405.webp" group-title="Waves",India Today
+https://d2lk5u59tns74c.cloudfront.net/out/v1/d4435039c7d1433d9b9d0b6cdc9dd4ff/index.m3u8
+
 #EXTINF:-1 tvg-id="10545" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/269746116Frame_1597877911.webp" group-title="Waves",B4U Music
 https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
 #EXTINF:-1 tvg-id="10543" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1799055944B4U_BHOJPURI.webp" group-title="Waves",B4U Bhojpuri
@@ -2429,6 +2434,8 @@ https://linear-492.frequency.stream/dist/stirr/492/hls/master/playlist.m3u8
 
 #EXTINF:0, tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/925545393ABP_NEWS.webp" group-title="Hindi News",ABP News
 https://d3kdywbtdfbp9z.cloudfront.net/v1/master/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/master.m3u8?aws.sessionId=de665baf-9683-4bf8-80ec-95c7853418e2
+#https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
+
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10608.jpg" group-title="Hindi News",Aaj Tak
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7b044d82f0bc462b8be3e2dec0bf2bd2/index.m3u8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10546.jpg" group-title="Hindi News",GNT
@@ -2475,7 +2482,7 @@ https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca141
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/695950420.jpeg" group-title="English News",Republic India
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10547.jpg" group-title="English News",India Today
-https://d2lk5u59tns74c.cloudfront.net/out/v1/d4435039c7d1433d9b9d0b6cdc9dd4ff/index.m3u8
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
 #EXTINF:0, tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/Times_NOW.png" group-title="English News",Times Now
 https://d3pvf6sv7wsu07.cloudfront.net/master.m3u8
 https://d1irnksb81zh0b.cloudfront.net/master.m3u8
