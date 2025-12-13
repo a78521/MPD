@@ -154,16 +154,14 @@ http://87.255.35.150:18301
 http://87.255.35.150:18548
 
 #EXTINF:-1 tvg-id="colors-hd" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Temp",Colors HD
-http://116.90.120.149:8000/play/a0gt/index.m3u8
-https://mini.allinonereborn.fun/jiotv-ww5/app/ts_live_144.m3u8
-#http://87.255.35.150:18890
-
+http://87.255.35.150:18890
+#https://mini.allinonereborn.fun/jiotv-ww5/app/ts_live_144.m3u8
 
 #EXTINF:-1 tvg-id="cineplex-hd" tvg-logo="https://live.dinesh29.com.np/logos/cineplex-hd.png" group-title="Temp",Colors Cineplex HD
 http://87.255.35.150:18296/
 #EXTINF:-1 tvg-id="187" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/colorsinfinityhd.png" group-title="Temp",Colors Infinity HD
-https://mini.allinonereborn.fun/jiotv-ww5/app/ts_live_1158.m3u8
-#http://87.255.35.150:18838
+http://87.255.35.150:18838
+#https://mini.allinonereborn.fun/jiotv-ww5/app/ts_live_1158.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.dinesh29.com.np/logos/tataplay/mtvhd.png" group-title="Temp",MTV HD
 https://mini.allinonereborn.fun/jiotv-ww5/app/ts_live_1145.m3u8
@@ -513,6 +511,8 @@ https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 
 ================================================== AUS & NZ===============================================================================================================
 
+#EXTINF:-1 tvg-logo="" group-title="NZ",ABC Australia
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NZ",Bravo +1
 https://mediapackage-bravo-plus-1-source.fullscreen.nz/index.m3u8
 #EXTINF:-1 tvg-logo="https://freeviewnz.tv/Media/w12nmsps/018-edenplus1-red.png" group-title="NZ",Eden +1
@@ -1600,20 +1600,6 @@ https://d3fmqi91qduj7.cloudfront.net/11401/88814570/hls/playlist.m3u8?ads.xumo_c
 https://d3fmqi91qduj7.cloudfront.net/11401/88814563/hls/playlist.m3u8?ads.xumo_channelId=88814563&ads.xumo_streamId=88814563
 #EXTINF:-1 tvg-logo="" group-title="TCL",NBC News Washington D.C.
 https://d3fmqi91qduj7.cloudfront.net/11401/88814566/hls/playlist.m3u8?ads.xumo_channelId=88814566&ads.xumo_streamId=88814566
-#EXTINF:-1 tvg-logo="" group-title="TCL",Telemundo Al Dia
-https://d3f4oii5n0oeqi.cloudfront.net/11701/88814573/hls/master.m3u8?ads.xumo_channelId=88814573
-#EXTINF:-1 tvg-logo="" group-title="TCL",Lo Mejor de Telemundo
-https://d3fmqi91qduj7.cloudfront.net/11401/88814578/hls/master.m3u8?ads.xumo_channelId=88814578&ads.xumo_streamId=88814578
-#EXTINF:-1 tvg-logo="" group-title="TCL",Noticias Telemundo Ahora
-https://d3f4oii5n0oeqi.cloudfront.net/11701/88814626/hls/master.m3u8?ads.xumo_channelId=88814626&ads.xumo_streamId=88814626
-#EXTINF:-1 tvg-logo="" group-title="TCL",Telemundo Noticias California
-https://d3f4oii5n0oeqi.cloudfront.net/11701/88814595/hls/playlist.m3u8?ads.xumo_channelId=88814595&ads.xumo_streamId=88814595
-#EXTINF:-1 tvg-logo="" group-title="TCL",Telemundo Noticias Noreste
-https://d3f4oii5n0oeqi.cloudfront.net/11701/88814601/hls/playlist.m3u8?ads.xumo_channelId=88814601&ads.xumo_streamId=88814601
-#EXTINF:-1 tvg-logo="" group-title="TCL",Telemundo Noticias Florida
-https://d3f4oii5n0oeqi.cloudfront.net/11701/88814600/hls/playlist.m3u8?ads.xumo_channelId=88814600&ads.xumo_streamId=88814600
-#EXTINF:-1 tvg-logo="" group-title="TCL",Telemundo Noticias Texas
-https://d3f4oii5n0oeqi.cloudfront.net/11701/88814602/hls/playlist.m3u8?ads.xumo_channelId=88814602&ads.xumo_streamId=88814602
 #EXTINF:-1 tvg-logo="" group-title="TCL",Fawesome Live
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5389
 #EXTINF:-1 tvg-logo="" group-title="TCL",Free Westerns
@@ -1636,7 +1622,7 @@ https://amg01540-apexmedia-amg01540c2-tclideo-northamerica-983.playouts.now.amag
 https://amg00406-tinizine-amg00406c1-tclideo-northamerica-828.playouts.now.amagi.tv/playlist/amg00406-tinizinelimited-davincius-tclideonorthamerica/playlist.m3u8[did]=REPLACE_ME&device
 #EXTINF:-1 tvg-logo="" group-title="TCL",Free Family Movies
 https://d3fmqi91qduj7.cloudfront.net/11401/88814533/hls/master.m3u8?ads.xumo_channelId=88814533&ads.xumo_streamId=88814533
-#EXTINF:-1 tvg-logo="" group-title="TCL",FamilyTime (Geo)
+#EXTINF:-1 tvg-logo="" group-title="TCL",FamilyTime
 https://amg09501-amg09501c3-tclideo-na-2402.playouts.now.amagi.tv/playlist/amg09501-quester-familytime-tclideona/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TCL",Fawesome Horror Live
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5388
@@ -1898,13 +1884,13 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00374-gameshownetwork-gettv-tcltvpl
 
 =============================================================Waves =======================================================================================================================
 
-#EXTINF:-1 tvg-id="10605" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1001652520DD_TRIPURA__1_.webp" group-title="Music", 9X JALWA
+#EXTINF:-1 tvg-id="10605" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1001652520DD_TRIPURA__1_.webp" group-title="Waves", 9X JALWA
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
-#EXTINF:-1 tvg-id="10606" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/19506022848783082819X_JHAKAS.webp" group-title="Music", 9X JHAKAS
+#EXTINF:-1 tvg-id="10606" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/19506022848783082819X_JHAKAS.webp" group-title="Waves", 9X JHAKAS
 https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
-#EXTINF:-1 tvg-id="10591" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/6041427509XM.webp" group-title="Music", 9XM
+#EXTINF:-1 tvg-id="10591" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/6041427509XM.webp" group-title="Waves", 9XM
 https://wiselp.wiseplayout.com/9XM/master.m3u8
-#EXTINF:-1 tvg-id="10607" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/107294214421349077939X_TASHAN.webp" group-title="Music", 9X TASHAN
+#EXTINF:-1 tvg-id="10607" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/107294214421349077939X_TASHAN.webp" group-title="Waves", 9X TASHAN
 https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
 
 
@@ -1966,7 +1952,7 @@ https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
 https://sablive-ddpb.akamaized.net/mastii/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="10598" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/888970933Dabangg_Logo_-_1920x1080.webp" group-title="Waves", DABANNG
+#EXTINF:-1 tvg-id="10598" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/888970933Dabangg_Logo_-_1920x1080.webp" group-title="Waves",DABANNG
 https://sablive-ddpb.akamaized.net/dabangg/playlist.m3u8
 
 
@@ -1976,7 +1962,7 @@ https://bagnetwork.digivive.com/hlslive/Admin/px09241091/live/E24LiveB/master_1.
 #EXTINF:-1 tvg-id="10932" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/179172006Gangaur_webp.webp" group-title="Waves",Gangaur
 https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8
 
-#EXTINF:-1 tvg-id="10649" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1063894804Maiboli_Logo_-_1920x1080.webp" group-title="Wavest",MAIBOLI
+#EXTINF:-1 tvg-id="10649" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1063894804Maiboli_Logo_-_1920x1080.webp" group-title="Waves",MAIBOLI
 https://sablive-ddpb.akamaized.net/maiboli/playlist.m3u8
 
 
@@ -2323,23 +2309,23 @@ https://fl1.moveonjoy.com/STARZ_WEST/index.m3u8
 
 
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Moveonjoy TV",Golf Channel
-https://fl7.moveonjoy.com/GOLF/index.m3u8
+https://fl1.moveonjoy.com/GOLF/index.m3u8
 
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Moveonjoy TV",TSN 1
-https://fl7.moveonjoy.com/TSN_1/index.m3u8
+https://fl1.moveonjoy.com/TSN_1/index.m3u8
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Moveonjoy TV",TSN 2
-https://fl7.moveonjoy.com/TSN_2/index.m3u8
+https://fl1.moveonjoy.com/TSN_2/index.m3u8
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Moveonjoy TV",TSN 3
-https://fl7.moveonjoy.com/TSN_3/index.m3u8
+https://fl1.moveonjoy.com/TSN_3/index.m3u8
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Moveonjoy TV",TSN 4
-https://fl7.moveonjoy.com/TSN_4/index.m3u8
+https://fl1.moveonjoy.com/TSN_4/index.m3u8
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Moveonjoy TV",TSN 5
-https://fl7.moveonjoy.com/TSN_5/index.m3u8
+https://fl1.moveonjoy.com/TSN_5/index.m3u8
 
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Moveonjoy TV",VH1
 https://fl1.moveonjoy.com/VH1/index.m3u8
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Moveonjoy TV",W Network
-https://fl7.moveonjoy.com/W_NETWORK/index.m3u8
+https://fl1.moveonjoy.com/W_NETWORK/index.m3u8
 
 
 
@@ -2453,8 +2439,6 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/7e8b490d6b9c4013a3e3e874aa352212/in
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a5ee7c4e7a2a4b15a22a3bcf523b9776/index.m3u8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10595.jpg" group-title="Hindi News",TV9 Bharatvasrsh
 https://vg-tv9live.akamaized.net/ptnr-dd_free_dish/title-TV9_Bharatvarsh_DD/vglive-sk-501555/playlist.m3u8
-#EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10595.jpg" group-title="Hindi News",TV9 Bharatvasrsh
-https://d3kdywbtdfbp9z.cloudfront.net/v1/master/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/playlist.m3u8?aws.sessionId=f21b10d5-f4c4-4fe5-8aec-b9bf92e104b8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10590.jpg" group-title="Hindi News",News 18 India
 https://n18syndication-prasar-bharati.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10552.jpg" group-title="Hindi News",News Nation
