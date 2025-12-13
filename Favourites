@@ -539,18 +539,39 @@ https://mediapackage-ptgn-source.fullscreen.nz/index.m3u8
 
 ================================================== BBC===============================================================================================================
 
-#EXTINF:-1 tvg-logo="" group-title="NZ",BBC News
+#EXTINF:-1 tvg-logo="" group-title="BBC",BBC News
 https://wurlrainbowmedia.global.transmit.live/hls/68c49fa109574e8405506cb6/v1/amcnetworks_bbcnews_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NZ",BBC Drama
+#EXTINF:-1 tvg-logo="" group-title="BBC",BBC Drama
 https://linear-938.frequency.stream/dist/lg-us/938/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NZ",BBC Earth
+#EXTINF:-1 tvg-logo="" group-title="BBC",BBC Earth
 https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NZ",BBC Top Gear
+#https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BBC",BBC Top Gear
 https://amg00793-bbcstudios-amg00793c4-lg-us-2527.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctopgear8min-lgus/playlist.m3u8
+#https://amg00793-amg00793c5-firetv-us-4068.playouts.now.amagi.tv/playlist1080-tp.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BBC",BBC Silent Witness New Tricks
+https://aegis-cloudfront-1.tubi.video/d37465d7-dfbc-45cd-98a2-8d47968b5fb5/playlist.m3u8
 
 
 ================================================== United Kingdom ===============================================================================================================
 
+
+#EXTINF:-1 tvg-logo="" group-title="UK",Curiosity Now Row
+https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="UK",Space Science Now
+https://amg00376-magellan-amg00376c14-rakuten-uk-1694.playouts.now.amagi.tv/playlist/amg00376-magellantv-spacesciencenowcauk-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="UK",History Hunters
+https://amg00841-amg00841c7-rakuten-uk-2820.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-historyhuntersrakuten-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="UK",Ninja Warrior
+https://amg00654-itv-amg00654c27-rakuten-uk-5295.playouts.now.amagi.tv/1080p-vtt/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK",Wild Earth
+https://wildearth-xumo.amagi.tv/masterR1080p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="UK",The Hotel Inspector
+https://amg00654-itv-amg00654c4-rakuten-uk-5263.playouts.now.amagi.tv/1080p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100007AC_20250107T030816SQUARE.png" group-title="UK",True Crime UK
 https://b6cca454.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9UcnVlQ3JpbWVVS2Zyb21DQlNSZWFsaXR5X0hMUw/playlist.m3u8
@@ -2693,6 +2714,8 @@ https://amg13343-amg13343c1-amgplt0173.playout.now3.amagi.tv/playlist/amg13343-a
 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10649.jpg" group-title="Hindi Entertainment",Maiboli
 
+#EXTINF:0, tvg-logo="" group-title="Hindi Entertainment",Desi Play
+https://amg00857-amg00857c1-rakuten-us-4656.playouts.now.amagi.tv/playlist.m3u8
 
 
 
