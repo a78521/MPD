@@ -516,6 +516,22 @@ https://colorsportscreen.com/sliv/stream.m3u8?id=1000009273
 
 
 
+
+
+============================================================= Bhojpuri===================================================================================================================
+
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Bhojpuri",Mahua Play
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mahua-play/index.m3u8
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Bhojpuri",Filmachi
+https://epiconvh.akamaized.net/live/filamchi/master.m3u8
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Bhojpuri",B4U Bhojpuri
+https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Bhojpuri",Bhojpuri Cinema
+https://amg01448-samsungin-enterr10bhojpuri-samsungin-ad-fv.amagi.tv/playlist/amg01448-samsungin-enterr10bhojpuri-samsungin/playlist.m3u8
+
+
+
+
 ================================================== Canada ===============================================================================================================
 
 #EXTINF:-1 tvg-id="484" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Wild_TV_logo_2020.png/512px-Wild_TV_logo_2020.png" group-title="Canada",Wild TV
@@ -760,13 +776,14 @@ https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg0
 
 
 ================================================ Dangalplay =======================================================================================================================
-#EXTINF:0, tvg-logo="https://dangaplay-json.s3.ap-south-1.amazonaws.com/Dangal_16x9.jpg" group-title="Doordarshan",Dangal TV
+#EXTINF:0, tvg-logo="https://dangaplay-json.s3.ap-south-1.amazonaws.com/Dangal_16x9.jpg" group-title="DangalPlay",Dangal TV
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:0, tvg-logo="https://dangaplay-json.s3.ap-south-1.amazonaws.com/Dangal2_16x9.jpg" group-title="Doordarshan",Dangal 2
+#EXTINF:0, tvg-logo="https://dangaplay-json.s3.ap-south-1.amazonaws.com/Dangal2_16x9.jpg" group-title="DangalPlay",Dangal 2
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:0, tvg-logo="https://dangaplay-json.s3.ap-south-1.amazonaws.com/BhojpuriCinema_16x9.jpg" group-title="Doordarshan",Bhojpuri Cinema
+#EXTINF:0, tvg-logo="https://dangaplay-json.s3.ap-south-1.amazonaws.com/BhojpuriCinema_16x9.jpg" group-title="DangalPlay",Bhojpuri Cinema
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #https://amg01448-samsungin-enterr10bhojpuri-samsungin-ad-fv.amagi.tv/playlist/amg01448-samsungin-enterr10bhojpuri-samsungin/playlist.m3u8
+
 
 ================================================ Doordarshan =======================================================================================================================
 
