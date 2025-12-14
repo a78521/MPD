@@ -2754,6 +2754,9 @@ https://newfhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English Movies",Crimeflix
 https://dgx2snzx175pa.cloudfront.net/scheduler/scheduleMaster/391.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="English Movies",Paramount Movie Channel
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74
+
 ======================================================== Hindi Entertainment ===========================================================================================================
 
 
