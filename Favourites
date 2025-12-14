@@ -618,7 +618,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-ta
 https://d2md0hqgew2ie6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-staiznrm1ejlo/Ion_Plus_US.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="USA",Warner TV HD
-http://66.102.120.18:8000/play/a01u/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="USA",HBO HD
 http://131.161.83.249:8031/play/a12g/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",HBO Family HD
@@ -2730,7 +2730,8 @@ https://dgx2snzx175pa.cloudfront.net/scheduler/scheduleMaster/391.m3u8
 
 
 #EXTINF:0, tvg-logo="" group-title="Hindi Entertainment",&TV HD
-https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+https://amg01117-amg01117c1-amgplt0002.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0002/playlist.m3u8
+#https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
 #EXTINF:0, tvg-logo="" group-title="Hindi Entertainment",TV Asia
 https://amg00206-amg00206c1-distrotv-us-6886.playouts.now.amagi.tv/24-25-6886.m3u8
 #EXTINF:0, tvg-logo="https://d3s2p39m306u7r.cloudfront.net/atrangii/LG/Atrangii_FullandFinal.png" group-title="Hindi Entertainment",Atrangi
@@ -2739,7 +2740,7 @@ https://amg13343-amg13343c1-amgplt0173.playout.now3.amagi.tv/playlist/amg13343-a
 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10649.jpg" group-title="Hindi Entertainment",Maiboli
 
-#EXTINF:0, tvg-logo="" group-title="Hindi Entertainment",Desi Play
+#EXTINF:0, tvg-logo="https://nagantv.com/upload/files/desi%20play%20tv.png" group-title="Hindi Entertainment",Desi Play
 https://amg00857-amg00857c1-rakuten-us-4656.playouts.now.amagi.tv/playlist.m3u8
 
 
