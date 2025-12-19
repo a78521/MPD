@@ -107,6 +107,17 @@ http://87.255.35.150:18891
 http://87.255.35.150:18302
 #http://87.255.35.150:18923/
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports 2 HD
+#EXTVLCOPT:http-referrer="https://onezoo.net"
+#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
+https://onezoo.net/leo/live.php?id=1984&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports Khel
+#EXTVLCOPT:http-referrer="https://onezoo.net"
+#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
+https://onezoo.net/leo/live.php?id=1998&format=.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports 2 HD
 http://87.255.35.150:18828
 #https://mini.allinonereborn.fun/jiotv-in/app/ts_live_1984.m3u8
@@ -385,6 +396,8 @@ https://onezoo.net/leo/live.php?id=578&format=.m3u8
 #EXTVLCOPT:http-referrer="https://onezoo.net"
 #KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
 https://onezoo.net/leo/live.php?id=479&format=.m3u8
+
+
 
 ================================================== Zee5 ===============================================================================================================
 
@@ -2852,6 +2865,21 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3bc92ffb55814535801f929a1ac96c57/in
 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/417479419.jpeg" group-title="Punjabi Music",Just In
 http://209.52.98.98/justintv/index.m3u8
+
+#EXTINF:0, tvg-logo="" group-title="Punjabi Music",Tabbar Hits
+https://live1.ottlive.co.in/tabbarhitsswift/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi Music",Punjabi Music HD
+#EXTVLCOPT:http-referrer="https://oxolive.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://oxolive.com"
+https://fucking-tv-ott.keralive.workers.dev/mumt02/PUNJABIMUSICHD/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi Music",Punjabi Beats HD
+#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
+https://colorsportscreen.com/freetv/stream.m3u8?id=aaf0d44bc8d7
 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/417344236.jpeg" group-title="Punjabi Music",Only Music
 http://livestream.unlimitedcdn.com/onlymusic/index.m3u8
