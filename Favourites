@@ -2577,8 +2577,15 @@ https://d1irnksb81zh0b.cloudfront.net/master.m3u8
 https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/timesnow_master.m3u8
 #EXTINF:0, tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/Mirror_Now.png" group-title="English News",Mirror Now
 https://d179muqh6u5263.cloudfront.net/master.m3u8
+
+#EXTINF:0, tvg-logo="" group-title="English News",News X
+#EXTVLCOPT:http-referrer=https://newsxott.in/embed.html?channel=newsxworld
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0
+https://newsxott.in/hls/newsxworld.m3u8
+
 #EXTINF:0, tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/Wion.png" group-title="English News",WION
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+
 
 
 ======================================================== Business News ===========================================================================================================
@@ -2675,6 +2682,9 @@ https://cloudcdn.in/livetv/DesiTashan/index.m3u8
 https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
 #EXTINF:0, tvg-logo="" group-title="Hindi Movies",Zee Cinema HD
 https://amg17931-zee-amg17931c5-samsung-au-8873.playouts.now.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/The Movie Club.jpg" group-title="Hindi Movies",The Movie Club
+https://pb-dkdpz5so0aqqr.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-dkdpz5so0aqqr/7fb7f991-65af-467f-b5ab-df8d28efa37d/2.m3u8
 #EXTINF:0, tvg-logo="https://oxolive.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-21-2025-06_42_31-AM-1-200x300.png" group-title="Hindi Movies",The Movie Club 2
 https://cc-el8oh7stk6uz8.akamaized.net/RMNK/Amagi/TMC2_IN/TMC2_IN.m3u8
 
@@ -2685,14 +2695,19 @@ https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10647.jpg" group-title="Hindi Movies",Abzy Movies
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8
+#http://57.129.53.130:21001/ABZY_Movies/master.m3u8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10648.jpg" group-title="Hindi Movies",Abzy Dhakhad
 https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8
+#http://57.129.53.130:21001/ABZY_Dhakad/master.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="Hindi Movies",Big Star Bollywood
 https://amigofx.com:1936/bigstarmovie/bigstarmovie/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MBCBollywood.ae@SD" tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="Hindi Movies",MBC Bollywood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Desi Holliwood.jpg" group-title="Hindi Movies",Hollywood Desi
+https://cc-u6hadnoh0u6td.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-u6hadnoh0u6td/5ba0779e-63a9-4621-87ce-525e060419a0/1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",Xumo Bollywood Cinema
 https://dbrb49pjoymg4.cloudfront.net/10001/99991756/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991756
@@ -2721,8 +2736,14 @@ https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-a
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Zee Bollymovies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
+#https://amg17931-zee-amg17931c8-samsung-au-8871.playouts.now.amagi.tv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",Goldmines Bollywood
+#EXTVLCOPT:http-referrer="https://oxolive.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://oxolive.com"
+https://fucking-tv-ott.keralive.workers.dev/mumt03/GOLDMINESBOLLYWOOD/index.m3u8
+#https://mumt03.tangotv.in/GOLDMINESBOLLYWOOD/index.m3u8
 
 ======================================================== English Movies ===========================================================================================================
 
