@@ -2927,6 +2927,39 @@ https://live20.bozztv.com/giatvplayout7/giatv-210715/tracks-v1a1/mono.ts.m3u8
 
 ======================================================== Punjabi ===========================================================================================================
 
+#EXTINF:0, tvg-logo="" group-title="Punjabi",Prime Asia HD
+http://primeasia.mine.nu/Patv_Ind_FHD/index.m3u8
+
+#EXTINF:0, tvg-logo="" group-title="Punjabi",Pitara International HD
+#EXTVLCOPT:http-referrer="https://oxolive.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://oxolive.com"
+https://toober.keralive.workers.dev/4c3caf7294b3/3dd066d387031492/playlist.m3u8
+
+#EXTINF:0, tvg-logo="" group-title="Punjabi",Sanjha TV HD
+https://livestream.unlimitedcdn.com/sanjhatv/index.m3u8
+
+#EXTINF:0, tvg-logo="" group-title="Punjabi",Zee Punjabi
+#EXTVLCOPT:http-referrer="https://oxolive.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://oxolive.com"
+https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-215
+
+#EXTINF:0, tvg-logo="" group-title="Punjabi",Punjab Mail USA
+http://cdn12.henico.net:8080/live/punjabmailusa/index.m3u8
+#EXTINF:0, tvg-logo="" group-title="Punjabi",D5 Channel Punjabi
+https://d5.tv360.ca:3453/live/cd5live.m3u8
+#EXTINF:0, tvg-logo="" group-title="Punjabi",Brit Asia TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8
+
+#EXTINF:0, tvg-logo="" group-title="Punjabi",Chardikala Time TV
+https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8
+#EXTINF:0, tvg-logo="" group-title="Punjabi",Chardikala Time TV North America
+https://chardikalanorthamerica.gigabitcdn.net/in-chardikala/chardikala-north-usa/playlist.m3u8
+
+#EXTINF:0, tvg-logo="" group-title="Punjabi",Sada TV
+https://livestream.unlimitedcdn.com/agm/sada-TV/index.m3u8
+#EXTINF:0, tvg-logo="" group-title="Punjabi",Desi Channel
+https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
+
 #EXTINF:0, tvg-logo="" group-title="Punjabi",Global Desi
 https://live.ottlive.co.in/globaldesi/globaldesi/index.m3u8
 #EXTINF:0, tvg-logo="" group-title="Punjabi",Global Punjab
