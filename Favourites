@@ -2922,6 +2922,9 @@ https://samacar.hk.harekrsnatv.com/harekrsna/tv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/sri_shyam_tv.jpg" group-title="Devotional",Sri Shyam TV
 https://cloudcdn.in/live/shreeshyamtv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Devotional",Vrindavan Dham
+http://cdn12.henico.net:8080/live/varindavan/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/13.jpg" group-title="Devotional",Vidata Darshan
 https://cdn2.in/VidhataDarshanTvhls/live.m3u8
 
