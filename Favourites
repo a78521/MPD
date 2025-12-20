@@ -544,13 +544,6 @@ https://amg01448-samsungin-enterr10bhojpuri-samsungin-ad-fv.amagi.tv/playlist/am
 
 
 
-
-================================================== Canada ===============================================================================================================
-
-#EXTINF:-1 tvg-id="484" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Wild_TV_logo_2020.png/512px-Wild_TV_logo_2020.png" group-title="Canada",Wild TV
-https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
-
-
 ================================================== AUS & NZ===============================================================================================================
 
 #EXTINF:-1 tvg-logo="" group-title="NZ",ABC Australia
@@ -593,6 +586,12 @@ https://amg00793-bbcstudios-amg00793c4-lg-us-2527.playouts.now.amagi.tv/playlist
 #https://amg00793-amg00793c5-firetv-us-4068.playouts.now.amagi.tv/playlist1080-tp.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BBC",BBC Silent Witness New Tricks
 https://aegis-cloudfront-1.tubi.video/d37465d7-dfbc-45cd-98a2-8d47968b5fb5/playlist.m3u8
+
+
+================================================== Canada ===============================================================================================================
+
+#EXTINF:-1 tvg-id="484" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Wild_TV_logo_2020.png/512px-Wild_TV_logo_2020.png" group-title="Canada",Wild TV
+https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 
 
 ================================================== United Kingdom ===============================================================================================================
@@ -862,6 +861,16 @@ https://epiconvh.akamaized.net/live/showbox/master.m3u8
 https://epiconvh.akamaized.net/live/filamchi/master.m3u8
 #EXTINF:0, tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57985-khvdchrs-v2/imageContent-57985-khvdchrs-m2.png" group-title="Epicon",Gubbare
 https://epiconvh.akamaized.net/live/gubbare/master.m3u8
+
+
+
+========================================================== Food & Lifestyle =====================================================================================================================
+
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Food_Food-002.jpg" group-title="Food & Lifestyle",FOOD FOOD
+https://mumt03.tangotv.in/FOODFOOD/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Cook & Bake Tv 0032.jpg", group-title="Food & Lifestyle" Cook & Bake Tv 
+https://cc-swbj49v56imaw.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swbj49v56imaw/db183417-ece0-4e92-aef3-117501f24b5d/0.m3u8
+
 
 
 ========================================================== Infotainment =======================================================================================================================
@@ -1969,6 +1978,7 @@ https://fa5e2257.wurl.com/VENMVFZQbHVzX0dhbWVTaG93Q2VudHJhbF9EQVNI/index.mpd
 #EXTINF:-1 tvg-logo="" group-title="TCL,Get TV (MPD DRM)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00374-gameshownetwork-gettv-tcltvplus/index.mpd
 
+
 =============================================================Waves =======================================================================================================================
 
 #EXTINF:-1 tvg-id="10605" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1001652520DD_TRIPURA__1_.webp" group-title="Waves", 9X JALWA
@@ -2056,9 +2066,6 @@ https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8
 
 #EXTINF:-1 tvg-id="10649" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1063894804Maiboli_Logo_-_1920x1080.webp" group-title="Waves",MAIBOLI
 https://sablive-ddpb.akamaized.net/maiboli/playlist.m3u8
-
-
-
 
 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10556.jpg" group-title="Waves",PTC Punjabi
@@ -2669,10 +2676,7 @@ https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10543.jpg" group-title="Hindi Music",B4U Bhojpuri
 https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
 
-#EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10932.jpg" group-title="Hindi Music",Gangaur
-https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/desi_tashan.jpg" group-title="Hindi Music",Desi Tashan
-https://cloudcdn.in/livetv/DesiTashan/index.m3u8
+
 #EXTINF:0, tvg-logo="" group-title="Hindi Music",Shemaroo Filmigane
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/playlist.m3u8
 
@@ -2683,10 +2687,21 @@ https://fucking-tv-ott.keralive.workers.dev/mumt03/MELODYHITS/index.m3u8
 #https://mumt03.tangotv.in/MELODYHITS/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Music",Just In
-#EXTVLCOPT:http-referrer="https://oxolive.com"
-#KODIPROP:inputstream.adaptive.http-referrer="https://oxolive.com"
-https://toober.keralive.workers.dev/4c3caf7294b3/51351edd58e6b987/e91cb3c0facbe277/51351edd58e6b9871500/chunks.m3u8
+
+
+
+
+======================================================== Regional Music ===========================================================================================================
+
+#EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10932.jpg" group-title="Regional Music",Gangaur
+https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/desi_tashan.jpg" group-title="Regional Music",Desi Tashan
+https://cloudcdn.in/livetv/DesiTashan/index.m3u8
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/desi_tashan.jpg" group-title="Regional Music",Haryana Beats
+https://legitpro.co.in/haryanabeat/haryanabeat/index.m3u8
+#https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/haryana-beat/index.m3u8
+
+
 
 ======================================================== Hindi Movies ===========================================================================================================
 
@@ -2864,6 +2879,12 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/40f46fa036df45ee9d28b6eda42eb27c/in
 http://divyaloktv.livebox.co.in/divyaloktvhls/divyaloktvchannel.m3u8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/376927479.jpeg" group-title="Devotional",Hare Krsna
 https://samacar.hk.harekrsnatv.com/harekrsna/tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/sri_shyam_tv.jpg" group-title="Devotional",Sri Shyam TV
+https://cloudcdn.in/live/shreeshyamtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/13.jpg" group-title="Devotional",Vidata Darshan
+https://cdn2.in/VidhataDarshanTvhls/live.m3u8
+
 #EXTINF:0, tvg-logo="" group-title="Devotional",Kalyan TV
 https://ott.livelegitpro.in/kalyantv/index.m3u8
 #EXTINF:0, tvg-logo="" group-title="Devotional",Kartavya TV HD
@@ -2876,6 +2897,8 @@ https://server.thelegitpro.in/santvanitv/santvanitv/index.m3u8
 https://live.ottlive.co.in/vedantswarshree/vedantswarshree/index.m3u8
 #EXTINF:0, tvg-logo="" group-title="Devotional",Total Bhakti
 https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Bhakti Siddhanta Tv.jpg" group-title="Devotional",Bhakti Siddhanta Tv
+https://cdn2.in/Bsvtvhls/Stream.m3u8
 #EXTINF:0, tvg-logo="" group-title="Devotional",Om Bangla HD
 https://live20.bozztv.com/giatvplayout7/giatv-210715/tracks-v1a1/mono.ts.m3u8
 
@@ -2909,8 +2932,12 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/in
 #EXTINF:0, tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/848111902PTC_SIMRAN____TV__TVW______720x405.webp" group-title="Punjabi Devotional",PTC Simran
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3bc92ffb55814535801f929a1ac96c57/index.m3u8
 
-#EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/417479419.jpeg" group-title="Punjabi Music",Just In
-http://209.52.98.98/justintv/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/417479419.jpeg" group-title="Punjabi Music",Just In
+#EXTVLCOPT:http-referrer="https://oxolive.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://oxolive.com"
+https://toober.keralive.workers.dev/4c3caf7294b3/51351edd58e6b987/e91cb3c0facbe277/51351edd58e6b9871500/chunks.m3u8
+#http://209.52.98.98/justintv/tracks-v1a1/mono.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="Punjabi Music",Tabbar Hits
 https://live1.ottlive.co.in/tabbarhitsswift/tracks-v1a1/mono.m3u8
