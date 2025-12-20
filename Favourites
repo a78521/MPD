@@ -461,71 +461,71 @@ https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-bigmagic_1786965389
 
 
 #EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony Sports 1 HD
-#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
+#EXTVLCOPT:http-referrer=https://nxtlive.net/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
-https://colorsportscreen.com/sliv/stream.m3u8?id=1000009276
+https://nxtlive.net/sliv/stream.m3u8?id=1000009276
 
 #EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony Sports 2 HD
-#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
+#EXTVLCOPT:http-referrer=https://nxtlive.net/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
-https://colorsportscreen.com/sliv/stream.m3u8?id=1000009277
+https://nxtlive.net/sliv/stream.m3u8?id=1000009277
 
 #EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony Sports 3 HD
-#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
+#EXTVLCOPT:http-referrer=https://nxtlive.net/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
-https://colorsportscreen.com/sliv/stream.m3u8?id=1000009278
+https://nxtlive.net/sliv/stream.m3u8?id=1000009278
 
 
 
 #EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony Sports 5 HD
-#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
+#EXTVLCOPT:http-referrer=https://nxtlive.net/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
-https://colorsportscreen.com/sliv/stream.m3u8?id=1000009275
+https://nxtlive.net/sliv/stream.m3u8?id=1000009275
 
 
 
 #EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony TV HD
-#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
+#EXTVLCOPT:http-referrer=https://nxtlive.net/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
-https://colorsportscreen.com/sliv/stream.m3u8?id=1000009246
+https://nxtlive.net/sliv/stream.m3u8?id=1000009246
 
 
 #EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony Max HD
-#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
+#EXTVLCOPT:http-referrer=https://nxtlive.net/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
-https://colorsportscreen.com/sliv/stream.m3u8?id=1000009247
+https://nxtlive.net/sliv/stream.m3u8?id=1000009247
 
 #EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony Sab HD
-#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
+#EXTVLCOPT:http-referrer=https://nxtlive.net/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
-https://colorsportscreen.com/sliv/stream.m3u8?id=1000009248
+https://nxtlive.net/sliv/stream.m3u8?id=1000009248
 
 #EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony BBC Earth HD
-#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
+#EXTVLCOPT:http-referrer=https://nxtlive.net/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
-https://colorsportscreen.com/sliv/stream.m3u8?id=1000009252
+https://nxtlive.net/sliv/stream.m3u8?id=1000009252
 
 #EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony Pix HD
-#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
+#EXTVLCOPT:http-referrer=https://nxtlive.net/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
-https://colorsportscreen.com/sliv/stream.m3u8?id=1000009258
+https://nxtlive.net/sliv/stream.m3u8?id=1000009258
 
 
 
 #EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony Max
-#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
+#EXTVLCOPT:http-referrer=https://nxtlive.net/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
-https://colorsportscreen.com/sliv/stream.m3u8?id=1000009249
+https://nxtlive.net/sliv/stream.m3u8?id=1000009249
 
 #EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony Wah
-#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
+#EXTVLCOPT:http-referrer=https://nxtlive.net/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
-https://colorsportscreen.com/sliv/stream.m3u8?id=1000009253
+https://nxtlive.net/sliv/stream.m3u8?id=1000009253
 
 #EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony Pal
-#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
+#EXTVLCOPT:http-referrer=https://nxtlive.net/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
-https://colorsportscreen.com/sliv/stream.m3u8?id=1000009273
+https://nxtlive.net/sliv/stream.m3u8?id=1000009273
 
 
 
@@ -593,6 +593,27 @@ https://aegis-cloudfront-1.tubi.video/d37465d7-dfbc-45cd-98a2-8d47968b5fb5/playl
 #EXTINF:-1 tvg-id="484" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Wild_TV_logo_2020.png/512px-Wild_TV_logo_2020.png" group-title="Canada",Wild TV
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 
+
+
+
+================================================== History ===============================================================================================================
+
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="History",History 2
+https://fast-channels-prod.akamaized.net/out/v1/6fbb677b6ffc4a4fac47a8fd85c8b333/live.m3u8
+
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="History",History Hit
+https://ldsaaaaaa-timeline-samsung-uk-azlgu.amagi.tv/playlist/ldsAAAAAA-timeline-samsung-uk/playlist.m3u8
+#https://amg00426-lds-amg00426c2-samsung-th-4625.playouts.now.amagi.tv/playlist.m3u8
+#https://rakutenaa-lds-timeline-rakuten-vdn0o.amagi.tv/playlist/rakutenAA-lds-timeline-rakuten/playlist.m3u8
+
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="History",History Hunters
+https://amg00841-amg00841c7-rakuten-uk-2820.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-historyhuntersrakuten-rakutenuk/playlist.m3u8
+#https://amg00841-aeemea-amg00841c7-vidaa-gb-7936.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-historyhuntersrakuten-vidaagb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="History",Authentic History
+https://autentic-autentichistory-1-au.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="History",True History
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/true-history/playlist.m3u8
 
 ================================================== United Kingdom ===============================================================================================================
 
