@@ -889,6 +889,10 @@ https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Food_Food-002.jpg" group-title="Food & Lifestyle",FOOD FOOD
 https://mumt03.tangotv.in/FOODFOOD/index.m3u8
+
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Food_Food-002.jpg" group-title="Food & Lifestyle",foodxp
+https://amg00416-amg00416c10-samsung-in-4883.playouts.now.amagi.tv/playlist/amg00416-travelxp-foodxp-samsungin/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Cook & Bake Tv 0032.jpg", group-title="Food & Lifestyle" Cook & Bake Tv 
 https://cc-swbj49v56imaw.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swbj49v56imaw/db183417-ece0-4e92-aef3-117501f24b5d/0.m3u8
 
