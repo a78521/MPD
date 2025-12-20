@@ -2,7 +2,6 @@
 
 #EXTINF:-1 tvg-logo="" group-title="Test",Hustler HD
 http://85.11.144.9:50999/30
-
 #EXTINF:-1 tvg-logo="" group-title="Test",Redlight HD
 http://85.11.144.9:50999/39
 
@@ -22,6 +21,14 @@ http://85.11.144.9:50999/41
 http://85.11.144.9:50999/42
 #EXTINF:-1 tvg-logo="" group-title="Test",Extasy
 http://85.11.144.9:50999/43
+#EXTINF:-1 tvg-logo="" group-title="Test",XY Mix
+http://85.11.144.9:50999/101
+#EXTINF:-1 tvg-logo="" group-title="Test",XY Max
+http://85.11.144.9:50999/102
+#EXTINF:-1 tvg-logo="" group-title="Test",XY Plus
+http://85.11.144.9:50999/103
+#EXTINF:-1 tvg-logo="" group-title="Test",Dorcel xxx
+http://85.11.144.9:50999/105
 
 #EXTINF:-1 tvg-logo="" group-title="Test",Private SD
 http://77.46.130.252:99/private
