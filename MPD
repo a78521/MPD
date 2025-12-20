@@ -1155,7 +1155,7 @@ https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
 #EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://static.seriesreminder.com/network-img/BBC_THREE.png",BBC 3
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
 #EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://www.livetvuk.com/uploads/tv/595-bbc4.jpg",BBC 4
-
+https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-dash/bbc4cbeebies.mpd
 #EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://www.livetvuk.com/uploads/tv/884-bbcnews.jpg",BBC News
 
 #EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://www.livetvuk.com/uploads/tv/645-channel4.jpg",Channel 4
