@@ -655,6 +655,11 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_knowledgechannel/defaul
 #KODIPROP:inputstream.adaptive.license_key=a7724b7ca2604c33bb2e963a0319968a:6f97e3e2eb2bade626e0281ec01d3675
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_historyhd/default/index/default/index.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/huazOc1.png" group-title="Cignal TV",HISTORY HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7724b7ca2604c33bb2e963a0319968a:6f97e3e2eb2bade626e0281ec01d3675
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd
+
 #EXTINF:-1 tvg-logo="https://imgur.com/QMB9sFW.png" group-title="Cignal TV",BBC EARTH HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=34ce95b60c424e169619816c5181aded:0e2a2117d705613542618f58bf26fc8e
