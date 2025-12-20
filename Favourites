@@ -2673,8 +2673,20 @@ https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
 https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/desi_tashan.jpg" group-title="Hindi Music",Desi Tashan
 https://cloudcdn.in/livetv/DesiTashan/index.m3u8
+#EXTINF:0, tvg-logo="" group-title="Hindi Music",Shemaroo Filmigane
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Music",Melody Hits
+#EXTVLCOPT:http-referrer="https://oxolive.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://oxolive.com"
+https://fucking-tv-ott.keralive.workers.dev/mumt03/MELODYHITS/index.m3u8
+#https://mumt03.tangotv.in/MELODYHITS/index.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Music",Just In
+#EXTVLCOPT:http-referrer="https://oxolive.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://oxolive.com"
+https://toober.keralive.workers.dev/4c3caf7294b3/51351edd58e6b987/e91cb3c0facbe277/51351edd58e6b9871500/chunks.m3u8
 
 ======================================================== Hindi Movies ===========================================================================================================
 
@@ -2699,6 +2711,9 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/in
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10648.jpg" group-title="Hindi Movies",Abzy Dhakhad
 https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8
 #http://57.129.53.130:21001/ABZY_Dhakad/master.m3u8
+
+#EXTINF:0, tvg-logo="" group-title="Hindi Movies",Shemaroo Bollywood
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="Hindi Movies",Big Star Bollywood
 https://amigofx.com:1936/bigstarmovie/bigstarmovie/playlist.m3u8
