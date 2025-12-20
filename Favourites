@@ -2739,11 +2739,21 @@ https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m
 #https://amg17931-zee-amg17931c8-samsung-au-8871.playouts.now.amagi.tv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",All Time Movies
+https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",Goldmines Bollywood
 #EXTVLCOPT:http-referrer="https://oxolive.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://oxolive.com"
 https://fucking-tv-ott.keralive.workers.dev/mumt03/GOLDMINESBOLLYWOOD/index.m3u8
 #https://mumt03.tangotv.in/GOLDMINESBOLLYWOOD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",Goldmines
+#EXTVLCOPT:http-referrer="https://oxolive.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://oxolive.com"
+https://fucking-tv-ott.keralive.workers.dev/mumt04/GOLDMINES/index.m3u8
+#https://mumt04.tangotv.in/GOLDMINES/index.m3u8
 
 ======================================================== English Movies ===========================================================================================================
 
