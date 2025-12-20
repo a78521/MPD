@@ -397,7 +397,10 @@ https://onezoo.net/leo/live.php?id=578&format=.m3u8
 #KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
 https://onezoo.net/leo/live.php?id=479&format=.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Discovery HD
+#EXTVLCOPT:http-referrer="https://onezoo.net"
+#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
+https://onezoo.net/leo/live.php?id=463&format=.m3u8
 
 ================================================== Zee5 ===============================================================================================================
 
