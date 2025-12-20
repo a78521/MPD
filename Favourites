@@ -462,69 +462,69 @@ https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-bigmagic_1786965389
 
 #EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony Sports 1 HD
 #EXTVLCOPT:http-referrer=https://nxtlive.net/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://nxtlive.net/
 https://nxtlive.net/sliv/stream.m3u8?id=1000009276
 
 #EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony Sports 2 HD
 #EXTVLCOPT:http-referrer=https://nxtlive.net/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://nxtlive.net/
 https://nxtlive.net/sliv/stream.m3u8?id=1000009277
 
 #EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony Sports 3 HD
 #EXTVLCOPT:http-referrer=https://nxtlive.net/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://nxtlive.net/
 https://nxtlive.net/sliv/stream.m3u8?id=1000009278
 
 
 
 #EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony Sports 5 HD
 #EXTVLCOPT:http-referrer=https://nxtlive.net/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://nxtlive.net/
 https://nxtlive.net/sliv/stream.m3u8?id=1000009275
 
 
 
 #EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony TV HD
 #EXTVLCOPT:http-referrer=https://nxtlive.net/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://nxtlive.net/
 https://nxtlive.net/sliv/stream.m3u8?id=1000009246
 
 
 #EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony Max HD
 #EXTVLCOPT:http-referrer=https://nxtlive.net/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://nxtlive.net/
 https://nxtlive.net/sliv/stream.m3u8?id=1000009247
 
 #EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony Sab HD
 #EXTVLCOPT:http-referrer=https://nxtlive.net/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://nxtlive.net/
 https://nxtlive.net/sliv/stream.m3u8?id=1000009248
 
 #EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony BBC Earth HD
 #EXTVLCOPT:http-referrer=https://nxtlive.net/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://nxtlive.net/
 https://nxtlive.net/sliv/stream.m3u8?id=1000009252
 
 #EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony Pix HD
 #EXTVLCOPT:http-referrer=https://nxtlive.net/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://nxtlive.net/
 https://nxtlive.net/sliv/stream.m3u8?id=1000009258
 
 
 
 #EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony Max
 #EXTVLCOPT:http-referrer=https://nxtlive.net/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://nxtlive.net/
 https://nxtlive.net/sliv/stream.m3u8?id=1000009249
 
 #EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony Wah
 #EXTVLCOPT:http-referrer=https://nxtlive.net/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://nxtlive.net/
 https://nxtlive.net/sliv/stream.m3u8?id=1000009253
 
 #EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony Pal
 #EXTVLCOPT:http-referrer=https://nxtlive.net/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://nxtlive.net/
 https://nxtlive.net/sliv/stream.m3u8?id=1000009273
 
 
