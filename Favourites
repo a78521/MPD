@@ -532,6 +532,16 @@ https://nxtlive.net/sliv/stream.m3u8?id=1000009273
 
 
 
+============================================================= 4K===================================================================================================================
+#EXTINF:-1 tvg-logo="" group-title="4K",Redbull UHD
+https://d2qi7qmhorbt6s.cloudfront.net/playable/UHD_REDBULL/media.m3u8
+
+
+============================================================= Ambiance===================================================================================================================
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD44000025L_20250402T010158SQUARE.png" group-title="Ambiance",Fireplace 4K
+https://cc-0eowrlibr9f50.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0eowrlibr9f50/BRJW/Amagi/Samsung/Fireplace_4K_SONO20_US/Fireplace_4K_SONO20.m3u8
+
 
 
 ============================================================= Bhojpuri===================================================================================================================
@@ -621,8 +631,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 ================================================== United Kingdom ===============================================================================================================
 
 
-#EXTINF:-1 tvg-logo="" group-title="UK",Curiosity Now Row
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1400001E4_20250107T031103SQUARE.png" group-title="UK",Curiosity Now Row
 https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/playlist.m3u8
+#https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynowvtt-samsunggb/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="UK",Space Science Now
 https://amg00376-magellan-amg00376c14-rakuten-uk-1694.playouts.now.amagi.tv/playlist/amg00376-magellantv-spacesciencenowcauk-rakutenuk/playlist.m3u8
@@ -2693,10 +2704,21 @@ https://amg13643-amg13643c4-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlis
 
 ======================================================== International News ===========================================================================================================
 
+#EXTINF:0, tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2300005ML_20251118T015422SQUARE.png" group-title="International News",AlJazeera
+https://amg00222-amg00222c4-amgplt0002.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8
 #EXTINF:0, tvg-logo="" group-title="International News",BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/099260397.jpeg" group-title="International News",CNA
 http://d2e1asnsl7br7b.cloudfront.net/4c152bfc7ad2463d928bfbec0990eaeb/index.m3u8
+
+#EXTINF:0, tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD8000016N_20251125T100002SQUARE.png" group-title="International News",CNN
+https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
+
+#EXTINF:0, tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900008O3_20251209T004548SQUARE.png" group-title="International News",CNN Headlines
+
+#EXTINF:0, tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1300001RX_20250902T003744SQUARE.png" group-title="International News",DW
+
+#EXTINF:0, tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3300002NF_20250107T031217SQUARE.png" group-title="International News",Sky News
 
 
 #EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/Euronews/euronews_logo_resized_400x200_updated.png" group-title="International News",Euro News
@@ -2954,7 +2976,7 @@ https://8a4805800dac428ebbf1d3cde0cdcf87.mediatailor.us-west-2.amazonaws.com/v1/
 ======================================================== Hindi Entertainment ===========================================================================================================
 
 
-#EXTINF:0, tvg-logo="" group-title="Hindi Entertainment",&TV HD
+#EXTINF:0, tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3700007OZ_20250624T021650SQUARE.png" group-title="Hindi Entertainment",&TV HD
 https://amg01117-amg01117c1-amgplt0002.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0002/playlist.m3u8
 #https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
 
