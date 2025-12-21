@@ -2556,6 +2556,10 @@ https://linear-492.frequency.stream/dist/stirr/492/hls/master/playlist.m3u8
 
 ======================================================== Hindi News ===========================================================================================================
 
+#EXTINF:-1 tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/bemisaal-20-saal/at-hd-191x84.png" group-title="Hindi News",Aaj Tak HD
+https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_1080p/chunks.m3u8
+#EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10595.jpg" group-title="Hindi News",Times Now Navbharat HD
+https://a66fd974d289494994f6cf39649c806d.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/navbharat/master.m3u8
 
 #EXTINF:0, tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/925545393ABP_NEWS.webp" group-title="Hindi News",ABP News
 https://d3kdywbtdfbp9z.cloudfront.net/v1/master/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/master.m3u8?aws.sessionId=de665baf-9683-4bf8-80ec-95c7853418e2
