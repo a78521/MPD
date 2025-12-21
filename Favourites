@@ -893,11 +893,25 @@ https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Food_Food-002.jpg" group-title="Food & Lifestyle",FOOD FOOD
 https://mumt03.tangotv.in/FOODFOOD/index.m3u8
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Food_Food-002.jpg" group-title="Food & Lifestyle",foodxp
+#EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3000003QJ_20240925T012639SQUARE.png" group-title="Food & Lifestyle",foodxp
 https://amg00416-amg00416c10-samsung-in-4883.playouts.now.amagi.tv/playlist/amg00416-travelxp-foodxp-samsungin/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Cook & Bake Tv 0032.jpg", group-title="Food & Lifestyle" Cook & Bake Tv 
-https://cc-swbj49v56imaw.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swbj49v56imaw/db183417-ece0-4e92-aef3-117501f24b5d/0.m3u8
+#EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460000313_20250205T004601SQUARE.png" group-title="Food & Lifestyle",Foodie Hub
+https://cc-oq5ndvigrlkaa.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-oq5ndvigrlkaa/IQJW/WBD/FoodieHub_IN/FoodieHub_IN.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000105Q_20250205T004558SQUARE.png", group-title="Food & Lifestyle" Cook & Bake Tv 
+https://cc-swbj49v56imaw.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swbj49v56imaw/OTM/OTM_Cooking-SCTE_SAMSUNG/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA490001909_20220427T054659SQUARE.png_20220427054700.png", group-title="Food & Lifestyle"Tastemade
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/tastemade-tastemade-int-aus-samsung-india/playlist.m3u8
+
+#EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN300000210_20241113T015626SQUARE.png" group-title="Food & Lifestyle",travelxp HD
+https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
+
+#EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800007ZP_20241024T054047SQUARE.png" group-title="Food & Lifestyle",NDTV Good Times
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
+
+
 
 
 
@@ -2558,6 +2572,8 @@ https://linear-492.frequency.stream/dist/stirr/492/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/bemisaal-20-saal/at-hd-191x84.png" group-title="Hindi News",Aaj Tak HD
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_1080p/chunks.m3u8
+#https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-t34to9qsw6v1s.m3u8
+
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10595.jpg" group-title="Hindi News",Times Now Navbharat HD
 https://a66fd974d289494994f6cf39649c806d.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/navbharat/master.m3u8
 
@@ -2587,6 +2603,8 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0bfbd0b9de7f4407949202296560c0fe/in
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2774c390ad884e06a7b0257c8489e23d/index.m3u8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10593.jpg" group-title="Hindi News",NDTV India
 https://backupndtvindiaelemarchana.akamaized.net/hls/live/2004134/ndtvindia/master_1.m3u8
+#EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000007M9_20251217T003125SQUARE.png" group-title="Hindi News",India Daily
+https://cc-ax7fwp25aou64.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ax7fwp25aou64/indiadailylive/index.m3u8
 
 #EXTINF:0, tvg-logo="https://static.indiatvnews.com/ins-web/images/indiatv-live.png" group-title="Hindi News",India TV
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
@@ -2599,10 +2617,12 @@ https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
 
 ======================================================== English News ===========================================================================================================
 
-#EXTINF:0, tvg-logo="" group-title="English News",CNN News 18
+#EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300009QZ_20240131T032448SQUARE.png_20240131032449.png" group-title="English News",CNN News 18
 https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
-#EXTINF:0, tvg-logo="" group-title="English News",CNBC TV 18
+#https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-cnnnewsnw18-samsungin/playlist.m3u8
+#EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300008ZY_20250604T011416SQUARE.png" group-title="English News",CNBC TV 18
 https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
+#https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-nw18cnbc-samsungin/playlist.m3u8
 #EXTINF:0, tvg-logo="" group-title="English News",First Post
 https://nw18live.cdn.jio.com/bpk-tv/Firstpost_NW18_MOB/output01/index.m3u8
 
@@ -2610,13 +2630,19 @@ https://nw18live.cdn.jio.com/bpk-tv/Firstpost_NW18_MOB/output01/index.m3u8
 https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8?ads.partner=PlayBox
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/695950420.jpeg" group-title="English News",Republic India
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8
+
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10547.jpg" group-title="English News",India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+
+#EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800001D8_20240131T032458SQUARE.png_20240131032459.png" group-title="English News",NDTV 24x7
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-ndtv24x7-samsungin/playlist.m3u8
+
+
+
 #EXTINF:0, tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/Times_NOW.png" group-title="English News",Times Now
 https://d3pvf6sv7wsu07.cloudfront.net/master.m3u8
-https://d1irnksb81zh0b.cloudfront.net/master.m3u8
-#EXTINF:0, tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/Times_NOW.png" group-title="English News",Times Now
-https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/timesnow_master.m3u8
+#https://d1irnksb81zh0b.cloudfront.net/master.m3u8
+#https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/timesnow_master.m3u8
 #EXTINF:0, tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/Mirror_Now.png" group-title="English News",Mirror Now
 https://d179muqh6u5263.cloudfront.net/master.m3u8
 
@@ -2627,6 +2653,7 @@ https://newsxott.in/hls/newsxworld.m3u8
 
 #EXTINF:0, tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/Wion.png" group-title="English News",WION
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-zeewion-samsungin/playlist.m3u8
 
 
 
@@ -2637,6 +2664,32 @@ https://damso2e2yhynu.cloudfront.net/master.m3u8
 #EXTINF:0, tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/ET_Now_Swadesh.png" group-title="Business News",ET Now Swadesh
 https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8
 
+#EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100021WP_20240131T032221SQUARE.png_20240131032222.png" group-title="Business News",Bloomberg TV
+https://dcfcae89.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9CbG9vbWJlcmdUVl9ITFM/playlist.m3u8
+#EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100022O4_20240131T032219SQUARE.png_20240131032219.png" group-title="Business News",Bloomberg Originals
+https://f56779ab.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9CbG9vbWJlcmdPcmlnaW5hbHNfSExT/playlist.m3u8
+
+
+======================================================== Regional News ===========================================================================================================
+
+#EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500017JZ_20240508T020847SQUARE.png" group-title="Regional News",News 18 PB/HR
+https://amg02674-network18fast-amg02674c14-samsung-in-2325.playouts.now.amagi.tv/playlist/amg02674-network18fast-nw18punjabhrhp-samsungin/playlist.m3u8
+#EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600007AU_20240612T015012SQUARE.png" group-title="Regional News",News 18 JK
+https://amg01448-amg01448c14-samsung-in-3493.playouts.now.amagi.tv/playlist/amg01448-samsungindia-news18jandk-samsungin/playlist.m3u8
+
+
+#EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900008R9_20241211T020355SQUARE.png" group-title="Regional News",News State PB/HR/HM
+https://amg24335-amg24335c5-amgplt0016.playout.now3.amagi.tv/playlist/amg24335-amg24335c5-amgplt0016/playlist.m3u8
+#EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900007Y7_20251126T004257SQUARE.png" group-title="Regional News",News State BH/JH
+https://amg24335-amg24335c4-amgplt0016.playout.now3.amagi.tv/playlist/amg24335-amg24335c4-amgplt0016/playlist.m3u8
+#EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN39000050P_20250416T005426SQUARE.png" group-title="Regional News",News State UP/UK
+https://amg24335-amg24335c2-amgplt0016.playout.now3.amagi.tv/playlist/amg24335-amg24335c2-amgplt0016/playlist.m3u8
+#EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900006S6_20251015T010542SQUARE.png" group-title="Regional News",News State MP/CG
+https://amg24335-amg24335c3-amgplt0016.playout.now3.amagi.tv/playlist/amg24335-amg24335c3-amgplt0016/playlist.m3u8
+
+
+#EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100008VF_20251015T010545SQUARE.png" group-title="Regional News",News 24 MP/CG
+https://amg13643-amg13643c4-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13643-amg13643c4-amgplt0016/playlist.m3u8
 
 ======================================================== International News ===========================================================================================================
 
@@ -2666,7 +2719,6 @@ https://wisehttottrtd.wiseplayout.com/live/rtdoc/playlist.m3u8
 https://wiselp.wiseplayout.com/9XM/master.m3u8
 #https://d14c63magvk61v.cloudfront.net/strm/channels/9xm/master.m3u8
 
-
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10605.jpg" group-title="Hindi Music",9X Jalwa
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
 #https://d14c63magvk61v.cloudfront.net/strm/channels/9xjalwa/master.m3u8
@@ -2694,11 +2746,30 @@ https://ca1.buximedia.com/itv/love2/index.m3u8
 #EXTINF:0, tvg-logo="" group-title="English Music",Xite Hits
 https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
 
+#EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800005S8_20250910T004933SQUARE.png" group-title="English Music",Concerto
+https://amg01076-amg01076c14-samsung-in-7057.playouts.now.amagi.tv/playlist/amg01076-lightning-concerto-samsungin/playlist.m3u8
 
+
+#EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800001OD_20250910T004936SQUARE.png" group-title="English Music",Now 70s
+https://amg01076-amg01076c1-samsung-in-7053.playouts.now.amagi.tv/playlist/amg01076-lightning-now70s-samsungin/playlist.m3u8
+#EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN8000027E_20250910T004940SQUARE.png" group-title="English Music",Now 80s
+https://amg01076-amg01076c2-samsung-in-7056.playouts.now.amagi.tv/playlist/amg01076-lightning-now80s-samsungin/playlist.m3u8
+#EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800004YV_20250910T004944SQUARE.png" group-title="English Music",Now 90s
+https://amg01076-amg01076c19-samsung-in-7054.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-samsungin/playlist.m3u8
+#EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800003JE_20250910T004947SQUARE.png" group-title="English Music",Now Rock
+https://amg01076-amg01076c3-samsung-in-7063.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s-samsungin/playlist.m3u8
+
+
+
+#EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800007SR_20250910T004958SQUARE.png" group-title="English Music",Trace Urban
+https://amg01131-amg01131c1-samsung-in-7208.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-samsungin/playlist.m3u8
 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10651.jpg" group-title="Hindi Music",Mastii
 https://d1taaads3ztvmu.cloudfront.net/120723/mastii/chunklist.m3u8
 #https://d1msejlow1t3l4.cloudfront.net/211125/mastii/chunks.m3u8
+
+#EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700015M0_20240731T012453SQUARE.png" group-title="Hindi Music",Music India
+https://amg00416-amg00416c5-samsung-in-3259.playouts.now.amagi.tv/playlist/amg00416-travelxp-musicindia-samsungin/playlist.m3u8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10596.jpg" group-title="Hindi Music",E24
 https://bagnetwork.digivive.com/hlslive/Admin/px09241091/live/E24LiveB/master_1.m3u8
 
@@ -2710,6 +2781,8 @@ https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="Hindi Music",Shemaroo Filmigane
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/playlist.m3u8
+#EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460001373_20250416T005420SQUARE.png" group-title="Hindi Music",Bolly Raga
+https://cc-up9j649x4thrj.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-up9j649x4thrj/SBUM/RunnTV/BollyRaga_IN/BollyRaga_IN.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Music",Melody Hits
 #EXTVLCOPT:http-referrer="https://oxolive.com"
@@ -2741,9 +2814,9 @@ https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/a
 #EXTINF:0, tvg-logo="" group-title="Hindi Movies",Zee Cinema HD
 https://amg17931-zee-amg17931c5-samsung-au-8873.playouts.now.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/The Movie Club.jpg" group-title="Hindi Movies",The Movie Club
+#EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20241211T020400SQUARE.png" group-title="Hindi Movies",The Movie Club
 https://pb-dkdpz5so0aqqr.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-dkdpz5so0aqqr/7fb7f991-65af-467f-b5ab-df8d28efa37d/2.m3u8
-#EXTINF:0, tvg-logo="https://oxolive.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-21-2025-06_42_31-AM-1-200x300.png" group-title="Hindi Movies",The Movie Club 2
+#EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN40000100Y_20251126T004309SQUARE.png" group-title="Hindi Movies",The Movie Club 2
 https://cc-el8oh7stk6uz8.akamaized.net/RMNK/Amagi/TMC2_IN/TMC2_IN.m3u8
 
 #EXTINF:0, tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/B4UMOV/TV/thumbnail/d4287ab1-409a-4afb-9e92-57f185f83bda.png" group-title="Hindi Movies",B4U Movies
@@ -2884,10 +2957,16 @@ https://8a4805800dac428ebbf1d3cde0cdcf87.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:0, tvg-logo="" group-title="Hindi Entertainment",&TV HD
 https://amg01117-amg01117c1-amgplt0002.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0002/playlist.m3u8
 #https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
+
 #EXTINF:0, tvg-logo="" group-title="Hindi Entertainment",TV Asia
 https://amg00206-amg00206c1-distrotv-us-6886.playouts.now.amagi.tv/24-25-6886.m3u8
+
+#EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1700011V7_20241024T054054SQUARE.png" group-title="Hindi Entertainment",Nazara
+https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8
+
 #EXTINF:0, tvg-logo="https://d3s2p39m306u7r.cloudfront.net/atrangii/LG/Atrangii_FullandFinal.png" group-title="Hindi Entertainment",Atrangi
 https://amg13343-amg13343c1-amgplt0173.playout.now3.amagi.tv/playlist/amg13343-amg13343c1-amgplt0173/playlist.m3u8
+
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10598.jpg" group-title="Hindi Entertainment",Dabangg
 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10649.jpg" group-title="Hindi Entertainment",Maiboli
@@ -2958,6 +3037,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-210715/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="Punjabi",Prime Asia HD
 http://primeasia.mine.nu/Patv_Ind_FHD/index.m3u8
+#http://primeasia.selfip.net/Samsung/index.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="Punjabi",Pitara International HD
 #EXTVLCOPT:http-referrer="https://oxolive.com"
