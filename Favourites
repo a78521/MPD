@@ -425,7 +425,7 @@ https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-zeetvhd
 https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-zeecinemahd
 
 
-#EXTINF:-1 tvg-id="English &Flix HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1284,h_723,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list5d289fc39bef4ebca19c6bfe64e46e26.jpg" group-title="ZEE5",English &flix HD
+#EXTINF:-1 tvg-id="&Flix HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1284,h_723,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list5d289fc39bef4ebca19c6bfe64e46e26.jpg" group-title="ZEE5",&flix HD
 #EXTVLCOPT:http-referrer=https://colorsportscreen.com/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
 https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-channel_2105335046
@@ -531,8 +531,7 @@ https://nxtlive.net/sliv/stream.m3u8?id=1000009273
 
 
 ============================================================= 4K===================================================================================================================
-#EXTINF:-1 tvg-logo="" group-title="4K",Redbull UHD
-https://d2qi7qmhorbt6s.cloudfront.net/playable/UHD_REDBULL/media.m3u8
+
 
 
 ============================================================= Ambiance===================================================================================================================
@@ -698,6 +697,38 @@ http://131.161.83.249:8031/play/a13w/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8
 
 
+
+================================================ Sky ==================================================================================================================
+
+
+#EXTINF:-1 group-title="Sky",Sky Sports Main Event FHD
+https://a1xs.vip/2000001
+#EXTINF:-1 group-title="Sky",Sky Sports News FHD
+https://a1xs.vip/2000004
+#EXTINF:-1 group-title="Sky",Sky Sports Cricket FHD
+https://a1xs.vip/2000006
+#EXTINF:-1 group-title="Sky",Sky Sports Mix
+https://a1xs.vip/2000008
+#EXTINF:-1 group-title="Sky",Sky Sports Golf
+https://a1xs.vip/2000009
+#EXTINF:-1 group-title="Sky",Sky Sports+ Live
+https://a1xs.vip/2000012
+#EXTINF:-1 group-title="Sky",Sky Sports Tennis 
+https://a1xs.vip/2000013
+
+
+#EXTINF:-1 group-title="Sky",Sky Atlantic FHD
+https://a1xs.vip/210001
+#EXTINF:-1 group-title="Sky",Sky Cinema Hits FHD
+https://a1xs.vip/210002
+#EXTINF:-1 group-title="Sky",Sky Cinema Hits FHD
+https://a1xs.vip/210003
+#EXTINF:-1 group-title="Sky",Sky Cinema Select FHD
+https://a1xs.vip/210004
+#EXTINF:-1 group-title="Sky",Sky Cinema Comedy FHD
+https://a1xs.vip/210005
+#EXTINF:-1 group-title="Sky",Sky Cinema Action FHD
+https://a1xs.vip/210006
 
 
 ================================================ Distro TV =======================================================================================================================
