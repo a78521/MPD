@@ -1152,9 +1152,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
 
 #EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://www.livetvuk.com/uploads/tv/860-bbctwo.jpg",BBC 2 HD
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
-#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://static.seriesreminder.com/network-img/BBC_THREE.png",BBC 3
+#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://static.seriesreminder.com/network-img/BBC_THREE.png",BBC 3 CBBC
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
-#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://www.livetvuk.com/uploads/tv/595-bbc4.jpg",BBC 4
+#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://www.livetvuk.com/uploads/tv/595-bbc4.jpg",BBC 4 Cbeebies
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-dash/bbc4cbeebies.mpd
 #EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://www.livetvuk.com/uploads/tv/884-bbcnews.jpg",BBC News
 
@@ -1187,10 +1187,16 @@ https://viamotionhsi.netplus.ch/live/eds/paramount/browser-dash/paramount.mpd
 #EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="",Food Network
 https://viamotionhsi.netplus.ch/live/eds/foodnetwork/browser-dash/foodnetwork.mpd
 
+
+
+#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="",Aljazeera
+https://viamotionhsi.netplus.ch/live/eds/aljazeera/browser-dash/aljazeera.mpd
+#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="",Bloomberg
+https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-dash/bloomberg.mpd
+#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="",CNN
+https://viamotionhsi.netplus.ch/live/eds/cnn/browser-dash/cnn.mpd
 #EXTINF:-1 group-title="UK Channels" tvg-id="https://www.livetvuk.com/uploads/tv/565-skynews.jpg" tvg-logo="",Sky News
 https://viamotionhsi.netplus.ch/live/eds/skynews/browser-dash/skynews.mpd
-
-
 
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Channel 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
