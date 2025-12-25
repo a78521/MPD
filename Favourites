@@ -538,8 +538,8 @@ https://nxtlive.net/sliv/stream.m3u8?id=1000009273
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD44000025L_20250402T010158SQUARE.png" group-title="Ambiance",Fireplace 4K
 https://cc-0eowrlibr9f50.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0eowrlibr9f50/BRJW/Amagi/Samsung/Fireplace_4K_SONO20_US/Fireplace_4K_SONO20.m3u8
-
-
+#EXTINF:-1 tvg-logo="" group-title="Ambiance",Fish Tank
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fish-tank/master.m3u8
 
 ============================================================= Bhojpuri===================================================================================================================
 
@@ -985,8 +985,10 @@ https://n18syndication-amagi.akamaized.net/bpk-tv/History_HD_NW18_MOB/output01/i
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
 #https://n18syndication-amagi.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/index.m3u8
 
-
-
+#EXTINF:0, tvg-logo="" group-title="Infotainment",China Travel
+https://amg01314-cgtn-amg01314c7-lg-uae-10953.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01314-cgtn-cgtnchinatravel-lguae/playlist.m3u8
+#EXTINF:0, tvg-logo="" group-title="Infotainment",Discovering China
+https://ml-pull-hwc.myco.io/CGTN/hls/index.m3u8
 
 ===================================================== LG TV =======================================================================================================================
 
@@ -2524,6 +2526,31 @@ https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playli
 https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600011DE_20240828T013137SQUARE.png" group-title="Samsung TV",KCM
 https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02159-kcglobal-kcm-samsungin/playlist.m3u8
+
+
+======================================================================= SKY GO==================================================================================================
+
+#EXTINF:-1 tvg-logo="" group-title="SKY GO",Boomerang
+https://cdn1.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SKY GO",Cartoon Network
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SKY GO",Cbeebies
+https://cdn1.skygo.mn/live/disk1/Cbeebies/HLSv3-FTA/Cbeebies.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SKY GO",Discovery Asia
+https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SKY GO",Lotus Macau
+https://cdn1.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SKY GO",NHK World
+https://cdn1.skygo.mn/live/disk1/NHK_World/HLSv3-FTA/NHK_World.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SKY GO",ZooMoo
+https://cdn1.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8
+
+
+
+
+
+
 
 
 ======================================================================= Tablo==================================================================================================
