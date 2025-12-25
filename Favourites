@@ -2176,13 +2176,13 @@ https://stitcher.pluto.tv/stitch/hls/channel/640a64bd73e013000893d4e0/master.m3u
 #EXTINF:-1 tvg-id="66df8a29b25d2b0008fc5fe0" tvg-name="Love Nature" tvg-logo="https://images.pluto.tv/channels/66df8a29b25d2b0008fc5fe0/colorLogoPNG.png" group-title="Pluto TV" tvg-chno="3585", Love Nature
 https://stitcher.pluto.tv/stitch/hls/channel/66df8a29b25d2b0008fc5fe0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f6381014-b0b3-11f0-b731-c229de4b3760
 
-#EXTINF:-1 tvg-id="5812bd9f249444e05d09cc4e" tvg-name="Naturescape" tvg-logo="https://images.pluto.tv/channels/5812bd9f249444e05d09cc4e/colorLogoPNG.png" group-title="Animals + Nature" tvg-chno="3590", Naturescape
+#EXTINF:-1 tvg-id="5812bd9f249444e05d09cc4e" tvg-name="Naturescape" tvg-logo="https://images.pluto.tv/channels/5812bd9f249444e05d09cc4e/colorLogoPNG.png" group-title="Pluto TV" tvg-chno="3590", Naturescape
 https://stitcher.pluto.tv/stitch/hls/channel/5812bd9f249444e05d09cc4e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f6381014-b0b3-11f0-b731-c229de4b3760
 
-#EXTINF:-1 tvg-id="5bb1ad55268cae539bcedb08" tvg-name="The Pet Collective" tvg-logo="https://images.pluto.tv/channels/5bb1ad55268cae539bcedb08/colorLogoPNG.png" group-title="Animals + Nature" tvg-chno="3620", The Pet Collective
+#EXTINF:-1 tvg-id="5bb1ad55268cae539bcedb08" tvg-name="The Pet Collective" tvg-logo="https://images.pluto.tv/channels/5bb1ad55268cae539bcedb08/colorLogoPNG.png" group-title="Pluto TV" tvg-chno="3620", The Pet Collective
 https://stitcher.pluto.tv/stitch/hls/channel/5bb1ad55268cae539bcedb08/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f6381014-b0b3-11f0-b731-c229de4b3760
 
-#EXTINF:-1 tvg-id="664fd48894d5580008e45e7c" tvg-name="Dog Whisperer with Cesar Millan" tvg-logo="https://images.pluto.tv/channels/664fd48894d5580008e45e7c/colorLogoPNG.png" group-title="Animals + Nature" tvg-chno="3625", Dog Whisperer with Cesar Millan
+#EXTINF:-1 tvg-id="664fd48894d5580008e45e7c" tvg-name="Dog Whisperer with Cesar Millan" tvg-logo="https://images.pluto.tv/channels/664fd48894d5580008e45e7c/colorLogoPNG.png" group-title="Pluto TV" tvg-chno="3625", Dog Whisperer with Cesar Millan
 https://stitcher.pluto.tv/stitch/hls/channel/664fd48894d5580008e45e7c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f6381014-b0b3-11f0-b731-c229de4b3760
 
 #EXTINF:-1 tvg-id="5ca6748a37b88b269472dad9" tvg-name="Nick Jr. "Pluto TV" tvg-logo="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png" group-title="Pluto TV" tvg-chno="3700", Nick Jr. Pluto TV
