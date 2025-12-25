@@ -311,7 +311,7 @@ https://servertvhub.site/jio/app/app/ts_live_164.m3u8
 https://servertvhub.site/jio/app/app/ts_live_562.m3u8
 #EXTINF:-1 tvg-id="146" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" group-title="Temp",History TV English HD
 https://n18syndication-amagi.akamaized.net/bpk-tv/History_HD_NW18_MOB/output01/index.m3u8
-https://servertvhub.site/jio/app/app#/ts_live_146.m3u8
+#https://servertvhub.site/jio/app/app/ts_live_146.m3u8
 #EXTINF:-1 tvg-id="578" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="Temp",History TV Hindi HD
 https://n18syndication-amagi.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/index.m3u8
 #https://servertvhub.site/jio/app/app/ts_live_578.m3u8
