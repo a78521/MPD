@@ -2316,7 +2316,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/623b92a2ccefed0007b1db48/master.m3u
 #EXTINF:-1 tvg-id="5da0d75e84830900098a1ea0" tvg-name="Vevo Country" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/colorLogoPNG.png" group-title="Pluto TV" tvg-chno="4700", Vevo Country
 https://stitcher.pluto.tv/stitch/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f6381014-b0b3-11f0-b731-c229de4b3760
 
-#EXTINF:-1 tvg-id="5d14fc31252d35decbc4080b" tvg-name="Yo! MTV" tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="Pluto TV tvg-chno="4710", Yo! MTV
+#EXTINF:-1 tvg-id="5d14fc31252d35decbc4080b" tvg-name="Yo! MTV" tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="Pluto TV" tvg-chno="4710", Yo! MTV
 https://stitcher.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f6381014-b0b3-11f0-b731-c229de4b3760
 
 #EXTINF:-1 tvg-id="61d4c2817a823d00070ba53e" tvg-name="Vevo True School Hip-Hop" tvg-logo="https://images.pluto.tv/channels/61d4c2817a823d00070ba53e/colorLogoPNG.png" group-title="Pluto TV" tvg-chno="4720", Vevo True School Hip-Hop
