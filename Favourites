@@ -4102,9 +4102,30 @@ https://f56779ab.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 ======================================================== Regional News ===========================================================================================================
 
 #EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500017JZ_20240508T020847SQUARE.png" group-title="Regional News",News 18 PB/HR
-https://amg02674-network18fast-amg02674c14-samsung-in-2325.playouts.now.amagi.tv/playlist/amg02674-network18fast-nw18punjabhrhp-samsungin/playlist.m3u8
-#EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600007AU_20240612T015012SQUARE.png" group-title="Regional News",News 18 JK
+https://nw18live.cdn.jio.com/bpk-tv/News18_Punjab_Haryana_HP_NW18_MOB/output01/index.m3u8
+#https://amg02674-network18fast-amg02674c14-samsung-in-2325.playouts.now.amagi.tv/playlist/amg02674-network18fast-nw18punjabhrhp-samsungin/playlist.m3u8
+
+#EXTINF:0, tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Haryana_and_HP_News.png" group-title="Regional News",News India 18 PB/HR/HM
+https://nw18live.cdn.jio.com/bpk-tv/News18_Punjab_Haryana_HP_NW18_MOB/output01/index.m3u8
+
+#EXTINF:0, tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News_MP_Chattisgarh.png" group-title="Regional News",News India 18 MP/CG
+https://nw18live.cdn.jio.com/bpk-tv/News18_MP_Chhattisgarh_NW18_MOB/output01/index.m3u8
+
+#EXTINF:0, tvg-logo="" group-title="Regional News",News 18 Urdu
 https://amg01448-amg01448c14-samsung-in-3493.playouts.now.amagi.tv/playlist/amg01448-samsungindia-news18jandk-samsungin/playlist.m3u8
+#https://n18syndication.akamaized.net/bpk-tv/News18_Urdu_NW18_MOB/output01/index.m3u8
+
+#EXTINF:0, tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Rajasthan.png" group-title="Regional News",News India 18 Rajasthan
+https://nw18live.cdn.jio.com/bpk-tv/News18_Rajasthan_NW18_MOB/output01/index.m3u8
+
+#EXTINF:0, tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Purvaiya.png" group-title="Regional News",News India 18 BH/JK
+https://nw18live.cdn.jio.com/bpk-tv/News18_Bihar_Jharkhand_NW18_MOB/output01/index.m3u8
+
+#EXTINF:0, tvg-logo="" group-title="Regional News",News India 18 UP/UK
+https://nw18live.cdn.jio.com/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/index.m3u8
+
+
+
 
 
 #EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900008R9_20241211T020355SQUARE.png" group-title="Regional News",News State PB/HR/HM
@@ -4128,7 +4149,7 @@ https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8
 https://d3vmwjy7v49lo5.cloudfront.net/index_4.m3u8
 #EXTINF:-1, tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Kalinga.png" group-title="Regional News",Zee Delhi NCR/HR
 https://d2s40ae9uabrl.cloudfront.net/index_4.m3u8
-#EXTINF:-1, tvg-logo="" group-title="Regional News",Zee MP/CH
+#EXTINF:-1, tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News_MP_Chattisgarh.png" group-title="Regional News",Zee MP/CH
 https://d1ek9hdbw9xxcw.cloudfront.net/index_4.m3u8
 #EXTINF:-1, tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Rajasthan.png" group-title="Regional News",Zee Rajasthan
 https://d2jso9g61rg1h8.cloudfront.net/index_3.m3u8
