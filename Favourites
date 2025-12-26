@@ -4172,7 +4172,7 @@ https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 https://amg00882-amg00882c2-lg-in-5560.playouts.now.amagi.tv/playlist/amg00882-euronewsfast-euronewseng-lgin/playlist.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="International News",NHK Japan
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
+https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="International News",Sky News
 https://d25w9q07b2mtmw.cloudfront.net/live/master_4.m3u8
@@ -4183,7 +4183,7 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #https://wisehttott.wiseplayout.com/RT/master.m3u8
 #EXTINF:0, tvg-logo="" group-title="International News",RT Doc
-#https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 
 
 
