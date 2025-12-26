@@ -108,6 +108,11 @@ http://87.255.35.150:18302
 #http://87.255.35.150:18923/
 
 
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="Cricket",A Sports HD
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+https://d2.merichunidya.com:1686/hls/asportshd.m3u8?md5=tm1UeMJ-UOpI6bsBwX3t2w&expires=1766785087
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports 2 HD
 #EXTVLCOPT:http-referrer="https://onezoo.net"
 #KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
@@ -119,8 +124,7 @@ https://onezoo.net/leo/live.php?id=1984&format=.m3u8
 https://onezoo.net/leo/live.php?id=1998&format=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports 2 HD
-http://87.255.35.150:18828
-#https://mini.allinonereborn.fun/jiotv-in/app/ts_live_1984.m3u8
+https://servertvhub.site/jio/app/ts_live_1984.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports Tamil
 http://87.255.35.150:18844
@@ -136,8 +140,7 @@ http://87.255.35.150:18804/
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Astro Cricket
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Eurosports HD
-https://mini.allinonereborn.fun/jiotv-ww5/app/ts_live_875.m3u8
-
+https://servertvhub.site/jio/app/ts_live_875.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Willow Sports
 https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Willow by Cricbuzz
@@ -173,7 +176,7 @@ http://87.255.35.150:18548
 #EXTINF:-1 tvg-id="colors-hd" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Temp",Colors HD
 http://87.255.35.150:18890
 #http://66.102.120.18:8000/play/a00a/index.m3u8
-#https://mini.allinonereborn.fun/jiotv-ww5/app/ts_live_144.m3u8
+#https://servertvhub.site/jio/app/ts_live_144.m3u8
 
 #EXTINF:-1 tvg-id="cineplex-hd" tvg-logo="https://live.dinesh29.com.np/logos/cineplex-hd.png" group-title="Temp",Colors Cineplex HD
 http://87.255.35.150:18296/
