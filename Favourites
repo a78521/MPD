@@ -320,7 +320,18 @@ https://n18syndication-amagi.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/ou
 
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/sgxQd9gz/motu-patlu.jpg" group-title="Tplay",Motu Patlu
+https://tplay.live/playlist/kids/motu-patlu/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25T1j5cX/oggy2.jpg" group-title="Tplay",Oggy and the Cockraches
+https://tplay.live/playlist/kids/oggy-and-the-cockroaches/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/9Q7G21N6/Deewana.png" group-title="Tplay",Deewana HD
+https://tplay.live/originals/deewana/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/8z1kS0G5/Oxygen-Music.jpg" group-title="Tplay",Oxygen Music
+https://tplay.live/tplay/playout/209901/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/jjmyWm0m/om-bangla-2.jpg" group-title="Tplay",Om Bangla HD
+https://tplay.live/originals/om-bangla/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/SxVJGs6X/adnan-sami.jpg" group-title="Tplay",24/7 Adnan Sami
@@ -536,10 +547,12 @@ https://nxtlive.net/sliv/stream.m3u8?id=1000009273
 
 ============================================================= Ambiance===================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD44000025L_20250402T010158SQUARE.png" group-title="Ambiance",Fireplace 4K
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD44000025L_20250402T010158SQUARE.png" group-title="Ambiance",Fireplace
 https://cc-0eowrlibr9f50.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0eowrlibr9f50/BRJW/Amagi/Samsung/Fireplace_4K_SONO20_US/Fireplace_4K_SONO20.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ambiance",Fish Tank
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fish-tank/master.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700012OU_20250610T001107SQUARE.png" group-title="Ambiance",Ocean Vives
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-j8l68sqtjf8kc.m3u8
 
 ============================================================= Bhojpuri===================================================================================================================
 
