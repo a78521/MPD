@@ -4121,25 +4121,34 @@ https://amg24335-amg24335c3-amgplt0016.playout.now3.amagi.tv/playlist/amg24335-a
 https://amg13643-amg13643c4-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13643-amg13643c4-amgplt0016/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="ZeeHindustan.in" tvg-logo="https://i.imgur.com/3eAZMxA.png" group-title="Regional News",Zee Hindustan
-https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8
-#EXTINF:-1 tvg-id="ZeeRajasthan.in" tvg-logo="https://i.imgur.com/iYrrGlL.png" group-title="Regional News",Zee Rajasthan
 
-#EXTINF:-1 tvg-logo="" group-title="Regional News",Zee Bharat
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_SANGAM.png" group-title="Regional News",Zee Bharat
 https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Regional News",Zee UP/UK
+#EXTINF:-1, tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Purvaiya.png" group-title="Regional News",Zee BH/JH
+https://d3vmwjy7v49lo5.cloudfront.net/index_4.m3u8
+#EXTINF:-1, tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Kalinga.png" group-title="Regional News",Zee Delhi NCR/HR
+https://d2s40ae9uabrl.cloudfront.net/index_4.m3u8
+#EXTINF:-1, tvg-logo="" group-title="Regional News",Zee MP/CH
+https://d1ek9hdbw9xxcw.cloudfront.net/index_4.m3u8
+#EXTINF:-1, tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Rajasthan.png" group-title="Regional News",Zee Rajasthan
+https://d2jso9g61rg1h8.cloudfront.net/index_3.m3u8
+#EXTINF:-1, tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Punjabi_HP_Haryana.png" group-title="Regional News",Zee PB/HR/HM
+https://d31s6sxcz6vnac.cloudfront.net/index_3.m3u8
+#EXTINF:-1, tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Living_Foodz.png" group-title="Regional News",Zee UP/UK
 https://duw35ict5q7th.cloudfront.net/index_3.m3u8
+#EXTINF:-1, tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Salaam.png" group-title="Regional News",Zee Salaam
+https://d2o3r1shda7xvv.cloudfront.net/index_5.m3u8
 
 
 
 ======================================================== International News ===========================================================================================================
 
 #EXTINF:0, tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2300005ML_20251118T015422SQUARE.png" group-title="International News",AlJazeera
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
 #https://amg00222-amg00222c4-amgplt0002.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="International News",BBC News
-https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8
 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/099260397.jpeg" group-title="International News",CNA
 http://d2e1asnsl7br7b.cloudfront.net/4c152bfc7ad2463d928bfbec0990eaeb/index.m3u8
