@@ -4261,25 +4261,42 @@ https://d2o3r1shda7xvv.cloudfront.net/index_5.m3u8
 https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
 #https://amg00222-amg00222c4-amgplt0002.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8
 
+#EXTINF:0, tvg-logo="" group-title="International News",Africa News
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8
+
 #EXTINF:0, tvg-logo="" group-title="International News",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8
+#https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+#https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
+#https://4fb3f38a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfQkJDTmV3cy0xX0hMUw/playlist.m3u8
 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/099260397.jpeg" group-title="International News",CNA
-http://d2e1asnsl7br7b.cloudfront.net/4c152bfc7ad2463d928bfbec0990eaeb/index.m3u8
+https://dai4s4shjeg0o.cloudfront.net/HTMediaLabsInd760b6cd7/5b3b64baca764020a525dd7ce42e27e6/master.m3u8 
+#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#http://d2e1asnsl7br7b.cloudfront.net/4c152bfc7ad2463d928bfbec0990eaeb/index.m3u8
 
 #EXTINF:0, tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD8000016N_20251125T100002SQUARE.png" group-title="International News",CNN
 https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
 
 #EXTINF:0, tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900008O3_20251209T004548SQUARE.png" group-title="International News",CNN Headlines
+https://mediapackage-ptcn-source.fullscreen.nz/index.m3u8
+#https://amg01918-cnnus-amg01918c1-lg-us-1911.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnheadlines-lgus/playlist.m3u8
 
 #EXTINF:0, tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1300001RX_20250902T003744SQUARE.png" group-title="International News",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="International News",TRT World
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
+#https://webott.viatv.com.np/v0t1/TRTworld.stream/playlist.m3u8
 
 #EXTINF:0, tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3300002NF_20250107T031217SQUARE.png" group-title="International News",Sky News
+https://d25w9q07b2mtmw.cloudfront.net/live/master_4.m3u8
+#EXTINF:0, tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3300002NF_20250107T031217SQUARE.png" group-title="International News",Sky News UK
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 
+#EXTINF:0, tvg-logo="" group-title="International News",Sky News Now
+https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist480p.m3u8
+#https://amg00663-skynewsau-amg00663c1-lg-au-4519.playouts.now.amagi.tv/playlist/amg00663-australiannewschannelptyltdfast-skynews-lgau/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/Euronews/euronews_logo_resized_400x200_updated.png" group-title="International News",Euro News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
@@ -4288,10 +4305,6 @@ https://amg00882-amg00882c2-lg-in-5560.playouts.now.amagi.tv/playlist/amg00882-e
 #EXTINF:0, tvg-logo="" group-title="International News",NHK Japan
 https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
 
-#EXTINF:0, tvg-logo="" group-title="International News",Sky News
-https://d25w9q07b2mtmw.cloudfront.net/live/master_4.m3u8
-#EXTINF:0, tvg-logo="" group-title="International News",Sky News UK
-https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="International News",RT
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
@@ -4299,7 +4312,10 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:0, tvg-logo="" group-title="International News",RT Doc
 https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 
-
+#EXTINF:0, tvg-logo="" group-title="International News",Reuters
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/10b3da90-ab83-4d76-bc83-f0fdf71fa7cc/0.m3u8
+#https://amg00453-reuters-amg00453c1-lg-us-2227.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-lgus/playlist.m3u8
+#https://amg00453-reuters-amg00453c1-samsung-gb-2113.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-samsunggb/playlist.m3u8
 
 ======================================================== Hindi Music ===========================================================================================================
 
