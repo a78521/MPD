@@ -4324,6 +4324,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460001373_20250416T005420SQUARE.png" group-title="Hindi Music",Bolly Raga
 https://cc-up9j649x4thrj.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-up9j649x4thrj/SBUM/RunnTV/BollyRaga_IN/BollyRaga_IN.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Music",Deewana HD
+https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Music",Melody Hits
 #EXTVLCOPT:http-referrer="https://oxolive.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://oxolive.com"
@@ -4667,6 +4669,8 @@ https://cdn2.in/7xPunjabihls/live.m3u8
 https://cdn2.in/IndozeTvhls/live.m3u8
 #EXTINF:0, tvg-logo="" group-title="Punjabi Music",Pure Punjabi HD
 http://livestream.unlimitedcdn.com/agm-pp/pure-punjabi/index.m3u8
+#EXTINF:0, tvg-logo="" group-title="Punjabi Music",Steelbird Music
+https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 
 
 
