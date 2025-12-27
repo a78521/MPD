@@ -955,9 +955,9 @@ https://cc-oq5ndvigrlkaa.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000105Q_20250205T004558SQUARE.png", group-title="Food & Travel" Cook & Bake Tv 
 https://cc-swbj49v56imaw.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swbj49v56imaw/OTM/OTM_Cooking-SCTE_SAMSUNG/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA490001909_20220427T054659SQUARE.png_20220427054700.png", group-title="Food & Travel"Tastemade
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA490001909_20220427T054659SQUARE.png_20220427054700.png", group-title="Food & Travel",Tastemade
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/tastemade-tastemade-int-aus-samsung-india/playlist.m3u8
-#EXTINF:-1 tvg-logo="", group-title="Food & Lifestyle"Tastemade Travel
+#EXTINF:-1 tvg-logo="", group-title="Food & Travel",Tastemade Travel
 https://amg00047-tastemade-amg00047c3-cineverse-us-1360.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadetravel-cineverseus/playlist.m3u8
 
 #EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN300000210_20241113T015626SQUARE.png" group-title="Food & Travel",travelxp HD
@@ -3995,6 +3995,13 @@ https://sl.vodep39240327.workers.dev/channel/SONY TEN 5 HD.m3u8
 https://sl.vodep39240327.workers.dev/channel/SONY MAX.m3u8
 
 
+#EXTINF:-1 tvg-id="ts246" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="SonyLiv",Star Sports Select 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/?key=300
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://keys.vodep39240327.workers.dev/?id=300.mpd
+
+
 ======================================================== Stirr ===========================================================================================================
 
 #EXTINF:0, tvg-logo="" group-title="Stirr",24 Hrs Movies
@@ -4433,19 +4440,19 @@ https://fucking-tv-ott.keralive.workers.dev/mumt04/GOLDMINES/index.m3u8
 
 ======================================================== English Movies ===========================================================================================================
 
-#EXTINF:-1 tvg-logo="" group-title="English Movies",Xumo Free Her Movies
+#EXTINF:-1 tvg-logo="" group-title="English Movies",Xumo Her Movies
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992291
-#EXTINF:-1 tvg-logo="" group-title="English Movies",Xumo Free Comedy Movies
+#EXTINF:-1 tvg-logo="" group-title="English Movies",Xumo Comedy Movies
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992292
-#EXTINF:-1 tvg-logo="" group-title="English Movies",Xumo Free Movies
+#EXTINF:-1 tvg-logo="" group-title="English Movies",Xumo Movies
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992293
-#EXTINF:-1 tvg-logo="" group-title="English Movies",Xumo Free Westeners
+#EXTINF:-1 tvg-logo="" group-title="English Movies",Xumo Westeners
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992299
-#EXTINF:-1 tvg-logo="" group-title="English Movies",Xumo Free Action Movies
+#EXTINF:-1 tvg-logo="" group-title="English Movies",Xumo Action Movies
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992300
-#EXTINF:-1 tvg-logo="" group-title="English Movies",Xumo Free Horror & Thriller Movies
+#EXTINF:-1 tvg-logo="" group-title="English Movies",Xumo Horror & Thriller Movies
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992301
-#EXTINF:-1 tvg-logo="" group-title="English Movies",Xumo Free Black Cinema
+#EXTINF:-1 tvg-logo="" group-title="English Movies",Xumo Black Cinema
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992302
 
 
