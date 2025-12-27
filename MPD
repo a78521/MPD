@@ -1692,13 +1692,13 @@ http://cors.tundracast.com:2000/https://fsly.stream.peacocktv.com/Content/CMAF_C
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1681130789302423553/ZaF0dgsN_400x400.jpg" group-title="Nitro",TNT Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
-https://aba3uy3aaaaaaaamfjv2jyrjdxcj4.otte.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/bsaaetko8v/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+https://ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/bsaaetko8v/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 
 #EXTINF:-1 tvg-logo="https://images.metadata.sky.com/pd-image/2b427b6e-1687-4c9c-bef8-a3f03f312f6c/16-9" group-title="Nitro",TNT 2 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
-https://aba3uy3aaaaaaaamfjv2jyrjdxcj4.otte.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+https://ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFWhWHGF/Screenshot-2024-01-15-23-12-20-61-40deb401b9ffe8e1df2f1cc5ba480b12.jpg" group-title="Nitro",TNT 3 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
