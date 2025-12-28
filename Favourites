@@ -2695,6 +2695,13 @@ https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlis
 https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02159-kcglobal-kcm-samsungin/playlist.m3u8
 
 
+======================================================================= Shemaroo==================================================================================================
+
+#EXTINF:-1 tvg-logo="" group-title="Shemaroo",Shemaroo TV
+https://mumt02.tangotv.in/SHEMAROOTV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Shemaroo",Shemaroo Umang
+https://mumt04.tangotv.in/SHEMAROOUMANG/index.m3u8
+
 ======================================================================= SKY GO==================================================================================================
 
 #EXTINF:-1 tvg-logo="" group-title="SKY GO",Boomerang
@@ -4420,7 +4427,8 @@ https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
 #EXTINF:0, tvg-logo="https://a.jsrdn.com/hls/23146/yrf-music/logo_20240322_175611_70.png" group-title="Hindi Music",YRF Music
 https://amg00223-unisys-amg00223c2-lg-in-2045.playouts.now.amagi.tv/playlist/amg00223-sevencolorsbroadcastingprivatelimited-yfrmusic-lgin/playlist.m3u8
 
-
+#EXTINF:0, tvg-logo="" group-title="Hindi Music",Hindi Music
+https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL2Rob29tNHUubWUvc3RhbGtlcl9wb3J0YWwvIiwibWFjIjoiMDA6MUE6Nzk6MDA6MTI6NDQiLCJzbiI6IkY3NzUzQTY0RTIyNkUiLCJkZXZpY2VfaWQxIjoiNEIwQUFDNEI1RUIwQzkzMTAwNjVDN0QxMTJGRjUwQ0FERDczMDcxNkQ0NzYyMTg0RkMxQjkxMTYyRDMzRUUyQiIsImRldmljZV9pZDIiOiI0QjBBQUM0QjVFQjBDOTMxMDA2NUM3RDExMkZGNTBDQURENzMwNzE2RDQ3NjIxODRGQzFCOTExNjJEMzNFRTJCIiwic2lnIjoiIn0%3D&id=10544
 
 #EXTINF:0, tvg-logo="" group-title="Hindi Music",ITV Indian Music
 https://ca1.buximedia.com/itv/indian/index.m3u8
@@ -4540,6 +4548,10 @@ https://cc-u6hadnoh0u6td.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73d
 https://dbrb49pjoymg4.cloudfront.net/10001/99991756/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991756
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",Manoranjan Movies
+https://mumt04.tangotv.in/MANORANJANMOVIES/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png" group-title="Hindi Movies",Zee Cine Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
@@ -4570,13 +4582,13 @@ https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m
 https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",Goldmines Bollywood
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G90YhWRg/goldmine-bollywood.jpg" group-title="Hindi Movies",Goldmines Bollywood
 #EXTVLCOPT:http-referrer="https://oxolive.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://oxolive.com"
 https://fucking-tv-ott.keralive.workers.dev/mumt03/GOLDMINESBOLLYWOOD/index.m3u8
 #https://mumt03.tangotv.in/GOLDMINESBOLLYWOOD/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",Goldmines
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjBD6Xhn/Goldmine.jpg" group-title="Hindi Movies",Goldmines
 #EXTVLCOPT:http-referrer="https://oxolive.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://oxolive.com"
 https://fucking-tv-ott.keralive.workers.dev/mumt04/GOLDMINES/index.m3u8
@@ -4667,6 +4679,10 @@ https://amg13343-amg13343c1-amgplt0173.playout.now3.amagi.tv/playlist/amg13343-a
 #EXTINF:0, tvg-logo="https://nagantv.com/upload/files/desi%20play%20tv.png" group-title="Hindi Entertainment",Desi Play
 https://amg00857-amg00857c1-rakuten-us-4656.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTINF:0, tvg-logo="" group-title="Hindi Entertainment",The Q
+https://mumt05.tangotv.in/THEQ/index.m3u8
+#EXTINF:0, tvg-logo="" group-title="Hindi Entertainment",HI Dost
+https://mumt03.tangotv.in/HIDOST/index.m3u8
 
 
 ======================================================== Devotional ===========================================================================================================
@@ -4739,6 +4755,9 @@ https://toober.keralive.workers.dev/4c3caf7294b3/3dd066d387031492/playlist.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="Punjabi",Sanjha TV HD
 https://livestream.unlimitedcdn.com/sanjhatv/index.m3u8
+
+#EXTINF:0, tvg-logo="https://icon2.cleanpng.com/20180617/wtf/kisspng-television-channel-television-show-punjabi-languag-pocketnewsalert-5b2616f8e75031.4728199715292229049475.jpg" group-title="Punjabi",Desi Channel
+https://main.clickstreamcdn.com/agm-dc/desi-channel/index.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="Punjabi",Zee Punjabi
 #EXTVLCOPT:http-referrer="https://oxolive.com"
@@ -4843,6 +4862,22 @@ http://livestream.unlimitedcdn.com/gurkibani/index.m3u8
 https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/playlist.m3u8
 #EXTINF:0, tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/SikhRatnavali/LG/Logo400x200.jpg" group-title="Punjabi Devotional",Sikh Ratnavali
 https://amg00223-amg00223c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00223-amg00223c6-amgplt0173/playlist.m3u8
+
+
+
+========================================================PTC ===========================================================================================================
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/B6K29Z9z/PTC-MUSIC.jpg"group-title="PTC",PTC MUSIC
+https://mumt04.tangotv.in/PTCMUSIC/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RVshdr29/PTC-NEWS.png" group-title="PTC",PTC NEWS
+https://mumt02.tangotv.in/PTCNEWS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsQVvSKJ/PTC-CHAKDE.png"group-title="PTC",PTC CHAKDE
+https://mumt02.tangotv.in/PTCCHAKDE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cGJ2hb8/PTC-SIMRAN.jpg"group-title="PTC",PTC SIMRAN
+https://mumt05.tangotv.in/PTCSIMRAN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYLMzZpp/PTC-PUNJABI.jpg"group-title="PTC",PTC PUNJABI
+https://mumt04.tangotv.in/PTCPUNJABI/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJyf4r23/PTC-PUNJABI-GOLD.jpg"group-title="PTC",PTC PUNJABI GOLD
+https://mumt04.tangotv.in/PTCPUNJABIGOLD/index.m3u8
 
 
 
