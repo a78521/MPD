@@ -18,11 +18,11 @@ https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Star%20Movies%
 https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Colors%20HD.m3u8
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Cineplex_HD.png"" group-title="Fav",Colors Cineplex HD
 https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Colors%20Cineplex%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="Fav",Colors Infinity HD
+#EXTINF:-1 tvg-logo="https://tv.catchup.cdn..com/dare_images/images/Colors_Infinity_HD.png" group-title="Fav",Colors Infinity HD
 https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Colors%20Infinity%20HD.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Fav",MTV HD
+#EXTINF:-1 tvg-logo="https://tv.catchup.cdn..com/dare_images/images/MTV_HD_Plus.png" group-title="Fav",MTV HD
 https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/MTV%20HD.m3u8
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/MTV_Beats_HD.png" group-title="Fav",MTV Beats HD
 https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/MTV%20Beats%20HD.m3u8
@@ -39,13 +39,13 @@ https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/%26%20Prive%20
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/And_Flix_HD.png" group-title="Fav",& Flix HD
 https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/%26%20Flix%20HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Fav",Zee TV HD
+#EXTINF:-1 tvg-logo="https://tv.catchup.cdn..com/dare_images/images/Zee_TV_HD.png" group-title="Fav",Zee TV HD
 https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Zee%20TV%20HD.m3u8
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Cinema_HD.png" group-title="Fav",Zee Cinema HD
 https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Zee%20Cinema%20HD.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png" group-title="Fav",Zee Cafe HD
+#EXTINF:-1 tvg-logo="https://tv.catchup.cdn..com/dare_images/images/Zee_Cafe_HD.png" group-title="Fav",Zee Cafe HD
 https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Zee%20Cafe%20HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Sony_TV_HD.png" group-title="Fav",Sony TV HD
@@ -54,7 +54,7 @@ https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Sony%20TV%20HD
 https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Sony%20Sab%20HD.m3u8
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Max_HD.png" group-title="Fav",Sony Max HD
 https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Sony%20Max%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Fav",Sony BBC Earth HD
+#EXTINF:-1 tvg-logo="https://tv.catchup.cdn..com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Fav",Sony BBC Earth HD
 https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/BBC%20Earth%20HD
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/english/Sony_Pix.png" group-title="Fav",Sony Pix HD
 https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Sony%20Pix%20HD.m3u8
@@ -83,9 +83,9 @@ https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Fox%20501%20HD
 #EXTINF:-1 tvg-logo="" group-title="Fav",WWE HD
 https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/WWE%20HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Fav",Discovery HD
+#EXTINF:-1 tvg-logo="https://tv.catchup.cdn..com/dare_images/images/Discovery_HD_World.png" group-title="Fav",Discovery HD
 https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Discovery%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" group-title="Fav",Animal Planet HD
+#EXTINF:-1 tvg-logo="https://tv.catchup.cdn..com/dare_images/images/Animal_Planet_HD.png" group-title="Fav",Animal Planet HD
 https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Animal%20Planet%20HD.m3u8
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/History_TV_HD.png" group-title="Fav",History TV18 HD
 https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/History%20TV18%20HD.m3u8
@@ -124,7 +124,7 @@ https://onezoo.net/leo/live.php?id=1984&format=.m3u8
 https://onezoo.net/leo/live.php?id=1998&format=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports 2 HD
-https://servertvhub.site/jio/app/ts_live_1984.m3u8
+https://servertvhub.site//app/ts_live_1984.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports Tamil
 http://87.255.35.150:18844
@@ -140,7 +140,7 @@ http://87.255.35.150:18804/
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Astro Cricket
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Eurosports HD
-https://servertvhub.site/jio/app/ts_live_875.m3u8
+https://servertvhub.site//app/ts_live_875.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Willow Sports
 https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Willow by Cricbuzz
@@ -173,7 +173,7 @@ http://87.255.35.150:18301
 http://87.255.35.150:18548
 #http://66.102.120.18:8000/play/a020/index.m3u8
 
-#EXTINF:-1 tvg-id="colors-hd" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Temp",Colors HD
+#EXTINF:-1 tvg-id="colors-hd" tvg-logo="https://tv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Temp",Colors HD
 http://87.255.35.150:18890
 #http://66.102.120.18:8000/play/a00a/index.m3u8
 #https://servertvhub.site/jio/app/ts_live_144.m3u8
@@ -352,7 +352,7 @@ https://tplay.live/playlist/music/dance-performance/index.m3u8
 
 ================================================== Jio ===============================================================================================================
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Colors HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Jio",Colors HD
 #EXTVLCOPT:http-referrer="https://onezoo.net"
 #KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
 https://onezoo.net/leo/live.php?id=144&format=.m3u8
@@ -362,12 +362,12 @@ https://onezoo.net/leo/live.php?id=144&format=.m3u8
 #KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
 https://onezoo.net/leo/live.php?id=1477&format=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Colors Infinity HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="Jio",Colors Infinity HD
 #EXTVLCOPT:http-referrer="https://onezoo.net"
 #KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
 https://onezoo.net/leo/live.php?id=1158&format=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Colors Rishtey
+#EXTINF:-1 tvg-id="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" tvg-logo="" group-title="Jio",Colors Rishtey
 #EXTVLCOPT:http-referrer="https://onezoo.net"
 #KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
 https://onezoo.net/leo/live.php?id=279&format=.m3u8
