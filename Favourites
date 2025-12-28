@@ -321,7 +321,7 @@ https://n18syndication-amagi.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/ou
 
 
 
-
+================================================== Tplay ===============================================================================================================
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/sgxQd9gz/motu-patlu.jpg" group-title="Tplay",Motu Patlu
 https://tplay.live/playlist/kids/motu-patlu/index.m3u8
@@ -598,7 +598,7 @@ https://mediapackage-ptgn-source.fullscreen.nz/index.m3u8
 
 
 
-================================================== BBC===============================================================================================================
+===================================================================== BBC===============================================================================================================
 
 #EXTINF:-1 tvg-logo="" group-title="BBC",BBC News
 https://wurlrainbowmedia.global.transmit.live/hls/68c49fa109574e8405506cb6/v1/amcnetworks_bbcnews_1/lg_us/latest/main/hls/playlist.m3u8
@@ -640,6 +640,29 @@ https://amg00841-amg00841c7-rakuten-uk-2820.playouts.now.amagi.tv/playlist/amg00
 https://autentic-autentichistory-1-au.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="History",True History
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/true-history/playlist.m3u8
+
+
+
+
+
+
+
+================================================== MBC ===============================================================================================================
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gVM66na.jpg" group-title="MBC",MBC ACTION
+https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YtYT25p.jpg" group-title="MBC",MBC THRILLER
+https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5tzQyBi.jpg" group-title="MBC",MBC BOLLYWOOD
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DeGOHLk.jpg" group-title="MBC",MBC GOBOX
+https://shls-live-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
+
+
+
+
+
+
 
 ================================================== United Kingdom ===============================================================================================================
 
