@@ -205,39 +205,73 @@ https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlis
 http://xui.mainserver.cc/play/oCkZyqACmAE6FvzKu_186PEFGOk9LoJ4xGfS1beyo7s/.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Fox 501 HD
-
+http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=63138
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Fox 505 HD
 
 
 
 
-=================================================================== Temp ================================================================================================
+=================================================================== Wasmer ================================================================================================
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Star Sports 1 HD
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=1976
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Star Sports 2 HD
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=3691
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Star Sports 2 Hindi HD
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=3548
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Fox 501 HD
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=2756
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Willow Sports
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=2755
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Star Plus HD
+http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=902
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",B4u Kadak
+http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=1114
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",R Bharat
+http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=1119
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Star Movies Select HD
+http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=1125
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Surrey News
+http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=1136
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Vision Beats
+http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=8695
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Vision Punjab Music HD
+http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=8699
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Vision Punjab HD
+http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=8702
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Z TV Canada
+http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=8703
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Z Bollywood
+http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=8704
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="8" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starplushd.png" group-title="Temp",Star Plus HD
-http://87.255.35.150:18850/
 #http://66.102.120.18:8000/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="star-bharat-hd" tvg-logo="https://live.dinesh29.com.np/logos/star-bharat-hd.png" group-title="Temp",Star Bharat HD
-http://87.255.35.150:18555
 #EXTINF:-1 tvg-id="star-gold-hd" tvg-logo="https://live.dinesh29.com.np/logos/star-gold-hd.png" group-title="Temp",Star Gold HD
-http://87.255.35.150:18859/
 #http://66.102.120.18:8000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-id="star-gold-select-hd" tvg-logo="https://live.dinesh29.com.np/logos/star-gold-select-hd.png" group-title="Temp",Star Gold Select HD
-http://87.255.35.150:18429
 #http://66.102.120.18:8000/play/a01s/index.m3u8
 #EXTINF:-1 tvg-id="star-gold-select-hd" tvg-logo="" group-title="Temp",Star Movies HD
-http://87.255.35.150:18301
 #http://66.102.120.18:8000/play/a021/index.m3u8
 #EXTINF:-1 tvg-id="star-gold-select-hd" tvg-logo="" group-title="Temp",Star Movies Select HD
-http://87.255.35.150:18548
 #http://66.102.120.18:8000/play/a020/index.m3u8
 
 #EXTINF:-1 tvg-id="colors-hd" tvg-logo="https://tv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Temp",Colors HD
-http://87.255.35.150:18890
 #http://66.102.120.18:8000/play/a00a/index.m3u8
 #https://servertvhub.site/jio/app/ts_live_144.m3u8
 
 #EXTINF:-1 tvg-id="cineplex-hd" tvg-logo="https://live.dinesh29.com.np/logos/cineplex-hd.png" group-title="Temp",Colors Cineplex HD
-http://87.255.35.150:18296/
+
 #EXTINF:-1 tvg-id="187" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/colorsinfinityhd.png" group-title="Temp",Colors Infinity HD
 https://servertvhub.site/jio/app/app/ts_live_1158.m3u8
 #http://66.102.120.18:8000/play/a014/index.m3u8
@@ -249,7 +283,6 @@ https://servertvhub.site/jio/app/ts_live_1145.m3u8
 https://servertvhub.site/jio/app/ts_live_1079.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Temp",Colors Rishtey
-http://87.255.35.150:18886
 
 
 
