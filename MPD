@@ -1323,7 +1323,7 @@ https://live-crave.video.9c9media.com/59c2df870a1e8c5b14c4f5ed7e951e1cef94745817
 #KODIPROP:inputstream.adaptive.license_key=5389bf9aa04e467aac818fac7138f8f4:ebb8e28d9081a462015de790e76759f0
 https://live-crave.video.9c9media.com/65a655714b62d8c989ad80dc30e3035b0bfb65b41754945004845/fe/f/crave/starz2/manifest.mpd?u=li
 
-#EXTINF:-1 group-title="Extras" tvg-logo="https://i.imgur.com/ETZqCII.png" group-title="USA Channels", Amazon Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ETZqCII.png" group-title="USA Channels", Amazon Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e429eb91a1791d55df2a554dc58dda7:2f688f94ef580a61eada6932598137e4
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/oynu8tcxfa/out/v1/ab567b96658c4d84ae1fc6c67110987c/cenc.mpd
