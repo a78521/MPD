@@ -1360,6 +1360,268 @@ https://a181aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/0qvo3uakfd/
 https://a53aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/jts4tzzv1k/out/v1/8a5b29f7068c415aa371ea95743382e6/cenc.mpd
 
 
+
+===================================================== Izzigo ======================================================================================================
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", HBO HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df18f6a05bab28d89e5dc01d88f4deb8:baceb525467c0db22ba83090616c1ad0
+https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", HBO Mundi HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba4052ca5eb6f8ff6b98d47d098b2dec:bb3e4bfa1821d2bdc25c9a0970e4e3b8
+https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-MUNDI-HD/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", HBO Plus HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=861ab989089891d84ad0da296954437c:3bdf94f9fc1888529f8d27d070d38566
+https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-PLUS-HD/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", HBO Pop HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bcf36f412fa3d735cea04f7443fbf77c:6ff29fb2d6b7d825eb06004650a0a4ea
+https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-POP-HD/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", HBO Signature HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5782156290f035ef28ae66cca252eedd:10d8bb6d9f9852747298487ab3c4afa3
+https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-SIGNATURE-HD/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", HBO Xtreme HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc8d4369fcff86db765db82356b4797c:8a7e801dbc275e3f4e1f43cba648906a
+https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-XTREME-HD/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", HBO 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09e84fc7ecb71def143cd7e2771f3b35:1a91f2d315fb0593321ba60aa783ec2c
+https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO2-HD/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", HBO Family HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b1b15c86e64344e8802b06b806957c5:114983add26911b589595d931b505ca5
+https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBOFAMILYHD/default.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", History Channel HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1264e3667616b52060028be25404d6a4:470720a6152157a5d3c5de89de1b909c
+https://zap-live1-ott.izzigo.tv/5/out/u/dash/HISTORYCHANNELHD/default.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", History 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14402e6154aafa2b79408ea5c1651b1c:6a38619d21191891d09b357a6b1cabd1
+https://zap-live1-ott.izzigo.tv/3/out/u/dash/HISTORY2HD/default.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", Universal Cinema HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44a9e6477651b3b47f3a2b727d562835:1b87070d9fad5dee0a35ff014a2063a7
+https://zap-live1-ott.izzigo.tv/2/out/u/dash/UNIVERSAL-CINEMA-HD/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", UniversalL Comedy HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=92b162b0b1d0dbb1e401f5845b4ce109:83b7ae276784a7f78f4a0c1190974d5c
+https://zap-live1-ott.izzigo.tv/2/out/u/dash/UNIVERSAL-COMEDY-HD/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", Universal Crime HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a908a5d38a9c496ced27faa6bf5ff8e:85a5835a92bd7f87faf5ffbcb8814d33
+https://zap-live1-ott.izzigo.tv/2/out/u/dash/UNIVERSAL-CRIME-HD/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", Universal Premiere HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ccd5dd0c86a40ed719b83e1801bcd88:6d5e62525837ba9b7e09cfb8716116ba
+https://zap-live1-ott.izzigo.tv/2/out/u/dash/UNIVERSAL-PREMIERE-HD/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", Universal Reality HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=02a02bce7a3c518386e0da4e5ec0188d:071c7cc4c2f33e1e2d3fa3807d1bbbcc
+https://zap-live1-ott.izzigo.tv/2/out/u/dash/UNIVERSAL-REALITY-HD/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", Studio Universal HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=77b7711693a9f32c0bd81ef8782f716b:0802df5ea0615ca2638b3b38f9ab3926
+https://zap-live1-ott.izzigo.tv/1/out/u/dash/STUDIO-UNIVERSAL-HD/default.mpd
+
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", Comedy Central HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2a61b7a7912064acc62a06a6ae22ac5c:5bfb374d644703550f0637532bca0491
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/COMEDYCENTRALHD/default.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", Discovery Home & Health HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0765f676e30b1b98386230b52eed3518:326266d16296e3bbe1dfcc274853dadb
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/DISCOVERYHOMEANDHEALTHHD/default.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", Discovery Turbo HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e4bae4a7baa977c5b1a253adc589b6a7:ed5aa984b371395293b2c2a27125509c
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/DISCOVERYTURBOHD/default.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", Discovery World HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff9f289f4bad2b970deb5b9d56acb84a:8f920a61965245ffac8bb0c698845ff5
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/DISCOVERYWORLDHD/default.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", Discovery Science HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6a1dfce06caf463d29b91fc890baad1:4ce50c2ee03a4fbec5ddbf57bc8e6c8b
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/DISCOVERY-SCIENCE-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", Discovery ID HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fb1b6838a477c3e4394534a93ddf5a0f:4b2f779b434b5ab8122da25294d3d7ea
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/DISCOVERYIDHD/default.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", E! Entertainment HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=66a5d89630a3e2263f63f42221a4f3e8:362b8d4aa289042e473ed064a722611b
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/EEntertainmentHD/default.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", FX HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ce1ec3e2402a170cbe13b79ce9bb30f:82fdcfde32cc02673547e58b50e2b5ae
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/FXHD/default.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", HOLA TV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3324372c149efbd4755e94a5989f4eef:8ed2cae763c527146b490acb667e3221
+https://nog-live1-ott.izzigo.tv/1/out/u/dash/HOLATVHD/default.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", Lifetime HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6561801b75ab25819fc7ede365375df7:3555b344c54204d5f02a753d354d2f8c
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/LIFETIMEHD/default.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", MTV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac11ba753fcabc56b965e1801ff8df19:64a7852cc7737515ac71c017f03fdd32
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/MTV-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", MTV LIVE HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=acc4581a25ef0cd76f8fd7d826bb2d06:bc006e72e9aab57aca8ae75a83e8f20e
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/MTV-LIVE-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", MTV 80s
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b515c27589fda8f9607e7949697de6b3:27d2061c0972931e18d43fbb3301c6f0
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/MTV80SSD/default.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", MTV 00 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=53a3776a034dbe5f483d0f3a46f5fddf:db9d0d03592fbe9f4429ef1a82eb47aa
+https://zap-live1-ott.izzigo.tv/3/out/u/dash/MTV00HD/default.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", MTV HITS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b5868bc161634a033a19a20f3f3595d:b336c8c6bb249b1a5f89dace8d9889e5
+https://zap-live1-ott.izzigo.tv/4/out/u/dash/MTVHITSSD/default.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", Nick HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=294848a1c20273b5546c204b117fd7fe:47b4a3e3b2d5bbd54143a6af43268bbd
+https://zap-live1-ott.izzigo.tv/2/out/u/dash/NICKHD/default.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", NICK JR HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ff80f6edca24a644b8f5b4532e908a4:273d66feb7edc254d70d73aecddd31f8
+https://zap-live1-ott.izzigo.tv/4/out/u/dash/NICKJRHD/default.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", Nick Music
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96c869392d2e908eaf78a9fcfa8c3107:cd307966418dafe8fa5e673f8c172f39
+https://zap-live1-ott.izzigo.tv/4/out/u/dash/NICKMUSICSD/default.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", Teen Nick HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57588399a2a939927418a588126e316d:6566f7996a957773701e2de8741ce176
+https://zap-live1-ott.izzigo.tv/4/out/u/dash/TEENNICKHD/default.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", Cartoon Network HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=85d06ba283f3b18bb14f9f8d59b8fb82:6659fed472544289adee986c1d33fa79
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/CARTOONNETWORKHD/default.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", CN HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fc370ab08218da5dad9b9644f1df57b:1ddc60916c0efd29990cb1d319e7710a
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/CARTOONITOHD/default.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", Disney Channel HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f047ea1abdca6f03117454c4de0b6d5b:b038c8c8f114c568956d428e80ae38d7
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/DISNEYCHANNELHD/default.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", Dreamworks HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a255e1384db3e9ce7e0349e8aa9b9f77:404cc4fb45f82c9a7dffd3d2496cca20
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/DREAM-WORKS-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", Bit Me HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e7b281c11f0ff1c3f7ed2d02d0879c1:d385b87ade4441d20c5caee2a8e41da7
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/BIT-ME-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", A&E HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=baef272fb12886463f3b299ac6b4ffa6:bc285ae166674480abb4966f4a306327
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/AANDE-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", ALjazera HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba7146a3064f23e9f34a76096509d664:604e9a361c3f7033d930c34ff4d3d830
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/AL-JAZEERA-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", Bandmax HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d014b4c7f22d490f56e2d7d3fe125c15:69864ad4b98d06e9fcf2430ed67b6c33
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/BANDAMAX-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", CNN HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4514db2f0b4864f56dbf8b14bcdd4022:6cc79244441f942839b867572702364e
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/CNN-HD/default.mpd
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", Dog TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d2063b495202a5a78a2b7df6ba1d6d1:9b0e8c590f387c6b45ffef5827d9d90b
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/DOGTV-SD/default.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", Euronews
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b948db41702afa5e6646243e57b43def:168d105c8ac7654667c37b576d0bc7c3
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/EURONEWS-SD/default.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", FORO TV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea39b9575f51b840a58bda829f20f38d:9c200a2b120d45e60af506be1d7ad932
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/FORO-TV-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", Fox News HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa611985e0c890fdf50d5c6ed88ad0c0:61dc9d01e315bf46ee43bc9fe882ebd8
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/FOX-NEWS-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", Golf Channel HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd45f6a37a3887044bac88a63e55b70e:2dff34fba01dd53d0a37dc913bb9ba51
+https://nog-live1-ott.izzigo.tv/1/out/u/dash/GOLF-CHANNEL-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", HLN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=daf03fe2327a7ba87a60b54ac531bc75:040019dfecbe32c0532bb2231665ec33
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/HLN-SD/default.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", Real Madrid HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=77e93f69c2d4c23e2cf8dc9e892f4ac7:71a786d7774d6df4487494145db485a4
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/REAL-MADRID-HD/default.mpd
+
+
 ===================================================== Shoq Channels ======================================================================================================
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/8XM.png" group-title="Shoq",8XM
