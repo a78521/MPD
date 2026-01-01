@@ -4510,6 +4510,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460001373_20250416T005420SQUARE.png" group-title="Hindi Music",Bolly Raga
 https://cc-up9j649x4thrj.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-up9j649x4thrj/SBUM/RunnTV/BollyRaga_IN/BollyRaga_IN.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk99k86H/VISION-TV.jpg" group-title="Hindi Music",VISION BEATS
+http://a-edge.bliscdn.com/Visionbeats/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Music",Deewana HD
 https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Music",Melody Hits
@@ -4532,7 +4535,8 @@ https://cloudcdn.in/livetv/DesiTashan/index.m3u8
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/desi_tashan.jpg" group-title="Regional Music",Haryana Beats
 https://legitpro.co.in/haryanabeat/haryanabeat/index.m3u8
 #https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/haryana-beat/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Saga Haryanvi.jpg" group-title="Regional Music", Saga Haryanvi
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music-haryanvi/master.m3u8
 
 
 ======================================================== Hindi Movies ===========================================================================================================
@@ -4568,7 +4572,7 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/in
 #EXTINF:0, tvg-logo="" group-title="Hindi Movies",Shemaroo Bollywood
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
-#EXTINF:0, tvg-logo="" group-title="Hindi Movies",Big Star Bollywood
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Big Star Bollywood .jpg" group-title="Hindi Movies",Big Star Bollywood
 https://amigofx.com:1936/bigstarmovie/bigstarmovie/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MBCBollywood.ae@SD" tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="Hindi Movies",MBC Bollywood
@@ -4583,6 +4587,11 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991756/hls/master.m3u8?includeAsset
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",Manoranjan Movies
 https://mumt04.tangotv.in/MANORANJANMOVIES/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",Hindi Movies
+http://103.220.29.158:8080/HINDI.MOVIES/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",Gold Movies
+https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL2Rob29tNHUubWUvc3RhbGtlcl9wb3J0YWwvIiwibWFjIjoiMDA6MUE6Nzk6MDA6MTI6NDQiLCJzbiI6IkY3NzUzQTY0RTIyNkUiLCJkZXZpY2VfaWQxIjoiNEIwQUFDNEI1RUIwQzkzMTAwNjVDN0QxMTJGRjUwQ0FERDczMDcxNkQ0NzYyMTg0RkMxQjkxMTYyRDMzRUUyQiIsImRldmljZV9pZDIiOiI0QjBBQUM0QjVFQjBDOTMxMDA2NUM3RDExMkZGNTBDQURENzMwNzE2RDQ3NjIxODRGQzFCOTExNjJEMzNFRTJCIiwic2lnIjoiIn0%3D&id=9856
 
 
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png" group-title="Hindi Movies",Zee Cine Classic
@@ -4696,7 +4705,7 @@ https://8a4805800dac428ebbf1d3cde0cdcf87.mediatailor.us-west-2.amazonaws.com/v1/
 https://amg01117-amg01117c1-amgplt0002.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0002/playlist.m3u8
 #https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
 
-#EXTINF:0, tvg-logo="" group-title="Hindi Entertainment",TV Asia
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Tv Asia.jpg" group-title="Hindi Entertainment",TV Asia
 https://amg00206-amg00206c1-distrotv-us-6886.playouts.now.amagi.tv/24-25-6886.m3u8
 
 #EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1700011V7_20241024T054054SQUARE.png" group-title="Hindi Entertainment",Nazara
@@ -4799,7 +4808,7 @@ https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-215
 
 #EXTINF:0, tvg-logo="" group-title="Punjabi",Punjab Mail USA
 http://cdn12.henico.net:8080/live/punjabmailusa/index.m3u8
-#EXTINF:0, tvg-logo="" group-title="Punjabi",D5 Channel Punjabi
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/D5 Punjabi.jpg"" group-title="Punjabi",D5 Channel Punjabi
 https://d5.tv360.ca:3453/live/cd5live.m3u8
 #EXTINF:0, tvg-logo="" group-title="Punjabi",Brit Asia TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8
@@ -4841,7 +4850,19 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/in
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3bc92ffb55814535801f929a1ac96c57/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/417479419.jpeg" group-title="Punjabi Music",Just In
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xds7q46n/VISION-PUNJABI.jpg" group-title="Punjabi Music",VISION PUNJABI MUSIC
+http://a-edge.bliscdn.com/Visionpunjabmusic/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/PURE PUNJABI.jpg" group-title="Punjabi Music",Pure Punjabi HD
+http://livestream.unlimitedcdn.com/agm-pp/pure-punjabi/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/GLOBLE DESI.jpg" group-title="Punjabi Music",Global Desi
+https://live.ottlive.co.in/globaldesi/globaldesi/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Punjabi_Hits.jpg" group-title="Punjabi Music", Punjabi Hits
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/996f61d3-a38e-4893-8e0b-2643677434c2/0.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/conPunjabi Musictent/liveTv/417479419.jpeg" group-title="Punjabi Music",Just In
 #EXTVLCOPT:http-referrer="https://oxolive.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://oxolive.com"
 https://toober.keralive.workers.dev/4c3caf7294b3/51351edd58e6b987/e91cb3c0facbe277/51351edd58e6b9871500/chunks.m3u8
@@ -4891,6 +4912,8 @@ https://pitaaratv.cdn.runn.tv/ptnr-RunnTV/title-Pitaara_Comedy/v1/vglive-sk-2174
 https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8
 #EXTINF:0, tvg-logo="" group-title="Punjabi Devotional",Guru Ki Bani
 http://livestream.unlimitedcdn.com/gurkibani/index.m3u8
+#EXTINF:0, tvg-logo="" group-title="Punjabi Devotional",Vision Gurbani
+http://a-edge.bliscdn.com/Visionpunjabgurbani/playlist.m3u8
 #EXTINF:0, tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-15-2025-10_58_23-AM-1-200x300.png" group-title="Punjabi Devotional",Chardikala TV
 https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/playlist.m3u8
 #EXTINF:0, tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/SikhRatnavali/LG/Logo400x200.jpg" group-title="Punjabi Devotional",Sikh Ratnavali
