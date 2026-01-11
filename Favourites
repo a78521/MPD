@@ -158,18 +158,15 @@ http://slayerteam.in.rs:80/play/live.php?mac=00:1B:79:F0:81:7F&extension=ts&stre
 ======================================================== Cricket ===========================================================================================================
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports 1 HD
-http://87.255.35.150:18891
-
+https://crichd.workspace-sultanarabi161.workers.dev/live/star1in.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports 1 Hindi HD
-http://87.255.35.150:18302
-#http://87.255.35.150:18923/
+https://crichd.workspace-sultanarabi161.workers.dev/live/starhindi.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="Cricket",A Sports HD
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://d2.merichunidya.com:1686/hls/asportshd.m3u8?md5=tm1UeMJ-UOpI6bsBwX3t2w&expires=1766785087
+https://crichd.workspace-sultanarabi161.workers.dev/live/asportshd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports 2 HD
 #EXTVLCOPT:http-referrer="https://onezoo.net"
@@ -206,6 +203,10 @@ https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlis
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Willow by Cricbuzz
 http://xui.mainserver.cc/play/oCkZyqACmAE6FvzKu_186PEFGOk9LoJ4xGfS1beyo7s/.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Ten Sports HD
+https://crichd.workspace-sultanarabi161.workers.dev/live/tenspk.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Fox 501 HD
 http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=63138
@@ -272,10 +273,16 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6640
 =================================================================== Temp ================================================================================================
 
 #EXTINF:-1 tvg-id="8" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starplushd.png" group-title="Temp",Star Plus HD
-#http://66.102.120.18:8000/play/a008/index.m3u8
+http://66.102.120.18:8000/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="8" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starplushd.png" group-title="Temp",Star Plus
+https://m.xigzo.store/live/75374/roarzone/roar_play.php?id=bk/67&do=stream
+
 #EXTINF:-1 tvg-id="star-bharat-hd" tvg-logo="https://live.dinesh29.com.np/logos/star-bharat-hd.png" group-title="Temp",Star Bharat HD
+
 #EXTINF:-1 tvg-id="star-gold-hd" tvg-logo="https://live.dinesh29.com.np/logos/star-gold-hd.png" group-title="Temp",Star Gold HD
-#http://66.102.120.18:8000/play/a00f/index.m3u8
+http://66.102.120.18:8000/play/a00f/index.m3u8
+#EXTINF:-1 tvg-id="star-gold-hd" tvg-logo="https://live.dinesh29.com.np/logos/star-gold-hd.png" group-title="Temp",Star Gold
+https://m.xigzo.store/live/75374/roarzone/roar_play.php?id=bk/72&do=stream
 #EXTINF:-1 tvg-id="star-gold-select-hd" tvg-logo="https://live.dinesh29.com.np/logos/star-gold-select-hd.png" group-title="Temp",Star Gold Select HD
 #http://66.102.120.18:8000/play/a01s/index.m3u8
 #EXTINF:-1 tvg-id="star-gold-select-hd" tvg-logo="" group-title="Temp",Star Movies HD
@@ -301,8 +308,8 @@ https://servertvhub.site/jio/app/ts_live_1079.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Temp",Colors Rishtey
 
-
-
+#EXTINF:-1 tvg-logo="" group-title="Temp",Hum TV Europe
+https://m.xigzo.store/live/75374/roarzone/roar_play.php?id=toffee/hum_tv&do=stream
 
 #EXTINF:-1 tvg-id="63" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/zeetvhd.png" group-title="Temp",Zee TV HD
 http://66.102.120.18:8000/play/a00y/index.m3u8
@@ -861,28 +868,42 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tabl
 
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/18-by-xfireflix.png" group-title="Sky",Sky Sports Main Event
 https://a1xs.vip/2000001
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/18-by-xfireflix.png" group-title="Sky",Sky Sports Main Event
+https://crichd.workspace-sultanarabi161.workers.dev/live/skysme.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Sky",Sky Sports News FHD
 https://a1xs.vip/2000004
+
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/9-by-xfireflix.png" group-title="Sky",Sky Sports Cricket FHD
 https://a1xs.vip/2000006
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/9-by-xfireflix.png" group-title="Sky",Sky Sports Cricket FHD
+https://crichd.workspace-sultanarabi161.workers.dev/live/skyscric.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Sky",Sky Sports Mix
 https://a1xs.vip/2000008
+#EXTINF:-1 tvg-logo="" group-title="Sky",Sky Sports Mix
+https://crichd.workspace-sultanarabi161.workers.dev/live/skysmixx.m3u8
+
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008055327.png" group-title="Sky",Sky Sports Golf
 https://a1xs.vip/2000009
 #EXTINF:-1 tvg-logo="" group-title="Sky",Sky Sports+ Live
 https://a1xs.vip/2000012
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008347584.png" group-title="Sky",Sky Sports Plus
+https://crichd.workspace-sultanarabi161.workers.dev/live/skysare.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Sky",Sky Sports Tennis 
 https://a1xs.vip/2000013
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008468637.png" group-title="Sky",Sky Sports F1
-
+https://crichd.workspace-sultanarabi161.workers.dev/live/skysfor1.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745007829332.png" group-title="Sky",Sky Sports Action
-
+https://crichd.workspace-sultanarabi161.workers.dev/live/skysact.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/43-by-xfireflix.png" group-title="Sky",Sky Sports Premier League
-
+https://crichd.workspace-sultanarabi161.workers.dev/live/skysprem.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/44-by-xfireflix.png" group-title="Sky",Sky Sports Football
+https://crichd.workspace-sultanarabi161.workers.dev/live/skysfott.m3u8
 
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008347584.png" group-title="Sky",Sky Sports Plus
-
+#EXTINF:-1 tvg-logo="" group-title="Sky",Sky Sports Arena
+https://crichd.workspace-sultanarabi161.workers.dev/live/skysare.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sky",Sky Atlantic FHD
 https://a1xs.vip/210001
