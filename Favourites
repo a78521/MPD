@@ -196,16 +196,21 @@ http://87.255.35.150:18881
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports 3
 http://87.255.35.150:18804/
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Astro Cricket
-
+https://vt-ip.vodep39240327.workers.dev/1973.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Eurosports HD
 https://servertvhub.site//app/ts_live_875.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Willow Sports
 https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
+#https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Willow by Cricbuzz
 http://xui.mainserver.cc/play/oCkZyqACmAE6FvzKu_186PEFGOk9LoJ4xGfS1beyo7s/.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Fox 501 HD
 http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=63138
+#https://vt-ip.vodep39240327.workers.dev/1972.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Fox 505 HD
 
 
