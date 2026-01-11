@@ -547,7 +547,7 @@ https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-zeecinemahd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
 https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-channel_2105335046
 
-#EXTINF:-1 tvg-id="&Xplor HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-209/channel_list/1170x658withlogo358457080.png" group-title="ZEE5",&xplorHD
+#EXTINF:-1 tvg-id="&Xplor HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-209/channel_list/1170x658withlogo358457080.png" group-title="ZEE5",&xplor HD
 #EXTVLCOPT:http-referrer=https://colorsportscreen.com/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
 https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-209
@@ -571,6 +571,19 @@ https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-176
 #EXTVLCOPT:http-referrer=https://colorsportscreen.com/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
 https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-bigmagic_1786965389
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ZEE5",Zee Anmol
+#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
+https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-zeeanmol
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ZEE5",Zee Anmol Cinema
+#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
+https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-zeeanmolcinema
 
 
 
