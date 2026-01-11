@@ -660,7 +660,6 @@ https://nxtlive.net/sliv/stream.m3u8?id=1000009273
 
 
 
-
 #EXTINF:-1 tvg-logo="" group-title="Oxolive",Zee TV Canada
 #EXTVLCOPT:http-referrer=https://oxolive.com/
 https://toober.keralive.workers.dev/4c3caf7294b3/c8bf99484885/playlist.m3u8
@@ -855,76 +854,50 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tabl
 ================================================ Sky ==================================================================================================================
 
 
-#EXTINF:-1 group-title="Sky",Sky Sports Main Event FHD
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/18-by-xfireflix.png" group-title="Sky",Sky Sports Main Event
 https://a1xs.vip/2000001
-#EXTINF:-1 group-title="Sky",Sky Sports News FHD
+#EXTINF:-1 tvg-logo="" group-title="Sky",Sky Sports News FHD
 https://a1xs.vip/2000004
-#EXTINF:-1 group-title="Sky",Sky Sports Cricket FHD
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/9-by-xfireflix.png" group-title="Sky",Sky Sports Cricket FHD
 https://a1xs.vip/2000006
-#EXTINF:-1 group-title="Sky",Sky Sports Mix
+#EXTINF:-1 tvg-logo="" group-title="Sky",Sky Sports Mix
 https://a1xs.vip/2000008
-#EXTINF:-1 group-title="Sky",Sky Sports Golf
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008055327.png" group-title="Sky",Sky Sports Golf
 https://a1xs.vip/2000009
-#EXTINF:-1 group-title="Sky",Sky Sports+ Live
+#EXTINF:-1 tvg-logo="" group-title="Sky",Sky Sports+ Live
 https://a1xs.vip/2000012
-#EXTINF:-1 group-title="Sky",Sky Sports Tennis 
+#EXTINF:-1 tvg-logo="" group-title="Sky",Sky Sports Tennis 
 https://a1xs.vip/2000013
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008468637.png" group-title="Sky",Sky Sports F1
+
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745007829332.png" group-title="Sky",Sky Sports Action
+
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/43-by-xfireflix.png" group-title="Sky",Sky Sports Premier League
+
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/44-by-xfireflix.png" group-title="Sky",Sky Sports Football
+
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008347584.png" group-title="Sky",Sky Sports Plus
 
 
-#EXTINF:-1 group-title="Sky",Sky Atlantic FHD
+#EXTINF:-1 tvg-logo="" group-title="Sky",Sky Atlantic FHD
 https://a1xs.vip/210001
-#EXTINF:-1 group-title="Sky",Sky Cinema Hits FHD
+#EXTINF:-1 tvg-logo="" group-title="Sky",Sky Cinema Hits FHD
 https://a1xs.vip/210002
-#EXTINF:-1 group-title="Sky",Sky Cinema Hits FHD
+#EXTINF:-1 tvg-logo="" group-title="Sky",Sky Cinema Hits FHD
 https://a1xs.vip/210003
-#EXTINF:-1 group-title="Sky",Sky Cinema Select FHD
+#EXTINF:-1 tvg-logo="" group-title="Sky",Sky Cinema Select FHD
 https://a1xs.vip/210004
-#EXTINF:-1 group-title="Sky",Sky Cinema Comedy FHD
+#EXTINF:-1 tvg-logo="" group-title="Sky",Sky Cinema Comedy FHD
 https://a1xs.vip/210005
-#EXTINF:-1 group-title="Sky",Sky Cinema Action FHD
+#EXTINF:-1 tvg-logo="" group-title="Sky",Sky Cinema Action FHD
 https://a1xs.vip/210006
 
 
 
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/9-by-xfireflix.png" group-title="Sky",Sky Sports Cricket
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://d8.merichunidya.com:1686/hls/skyscric.m3u8?md5=gXsI_wNL0IgVlXmeXuO77g&expires=1766842651
 
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/18-by-xfireflix.png" group-title="Sky",Sky Sports Main Event
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://d1.merichunidya.com:1686/hls/skysme.m3u8?md5=-fGgUPDIWNRR0l2EoALMXA&expires=1766842651
 
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745007829332.png" group-title="Sky",Sky Sports Action
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://d7.merichunidya.com:1686/hls/skysact.m3u8?md5=5-O1u2_6xWd6RJ8RfPidXQ&expires=1766842654
 
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008055327.png" group-title="Sky",Sky Sports Golf
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://d3.merichunidya.com:1686/hls/skysgol.m3u8?md5=N5r5C5ke5ciQa1gERzzrPw&expires=1766842654
 
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/43-by-xfireflix.png" group-title="Sky",Sky Sports Premier League
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://d7.merichunidya.com:1686/hls/skysprem.m3u8?md5=3E3m0SQ72hIMW8idhP4Kww&expires=1766842654
-
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/44-by-xfireflix.png" group-title="Sky",Sky Sports Football
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://d7.merichunidya.com:1686/hls/skysfott.m3u8?md5=5G3htUtvvU6enFtYnPWkDw&expires=1766842654
-
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008468637.png" group-title="Sky",Sky Sports F1
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://d2.merichunidya.com:1686/hls/skysfor1.m3u8?md5=UxqH6UzagCcbjXXGUDLPbA&expires=1766842655
-
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008347584.png" group-title="Sky",Sky Sports Plus
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://d4.merichunidya.com:1686/hls/skysare.m3u8?md5=6m8nTXCVs2VHQYWLGjHPNA&expires=1766842654
 
 ================================================ Distro TV =======================================================================================================================
 
@@ -1050,6 +1023,7 @@ https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg0
 
 
 ================================================ Dangalplay =======================================================================================================================
+
 #EXTINF:0, tvg-logo="https://dangaplay-json.s3.ap-south-1.amazonaws.com/Dangal_16x9.jpg" group-title="DangalPlay",Dangal TV
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:0, tvg-logo="https://dangaplay-json.s3.ap-south-1.amazonaws.com/Dangal2_16x9.jpg" group-title="DangalPlay",Dangal 2
@@ -4759,6 +4733,11 @@ https://amg00857-amg00857c1-rakuten-us-4656.playouts.now.amagi.tv/playlist.m3u8
 https://mumt05.tangotv.in/THEQ/index.m3u8
 #EXTINF:0, tvg-logo="" group-title="Hindi Entertainment",HI Dost
 https://mumt03.tangotv.in/HIDOST/index.m3u8
+
+#EXTINF:0, tvg-logo="" group-title="Hindi Entertainment",Swatik Stories
+https://csm-e-cesharedlsgsin2live-87593184.bln1.yospace.com/csm/extlive/runntvprd01,swastikrunn/master.m3u8
+#https://amg14122-amg14122c1-amgplt0173.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg14122-amg14122c1-amgplt0173/playlist.m3u8
+
 
 
 ======================================================== Devotional ===========================================================================================================
