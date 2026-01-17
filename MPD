@@ -106,6 +106,21 @@ https://delta45tatasky.akamaized.net/out/i/1155.mpd
 #KODIPROP:inputstream.adaptive.license_key=4001ba5c5fe443cdafbcbccc4fff6bf5:aa4c75fea912156f7009c1a28c854159
 https://delta45tatasky.akamaized.net/out/i/1175.mpd
 
+#EXTINF:-1 tvg-logo="" group-title="Tata Play",Tata Play Toons+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ffdec1edfce0432ba38dc523a1ccfd99:dfb153ae7851be2daa7e983c9c6553eb
+https://delta14tatasky.akamaized.net/out/i/7253194.mpd
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TONSTAM_Thumbnail-v6/TONSTAM_Thumbnail.png" group-title="Tata Play",Tata Play Toons+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c261e6bdade947fd9c8598765267df35:51d0966cb265ba250ec5eda0ff6bc0a8
+https://delta13tatasky.akamaized.net/out/i/5615195.mpd
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TONSPUN_Thumbnail-v4/TONSPUN_Thumbnail.png" group-title="Tata Play",Tata Play Toons+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3666ce00058a4aaba1caf68ec7430f78:26390647041d20a80ea1b7a1972a5861
+https://delta13tatasky.akamaized.net/out/i/5616001.mpd
+
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/MAHAK_Thumbnail-v3/MAHAK_Thumbnail.png" group-title="Tata Play",Mahakaleshwar Temple, Ujjain
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6fd09e551bf34bb6a7a1e3b45b00017c:1b4fb576686bb7b62489f904c770b617
