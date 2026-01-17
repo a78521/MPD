@@ -4664,9 +4664,7 @@ https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-a
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Zee Bollymovies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
-https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
-#https://amg17931-zee-amg17931c8-samsung-au-8871.playouts.now.amagi.tv/playlist.m3u8
-
+https://amg17931-zee-amg17931c8-kogan-au-9555.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17931-asiatvusaltdfast-zeebollymovies-koganau/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",All Time Movies
 https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8
