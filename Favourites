@@ -4294,6 +4294,9 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiam
 #EXTINF:0, tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1930298847Sudarshan_channel_Mob_384x216.webp" group-title="Hindi News",Sudarshan News
 https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1/index.fmp4.m3u8
 
+#EXTINF:0, tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1950289883LOGO_16.9" group-title="Hindi News",Hindi Khabar
+https://stream.ottlive.co.in/hindikhabar/tracks-v1a1/mono.m3u8
+
 #EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000007M9_20251217T003125SQUARE.png" group-title="Hindi News",India Daily
 https://cc-ax7fwp25aou64.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ax7fwp25aou64/indiadailylive/index.m3u8
 
@@ -4913,7 +4916,7 @@ http://a-edge.bliscdn.com/Visionpunjabmusic/playlist.m3u8
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1065989006Tabbar_HIts_1920x1080_19.6%20" group-title="Punjabi Music",Tabbar Hits
 https://live1.ottlive.co.in/tabbarhitsswift/index.m3u8
-#EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1065989006Tabbar_HIts_1920x1080_19.6%20" group-title="Punjabi Music",Punjabi Hits
+#EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/756167842Punjab_HIts_1920x1080_16.9%20" group-title="Punjabi Music",Punjabi Hits
 https://server.livelegitpro.in/punjabihits/index.m3u8
 
 
