@@ -55,6 +55,76 @@ https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
 https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/manifest.mpd
 
 
+========================================================== Tata Play ==========================================================================================================
+
+
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62613-koxw351c-v1/imageContent-62613-koxw351c-m1.png" group-title="Tata Play",Hare Krsna
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8f4bab3e95124e4da751b32b4f7ecaae:095eb4e4d70cab08f4b3cad52a24f6fc
+https://delta45tatasky.akamaized.net/out/i/1201.mpd
+
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-73019-l8gzpnjs-v1/imageContent-73019-l8gzpnjs-m1.png" group-title="Tata Play",7x Punjabi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90784876590b42efa1732770100ae411:04947be5d5fcb5152e517b3d88a45620
+https://delta45tatasky.akamaized.net/out/i/1331.mpd
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48804-k4m7nz2w-v1/imageContent-48804-k4m7nz2w-m1.png" group-title="Tata Play",Fateh TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=840a33f0fefe4cfe89d42db0bfda2637:2b694aad9ba05babc4edd31bcb0d8199
+https://delta45tatasky.akamaized.net/out/i/1147.mpd
+
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60927-kljn2znc-v1/imageContent-60927-kljn2znc-m1.png" group-title="Tata Play",Garv Gurbani
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=48cdd6a95efc4eef8cd6f9f9b2f13440:b1b59fde07cfc77c9de90007f97ed327
+https://delta45tatasky.akamaized.net/out/i/1155.mpd
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49633-k6lny7mw-v1/imageContent-49633-k6lny7mw-m1.png" group-title="Tata Play",In Goa 24x7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4001ba5c5fe443cdafbcbccc4fff6bf5:aa4c75fea912156f7009c1a28c854159
+https://delta45tatasky.akamaized.net/out/i/1175.mpd
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/MAHAK_Thumbnail-v3/MAHAK_Thumbnail.png" group-title="Tata Play",Mahakaleshwar Temple, Ujjain
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6fd09e551bf34bb6a7a1e3b45b00017c:1b4fb576686bb7b62489f904c770b617
+https://delta45tatasky.akamaized.net/out/i/1299.mpd
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-65977-ku6g2hko-v3/imageContent-65977-ku6g2hko-m3.png" group-title="Tata Play",Live Patna Sahib Patna
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f507cc79c9f545779993ff40a874197b:342265e4d0d4ddc51b263bc57ec73dbb
+https://delta45tatasky.akamaized.net/out/i/496.mpd
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-65985-ku6gly6w-v3/imageContent-65985-ku6gly6w-m3.png" group-title="Tata Play",Live Sri Naga Sai Mandir Coimbatore
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d5d63b0a03024c3f9905d98d9a6861cf:5e929e34c5cd4e4745fe388a281250c0
+https://delta45tatasky.akamaized.net/out/i/1347.mpd
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-72306-l6hr8log-v1/imageContent-72306-l6hr8log-m1.png" group-title="Tata Play",Shri ISKCON Girgaon, Mumbai
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d5cf9203a5a4cc79199d627c9c75f1f:720a6d5715d1ef228d07f95c4db23adf
+https://delta45tatasky.akamaized.net/out/i/910.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Tata Play",Shri Ganga Aarti, Varanasi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b01f062c5c9243059204b361123678fb:fa7103f124f2b29bf0a4e0c3dca4df21
+https://delta45tatasky.akamaized.net/out/i/905.mpd
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SIBM_Thumbnail-v4/SIBM_Thumbnail.png" group-title="Tata Play",Shree Ichchhapuran Balaji Mandir
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c9d5abce19f94974af94d7bba057b9e1:c3687c67cc8fee1e8f6e0df6a4560903
+https://delta45tatasky.akamaized.net/out/i/1412.mpd
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56389-kfdgngts-v3/imageContent-56389-kfdgngts-m3.png" group-title="Tata Play",Somnath Temple
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c9d5abce19f94974af94d7bba057b9e1:c3687c67cc8fee1e8f6e0df6a4560903
+https://delta45tatasky.akamaized.net/out/i/722.mpd
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56386-kfc14w60-v4/imageContent-56386-kfc14w60-m4.png" group-title="Tata Play",Shirdi Sai Baba
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae23c4ee57014d289e0821adbbdfebf9:79094e073e3191e25052b444ca09da4f
+https://delta45tatasky.akamaized.net/out/i/554.mpd
 
 
 ========================================================== Sports ==========================================================================================================
@@ -359,13 +429,14 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Mtvbeats2/default/manifest.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="watcho",Sangeet Bhojpuri
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://s1.thenayeemparvez.xyz/dishtvxd/service.mpd?cid=6c605f5c35a58a89350c4b4de489934e&drm=true
+#KODIPROP:inputstream.adaptive.license_key=
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri2/default/sangeetbhojpuri2.mpd
 
 
 #EXTINF:-1 tvg-logo="" group-title="watcho",Music India
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia2/default/main.mpd
+
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lcMc75Xr.png" group-title="watcho",Shorts Tv Active
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -409,7 +480,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mp
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverykids2/default/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/RzedYhFG.png" group-title="watcho",Animal Planet HD
+#EXTINF:-1 tvg-logo="" group-title="watcho",Animal Planet HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=df81f15150f74c799fdde64ef49dfb75:05794a012ae74d77953f2b9fae6804c7
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd
