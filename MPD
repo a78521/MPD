@@ -57,9 +57,29 @@ https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/manifest.mpd
 
 ========================================================== Tata Play ==========================================================================================================
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KratosRepo/TATA-WEB/main/logo/35%20MM.webp" group-title="Tata Play", 35 MM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=None
+https://cable63tataplay.akamaized.net/live6/35mm/index.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KratosRepo/TATA-WEB/main/logo/In24%20News.webp" group-title="Tata Play", In24 News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=None
+https://cable62tataplay.akamaized.net/in24news/in24news/index.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KratosRepo/TATA-WEB/main/logo/Vande%20Bharat%20News.webp" group-title="Tata Play", Vande Bharat News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=None
+https://cable60tataplay.akamaized.net/vandebharat/vandebharat/index.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KratosRepo/TATA-WEB/main/logo/MEDIA%209.webp" group-title="Tata Play", MEDIA 9
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0ff467c0efc4dfea225150c4a4747f2:767ebb6cdf7bab364b967d167558d714
+https://delta45tatasky.akamaized.net/out/i/1445.mpd
 
 
-#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62613-koxw351c-v1/imageContent-62613-koxw351c-m1.png" group-title="Tata Play",Hare Krsna
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62613-koxw351c-v1/imageContent-62613-koxw351c-m1.png" group-title="Tata Play",Haryana Beats
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8f4bab3e95124e4da751b32b4f7ecaae:095eb4e4d70cab08f4b3cad52a24f6fc
 https://delta45tatasky.akamaized.net/out/i/1201.mpd
@@ -106,7 +126,7 @@ https://delta45tatasky.akamaized.net/out/i/1347.mpd
 #KODIPROP:inputstream.adaptive.license_key=0d5cf9203a5a4cc79199d627c9c75f1f:720a6d5715d1ef228d07f95c4db23adf
 https://delta45tatasky.akamaized.net/out/i/910.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Tata Play",Shri Ganga Aarti, Varanasi
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-72303-l6hqin9k-v1/imageContent-72303-l6hqin9k-m2.png" group-title="Tata Play",Shri Ganga Aarti, Varanasi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b01f062c5c9243059204b361123678fb:fa7103f124f2b29bf0a4e0c3dca4df21
 https://delta45tatasky.akamaized.net/out/i/905.mpd
