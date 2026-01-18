@@ -4337,12 +4337,17 @@ https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3
 https://nw18live.cdn.jio.com/bpk-tv/Firstpost_NW18_MOB/output01/index.m3u8
 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/695950420.jpeg" group-title="English News",Republic India
-https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8?ads.partner=PlayBox
+https://samsung-republictv.amagi.tv/ts-ap-s1-n1/playlist/samsungin-republictv-samsungindia/playlist.m3u8
+#https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8?ads.partner=PlayBox
+
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/695950420.jpeg" group-title="English News",Republic India
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8
 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10547.jpg" group-title="English News",India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+
+#EXTINF:0, tvg-logo="" group-title="English News",TOI Global
+https://live.sli.ke/live/npnhm84gz9/master.m3u8
 
 #EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800001D8_20240131T032458SQUARE.png_20240131032459.png" group-title="English News",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
@@ -4498,6 +4503,8 @@ https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:0, tvg-logo="" group-title="International News",RT
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #https://wisehttott.wiseplayout.com/RT/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="International News",RT India
+https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8
 #EXTINF:0, tvg-logo="" group-title="International News",RT Doc
 https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 
@@ -4942,17 +4949,20 @@ http://livestream.unlimitedcdn.com/agm-pp/pure-punjabi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/GLOBLE DESI.jpg" group-title="Punjabi Music",Global Desi
 https://live.ottlive.co.in/globaldesi/globaldesi/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Punjabi_Hits.jpg" group-title="Punjabi Music", Punjabi Hits
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/996f61d3-a38e-4893-8e0b-2643677434c2/0.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/conPunjabi Musictent/liveTv/417479419.jpeg" group-title="Punjabi Music",Just In
-#EXTVLCOPT:http-referrer="https://oxolive.com"
-#KODIPROP:inputstream.adaptive.http-referrer="https://oxolive.com"
-https://toober.keralive.workers.dev/4c3caf7294b3/51351edd58e6b987/e91cb3c0facbe277/51351edd58e6b9871500/chunks.m3u8
-#http://209.52.98.98/justintv/tracks-v1a1/mono.m3u8
+http://209.52.98.98/justintv/tracks-v1a1/mono.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="Punjabi Music",Tabbar Hits
 https://live1.ottlive.co.in/tabbarhitsswift/tracks-v1a1/mono.m3u8
+
+#EXTINF:0, tvg-logo="" group-title="Punjabi Music",Only Music
+https://livestream.unlimitedcdn.com/onlymusic/tracks-v1a1/mono.m3u8
+#https://mumbai-edge.smartplaytv.in/OnlyMusic/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:0, tvg-logo="" group-title="Punjabi Music",Wah Punjabi
+#EXTVLCOPT:http-referrer=https://keralive.com/
+https://keralive.com/yupp/tv.m3u8?c=wah-punjabi&e=.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi Music",Punjabi Music HD
