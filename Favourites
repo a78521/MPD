@@ -4872,9 +4872,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-210715/tracks-v1a1/mono.ts.m3u8
 http://primeasia.mine.nu/Patv_Ind_FHD/index.m3u8
 #http://primeasia.selfip.net/Samsung/index.m3u8
 
-#EXTINF:0, tvg-logo="" group-title="Punjabi",Pitara International HD
-#EXTVLCOPT:http-referrer="https://oxolive.com"
-#KODIPROP:inputstream.adaptive.http-referrer="https://oxolive.com"
+#EXTINF:0, tvg-logo="" group-title="Punjabi",Pitaara International HD
+#EXTVLCOPT:http-referrer="https://onezoo.net"
+#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
 https://toober.keralive.workers.dev/4c3caf7294b3/3dd066d387031492/playlist.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="Punjabi",Sanjha TV HD
@@ -4884,8 +4884,8 @@ https://livestream.unlimitedcdn.com/sanjhatv/index.m3u8
 https://main.clickstreamcdn.com/agm-dc/desi-channel/index.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="Punjabi",Zee Punjabi
-#EXTVLCOPT:http-referrer="https://oxolive.com"
-#KODIPROP:inputstream.adaptive.http-referrer="https://oxolive.com"
+#EXTVLCOPT:http-referrer="https://onezoo.net"
+#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
 https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-215
 
 #EXTINF:0, tvg-logo="" group-title="Punjabi",Punjab Mail USA
@@ -4900,15 +4900,32 @@ https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playl
 #EXTINF:0, tvg-logo="" group-title="Punjabi",Chardikala Time TV North America
 https://chardikalanorthamerica.gigabitcdn.net/in-chardikala/chardikala-north-usa/playlist.m3u8
 
+#EXTINF:0, tvg-logo="" group-title="Punjabi",mh1
+https://mumt04.tangotv.in/MHONE/index.m3u8
+#EXTINF:0, tvg-logo="https://dtil.tmsimg.com/assets/s143540_ld_h15_aa.png" group-title="Punjabi",mh1 News
+https://livestream.jswk.online/mhonenews/live/index.m3u8
+#EXTINF:0, tvg-logo="" group-title="Punjabi",mh1 Dil Se
+https://mumt01.tangotv.in/MHONEDILSE/index.m3u8
+#EXTINF:0, tvg-logo="" group-title="Punjabi",mh1 Shraddha
+https://livestream.jswk.online/mhoneshraddha/live/index.m3u8
+
 #EXTINF:0, tvg-logo="" group-title="Punjabi",Sada TV
 https://livestream.unlimitedcdn.com/agm/sada-TV/index.m3u8
-#EXTINF:0, tvg-logo="" group-title="Punjabi",Desi Channel
+#EXTINF:0, tvg-logo="https://desichannel.in/wp-content/uploads/2025/01/desi-channel.png" group-title="Punjabi",Desi Channel
 https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
+#https://origin-cae-m462953.toober.com/4c3caf7294b3/d8d1a18f11805b3e/playlist.m3u8
 
-#EXTINF:0, tvg-logo="" group-title="Punjabi",Global Desi
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/GLOBLE DESI.jpg" group-title="Punjabi",Global Desi
 https://live.ottlive.co.in/globaldesi/globaldesi/index.m3u8
-#EXTINF:0, tvg-logo="" group-title="Punjabi",Global Punjab
+#EXTINF:0, tvg-logo="https://i.imgur.com/WDLqcWW.png" group-title="Punjabi",Global Punjab
 https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8
+
+#EXTINF:0, tvg-logo="https://i.imgur.com/WDLqcWW.png" group-title="Local News",Global India
+https://server.livelegitpro.in/globalindiatv/globalindiatv/video.m3u8
+#EXTINF:0, tvg-logo="" group-title="Local News",Aaj Ki Khabar
+https://server.livelegitpro.in/aajkikhabar/aajkikhabar/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:0, tvg-logo="" group-title="Punjabi",Gurmat TV HD
 http://livestream.unlimitedcdn.com/agm/gurmat-tv/index.m3u8
 #EXTINF:0, tvg-logo="" group-title="Punjabi",Live Punjabi
@@ -4963,6 +4980,11 @@ https://livestream.unlimitedcdn.com/onlymusic/tracks-v1a1/mono.m3u8
 #EXTINF:0, tvg-logo="" group-title="Punjabi Music",Wah Punjabi
 #EXTVLCOPT:http-referrer=https://keralive.com/
 https://keralive.com/yupp/tv.m3u8?c=wah-punjabi&e=.m3u8
+
+
+#EXTINF:0, tvg-logo="" group-title="Punjabi Music",Boogle Bollywood
+#EXTVLCOPT:http-referrer=https://keralive.com/
+https://keralive.com/yupp/play.php?watch=boogle-bollywood
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi Music",Punjabi Music HD
