@@ -687,10 +687,28 @@ https://nxtlive.net/sliv/stream.m3u8?id=1000009273
 
 
 #EXTINF:-1 tvg-logo="" group-title="Oxolive",Zee TV Canada
-#EXTVLCOPT:http-referrer=https://oxolive.com/
+#EXTVLCOPT:http-referrer=https://onezoo.net
 https://toober.keralive.workers.dev/4c3caf7294b3/c8bf99484885/playlist.m3u8
 
 ============================================================= 4K===================================================================================================================
+
+#EXTINF:-1 tvg-logo="" group-title="4K",4K Travel
+https://streams2.sofast.tv/ptnr-lgtv/title-4K-TRAVEL-TV-ENG_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f92ab8c4-4897-46ad-8da0-d09d4a9bb25f/manifest.m3u8
+#https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
+
+============================================================= Ambiance===================================================================================================================
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD44000025L_20250402T010158SQUARE.png" group-title="Ambiance",Fireplace
+https://cc-0eowrlibr9f50.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0eowrlibr9f50/BRJW/Amagi/Samsung/Fireplace_4K_SONO20_US/Fireplace_4K_SONO20.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ambiance",Fish Tank
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fish-tank/master.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700012OU_20250610T001107SQUARE.png" group-title="Ambiance",Ocean Vives
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-j8l68sqtjf8kc.m3u8
+
+============================================================= Haryanavi===================================================================================================================
+
+
+
 
 
 
@@ -703,16 +721,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700012OU_20250610T001107SQUARE.png" group-title="Ambiance",Ocean Vives
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-j8l68sqtjf8kc.m3u8
 
-============================================================= Bhojpuri===================================================================================================================
-
-#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Bhojpuri",Mahua Play
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mahua-play/index.m3u8
-#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Bhojpuri",Filmachi
-https://epiconvh.akamaized.net/live/filamchi/master.m3u8
-#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Bhojpuri",B4U Bhojpuri
-https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
-#EXTINF:-1 tvg-id="484" tvg-logo="" group-title="Bhojpuri",Bhojpuri Cinema
-https://amg01448-samsungin-enterr10bhojpuri-samsungin-ad-fv.amagi.tv/playlist/amg01448-samsungin-enterr10bhojpuri-samsungin/playlist.m3u8
 
 
 
@@ -5029,7 +5037,7 @@ https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8
 http://livestream.unlimitedcdn.com/gurkibani/index.m3u8
 #EXTINF:0, tvg-logo="" group-title="Punjabi Devotional",Vision Gurbani
 http://a-edge.bliscdn.com/Visionpunjabgurbani/playlist.m3u8
-#EXTINF:0, tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-15-2025-10_58_23-AM-1-200x300.png" group-title="Punjabi Devotional",Chardikala TV
+#EXTINF:0, tvg-logo="https://onezoo.netwp-content/uploads/2025/10/ChatGPT-Image-Oct-15-2025-10_58_23-AM-1-200x300.png" group-title="Punjabi Devotional",Chardikala TV
 https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/playlist.m3u8
 #EXTINF:0, tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/SikhRatnavali/LG/Logo400x200.jpg" group-title="Punjabi Devotional",Sikh Ratnavali
 https://amg00223-amg00223c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00223-amg00223c6-amgplt0173/playlist.m3u8
