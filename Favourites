@@ -4780,6 +4780,12 @@ https://ec613694ee5049d3b8f30913b619662e.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="" group-title="English Movies",Sony One Faves
 https://8a4805800dac428ebbf1d3cde0cdcf87.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-806-UK-SONYONEFAVES-LG_UK/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="English Movies",TCL Horror
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88884638/hls/master.m3u8?declaredCC1Language=en&ads.xumo_channelId=88884638&ads.xumo_streamId=88884638
+#EXTINF:-1 tvg-logo="" group-title="English Movies",TCL Romance
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814628/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814628&ads.xumo_streamId=88814628
+#EXTINF:-1 tvg-logo="" group-title="English Movies",TCL Anime
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88884642/hls/master.m3u8?declaredCC1Language=en&ads.xumo_channelId=88884642&ads.xumo_streamId=88884642
 
 
 ======================================================== Hindi Entertainment ===========================================================================================================
