@@ -327,7 +327,7 @@ https://m.xigzo.store/live/75374/roarzone/roar_play.php?id=toffee/hum_tv&do=stre
 
 #EXTINF:-1 tvg-id="63" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/zeetvhd.png" group-title="Temp",Zee TV HD
 http://66.102.120.18:8000/play/a00y/index.m3u8
-#EXTINF:-1 tvg-id="503" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/zeecinemahd.png" group-title="Temp",Zee Cinema HD
+#EXTINF:-1 tvg-id="503" tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Temp",Zee Cinema HD
 http://66.102.120.18:8000/play/a06w/index.m3u8
 
 #EXTINF:-1 tvg-id="63" tvg-logo="" group-title="Temp",Zee Action
@@ -562,7 +562,7 @@ https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-tvpictureshd
 https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-zeetvhd
 
 
-#EXTINF:-1 tvg-id="Zee TV HD" tvg-logo="" group-title="ZEE5",Zee Cinema HD
+#EXTINF:-1 tvg-id="Zee TV HD" tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="ZEE5",Zee Cinema HD
 #EXTVLCOPT:http-referrer=https://colorsportscreen.com/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
 https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-zeecinemahd
@@ -4628,10 +4628,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 ======================================================== Hindi Movies ===========================================================================================================
 
-#EXTINF:0, tvg-logo="" group-title="Hindi Movies",Zee Cinema HD
+#EXTINF:0, tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi Movies",Zee Cinema HD
 https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
-#EXTINF:0, tvg-logo="" group-title="Hindi Movies",Zee Cinema HD
-https://amg17931-zee-amg17931c5-samsung-au-8873.playouts.now.amagi.tv/playlist1080p.m3u8
+
 
 #EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20241211T020400SQUARE.png" group-title="Hindi Movies",The Movie Club
 https://pb-dkdpz5so0aqqr.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-dkdpz5so0aqqr/7fb7f991-65af-467f-b5ab-df8d28efa37d/2.m3u8
