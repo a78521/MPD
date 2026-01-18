@@ -4952,7 +4952,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3bc92ffb55814535801f929a1ac96c57/in
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xds7q46n/VISION-PUNJABI.jpg" group-title="Punjabi Music",VISION PUNJABI MUSIC
 http://a-edge.bliscdn.com/Visionpunjabmusic/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Punjabi Music",balle balle
+#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/channel/logos/ejnlyj.png" group-title="Punjabi Music",balle balle
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1065989006Tabbar_HIts_1920x1080_19.6%20" group-title="Punjabi Music",Tabbar Hits
 https://live1.ottlive.co.in/tabbarhitsswift/index.m3u8
