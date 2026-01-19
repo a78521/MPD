@@ -996,12 +996,12 @@ https://ast.livecricketsl.live/proxy/sg.php/https://linearjitp-playback.astro.co
 #EXTINF:-1 group-title="Astro" tvg-logo="https://pictr.com/images/2023/08/23/EAHnMI.png",Astro Live Event 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8d580c263ffde691b4249dfcac43fd10:f3148d1e737dece3554b889868831659
-https://ast.livecricketsl.live/proxy/sg.php/https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
+https://ast.livecricketsl.live/proxy/sg.php/https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_ott.mpd
 
 #EXTINF:-1 group-title="Astro" tvg-logo="https://pictr.com/images/2023/08/23/EAH4Jr.png",Astro Live Event 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab014de03c31a84a835583c348a5e10:5ed727c3f28bac59aa3e5914f5ad455c
-https://ast.livecricketsl.live/proxy/sg.php/https://linearjitp-playback.astro.com.my/dash-wv/linear/9988/default_primary.mpd
+https://ast.livecricketsl.live/proxy/sg.php/https://linearjitp-playback.astro.com.my/dash-wv/linear/9988/default_ott.mpd
 
 
 #EXTINF:-1 group-title="Astro" tvg-logo="https://pictr.com/images/2025/01/09/x1bcgO.png",Colors Hindi
