@@ -57,6 +57,11 @@ https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/manifest.mpd
 
 ========================================================== Tata Play ==========================================================================================================
 
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-231-j5fxh0ag-v1/imageContent-231-j5fxh0ag-m1.png" group-title="Tata Play",REPUBLIC TV
+https://vg-republictataplay.akamaized.net/v1/dash/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-380287/index.mpd
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KratosRepo/TATA-WEB/main/logo/35%20MM.webp" group-title="Tata Play", 35 MM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=None
