@@ -284,6 +284,116 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6640
 
 
 
+========================================================= Runn TV ===========================================================================================================
+
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/9XJALW/Mobile/thumbnail/1fc78aac-ac76-4f74-b0da-0b889cff39f8.png" group-title="Runn TV",9X Jalwa
+https://9x.cdn.runn.tv/9X_Jalwa/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/RUN9XM/Mobile/thumbnail/16b5daaf-45b7-4c22-a6ca-a5b81b472403.png" group-title="Runn TV",9XM
+https://9x.cdn.runn.tv/9XM/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/INDIA_TV/Web/thumbnail/863443d2-7b28-41a2-8593-a59e0e431a85.png" group-title="Runn TV",INDIA TV
+https://indiatv.cdn.runn.tv/v1/vglive-sk-274906/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/APKADT/Web/thumbnail/cdba5a41-acf5-4b89-ae0a-ddb2fb8820a6.png" group-title="Runn TV",Aap ki Adalat
+https://indiatv.cdn.runn.tv/v1/vglive-sk-912213/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/INDTVY/Web/thumbnail/aecf3b8e-1ad3-40b0-a997-c68cf372cb81.png" group-title="Runn TV",India TV Yoga
+https://indiatv.cdn.runn.tv/v1/vglive-sk-385006/main.m3u8
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SPDNWS/Web/thumbnail/4548a0b5-230a-4d7d-a6a8-97b48954c8be.png" group-title="Runn TV",India TV Speed News
+https://indiatv.cdn.runn.tv/v1/vglive-sk-479089/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPNEW/Web/thumbnail/logo_web.png" group-title="Runn TV",ABP NEWS
+https://abpnews.cdn.runn.tv/2042871-b/abpnews/master.m3u8
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/TV9BHA/Web/thumbnail/4eaef931-e0a5-449e-90aa-aa4da623b0c0.png" group-title="Runn TV",TV9 Bharatvarsh
+https://tv9live.cdn.runn.tv/title-TV9_Bharathvarsh_Non_SSAI/v1/vglive-sk-301666/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_NAVBHT/Web/thumbnail/logo_web.png" group-title="Runn TV",Times Now Navbharat HD
+https://a66fd974d289494994f6cf39649c806d.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/navbharat/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NEWNAT/Web/thumbnail/NEWS NATION Channel Logo.png" group-title="Runn TV",News Nation
+https://newsnation.cdn.runn.tv/nnnational/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NNATUK/Web/thumbnail/aa098647-c807-4387-9be0-61289f46ad44.png" group-title="Runn TV",News State UP/UK
+https://newsnation.cdn.runn.tv/nnup/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/TV9NEWS9/Web/thumbnail/f39177fb-49a6-4104-9ccc-db5ee3354e73.png" group-title="Runn TV",News9
+https://tv9live.cdn.runn.tv/title-News9_Non_SSAI/v1/vglive-sk-791223/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYGLD/Web/thumbnail/d4eada62-e3ab-48b9-afe7-44942db7cf00.png" group-title="Runn TV",NH BollyGold
+https://nh-runntv-blygld.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYRAG/Web/thumbnail/edac5b07-addf-45c8-97fb-77af5ff4831b.png" group-title="Runn TV",NH BollyRaga
+https://nh-runntv-blyrag.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/B4UBHO/Mobile/thumbnail/7904ddf9-245b-42bf-ba57-dc482fbb41f7.png" group-title="Runn TV",B4U Bhojpuri
+https://b4u.cdn.runn.tv/B4U_Bhojpuri/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/B4UKAD/Web/thumbnail/4b80eee0-6cf3-4448-983d-cf7da7e9a44d.png" group-title="Runn TV",B4U Kadak
+https://b4u.cdn.runn.tv/B4U_Kadak/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/B4UMUS/Mobile/thumbnail/a7139e1a-3391-412c-9478-f8feb183f143.png" group-title="Runn TV",B4U Music
+https://b4u.cdn.runn.tv/B4U_Music/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/CARCAR/Mobile/thumbnail/54317851-3356-4b71-85af-f36b5c0250ae.png" group-title="Runn TV",Cartoon TV
+https://streams2.sofast.tv/ptnr-runntv/title-CARTOON_TV/sofastplayout/3e3230ae-4664-4ba3-9ea7-15c06471d5ce_0_HLS/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_NUNUTV/Web/thumbnail/logo_mobile.png" group-title="Runn TV",NuNu TV
+https://playout.runn.tv/playout/v1/stream/p_nunutv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MASBEA/Mobile/thumbnail/394ff63c-0f7e-4000-a098-3e9f081e555c.png" group-title="Runn TV",Masha and the Bear
+https://amg01954-amg01954c2-runntv-india-9913.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01954-animaccordltd-mashaandthebeareng-runntvindia/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_RUNACT/Web/thumbnail/logo_web.png" group-title="Runn TV",Runn Action
+https://d75f61259af04d9ea002d5429c934854.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/RUNACT/index.m3u8
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_RUNSHF/Web/thumbnail/logo_web.png" group-title="Runn TV",Runn Short Films
+https://playout.runn.tv/playout/v1/stream/p_runshf/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_RUNTHR/Web/thumbnail/logo_web.png" group-title="Runn TV",Runn Thrillers
+https://f15f7fbdcd084ff3abb9dc148b69d8b4.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/RUNTHR/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SMRBOL/Web/thumbnail/logo_web.png" group-title="Runn TV",Shemaroo Bollywood
+https://smr-runntv-blywd.cdn.runn.tv/shemaroo/stream/smrbol/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SMRFGN/Web/thumbnail/logo_web.png" group-title="Runn TV",Shemaroo Filmigaane
+https://smr-runntv-flmgn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_CINSHF/Web/thumbnail/logo_web.png" group-title="Runn TV",Cineshorts Premiere
+https://playout.runn.tv/playout/v1/stream/p_cinshf/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_PKTFLM/Web/thumbnail/logo_web.png" group-title="Runn TV",Pocket Films
+https://pktflm.cdn.runn.tv/runntv/stream/p_pktflm/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/PITCOM/Web/thumbnail/7dbe24ad-ae8e-4f50-a44c-dd7b2ea97ccc.png" group-title="Runn TV",Pitaara Comedy
+https://pitaaratv.cdn.runn.tv/ptnr-RunnTV/title-Pitaara_Comedy/v1/vglive-sk-217489/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/PITARA/Web/thumbnail/f80dc323-cd86-4001-ae97-f22f66da030b.png" group-title="Runn TV",Pitaara TV
+https://pitaaratv.cdn.runn.tv/ptnr-RunnTV/title-PitaaraTV_NonSSAI/v1/vglive-sk-326599/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/CRIUSA/Mobile/thumbnail/88e00abc-1b7b-45a9-b2e9-5bbed8a756e8.png" group-title="Runn TV",Cricket Gold
+https://streams2.sofast.tv/ptnr-runntv/title-CricketGold/sofastplayout/CricketGold/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DIVBHA/Mobile/thumbnail/c545dbe3-3a90-41dd-addf-2012badf35a4.png" group-title="Runn TV",Divya Bhajan
+https://pitaaratv.cdn.runn.tv/ptnr-RUNNTV/title-Divya_Bhajan_NONSSAI/v1/vglive-sk-987805/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DIVDIV/Mobile/thumbnail/2e4bed94-9351-4ca8-9e99-9b2b6795ae5d.png" group-title="Runn TV",Divya TV
+https://pitaaratv.cdn.runn.tv/ptnr-RunnTV/title-DivyaTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-906482/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DRIDRI/Mobile/thumbnail/61491ba4-e10b-41dc-aafc-da010990a4fc.png" group-title="Runn TV",Drive
+https://streams2.sofast.tv/ptnr-runntv/title-DRIVE__SPEED/sofastplayout/2f833f43-9e48-4a6e-88a8-8d99c32eb898_0_HLS/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/FIGFIG/Mobile/thumbnail/d6897b5a-de4d-4655-943a-106aafa7d130.png" group-title="Runn TV",Fight TV
+https://streams2.sofast.tv/ptnr-runntv/title-FIGHT-TV-ENG/sofastplayout/2c1b92e0-9ef4-41b1-9713-ba53b562e94c_0_HLS/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/GOAGOA/Mobile/thumbnail/6bb1bd7a-25c7-47fd-aa07-43c3155e73a8.png" group-title="Runn TV",Goal TV
+https://streams2.sofast.tv/ptnr-runntv/title-Goal_TV/sofastplayout/WiseM3U8_1/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/GREGLD/Mobile/thumbnail/3db87275-f469-4f9d-8ee5-b6cd5fa3a039.png" group-title="Runn TV",Green Gold TV
+https://greengold.cdn.runn.tv/greengold/stream/grngld/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/HOOHOO/Mobile/thumbnail/9eedcb6c-542b-4153-b5f9-524f0b6b0e5e.png" group-title="Runn TV",Hoop TV
+https://streams2.sofast.tv/ptnr-runntv/title-Hoop_TV/WiseM3U8_28/sofast/cleanhls/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/XTRSPO/Mobile/thumbnail/c72df825-0310-4388-bdc4-26855d832871.png" group-title="Runn TV",XTREM Sports
+https://streams2.sofast.tv/ptnr-runntv/title-XTREM-SPORTS-ENG/sofastplayout/dd07c1bf-9b89-4e56-b819-224b2bbcd807_0_HLS/manifest.m3u8
+
 =================================================================== Temp ================================================================================================
 
 #EXTINF:-1 tvg-id="8" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starplushd.png" group-title="Temp",Star Plus HD
@@ -2824,13 +2934,13 @@ https://mumt04.tangotv.in/SHEMAROOUMANG/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shemaroo",Shemaroo Josh
 https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Shemaroo",Shemaroo Bollywood
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SMRBOL/Web/thumbnail/logo_web.png" group-title="Shemaroo",Shemaroo Bollywood
 https://smr-runntv-blywd.cdn.runn.tv/shemaroo/stream/smrbol/playlist.m3u8
 #https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/playlist.m3u8
 #https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="Shemaroo",Shemaroo FilmiGaane
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SMRFGN/Web/thumbnail/logo_web.png" group-title="Shemaroo",Shemaroo FilmiGaane
 https://smr-runntv-flmgn.cdn.runn.tv/shemaroo/stream/smrfgn/manifest/2.m3u8
 #https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/playlist.m3u8
 
@@ -3817,12 +3927,16 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/d4435039c7d1433d9b9d0b6cdc9dd4ff/in
 
 #EXTINF:-1 tvg-id="10545" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/269746116Frame_1597877911.webp" group-title="Waves",B4U Music
 https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
+#https://b4u.cdn.runn.tv/B4U_Music/master.m3u8
 #EXTINF:-1 tvg-id="10543" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1799055944B4U_BHOJPURI.webp" group-title="Waves",B4U Bhojpuri
 https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
+#https://b4u.cdn.runn.tv/B4U_Bhojpuri/master.m3u8
 #EXTINF:-1 tvg-id="10544" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/64260670Frame_1597877910.webp" group-title="Waves",B4U KADAK
 https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
+#https://b4u.cdn.runn.tv/B4U_Kadak/master.m3u8
 #EXTINF:-1 tvg-id="10548" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1777577447Frame_1597877909.webp" group-title="Waves",B4U Movies
 https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
+#https://b4u.cdn.runn.tv/B4U_Movies/master.m3u8
 
 #EXTINF:-1 tvg-id="10651" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1546759719Mastiii_Logo_-_1920x1080.webp" group-title="Waves",MASTII
 https://sablive-ddpb.akamaized.net/mastii/playlist.m3u8
@@ -4556,11 +4670,14 @@ https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10591.jpg" group-title="Hindi Music",9XM
 https://wiselp.wiseplayout.com/9XM/master.m3u8
 #https://d14c63magvk61v.cloudfront.net/strm/channels/9xm/master.m3u8
+#https://9x.cdn.runn.tv/9XM/master.m3u8
 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10605.jpg" group-title="Hindi Music",9X Jalwa
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
 #https://d14c63magvk61v.cloudfront.net/strm/channels/9xjalwa/master.m3u8
 #https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/70fca4d1-156e-4c03-baa4-9a4b602e33d5/0.m3u8
+#https://9x.cdn.runn.tv/9X_Jalwa/master.m3u8
+
 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10607.jpg" group-title="Hindi Music",9X Tashan
 https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
