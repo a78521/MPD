@@ -934,7 +934,9 @@ https://amg00376-magellan-amg00376c20-tclideo-northamerica-1368.playouts.now.ama
 https://d1h8whhtg5u7om.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u3ceovu5thv6/WildPlanet_GB.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Wild Life & Nature",Wild Flix
 https://cc-qgrxgp51645lw.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qgrxgp51645lw/IQJW/WBD/WildFlix_IN/WildFlix_IN.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="Wild Life & Nature",Wild Earth
+https://wildearth-plex.amagi.tv/master.m3u8
+#https://wildearth-wildearth-lgaa-xkazh.amagi.tv/playlist/wildearth-wildearth-lgAA/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Wild Life & Nature",Brave Wilderness
 https://cc-amj6c1z90vweh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-amj6c1z90vweh/dist/samsungtv-ca/1098/hls/master/playlist.m3u8
