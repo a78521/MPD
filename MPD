@@ -550,6 +550,18 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeehindustan/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=e1ec6098b5014ac7aae0b37f72d5e85e:c04950f25d8e4107a96e828e7911e53b
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebiharjharkhand/default/manifest.mpd
 
+
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/RUN9XM/Mobile/thumbnail/16b5daaf-45b7-4c22-a6ca-a5b81b472403.png" group-title="watcho",9XM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=29f970f3bdef4935b7b2b6ace0316266:8e7efefcf8c843a184977c6c7063487c
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9xm2/default/main.mpd
+
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/9XJALW/Mobile/thumbnail/1fc78aac-ac76-4f74-b0da-0b889cff39f8.png" group-title="watcho",9X Jalwa
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0538cf4c5ed546a9956aadab2fdf3366:b0af534e1a5f459f9c751a0cb9d12d4c
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9xjalwa2/default/main.mpd
+
+
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/MJZdklJi.png" group-title="watcho",MTV Beats
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2a457a6a58184234ba9bfa6916ce8013:ef3dd80894774430a33ecbc9108e91d7
