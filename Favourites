@@ -345,11 +345,12 @@ https://amg01954-amg01954c2-runntv-india-9913.playouts.now.amagi.tv/ts-eu-w1-n2/
 
 
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_RUNACT/Web/thumbnail/logo_web.png" group-title="Runn TV",Runn Action
-https://d75f61259af04d9ea002d5429c934854.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/RUNACT/index.m3u8
+https://runact.cdn.runn.tv/runntv/stream/p_runact/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_RUNSHF/Web/thumbnail/logo_web.png" group-title="Runn TV",Runn Short Films
 https://playout.runn.tv/playout/v1/stream/p_runshf/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_RUNTHR/Web/thumbnail/logo_web.png" group-title="Runn TV",Runn Thrillers
-https://f15f7fbdcd084ff3abb9dc148b69d8b4.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/RUNTHR/index.m3u8
+https://runact.cdn.runn.tv/runntv/stream/p_runthr/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SMRBOL/Web/thumbnail/logo_web.png" group-title="Runn TV",Shemaroo Bollywood
 https://smr-runntv-blywd.cdn.runn.tv/shemaroo/stream/smrbol/playlist.m3u8
@@ -393,6 +394,91 @@ https://streams2.sofast.tv/ptnr-runntv/title-Hoop_TV/WiseM3U8_28/sofast/cleanhls
 
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/XTRSPO/Mobile/thumbnail/c72df825-0310-4388-bdc4-26855d832871.png" group-title="Runn TV",XTREM Sports
 https://streams2.sofast.tv/ptnr-runntv/title-XTREM-SPORTS-ENG/sofastplayout/dd07c1bf-9b89-4e56-b819-224b2bbcd807_0_HLS/manifest.m3u8
+
+
+=================================================================== Tango TV ================================================================================================
+
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Fast Mix
+https://mumt01.tangotv.in/FASTMIX/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Pankh
+https://mumt04.tangotv.in/PANKH/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Total TV
+https://mumt04.tangotv.in/TOTALTV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Gangaur
+https://mumt04.tangotv.in/GANGAURTV/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Classic Hits
+https://mumt03.tangotv.in/CLASSICHITS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",BFLIX
+https://mumt03.tangotv.in/BFLIX/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Big Magic
+https://mumt05.tangotv.in/BIGMAGIC/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Hi Dost
+https://mumt03.tangotv.in/HIDOST/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",E24
+https://mumt04.tangotv.in/E24/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Food Food
+https://mumt03.tangotv.in/FOODFOOD/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",B4U Movies
+https://mumt02.tangotv.in/B4UMOVIES/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",B4U Bhojpuri
+https://mumt05.tangotv.in/B4UBHOJPURI/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",B4U Kadak
+https://mumt02.tangotv.in/B4UKADAK/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",9x Jalwa
+https://mumt03.tangotv.in/9XJALWA/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",MH1
+https://mumt04.tangotv.in/MHONE/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",MH1 News
+https://mumt04.tangotv.in/MHONENEWS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",MH1 Dil Se
+https://mumt01.tangotv.in/MHONEDILSE/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Shemaroo TV
+https://mumt02.tangotv.in/SHEMAROOTV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Shemaroo Umang
+https://mumt04.tangotv.in/SHEMAROOUMANG/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Q TV
+https://mumt05.tangotv.in/THEQ/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Sangeet Bangla
+https://mumt05.tangotv.in/SANGEETBANGLA/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",PTC News
+https://mumt02.tangotv.in/PTCNEWS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",PTC Music
+https://mumt04.tangotv.in/PTCMUSIC/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",PTC Chakde
+https://mumt02.tangotv.in/PTCCHAKDE/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",PTC Simran
+https://mumt05.tangotv.in/PTCSIMRAN/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",PTC Punjabi
+https://mumt04.tangotv.in/PTCPUNJABI/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",PTC Punjabi Gold
+https://mumt04.tangotv.in/PTCPUNJABIGOLD/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Goldmines
+https://mumt04.tangotv.in/GOLDMINES/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Goldmines Bollywood
+https://mumt03.tangotv.in/GOLDMINESBOLLYWOOD/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",DD National HD
+https://mumt01.tangotv.in/DDNATIONALHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Manoranjan Movies
+https://mumt04.tangotv.in/MANORANJANMOVIES/index.m3u8
+
+
+
 
 =================================================================== Temp ================================================================================================
 
