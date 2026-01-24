@@ -929,6 +929,8 @@ https://amg00426-lds-amg00426c1-samsung-th-4628.playouts.now.amagi.tv/playlist.m
 
 #EXTINF:-1 tvg-logo="" group-title="Wild Life & Nature",Wild Ocean
 https://amg00376-magellan-amg00376c20-tclideo-northamerica-1368.playouts.now.amagi.tv/playlist/amg00376-magellantv-wildnaturemainnowus-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Wild Life & Nature",Wild Nature
+https://dg5rg8emlfy55.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WildNature2/491.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Wild Life & Nature",Wild Planet
 https://d1h8whhtg5u7om.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u3ceovu5thv6/WildPlanet_GB.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Wild Life & Nature",Wild Flix
