@@ -908,16 +908,36 @@ https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-j8l68sqtjf8kc.m3u8
 
 
 
-============================================================= Ambiance===================================================================================================================
+============================================================= Wild Life & Nature===================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD44000025L_20250402T010158SQUARE.png" group-title="Ambiance",Fireplace
-https://cc-0eowrlibr9f50.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0eowrlibr9f50/BRJW/Amagi/Samsung/Fireplace_4K_SONO20_US/Fireplace_4K_SONO20.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ambiance",Fish Tank
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fish-tank/master.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700012OU_20250610T001107SQUARE.png" group-title="Ambiance",Ocean Vives
-https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-j8l68sqtjf8kc.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Wild Life & Nature",Love the Planet
+https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/ts-eu-w1-n2/playlist/amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Wild Life & Nature",Earth Touch TV
+https://amg01823-earthtouch-amg01823c1-lg-gb-611.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg01823-earthtouch-earthtouch-lggb/playlist.m3u8
+#https://amg01823-amg01823c1-lg-se-10084.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01823-earthtouch-earthtouch-lgse/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Wild Life & Nature",Wild Stuff
+https://amg01076-amg01076c8-samsung-in-7058.playouts.now.amagi.tv/playlist/amg01076-lightning-pulse-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Wild Life & Nature",Nature Time
+https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
+#https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lgse/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Wild Life & Nature",Terra Mater Wild TV
+https://amg01775-amg01775c1-amgplt0049.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01775-amg01775c1-amgplt0049/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Wild Life & Nature",Real Wild
+https://amg00426-lds-amg00426c1-samsung-th-4628.playouts.now.amagi.tv/playlist.m3u8
+#https://amg00426-littledotstudio-realwild-tcl-fzsi1.amagi.tv/ts-us-e2-n1/playlist/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
+#https://amg00426-littledotstudio-realwild-lgse-y7c7o.amagi.tv/playlist/amg00426-littledotstudio-realwild-lgse/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Wild Life & Nature",Wild Ocean
+https://amg00376-magellan-amg00376c20-tclideo-northamerica-1368.playouts.now.amagi.tv/playlist/amg00376-magellantv-wildnaturemainnowus-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Wild Life & Nature",Wild Planet
+https://d1h8whhtg5u7om.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u3ceovu5thv6/WildPlanet_GB.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Wild Life & Nature",Wild Flix
+https://cc-qgrxgp51645lw.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qgrxgp51645lw/IQJW/WBD/WildFlix_IN/WildFlix_IN.m3u8
 
 
+#EXTINF:-1 tvg-logo="" group-title="Wild Life & Nature",Brave Wilderness
+https://cc-amj6c1z90vweh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-amj6c1z90vweh/dist/samsungtv-ca/1098/hls/master/playlist.m3u8
 
 
 ================================================== AUS & NZ===============================================================================================================
