@@ -597,15 +597,35 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Mtvbeats2/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri2/default/sangeetbhojpuri2.mpd
 
+#EXTINF:-1 tvg-logo="" group-title="watcho",Sangeet Bangla
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=55ef53e7216640ea862b98c3864000f7:11c2726ab75d4e6aaf54e0e09b5ae593
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbangla2/default/main.mpd
+
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Music_India.png" group-title="watcho",Music India
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia2/default/main.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="watcho",DD National
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=41c7eaa195e8451ea60c5b9d90032c08:d37137e3ef4145c9aa6f129aea058829
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ddnational2/default/main.mpd
 
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/Ddbh.png" group-title="watcho",DD Bharti
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=06c83443a5a6477b9a820ae4b92eca4b:a52bfc49941e40538c2589f0639164ae
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ddbharti2/default/main.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="watcho",Sansad TV 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9bb7ff21dcc44952913612599676932d:a0534a71d2e24d918d6a5ed662584f0f
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sansadtvhd2/default/main.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="watcho",Sansad TV 1 SD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=db60a3bd01f4487c8a91affc5a22b11a:70c61dfaaf2e4ffaac8ba79b8165db63
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sansadtvsd2/default/main.mpd
 
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lcMc75Xr.png" group-title="watcho",Shorts Tv Active
@@ -677,6 +697,17 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=d78c01625c3f4ed98912609799298544:b91bb882f9624872ada6125006fe5c73
 https://vg-ndtvwatcho.akamaized.net/vglive-sk-834057/main.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="watcho", NDTV 24x7
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=c4e033a3b0e846bc9acc4d6bc710a164:e12b5d3b78e0448aa9e3b28440207a3b
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ndtv24x72/default/main.mpd
+
+#EXTINF:-1 tvg-id="shorts-tv-active" tvg-logo="" group-title="watcho",News Nation
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1179148ecf241de8111f216f4540f2c:bbca34aa96b04187b4e6854cb03a1cc5
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Newsnation2/default/main.mpd
 
 
 =========================================================== Perfect TV =================================================================================================================
