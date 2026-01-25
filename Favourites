@@ -4859,10 +4859,7 @@ http://a-edge.bliscdn.com/Visionbeats/index.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Music",Melody Hits
-#EXTVLCOPT:http-referrer="https://oxolive.com"
-#KODIPROP:inputstream.adaptive.http-referrer="https://oxolive.com"
-https://fucking-tv-ott.keralive.workers.dev/mumt03/MELODYHITS/index.m3u8
-#https://mumt03.tangotv.in/MELODYHITS/index.m3u8
+https://mumt03.tangotv.in/MELODYHITS/index.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="Hindi Music",Classic Hits
 https://mumt03.tangotv.in/CLASSICHITS/index.m3u8
