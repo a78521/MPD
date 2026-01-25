@@ -169,14 +169,14 @@ https://crichd.workspace-sultanarabi161.workers.dev/live/starhindi.m3u8
 https://crichd.workspace-sultanarabi161.workers.dev/live/asportshd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports 2 HD
-#EXTVLCOPT:http-referrer="https://onezoo.net"
-#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
-https://onezoo.net/leo/live.php?id=1984&format=.m3u8
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=1984&format=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports Khel
-#EXTVLCOPT:http-referrer="https://onezoo.net"
-#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
-https://onezoo.net/leo/live.php?id=1998&format=.m3u8
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=1998&format=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports 2 HD
 https://servertvhub.site//app/ts_live_1984.m3u8
@@ -683,66 +683,67 @@ https://tplay.live/playlist/music/dance-performance/index.m3u8
 ================================================== Jio ===============================================================================================================
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Jio",Colors HD
-#EXTVLCOPT:http-referrer="https://onezoo.net"
-#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
-https://onezoo.net/leo/live.php?id=144&format=.m3u8
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=144&format=.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Colors Cineplex HD
-#EXTVLCOPT:http-referrer="https://onezoo.net"
-#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
-https://onezoo.net/leo/live.php?id=1477&format=.m3u8
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=1477&format=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="Jio",Colors Infinity HD
-#EXTVLCOPT:http-referrer="https://onezoo.net"
-#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
-https://onezoo.net/leo/live.php?id=1158&format=.m3u8
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=1158&format=.m3u8
 
 #EXTINF:-1 tvg-id="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" tvg-logo="" group-title="Jio",Colors Rishtey
-#EXTVLCOPT:http-referrer="https://onezoo.net"
-#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
-https://onezoo.net/leo/live.php?id=279&format=.m3u8
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=279&format=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Colors Cineplex Superhits
-#EXTVLCOPT:http-referrer="https://onezoo.net"
-#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
-https://onezoo.net/leo/live.php?id=1450&format=.m3u8
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=1450&format=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Colors Cineplex Bollywood
-#EXTVLCOPT:http-referrer="https://onezoo.net"
-#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
-https://onezoo.net/leo/live.php?id=1763&format=.m3u8
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=1763&format=.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",MTV HD
-#EXTVLCOPT:http-referrer="https://onezoo.net"
-#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
-https://onezoo.net/leo/live.php?id=1145&format=.m3u8
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=1145&format=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",CN+ HD
-#EXTVLCOPT:http-referrer="https://onezoo.net"
-#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
-https://onezoo.net/leo/live.php?id=1079&format=.m3u8
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=1079&format=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Nick HD
-#EXTVLCOPT:http-referrer="https://onezoo.net"
-#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
-https://onezoo.net/leo/live.php?id=1226&format=.m3u8
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=1226&format=.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",History TV 18 HD
-#EXTVLCOPT:http-referrer="https://onezoo.net"
-#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
-https://onezoo.net/leo/live.php?id=578&format=.m3u8
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=578&format=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",TLC HD
-#EXTVLCOPT:http-referrer="https://onezoo.net"
-#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
-https://onezoo.net/leo/live.php?id=479&format=.m3u8
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=479&format=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Discovery HD
-#EXTVLCOPT:http-referrer="https://onezoo.net"
-#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
-https://onezoo.net/leo/live.php?id=463&format=.m3u8
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=463&format=.m3u8
 
 ================================================== Zee5 ===============================================================================================================
 
@@ -888,7 +889,7 @@ https://nxtlive.net/sliv/stream.m3u8?id=1000009273
 
 
 #EXTINF:-1 tvg-logo="" group-title="Oxolive",Zee TV Canada
-#EXTVLCOPT:http-referrer=https://onezoo.net
+#EXTVLCOPT:http-referrer=https://m3uplay.com
 https://toober.keralive.workers.dev/4c3caf7294b3/c8bf99484885/playlist.m3u8
 
 ============================================================= 4K===================================================================================================================
@@ -4977,14 +4978,14 @@ https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",YYZ TV
-#EXTVLCOPT:http-referrer="https://onezoo.net"
-#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
-https://onezoo.net/tv/restream-tv/stream.m3u8?id=6af8a7357985
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/tv/restream-tv/stream.m3u8?id=6af8a7357985
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Bollywood Non Stop HD
-#EXTVLCOPT:http-referrer="https://onezoo.net"
-#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
-https://onezoo.net/tv/restream-tv/stream.m3u8?id=1160e0e7ca2d
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/tv/restream-tv/stream.m3u8?id=1160e0e7ca2d
 
 
 
@@ -5160,8 +5161,8 @@ http://primeasia.mine.nu/Patv_Ind_FHD/index.m3u8
 #http://primeasia.selfip.net/Samsung/index.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="Punjabi",Pitaara International HD
-#EXTVLCOPT:http-referrer="https://onezoo.net"
-#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://toober.keralive.workers.dev/4c3caf7294b3/3dd066d387031492/playlist.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="Punjabi",Sanjha TV HD
@@ -5171,8 +5172,8 @@ https://livestream.unlimitedcdn.com/sanjhatv/index.m3u8
 https://main.clickstreamcdn.com/agm-dc/desi-channel/index.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="Punjabi",Zee Punjabi
-#EXTVLCOPT:http-referrer="https://onezoo.net"
-#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-215
 
 #EXTINF:0, tvg-logo="" group-title="Punjabi",Punjab Mail USA
@@ -5316,7 +5317,7 @@ https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8
 http://livestream.unlimitedcdn.com/gurkibani/index.m3u8
 #EXTINF:0, tvg-logo="" group-title="Punjabi Devotional",Vision Gurbani
 http://a-edge.bliscdn.com/Visionpunjabgurbani/playlist.m3u8
-#EXTINF:0, tvg-logo="https://onezoo.netwp-content/uploads/2025/10/ChatGPT-Image-Oct-15-2025-10_58_23-AM-1-200x300.png" group-title="Punjabi Devotional",Chardikala TV
+#EXTINF:0, tvg-logo="https://m3uplay.comwp-content/uploads/2025/10/ChatGPT-Image-Oct-15-2025-10_58_23-AM-1-200x300.png" group-title="Punjabi Devotional",Chardikala TV
 https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/playlist.m3u8
 #EXTINF:0, tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/SikhRatnavali/LG/Logo400x200.jpg" group-title="Punjabi Devotional",Sikh Ratnavali
 https://amg00223-amg00223c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00223-amg00223c6-amgplt0173/playlist.m3u8
