@@ -4763,6 +4763,12 @@ https://amg00882-amg00882c2-lg-in-5560.playouts.now.amagi.tv/playlist/amg00882-e
 #EXTINF:0, tvg-logo="" group-title="International News",NHK Japan
 https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
 
+#EXTINF:0, tvg-logo="" group-title="International News"CGTN
+https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
+
+
+
+
 
 #EXTINF:0, tvg-logo="" group-title="International News",RT
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
