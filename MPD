@@ -1219,7 +1219,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_rockextreme/default/ind
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGEL2Ne.png" group-title="Cignal TV",Warner TV HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4503cf86bca3494ab95a77ed913619a0:afc9c8f627fb3fb255dee8e3b0fe1d71
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_warnertvhd/default/index.mpd
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
 
 #EXTINF:-1 tvg-logo="https://imgur.com/SASnGFo.png" group-title="Cignal TV",DreamWorks HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
