@@ -349,6 +349,8 @@ https://playout.runn.tv/playout/v1/stream/p_nunutv/playlist.m3u8
 https://amg01954-amg01954c2-runntv-india-9913.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01954-animaccordltd-mashaandthebeareng-runntvindia/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Runn Tv.jpg" group-title="Runn TV",Runn tv
+https://supflm.cdn.runn.tv/runntv/stream/p_supjio/manifest/1.m3u8
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_RUNACT/Web/thumbnail/logo_web.png" group-title="Runn TV",Runn Action
 https://runact.cdn.runn.tv/runntv/stream/p_runact/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_RUNSHF/Web/thumbnail/logo_web.png" group-title="Runn TV",Runn Short Films
@@ -4974,6 +4976,7 @@ https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8
 #EXTVLCOPT:http-referrer="https://onezoo.net"
 #KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
 https://onezoo.net/tv/restream-tv/stream.m3u8?id=6af8a7357985
+#http://cdn12.henico.net:8080/live/sursangam/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Bollywood Non Stop HD
 #EXTVLCOPT:http-referrer="https://onezoo.net"
