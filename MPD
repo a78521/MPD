@@ -643,6 +643,11 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=86edec9e3b7d4042a4d4a1ca14f847ee:9def4315f0004019a3705bcb3cf30ca3
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd
 
+#EXTINF:-1 tvg-logo="" group-title="watcho",Pitaara
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://vg-pitaaratvlive.akamaized.net/ptnr-WatchO/title-PitaaraTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/UyI5ljKM.png" group-title="watcho",Discovey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b70a8cf9450c4d6484b4ac4d3c6761c0:0908be844260409cbac180bf0181da40
@@ -697,6 +702,35 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=d78c01625c3f4ed98912609799298544:b91bb882f9624872ada6125006fe5c73
 https://vg-ndtvwatcho.akamaized.net/vglive-sk-834057/main.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/channel/logos/ykaknz.png" group-title="watcho",Aaj Tak
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://amg00644-amg00644c3-watcho-apac-8444.playouts.now.amagi.tv/playlist/amg00644-tvtodaynetworkltdfast-aajtak-watchoapac/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="watcho",GNT
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://amg00644-amg00644c2-watcho-apac-8614.playouts.now.amagi.tv/playlist/amg00644-tvtodaynetworkltdfast-goodnewstoday-watchoapac/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="watcho",India Today
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://amg00644-amg00644c1-watcho-apac-8615.playouts.now.amagi.tv/playlist/amg00644-tvtodaynetworkltdfast-indiatoday-watchoapac/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="watcho",France 24
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="watcho",RT
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://wisewatchoott.wiseplayout.com/RT/HD1080/HD1080.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="watcho", NDTV 24x7
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
