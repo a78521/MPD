@@ -4974,14 +4974,14 @@ https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",YYZ TV
-#EXTVLCOPT:http-referrer="https://m3uplay.com"
-#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
-https://m3uplay.com/tv/restream-tv/stream.m3u8?id=6af8a7357985
+#EXTVLCOPT:http-referrer="https://onezoo.net"
+#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
+https://onezoo.net/tv/restream-tv/stream.m3u8?id=6af8a7357985
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Bollywood Non Stop HD
-#EXTVLCOPT:http-referrer="https://m3uplay.com"
-#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
-https://m3uplay.com/tv/restream-tv/stream.m3u8?id=1160e0e7ca2d
+#EXTVLCOPT:http-referrer="https://onezoo.net"
+#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
+https://onezoo.net/tv/restream-tv/stream.m3u8?id=1160e0e7ca2d
 
 
 
