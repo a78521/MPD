@@ -4929,12 +4929,18 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Desi Holliwood.jpg" group-title="Hindi Movies",Hollywood Desi
 https://cc-u6hadnoh0u6td.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-u6hadnoh0u6td/5ba0779e-63a9-4621-87ce-525e060419a0/1.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",Alright!
+https://csm-e-cesharedlsgsin2live-87593135.bln1.yospace.com/csm/extlive/runntvprd01,alrightrunn.m3u8?yo.up=https://ruskmedia.cdn.runn.tv/ruskmedia/stream/alrght/manifest/
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",Xumo Bollywood Cinema
 https://dbrb49pjoymg4.cloudfront.net/10001/99991756/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991756
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",Manoranjan Movies
 https://mumt04.tangotv.in/MANORANJANMOVIES/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",Classic Hits
+https://mumt03.tangotv.in/CLASSICHITS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",Hindi Movies
 http://103.220.29.158:8080/HINDI.MOVIES/index.m3u8
 
@@ -4970,17 +4976,23 @@ https://amg17931-zee-amg17931c8-kogan-au-9555.playouts.now.amagi.tv/ts-eu-w1-n2/
 https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="" group-title="Hindi Movies",YYZ TV
+#EXTVLCOPT:http-referrer="https://onezoo.net"
+#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
+https://onezoo.net/tv/restream-tv/stream.m3u8?id=6af8a7357985
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Bollywood Non Stop HD
+#EXTVLCOPT:http-referrer="https://onezoo.net"
+#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
+https://onezoo.net/tv/restream-tv/stream.m3u8?id=1160e0e7ca2d
+
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G90YhWRg/goldmine-bollywood.jpg" group-title="Hindi Movies",Goldmines Bollywood
-#EXTVLCOPT:http-referrer="https://oxolive.com"
-#KODIPROP:inputstream.adaptive.http-referrer="https://oxolive.com"
-https://fucking-tv-ott.keralive.workers.dev/mumt03/GOLDMINESBOLLYWOOD/index.m3u8
-#https://mumt03.tangotv.in/GOLDMINESBOLLYWOOD/index.m3u8
+https://mumt03.tangotv.in/GOLDMINESBOLLYWOOD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjBD6Xhn/Goldmine.jpg" group-title="Hindi Movies",Goldmines
-#EXTVLCOPT:http-referrer="https://oxolive.com"
-#KODIPROP:inputstream.adaptive.http-referrer="https://oxolive.com"
-https://fucking-tv-ott.keralive.workers.dev/mumt04/GOLDMINES/index.m3u8
-#https://mumt04.tangotv.in/GOLDMINES/index.m3u8
+https://mumt04.tangotv.in/GOLDMINES/index.m3u8
 
 ======================================================== English Movies ===========================================================================================================
 
