@@ -682,6 +682,7 @@ https://vg-ndtvwatcho.akamaized.net/vglive-sk-834057/main.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_key=a098896d2b11c5f3906a993c3ba5c610:f3f842c54cc96cbbd0bcb96a4cb8a813
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hbo
 
@@ -854,7 +855,7 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 #KODIPROP:inputstream.adaptive.license_key=8de11e005db5bd0db8228814863cd310:183b3eafa4c82e68f74c4244d54906b0
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=lifetime
 
-#EXTINF:-1 tvg-id="454.unifi" ch-number="454" tvg-name="HITS HD" group-title="Perfect TVT" tvg-logo="https://get.perfecttv.net/logo/hits.png",HITS
+#EXTINF:-1 tvg-id="454.unifi" ch-number="454" tvg-name="HITS HD" group-title="Perfect TV" tvg-logo="https://get.perfecttv.net/logo/hits.png",HITS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
