@@ -2435,7 +2435,7 @@ https://zap-live1-ott.izzigo.tv/3/out/u/dash/HISTORY2HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=44a9e6477651b3b47f3a2b727d562835:1b87070d9fad5dee0a35ff014a2063a7
 https://zap-live1-ott.izzigo.tv/2/out/u/dash/UNIVERSAL-CINEMA-HD/manifest.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Izzigo", UniversalL Comedy HD
+#EXTINF:-1 tvg-logo="" group-title="Izzigo", Universal Comedy HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=92b162b0b1d0dbb1e401f5845b4ce109:83b7ae276784a7f78f4a0c1190974d5c
 https://zap-live1-ott.izzigo.tv/2/out/u/dash/UNIVERSAL-COMEDY-HD/manifest.mpd
@@ -3642,7 +3642,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_BTS/output/index.mpd
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_Select_HD_BTS/output/index.mpd
 
-#EXTINF:-1 tvg-id="1104" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12086-j9od8wxc-v1/imageContent-12086-j9od8wxc-m1.png" group-title="Jiostar",Star Movies HD
+#EXTINF:-1 tvg-id="1104" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" group-title="Jiostar",Star Movies HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ac6943751e558b181da32727f03dff7:f36e5cd48252bcd0fcda2bfe21f5b365
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_HD_BTS/output/index.mpd
@@ -3675,7 +3675,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Infinity_HD_BTS/output/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=90d8713ba5e85d779d005b1f14a5bc8d:33650314fe1e945017640ba9878c5de9
 https://jiotvpllive.cdn.jio.com/bpk-tv/MTV_HD_Plus_BTS/output/index.mpd
 
-#EXTINF:-1 tvg-id="1145" tvg-name="" tvg-logo="" group-title="Jiostar",Sony HD
+#EXTINF:-1 tvg-id="1145" tvg-name="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Jiostar",Sony HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ebd37e936867596a868cc085070e4cd5:f5c58e6bf0a2deb018fe87a934a6a1d0
@@ -3736,6 +3736,18 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/History_HD_BTS/output/index.mpd
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://jiotvpllive.cdn.jio.com/bpk-tv/TLCHDHindi_BTS/output/index.mpd
 
+#EXTINF:-1 tvg-id="562" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png" group-title="Jiostar",Travelxp HD Hindi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39aa887ebbc35db6bd10217aba5e016b:a1862a47f6db0af137d0c69b3cb422bb
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_BTS/output/index.mpd
+
+
+#EXTINF:-1 tvg-id="1226" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" group-title="Jiostar",Nick HD+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=50c0ac86d9445b3a855fcabae7538aaf:cf79083218d809d379c2f64acbde561f
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://jiotvpllive.cdn.jio.com/bpk-tv/Nick_HD_Plus_BTS/output/index.mpd
 
 
 
@@ -4661,11 +4673,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Q_GameX_BTS/output/index.mpd
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 https://jiotvpllive.cdn.jio.com/bpk-tv/Jio_Specials_HD_BTS/output/index.mpd
 
-
-#EXTINF:-1 tvg-id="1763" tvg-name="Colors Cineplex Bollywood" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png",Colors Cineplex Bollywood
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=061b3f55b6695e978b208f5117e609ee:9a6da304db8cfb545805d3152a5d66ed
-https://stream.kliv.fun/allplus11de/jtv/manifest.mpd?id=1763
 
 
 
