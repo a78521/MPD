@@ -823,7 +823,7 @@ https://get.perfecttv.net/astro_10802.mpd?username=vip_3klp0es8&password=wg3piwE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-https://get.perfecttv.net/mytv.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=rockaction.my|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://get.perfecttv.net/mytv.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=rockaction
 
 #EXTINF:-1 tvg-id="" tvg-name="148 Galaxy" tvg-logo="https://get.perfecttv.net/logo/galaxy.png" group-title="Perfect TV",Galaxy
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -838,13 +838,6 @@ https://get.perfecttv.net/dashVision3.mpd?username=vip_3klp0es8&password=wg3piwE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
 #https://get.perfecttv.net/dashVision3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=galaxypremium
-
-#EXTINF:-1 tvg-id="" group-title="Perfect TV" tvg-logo="https://get.perfecttv.net/logo/cinemaworld.png",CINEMAWORLD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_key=https://cubmulcbcuxlu9vk1ru2bcdqsht40u5.tvnows.workers.dev/DZs4r1B0VwR3T6Y1ynv47HyBqrYqaxcapZxFtSmxLXZrgsRROh
-https://cubmumpd0z2m13s4pkvv1bchljxzivaz.tvnows.workers.dev/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
 #EXTINF:-1 tvg-id="HITSMovies" ch-number="401" group-title="Perfect TV" group-logo="" tvg-logo="https://get.perfecttv.net/logo/hitsmovies.png",HITS Movies
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
