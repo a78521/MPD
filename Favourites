@@ -1188,7 +1188,11 @@ https://a1xs.vip/210004
 #EXTINF:-1 tvg-logo="" group-title="Sky",Sky Cinema Comedy FHD
 https://a1xs.vip/210005
 #EXTINF:-1 tvg-logo="" group-title="Sky",Sky Cinema Action FHD
-https://a1xs.vip/210006
+
+#EXTINF:-1 tvg-logo="" group-title="Sky",Sky Cinema Disney FHD
+https://vt-ip.vodep39240327.workers.dev/220.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sky",Sky Cinema Family FHD
+https://vt-ip.vodep39240327.workers.dev/221.m3u8
 
 
 
@@ -4572,7 +4576,8 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiam
 
 
 #EXTINF:0, tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1930298847Sudarshan_channel_Mob_384x216.webp" group-title="Hindi News",Sudarshan News
-https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1/index.fmp4.m3u8
+https://ott.livelegitpro.in/sudarshannews/sudarshannews/index.m3u8
+#https://d3kdywbtdfbp9z.cloudfront.net/v1/session/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/index.m3u8 
 
 #EXTINF:0, tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1950289883LOGO_16.9" group-title="Hindi News",Hindi Khabar
 https://stream.ottlive.co.in/hindikhabar/tracks-v1a1/mono.m3u8
