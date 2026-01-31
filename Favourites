@@ -4450,8 +4450,9 @@ https://sl.vodep39240327.workers.dev/channel/SONY MAX2.m3u8
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="SonyLiv",Sony Pal
 https://sl.vodep39240327.workers.dev/channel/SONY PAL.m3u8
 
-#EXTINF:0, tvg-logo="" group-title="SonyLiv",Sony Kal
-https://sony-sonykal-gn-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:0, tvg-logo="https://img.platform.wurl.dev/channel/1007/lg/202ba7/LG-Logo-PNG-100x100_v1.png" group-title="SonyLiv",Sony Kal
+https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
+#https://e77bef9b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfU29ueUtBTF9ITFM/playlist.m3u8
 
 #EXTINF:0, tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="SonyLiv",Sony Wah
 https://sl.vodep39240327.workers.dev/channel/SONY WAH.m3u8
