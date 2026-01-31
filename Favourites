@@ -2949,6 +2949,9 @@ https://amg00877-amg00877c2-samsung-in-6975.playouts.now.amagi.tv/playlist/amg00
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN39000187Z_20250521T010028SQUARE.png" group-title="Samsung TV",B4U Kadak
 https://amg00877-amg00877c4-samsung-in-6977.playouts.now.amagi.tv/playlist/amg00877-b4unetworkeuropefast-b4ukadak-samsungin/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Samsung TV",Sangeet Marathi
+https://amg00416-amg00416c6-samsung-in-3260.playouts.now.amagi.tv/playlist/amg00416-travelxp-sangeetmarathi-samsungin/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20241211T020400SQUARE.png" group-title="Samsung TV",The Movie Club
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20241211T020400SQUARE.png" group-title="Samsung TV",The Movie Club
