@@ -941,9 +941,9 @@ https://amg00426-lds-amg00426c1-samsung-th-4628.playouts.now.amagi.tv/playlist.m
 https://amg00376-magellan-amg00376c20-tclideo-northamerica-1368.playouts.now.amagi.tv/playlist/amg00376-magellantv-wildnaturemainnowus-tclideonorthamerica/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Wild Life & Nature",Wild Nature
 https://dg5rg8emlfy55.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WildNature2/491.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Wild Life & Nature",Wild Planet
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB5000002PL_20250107T025838SQUARE.png" group-title="Wild Life & Nature",Wild Planet
 https://d1h8whhtg5u7om.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u3ceovu5thv6/WildPlanet_GB.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Wild Life & Nature",Wild Flix
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460000585_20250416T020413SQUARE.png" group-title="Wild Life & Nature",Wild Flix
 https://cc-qgrxgp51645lw.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qgrxgp51645lw/IQJW/WBD/WildFlix_IN/WildFlix_IN.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Wild Life & Nature",Wild Earth
 https://wildearth-plex.amagi.tv/master.m3u8
@@ -1461,6 +1461,8 @@ https://9c8418ea80924443bf6a437d9be28be7.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:0, tvg-logo="" group-title="Infotainment",Car Chase
 https://dai.google.com/linear/hls/pb/event/RjvF1cd0Qx-65Dz14THpPA/stream/6a1dddf1-14f1-4eeb-9564-63c96de6de7a:TPE/variant/cb3c5924b3340b99a76a07ebf3295cbe/bandwidth/4143876.m3u8
 
+#EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000011Q_20250205T004626SQUARE.png" group-title="Infotainment",XXtreme Jobs
+https://cc-zko1curyce7jh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zko1curyce7jh/IQJW/WBD/XXtremeJobs_IN/XXtremeJobs_IN.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="Infotainment",Watch Mojo
 https://watchmojo-1-us.rewardedtv.wurl.tv/playlist.m3u8
