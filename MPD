@@ -707,7 +707,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mp
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverykids2/default/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="" group-title="watcho",Animal Planet HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kzq6TNxy/animalplanethd.jpg" group-title="watcho",Animal Planet HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=df81f15150f74c799fdde64ef49dfb75:05794a012ae74d77953f2b9fae6804c7
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd
@@ -837,7 +837,7 @@ https://get.perfecttv.net/dashVision3.mpd?username=vip_3klp0es8&password=wg3piwE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
-#https://get.perfecttv.net/dashVision3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=galaxypremium
+https://get.perfecttv.net/dashVision3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=galaxypremium
 
 #EXTINF:-1 tvg-id="HITSMovies" ch-number="401" group-title="Perfect TV" group-logo="" tvg-logo="https://get.perfecttv.net/logo/hitsmovies.png",HITS Movies
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
