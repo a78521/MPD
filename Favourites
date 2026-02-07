@@ -178,8 +178,13 @@ https://m3uplay.com/leo/live.php?id=1984&format=.m3u8
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=1998&format=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports 2 HD
-https://servertvhub.site//app/ts_live_1984.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports 2 HD Jio
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_key=9457eb90129456fa8ea95e10ba4ac51e:e620a970cea474c491ac78ae71a4d764
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/output/index.mpd
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports Tamil
 http://87.255.35.150:18844
