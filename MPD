@@ -3664,7 +3664,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_BTS/output/index.mp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9025bf5bbe6502cab58edaa0b50750b:91b5ca6ebefe3a977cb6fcae31868664
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux; Android 13) ExoPlayerLib/2.11.7
-https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_HD_BTS/output/index.mpd
+https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsHD_BTS/output/index.mpd
 
 #EXTINF:-1 tvg-id="1477" tvg-name="" group-title="Jiostar" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexHD.png",Colors Cineplex HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3762,6 +3762,12 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_BTS/output/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=50c0ac86d9445b3a855fcabae7538aaf:cf79083218d809d379c2f64acbde561f
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://jiotvpllive.cdn.jio.com/bpk-tv/Nick_HD_Plus_BTS/output/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNHDHindi.png" group-title="Jiostar",CN+ HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e0a906e1b3d5536fa62e87ecf5c54859:a7c78450be43a75cda96e9daaad9ca1b
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://jiotvpllive.cdn.jio.com/bpk-tv/CNHDHindi_BTS/output/index.mpd
 
 #EXTINF:-1 tvg-id="1375" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_International_HD.png" group-title="Jiostar",Disney International HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
