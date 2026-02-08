@@ -4641,6 +4641,10 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951438/hls/playlist.m3u8?ads.xumo_c
 
 #EXTINF:-1 tvg-id="99951406" tvg-name="Willow Sports" tvg-logo="https://image.xumo.com/v1/channels/channel/99951406/168x168.png?type=color_onBlack" group-title="Xumo",Willow Sports
 https://dbrb49pjoymg4.cloudfront.net/10001/99951406/hls/playlist.m3u8?ads.xumo_channelId=99951406
+#EXTINF:-1 tvg-id="99951381" tvg-name="Real Madrid TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951381/168x168.png?type=color_onBlack" group-title="Xumo",Real Madrid TV
+https://dbrb49pjoymg4.cloudfront.net/10001/99951381/hls/playlist.m3u8?ads.xumo_channelId=99951381
+#EXTINF:-1 tvg-id="99951383" tvg-name="The NBA Channel" tvg-logo="https://image.xumo.com/v1/channels/channel/99951383/168x168.png?type=color_onBlack" group-title="Xumo",The NBA Channel
+https://dbrb49pjoymg4.cloudfront.net/10001/99951383/hls/playlist.m3u8?ads.xumo_channelId=99951383
 #EXTINF:-1 tvg-id="99951134" tvg-name="UFC" tvg-logo="https://image.xumo.com/v1/channels/channel/99951134/168x168.png?type=color_onBlack" group-title="Xumo",UFC
 https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134
 #EXTINF:-1 tvg-id="99991278" tvg-name="GLORY Kickboxing" tvg-logo="https://image.xumo.com/v1/channels/channel/99991278/168x168.png?type=color_onBlack" group-title="Xumo",GLORY Kickboxing
@@ -4648,8 +4652,20 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991278/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:-1 tvg-id="99991341" tvg-name="TNA Wrestling Channel" tvg-logo="https://image.xumo.com/v1/channels/channel/99991341/168x168.png?type=color_onBlack" group-title="Xumo",TNA Wrestling Channel
 
 #EXTINF:-1 tvg-id="99951469" tvg-name="HBO Boxing" tvg-logo="https://image.xumo.com/v1/channels/channel/99951469/168x168.png?type=color_onBlack" group-title="Xumo",HBO Boxing
-https://dbrb49pjoymg4.cloudfront.net/10001/99951469/hls/playlist.m3u8?ads.xumo_channelId=99951469 
+https://dbrb49pjoymg4.cloudfront.net/10001/99951469/hls/playlist.m3u8?ads.xumo_channelId=99951469
 
+
+
+#EXTINF:-1 tvg-id="99951398" tvg-name="Mysterious Worlds" tvg-logo="https://image.xumo.com/v1/channels/channel/99951398/168x168.png?type=color_onBlack" group-title="Xumo",Mysterious Worlds
+https://dbrb49pjoymg4.cloudfront.net/10001/99951398/hls/playlist.m3u8?ads.xumo_channelId=99951398
+#EXTINF:-1 tvg-id="99951377" tvg-name="AMC Thrillers" tvg-logo="https://image.xumo.com/v1/channels/channel/99951377/168x168.png?type=color_onBlack" group-title="Xumo",AMC Thrillers
+https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951377/hls/playlist.m3u8?ads.xumo_channelId=99951377&ads.channelId=99951377
+#EXTINF:-1 tvg-id="99951264" tvg-name="Universal Monsters" tvg-logo="https://image.xumo.com/v1/channels/channel/99951264/168x168.png?type=color_onBlack" group-title="Xumo",Universal Monsters
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951264/hls/master.m3u8?ads.xumo_channelId=99951264
+#EXTINF:-1 tvg-id="99991769" tvg-name="Paranormal Files" tvg-logo="https://image.xumo.com/v1/channels/channel/99991769/168x168.png?type=color_onBlack" group-title="Xumo",Paranormal Files
+https://live-content.xumo.com/2623/content/XM0DRAHH2TS056/23340439/master.m3u8
+#EXTINF:-1 tvg-id="9999615" tvg-name="Dark Matter TV" tvg-logo="https://image.xumo.com/v1/channels/channel/9999615/168x168.png?type=color_onBlack" group-title="Xumo",Dark Matter TV
+https://live-content.xumo.com/3346/content/XM0PXTAAR32HJW/23831769/master.m3u8
 ======================================================== Hindi News ===========================================================================================================
 
 #EXTINF:-1 tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/bemisaal-20-saal/at-hd-191x84.png" group-title="Hindi News",Aaj Tak HD
