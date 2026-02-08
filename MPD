@@ -3734,9 +3734,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/DiscoveryHDHin_BTS/output/index.mpd
 
 #EXTINF:-1 tvg-id="286"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" group-title="Jiostar",Animal Planet HD World
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2e5b244dece4589e8cb63c3f78599b8b:d0bf0aea980e46b12a38f8004505e2fe
+#KODIPROP:inputstream.adaptive.license_key=6e56dee54bd4596b8ba528012fd3c7e7:c10f10e9b4926b13a6627c99ec0fae1c
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-https://jiotvpllive.cdn.jio.com/bpk-tv/Animal_Planet_HD_BTS/output/index.mpd
+https://jiotvpllive.cdn.jio.com/bpk-tv/AnimalPlanetHDHin_BTS/output/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_HD.png" group-title="Jiostar",History TV 18 HD
 #KODIPROP:inputstream=inputstream.adaptive
