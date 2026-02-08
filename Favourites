@@ -4588,42 +4588,53 @@ https://linear-492.frequency.stream/dist/stirr/492/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="99991247" tvg-name="NBC News NOW" tvg-logo="https://image.xumo.com/v1/channels/channel/99991247/168x168.png?type=color_onBlack" group-title="Xumo",NBC News NOW
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991247/hls/master.m3u8?ads.xumo_channelId=99991247
 #EXTINF:-1 tvg-id="99951517" tvg-name="ABC News Live" tvg-logo="https://image.xumo.com/v1/channels/channel/99951517/168x168.png?type=color_onBlack" group-title="Xumo",ABC News Live
-https://dbrb49pjoymg4.cloudfront.net/10001/99951517/hls/master.m3u8?ads.xumo_channelId=99951517&ads.xumo_streamId=99951517
+https://dbrb49pjoymg4.cloudfront.net/10001/99951517/hls/master.m3u8?ads.xumo_channelId=99951517
 #EXTINF:-1 tvg-id="99991158" tvg-name="CBS News 24/7" tvg-logo="https://image.xumo.com/v1/channels/channel/99991158/168x168.png?type=color_onBlack" group-title="Xumo",CBS News 24/7
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1 tvg-id="99991635" tvg-name="LiveNOW from FOX" tvg-logo="https://image.xumo.com/v1/channels/channel/99991635/168x168.png?type=color_onBlack" group-title="Xumo",LiveNOW from FOX
-https://dbrb49pjoymg4.cloudfront.net/10001/99991635/hls/playlist.m3u8
+https://dbrb49pjoymg4.cloudfront.net/10001/99991635/hls/playlist.m3u8?ads.xumo_channelId=99991635
 #EXTINF:-1 tvg-id="99991245" tvg-name="TODAY All Day" tvg-logo="https://image.xumo.com/v1/channels/channel/99991245/168x168.png?type=color_onBlack" group-title="Xumo",TODAY All Day
-https://d4whmvwm0rdvi.cloudfront.net/10007/99991245/hls/master.m3u8
+https://d4whmvwm0rdvi.cloudfront.net/10007/99991245/hls/master.m3u8?ads.xumo_channelId=99991245
 #EXTINF:-1 tvg-id="99951197" tvg-name="Reuters 60" tvg-logo="https://image.xumo.com/v1/channels/channel/99951197/168x168.png?type=color_onBlack" group-title="Xumo",Reuters 60
-https://dbrb49pjoymg4.cloudfront.net/10001/99951197/hls/playlist.m3u8
+https://dbrb49pjoymg4.cloudfront.net/10001/99951197/hls/playlist.m3u8?ads.xumo_channelId=99951197
 #EXTINF:-1 tvg-id="99951223" tvg-name="Sky News" tvg-logo="https://image.xumo.com/v1/channels/channel/99951223/168x168.png?type=color_onBlack" group-title="Xumo",Sky News
 https://dbrb49pjoymg4.cloudfront.net/10001/99951223/hls/master.m3u8?ads.xumo_channelId=99951223
 #EXTINF:-1 tvg-id="99991148" tvg-name="Scripps News" tvg-logo="https://image.xumo.com/v1/channels/channel/99991148/168x168.png?type=color_onBlack" group-title="Xumo",Scripps News
-https://dbrb49pjoymg4.cloudfront.net/10001/99991148/hls/playlist.m3u8
+https://dbrb49pjoymg4.cloudfront.net/10001/99991148/hls/playlist.m3u8?ads.xumo_channelId=99991148
 #EXTINF:-1 tvg-id="99991194" tvg-name="Newsmax2" tvg-logo="https://image.xumo.com/v1/channels/channel/99991194/168x168.png?type=color_onBlack" group-title="Xumo",Newsmax2
 https://dbrb49pjoymg4.cloudfront.net/10001/99991194/hls/index.m3u8?ads.xumo_channelId=99991194
 #EXTINF:-1 tvg-id="99991276" tvg-name="CBC News" tvg-logo="https://image.xumo.com/v1/channels/channel/99991276/168x168.png?type=color_onBlack" group-title="Xumo",CBC News
 https://dbrb49pjoymg4.cloudfront.net/10001/99991276/hls/master.m3u8?ads.xumo_channelId=99991276
 #EXTINF:-1 tvg-id="99991147" tvg-name="TYT" tvg-logo="https://image.xumo.com/v1/channels/channel/99991147/168x168.png?type=color_onBlack" group-title="Xumo",TYT
-https://dbrb49pjoymg4.cloudfront.net/10001/99991147/hls/playlist.m3u8
+
 #EXTINF:-1 tvg-id="99991220" tvg-name="Cheddar News" tvg-logo="https://image.xumo.com/v1/channels/channel/99991220/168x168.png?type=color_onBlack" group-title="Xumo",Cheddar News
-https://dbrb49pjoymg4.cloudfront.net/10001/99991220/hls/playlist.m3u8
+https://dbrb49pjoymg4.cloudfront.net/10001/99991220/hls/playlist.m3u8?ads.xumo_channelId=99991220
 #EXTINF:-1 tvg-id="99951283" tvg-name="Salem News Channel" tvg-logo="https://image.xumo.com/v1/channels/channel/99951283/168x168.png?type=color_onBlack" group-title="Xumo",Salem News Channel
 https://dbrb49pjoymg4.cloudfront.net/10001/99951283/hls/playlist.m3u8?ads.xumo_channelId=99951283
 #EXTINF:-1 tvg-id="99951298" tvg-name="BBC News" tvg-logo="https://image.xumo.com/v1/channels/channel/99951298/168x168.png?type=color_onBlack" group-title="Xumo",BBC News
-https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8
+https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
 #EXTINF:-1 tvg-id="99951337" tvg-name="Spectrum News+" tvg-logo="https://image.xumo.com/v1/channels/channel/99951337/168x168.png?type=color_onBlack" group-title="Xumo",Spectrum News+
-https://dbrb49pjoymg4.cloudfront.net/10001/99951337/hls/playlist.m3u8
+https://dbrb49pjoymg4.cloudfront.net/10001/99951337/hls/playlist.m3u8?ads.xumo_channelId=99951337
 #EXTINF:-1 tvg-id="99991694" tvg-name="Fox Weather" tvg-logo="https://image.xumo.com/v1/channels/channel/99991694/168x168.png?type=color_onBlack" group-title="Xumo",Fox Weather
-https://dbrb49pjoymg4.cloudfront.net/10001/99991694/hls/playlist.m3u8
+https://dbrb49pjoymg4.cloudfront.net/10001/99991694/hls/playlist.m3u8?ads.xumo_channelId=99991694 
 #EXTINF:-1 tvg-id="99991649" tvg-name="AccuWeather NOW" tvg-logo="https://image.xumo.com/v1/channels/channel/99991649/168x168.png?type=color_onBlack" group-title="Xumo",AccuWeather NOW
-https://dbrb49pjoymg4.cloudfront.net/10001/99991649/hls/playlist.m3u8
+https://dbrb49pjoymg4.cloudfront.net/10001/99991649/hls/playlist.m3u8?ads.xumo_channelId=99991649
 #EXTINF:-1 tvg-id="99951404" tvg-name="OAN Plus" tvg-logo="https://image.xumo.com/v1/channels/channel/99951404/168x168.png?type=color_onBlack" group-title="Xumo",OAN Plus
-https://dbrb49pjoymg4.cloudfront.net/10001/99951404/hls/playlist.m3u8
+https://dbrb49pjoymg4.cloudfront.net/10001/99951404/hls/playlist.m3u8?ads.xumo_channelId=99951404
 #EXTINF:-1 tvg-id="99951386" tvg-name="CNN Headlines" tvg-logo="https://image.xumo.com/v1/channels/channel/99951386/168x168.png?type=color_onBlack" group-title="Xumo",CNN Headlines
-https://dbrb49pjoymg4.cloudfront.net/10001/99951386/hls/playlist.m3u8
+https://dbrb49pjoymg4.cloudfront.net/10001/99951386/hls/playlist.m3u8?ads.xumo_channelId=99951386
 
+
+#EXTINF:-1 tvg-id="99991628" tvg-name="WildEarth" tvg-logo="https://image.xumo.com/v1/channels/channel/99991628/168x168.png?type=color_onBlack" group-title="Xumo",WildEarth
+https://dbrb49pjoymg4.cloudfront.net/10001/99991628/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99991628
+#EXTINF:-1 tvg-id="99951328" tvg-name="Love The Planet" tvg-logo="https://image.xumo.com/v1/channels/channel/99951328/168x168.png?type=color_onBlack" group-title="Xumo",Love The Planet
+https://dbrb49pjoymg4.cloudfront.net/10001/99951328/hls/master-cc.m3u8?ads.xumo_channelId=99951328
+#EXTINF:-1 tvg-id="99991398" tvg-name="Love Nature" tvg-logo="https://image.xumo.com/v1/channels/channel/99991398/168x168.png?type=color_onBlack" group-title="Xumo",Love Nature
+https://dbrb49pjoymg4.cloudfront.net/10001/99991398/hls/playlist.m3u8?ads.xumo_channelId=99991398
+#EXTINF:-1 tvg-id="99951231" tvg-name="BBC Earth" tvg-logo="https://image.xumo.com/v1/channels/channel/99951231/168x168.png?type=color_onBlack" group-title="Xumo",BBC Earth
+https://dbrb49pjoymg4.cloudfront.net/10001/99951231/hls/playlist.m3u8?ads.xumo_channelId=99951231
+#EXTINF:-1 tvg-id="99991252" tvg-name="Stingray Naturescape" tvg-logo="https://image.xumo.com/v1/channels/channel/99991252/168x168.png?type=color_onBlack" group-title="Xumo",Stingray Naturescape
+https://dbrb49pjoymg4.cloudfront.net/10001/99991252/hls/master.m3u8?ads.xumo_channelId=99991252
 
 #EXTINF:-1 tvg-id="99951438" tvg-name="Discovery Turbo TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951438/168x168.png?type=color_onBlack" group-title="Xumo",Discovery Turbo TV
 https://dbrb49pjoymg4.cloudfront.net/10001/99951438/hls/playlist.m3u8?ads.xumo_channelId=99951438
@@ -4635,7 +4646,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:-1 tvg-id="99991278" tvg-name="GLORY Kickboxing" tvg-logo="https://image.xumo.com/v1/channels/channel/99991278/168x168.png?type=color_onBlack" group-title="Xumo",GLORY Kickboxing
 https://dbrb49pjoymg4.cloudfront.net/10001/99991278/hls/playlist.m3u8?ads.xumo_channelId=99991278
 #EXTINF:-1 tvg-id="99991341" tvg-name="TNA Wrestling Channel" tvg-logo="https://image.xumo.com/v1/channels/channel/99991341/168x168.png?type=color_onBlack" group-title="Xumo",TNA Wrestling Channel
-https://live-content.xumo.com/2073/content/XM0O6ZPM38QHGK/23797751/master.m3u8
+
 #EXTINF:-1 tvg-id="99951469" tvg-name="HBO Boxing" tvg-logo="https://image.xumo.com/v1/channels/channel/99951469/168x168.png?type=color_onBlack" group-title="Xumo",HBO Boxing
 https://dbrb49pjoymg4.cloudfront.net/10001/99951469/hls/playlist.m3u8?ads.xumo_channelId=99951469 
 
