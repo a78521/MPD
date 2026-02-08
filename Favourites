@@ -157,6 +157,20 @@ http://slayerteam.in.rs:80/play/live.php?mac=00:1B:79:F0:81:7F&extension=ts&stre
 
 ======================================================== Cricket ===========================================================================================================
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Amazon Prime English
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_key=9c8743426487c9074b60b456dda93e4d:643e4f68ec9e3309b7e1e61b95bec85d
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/dn7vupw4sj/out/v1/d7130f460d41486ea7e8e3eb45f0522f/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Hub 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_key=9a29d4f3b6e540b3aa2f36927c01b6f4:57b670b45b5cb453a9f48fa975b702c1
+https://sh-bks400-09.starhubgo.com/bpk-token/1ab@jnl4axetnzd2co3blqekdw2bojk1shyfjfhypbda/bpk-tv/HubSports4HDnew/output/manifest.mpd
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports 1 HD
 https://crichd.workspace-sultanarabi161.workers.dev/live/star1in.m3u8
 
