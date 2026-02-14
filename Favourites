@@ -4762,7 +4762,7 @@ https://n18syndication-prasar-bharati.akamaized.net/bpk-tv/News18_India_NW18_MOB
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10552.jpg" group-title="Hindi News",News Nation
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10554.jpg" group-title="Hindi News",News 24
-https://bagnetwork.digivive.com/hlslive/Admin/px09241091/live/News24liveB/master_1.m3u8
+https://amg13643-amg13643c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13643-amg13643c1-amgplt0016/playlist.m3u8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10594.jpg" group-title="Hindi News",IBC 24
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0bfbd0b9de7f4407949202296560c0fe/index.m3u8
 #EXTINF:0, tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1335619945BHARAT__24__TVW______720x405.webp" group-title="Hindi News",Bharat 24
