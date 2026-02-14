@@ -651,7 +651,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Mtvbeats2/default/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Bhojpuri.png" group-title="watcho",Sangeet Bhojpuri
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=eeb0cd6768be49eeb8eac3df17638a4e:3496163276404b46906865eadd195e67
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri2/default/sangeetbhojpuri2.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="watcho",Sangeet Bangla
@@ -2494,10 +2494,34 @@ https://zap-live1-ott.izzigo.tv/2/out/u/dash/UNIVERSAL-REALITY-HD/manifest.mpd
 https://zap-live1-ott.izzigo.tv/1/out/u/dash/STUDIO-UNIVERSAL-HD/default.mpd
 
 
-#EXTINF:-1 tvg-logo="" group-title="Izzigo", Comedy Central HD
+
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo",AMC HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=97cfeda35c2f42d6c2be729ea2945b12:59c1f3c384bd0a25e817539d5fe6e24b
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/AMCHD/default.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo",AMC Series HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7f17a97ad60b44791b59611754cee68:6aaa00f8c250cf28a10ce84b8748ea94
+https://nog-live1-ott.izzigo.tv/14/out/u/dash/AMC-SERIES-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo",TNT Series HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8c7c3c7a05812a5245d64c0eced08a41:e56c4dedfa6c51f617cc7c9d2d61f7a8
+https://nog-live1-ott.izzigo.tv/1/out/u/dash/TNTSERIESHD/default.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo",Sony HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47b8d1118047c47ff9d794fca6c9997a:97af829b2dd037fb85550b85b0757685
+https://zap-live1-ott.izzigo.tv/3/out/u/dash/SONY-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Izzigo",Comedy Central HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2a61b7a7912064acc62a06a6ae22ac5c:5bfb374d644703550f0637532bca0491
-https://nog-live1-ott.izzigo.tv/2/out/u/dash/COMEDYCENTRALHD/default.mpd
+https://zap-live1-ott.izzigo.tv/2/out/u/dash/COMEDY-CENTRAL-HD/default.mpd
+
+
 
 #EXTINF:-1 tvg-logo="" group-title="Izzigo", Discovery Home & Health HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2534,10 +2558,6 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/EEntertainmentHD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=8ce1ec3e2402a170cbe13b79ce9bb30f:82fdcfde32cc02673547e58b50e2b5ae
 https://nog-live1-ott.izzigo.tv/3/out/u/dash/FXHD/default.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Izzigo", HOLA TV HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3324372c149efbd4755e94a5989f4eef:8ed2cae763c527146b490acb667e3221
-https://nog-live1-ott.izzigo.tv/1/out/u/dash/HOLATVHD/default.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Izzigo", Lifetime HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
