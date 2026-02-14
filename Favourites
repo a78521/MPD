@@ -5545,17 +5545,20 @@ https://amg00223-amg00223c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00223-a
 
 
 ========================================================PTC ===========================================================================================================
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/B6K29Z9z/PTC-MUSIC.jpg" group-title="PTC",PTC MUSIC
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/B6K29Z9z/PTC-MUSIC.jpg" group-title="PTC",PTC Music
 https://mumt04.tangotv.in/PTCMUSIC/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RVshdr29/PTC-NEWS.png" group-title="PTC",PTC NEWS
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RVshdr29/PTC-NEWS.png" group-title="PTC",PTC News
 https://mumt02.tangotv.in/PTCNEWS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsQVvSKJ/PTC-CHAKDE.png" group-title="PTC",PTC CHAKDE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsQVvSKJ/PTC-CHAKDE.png" group-title="PTC",PTC Chakde
 https://mumt02.tangotv.in/PTCCHAKDE/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cGJ2hb8/PTC-SIMRAN.jpg" group-title="PTC",PTC SIMRAN
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cGJ2hb8/PTC-SIMRAN.jpg" group-title="PTC",PTC Simran
 https://mumt05.tangotv.in/PTCSIMRAN/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYLMzZpp/PTC-PUNJABI.jpg" group-title="PTC",PTC PUNJABI
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYLMzZpp/PTC-PUNJABI.jpg" group-title="PTC",PTC Punjabi
 https://mumt04.tangotv.in/PTCPUNJABI/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJyf4r23/PTC-PUNJABI-GOLD.jpg" group-title="PTC",PTC PUNJABI GOLD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYLMzZpp/PTC-PUNJABI.jpg" group-title="PTC",PTC Punjabi Canada
+https://neotv.ottlive.co.in/ptccanada/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJyf4r23/PTC-PUNJABI-GOLD.jpg" group-title="PTC",PTC Punjabi Gold
 https://mumt04.tangotv.in/PTCPUNJABIGOLD/index.m3u8
 
 
