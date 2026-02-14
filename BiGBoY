@@ -1,5 +1,31 @@
 #EXTM3U 
 
+EXTINF:-1 tvg-logo="https://i.imgur.com/Z7trxue.png" group-title="XBiGBoY",XXX PENTHOUSE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=12ea2af43c32671ae610492a42eb9d3d:8c93d80f9aef8ff702743eafda810b91
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(PENTHOUSE)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z7trxue.png" group-title="XBiGBoY",XXX SEXTREME
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2979731ffd7c7827fe0070051f1c6e05:cfa5e8db9fbf97551474908d9f8e9a90
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(SEXTREME)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z7trxue.png" group-title="XBiGBoY",XXX PLAYBOY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d6b8f1b33b0baa9d8ec0e11ff96a4edb:3eeb40842519f4d15086500280d6852e
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(PLAYBOYHD)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z7trxue.png" group-title="XBiGBoY",XXX VENUS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=61f9258fccd4d4685cfe053e6ad55a2f:084761c25e58beb84cbebfa2f1e23469
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(VENUS)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z7trxue.png" group-title="XBiGBoY",XXX SEXYHOT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=29bbe17d85323f16aa9d2b3fb5bd8c0f:9576c7c27a1c36b82c78b57b0d4b4d84
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(SEXYHOT_HD)/manifest.mpd
+
+
 #EXTINF:-1 tvg-logo="" group-title="Test",Hustler HD
 http://85.11.144.9:50999/30
 #EXTINF:-1 tvg-logo="" group-title="Test",Redlight HD
