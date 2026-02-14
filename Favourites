@@ -155,6 +155,7 @@ http://slayerteam.in.rs:80/play/live.php?mac=00:1B:79:F0:81:7F&extension=ts&stre
 #EXTINF:-1 tvg-logo="" group-title="Mac",TV Cine Top
 http://slayerteam.in.rs:80/play/live.php?mac=00:1B:79:F0:81:7F&extension=ts&stream=107423
 
+
 ======================================================== Cricket ===========================================================================================================
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Amazon Prime English
@@ -954,6 +955,49 @@ https://cc-0eowrlibr9f50.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fish-tank/master.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700012OU_20250610T001107SQUARE.png" group-title="Ambiance",Ocean Vives
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-j8l68sqtjf8kc.m3u8
+
+============================================================= Bhojpuri===================================================================================================================
+
+#EXTINF:-1 tvg-id="10550" tvg-logo="" group-title="Bhojpuri",B4U Bhojpuri
+https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/HD720/HD720.m3u8
+#https://b4u.cdn.runn.tv/B4U_Bhojpuri/HD720/HD720.m3u8
+
+#EXTINF:-1 tvg-id="10550" tvg-logo="" group-title="Bhojpuri",B4U+ Bhojpuri
+https://d15g19kirdse6k.cloudfront.net/B4U_Bhojpuri/master.m3u8
+
+#EXTINF:-1 tvg-id="10550" tvg-logo="" group-title="Bhojpuri",B4U
+https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/HD720/HD720.m3u8
+#https://b4u.cdn.runn.tv/B4U_Bhojpuri/HD720/HD720.m3u8
+
+#EXTINF:-1 tvg-id="10550" tvg-logo="" group-title="Bhojpuri",Anjan TV
+https://cdn-1.pishow.tv/live/993/master.m3u8
+
+#EXTINF:-1 tvg-id="10550" tvg-logo="" group-title="Bhojpuri",Filmachi
+https://epiconvh.akamaized.net/live/filamchi/master_1024.m3u8
+
+#EXTINF:-1 tvg-id="10550" tvg-logo="" group-title="Bhojpuri",Bhojpuri Cinema
+https://live-bhojpuri.akamaized.net/liveabr/pub-iobhojpuqbu6yj/live_720p/chunks.m3u8
+#https://amg01448-samsungin-enterr10bhojpuri-samsungin-ad-fv.amagi.tv/playlist/amg01448-samsungin-enterr10bhojpuri-samsungin/playlist.m3u8
+#https://cdn-4.pishow.tv/live/1033/master.m3u8
+
+
+#EXTINF:-1 tvg-id="10550" tvg-logo="" group-title="Bhojpuri",Dabangg
+https://d1taaads3ztvmu.cloudfront.net/120723/dabangg/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="10550" tvg-logo="" group-title="Bhojpuri",Pasand
+https://d1msejlow1t3l4.cloudfront.net/fta/pasand/chunks.m3u8
+#EXTINF:-1 tvg-id="10550" tvg-logo="" group-title="Bhojpuri",Sundarni TV
+https://holistic.ottlive.co.in/sundranitv/index.m3u8
+
+#EXTINF:-1 tvg-id="10550" tvg-logo="" group-title="Bhojpuri",Captain TV
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.m3u8?id=3069&format=.m3u8
+
+#EXTINF:-1 tvg-id="10550" tvg-logo="" group-title="Bhojpuri",Mahua Play
+https://cdn.ottlive.co.in/mahuaplay/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="10550" tvg-logo="" group-title="Bhojpuri",Mahua Khabar
+https://cdn.ottlive.co.in/mahuakhabar/tracks-v1a1/mono.m3u8
 
 ============================================================= Haryanavi===================================================================================================================
 
@@ -4139,12 +4183,18 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3bc92ffb55814535801f929a1ac96c57/in
 https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/index.m3u8
 
 
+#EXTINF:-1 tvg-id="10550" tvg-logo="" group-title="Waves",Astha HD
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/c0a91ce585024dc9ac69786ea4e6ebd4/index.m3u8
+#EXTINF:-1 tvg-id="10550" tvg-logo="" group-title="Waves",Astha Bhajan
+https://d2lk5u59tns74c.cloudfront.net/out/v1/218f9e64bdce42369500e93cff50572f/index.m3u8
 #EXTINF:-1 tvg-id="10550" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1874629704DIVYA.webp" group-title="Waves", DIVYA
 https://d2lk5u59tns74c.cloudfront.net/out/v1/40f46fa036df45ee9d28b6eda42eb27c/index.m3u8
 #EXTINF:-1 tvg-id="10610" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/111206065DD_TRIPURA-4.webp" group-title="Waves", Sanskar
 https://d2lk5u59tns74c.cloudfront.net/out/v1/bc57af15b4df4200af5fa4c1d6ab0a72/index.m3u8
 #EXTINF:-1 tvg-id="10611" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/896293492DD_TRIPURA-5.webp" group-title="Waves", SATSANG
 https://d2lk5u59tns74c.cloudfront.net/out/v1/e903e03c2b414ee0b74db68d7779ccad/index.m3u8
+#EXTINF:-1 tvg-id="10550" tvg-logo="" group-title="Waves",Dharm Sandesh
+https://d2lk5u59tns74c.cloudfront.net/out/v1/aed713462c734923aac946a547265288/index.m3u8
 
 
 =============================================================Xiaomi TV =======================================================================================================================
