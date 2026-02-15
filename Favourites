@@ -173,12 +173,13 @@ https://sh-bks400-09.starhubgo.com/bpk-token/1ab@jnl4axetnzd2co3blqekdw2bojk1shy
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports 1 HD
-https://crichd.workspace-sultanarabi161.workers.dev/live/star1in.m3u8
+https://playztv-apps.pages.dev/star-sports/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports 1 Hindi HD
 https://crichd.workspace-sultanarabi161.workers.dev/live/starhindi.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports 1 Hindi
+http://103.229.254.25:7001/play/a0dn/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="Cricket",A Sports HD
 https://crichd.workspace-sultanarabi161.workers.dev/live/asportshd.m3u8
