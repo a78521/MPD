@@ -4853,6 +4853,8 @@ https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m
 #https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-cnnnewsnw18-samsungin/playlist.m3u8
 #EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300008ZY_20250604T011416SQUARE.png" group-title="English News",CNBC TV 18
 https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
+#EXTINF:0, tvg-logo="h" group-title="English News",CNBC TV Prime 18
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
 #https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-nw18cnbc-samsungin/playlist.m3u8
 #EXTINF:0, tvg-logo="" group-title="English News",First Post
 https://nw18live.cdn.jio.com/bpk-tv/Firstpost_NW18_MOB/output01/index.m3u8
