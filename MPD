@@ -524,6 +524,31 @@ https://ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/o
 
 
 ======================================================== Watcho ==========================================================================================================================
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea072aefcd425db8b131332605228b37:23f613713818e2974f2e6bafc10d5c3d
+#EXTINF:-1 tvg-logo="https://cms.bheem.tv/v1/imageresize/w_320/h_180/fill/%2Fmount%2Fimages%2Fteplay%2F639323d7e97311c2278a6a40%2Fen%2FLandscape%2FHYiJrwEaaDdMce71680856930.png" group-title="watcho", Bheem Tv
+https://login.bheem.tv/bpk-tv/22094/output/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bb0b89531a15504d8f38d51bc39c7c65:83ec5d4ac0ef2a58830424a440231100
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/JZFLrlPP5c1YGD1xxTkZ35B_uW9P_nUqeBLZPJqtOTlx0FDNnrmIHSzrzzOL6YMCJtniMPm3X_U=s900-c-k-c0x00ffffff-no-rj" group-title="watcho", Telemax Telugu
+https://login.bheem.tv/bpk-tv/22362/output/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c51805e0247f57d98b93e88ca3b71ee9:d417b5e60aad01e17fd946f5b4a60584
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/N_WE7kul-ww3DIkvs6VXE-NWRljAME6bWSXGtqde1Q7cpCEaoYPqIobANDKxCNXbsjeznRDpRg=s120-c-k-c0x00ffffff-no-rj" group-title="watcho", BCN News
+https://login.bheem.tv/bpk-tv/22327/output/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7cf53782c245274ab8535e542ef112c:a00af3fe7ada67409a0522b04eabc276
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj7OfVVQ97U05ANbxOAuXkqYLAJX9x-IEfwkkBdNwRSGbSbxNloRPSQIb59bRNGxC_rFMKs5PWiKpMGyoFbBpbip4ClV9Gu0aVVtPSnrU9hW0xRanKxFj2yeWMpEYzksqYIvtaF8i6moNHDpKrc8YlLOe_dqAStKxDMKwFYgYueuoOgyZo4xr0aNic5Q7Pl=s1280" group-title="watcho", BCN Tv
+https://login.bheem.tv/bpk-tv/22302/output/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5190427b2c595770a32994d3412ec6e8:caebbaa588560b8713aaf74b6bd43283
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj7OfVVQ97U05ANbxOAuXkqYLAJX9x-IEfwkkBdNwRSGbSbxNloRPSQIb59bRNGxC_rFMKs5PWiKpMGyoFbBpbip4ClV9Gu0aVVtPSnrU9hW0xRanKxFj2yeWMpEYzksqYIvtaF8i6moNHDpKrc8YlLOe_dqAStKxDMKwFYgYueuoOgyZo4xr0aNic5Q7Pl=s1280" group-title="watcho", BCN Entertainment
+https://login.bheem.tv/bpk-tv/22301/output/index.mpd
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="" group-title="watcho",Star Gold HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
