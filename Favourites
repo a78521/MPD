@@ -171,6 +171,12 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/dn7vupw4sj/out/v1/d7
 #KODIPROP:inputstream.adaptive.license_key=9a29d4f3b6e540b3aa2f36927c01b6f4:57b670b45b5cb453a9f48fa975b702c1
 https://sh-bks400-09.starhubgo.com/bpk-token/1ab@jnl4axetnzd2co3blqekdw2bojk1shyfjfhypbda/bpk-tv/HubSports4HDnew/output/manifest.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",T Sports HD
+https://aynaott.unosottor.workers.dev/bpk-tv/tsportshd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",PTV HD
+https://aynaott.unosottor.workers.dev/bpk-tv/Ptvsports.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",A Sports HD
+https://aynaott.unosottor.workers.dev/bpk-tv/asports.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports 1 HD
 https://playztv-apps.pages.dev/star-sports/index.m3u8
