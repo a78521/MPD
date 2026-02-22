@@ -190,12 +190,20 @@ http://103.229.254.25:7001/play/a0dn/index.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="Cricket",A Sports HD
 https://crichd.workspace-sultanarabi161.workers.dev/live/asportshd.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Astro Cricket
+http://vipfdedgevv.top:8080/live/VIP0110174213587850/51742135878100/146809.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports Cricket
+http://vipfdedgevv.top:8080/live/VIP0110174213587850/51742135878100/147059.ts
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports 2 HD
+https://mysouq1.com/live/76631957/10205687/675817.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports 2 HD Jio
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=1984&format=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports Khel
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports Khel Jio
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=1998&format=.m3u8
@@ -206,7 +214,8 @@ https://m3uplay.com/leo/live.php?id=1998&format=.m3u8
 #KODIPROP:inputstream.adaptive.license_key=9457eb90129456fa8ea95e10ba4ac51e:e620a970cea474c491ac78ae71a4d764
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/output/index.mpd
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Hub Sports
+https://mysouq1.com/live/76631957/10205687/675823.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports Tamil
 http://87.255.35.150:18844
