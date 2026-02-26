@@ -491,6 +491,8 @@ https://mumt04.tangotv.in/E24/index.m3u8
 https://mumt03.tangotv.in/FOODFOOD/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",B4U Music
+https://mumt04.tangotv.in/B4UMUSIC/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",B4U Movies
 https://mumt02.tangotv.in/B4UMOVIES/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",B4U Bhojpuri
@@ -498,11 +500,29 @@ https://mumt05.tangotv.in/B4UBHOJPURI/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",B4U Kadak
 https://mumt02.tangotv.in/B4UKADAK/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",All Time Movies
+https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Tango TV",9x Jalwa
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",9XM
+https://mumt01.tangotv.in/9XM/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",9X Jalwa
 https://mumt03.tangotv.in/9XJALWA/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",9X Jhakkas
+https://mumt03.tangotv.in/9XJHAKAAS/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Mastii
+https://mumt02.tangotv.in/MASTIII/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Music India
+https://mumt05.tangotv.in/MUSICINDIA/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Evergreen Hits
 https://mumt02.tangotv.in/EVERGREENHITS2/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Hindi%20Hits.jpg?raw=true" group-title="Tango TV",Hindi Hits HD
+https://mumt01.tangotv.in/HINDIHITS/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Balle Balle
+https://mumt04.tangotv.in/BALLEBALLE/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",MH1
@@ -522,6 +542,8 @@ https://mumt05.tangotv.in/THEQ/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Sangeet Bangla
 https://mumt05.tangotv.in/SANGEETBANGLA/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Sangeet Bhojpuri
+https://mumt01.tangotv.in/SANGEETBHOJPURI/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",PTC News
 https://mumt02.tangotv.in/PTCNEWS/index.m3u8
@@ -547,6 +569,13 @@ https://mumt01.tangotv.in/DDNATIONALHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Manoranjan Movies
 https://mumt04.tangotv.in/MANORANJANMOVIES/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Manoranjan Prime
+https://mumt02.tangotv.in/MANORANJANPRIME/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Manoranjan Grand
+https://mumt02.tangotv.in/MANORANJANGRAND/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Movieplex
+https://mumt04.tangotv.in/MOVIEPLEX/index.m3u8
 
 
 
@@ -5093,7 +5122,8 @@ https://amg00223-unisys-amg00223c2-lg-in-2045.playouts.now.amagi.tv/playlist/amg
 #EXTINF:0, tvg-logo="" group-title="Hindi Music",Hindi Music
 https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL2Rob29tNHUubWUvc3RhbGtlcl9wb3J0YWwvIiwibWFjIjoiMDA6MUE6Nzk6MDA6MTI6NDQiLCJzbiI6IkY3NzUzQTY0RTIyNkUiLCJkZXZpY2VfaWQxIjoiNEIwQUFDNEI1RUIwQzkzMTAwNjVDN0QxMTJGRjUwQ0FERDczMDcxNkQ0NzYyMTg0RkMxQjkxMTYyRDMzRUUyQiIsImRldmljZV9pZDIiOiI0QjBBQUM0QjVFQjBDOTMxMDA2NUM3RDExMkZGNTBDQURENzMwNzE2RDQ3NjIxODRGQzFCOTExNjJEMzNFRTJCIiwic2lnIjoiIn0%3D&id=10544
 
-
+#EXTINF:0, tvg-logo="" group-title="Hindi Music",T Series
+http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="Hindi Music",ITV Indian Music
 https://ca1.buximedia.com/itv/indian/index.m3u8
