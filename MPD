@@ -1,5 +1,18 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="" group-title="Mac",Star Plus
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276912&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Mac",Star Bharat HD
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276909&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Mac",Star Gold HD
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276910&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Mac",Star Sports 1 HD
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276730&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Mac",Star Sports 1 Hindi HD
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276731&extension=ts
+
+
+
 
 =========================================================== Times Play ==========================================================================================================
 
