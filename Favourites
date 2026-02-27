@@ -426,6 +426,12 @@ https://smr-runntv-blywd.cdn.runn.tv/shemaroo/stream/smrbol/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SMRFGN/Web/thumbnail/logo_web.png" group-title="Runn TV",Shemaroo Filmigaane
 https://smr-runntv-flmgn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="" group-title="Runn TV",dice
+https://dicemedia.cdn.runn.tv/pocketaces/stream/dicmed/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Runn TV",Filter Copy
+https://filtercopy.cdn.runn.tv/pocketaces/stream/fltrcopy/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_CINSHF/Web/thumbnail/logo_web.png" group-title="Runn TV",Cineshorts Premiere
 https://playout.runn.tv/playout/v1/stream/p_cinshf/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_PKTFLM/Web/thumbnail/logo_web.png" group-title="Runn TV",Pocket Films
