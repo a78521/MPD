@@ -838,6 +838,17 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ndtv24x72/default/main.mpd
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Newsnation2/default/main.mpd
 
 
+#EXTINF:-1 tvg-logo="" group-title="watcho",Shemaroo TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ef0ac2ffe7c56bc9873740402bff248:c1f453a5367057e62a0242d5228e765a
+https://login.bheem.tv/bpk-tv/22431/output/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="watcho",B Flix Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf3c6e4625e4539db1fcc43474393c6a:3b9cb89c81d29e5744829ec64ed219c8
+https://login.bheem.tv/bpk-tv/22401/output/index.mpd
+
+
 =========================================================== Perfect TV =================================================================================================================
 
 #EXTINF:-1 group-logo="" group-title="Perfect TV" tvg-id="" tvg-logo="https://get.perfecttv.net/logo/hbohd.png",HBO
