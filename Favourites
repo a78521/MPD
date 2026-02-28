@@ -181,6 +181,16 @@ https://aynaott.unosottor.workers.dev/bpk-tv/asports.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports 1 HD
 https://playztv-apps.pages.dev/star-sports/index.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/geekyhimanshu/KP-Channels/refs/heads/main/StarSports1HindiHD.jpg" group-title="Cricket",Star Sports 1 Hindi HD
+http://163.61.227.29:8000/play/a062
+#EXTINF:-1 tvg-id="https://raw.githubusercontent.com/geekyhimanshu/KP-Channels/refs/heads/main/StarSportHD1.jpg" tvg-logo="" group-title="Cricket",Star Sports 1 English HD
+http://163.61.227.29:8000/play/a00f
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/geekyhimanshu/KP-Channels/refs/heads/main/StarSportsHD2.jpg" group-title="Cricket",Star Sports 2 English HD
+http://163.61.227.29:8000/play/a069
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/geekyhimanshu/KP-Channels/refs/heads/main/StarSportsHindiHD2.jpg" group-title="Cricket",Star Sports 2 Hindi HD
+http://163.61.227.29:8000/play/a012
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports 1 Hindi HD
 https://crichd.workspace-sultanarabi161.workers.dev/live/starhindi.m3u8
 
@@ -189,6 +199,12 @@ http://103.229.254.25:7001/play/a0dn/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="Cricket",A Sports HD
 https://crichd.workspace-sultanarabi161.workers.dev/live/asportshd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket",Willow USA
+https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket",Willow 2
+https://crichd.workspace-sultanarabi161.workers.dev/live/willowextra.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket",Sky Sports Cricket
+https://crichd.workspace-sultanarabi161.workers.dev/live/skyscric.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Astro Cricket
 http://vipfdedgevv.top:8080/live/VIP0110174213587850/51742135878100/146809.ts
@@ -446,6 +462,9 @@ https://playout.runn.tv/playout/v1/stream/jagran/playlist.m3u8
 https://dicemedia.cdn.runn.tv/pocketaces/stream/dicmed/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Runn TV",Filter Copy
 https://filtercopy.cdn.runn.tv/pocketaces/stream/fltrcopy/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Runn TV",Atrangi
+https://csm-e-runntvprdlive-eb.runnads.runn.media/csm/extlive/runntvprd01,atrangiividaa2.m3u8?yo.up=https://amg13343-amg13343c1-amgplt0249.playout.now3.amagi.tv
 
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_CINSHF/Web/thumbnail/logo_web.png" group-title="Runn TV",Cineshorts Premiere
 https://playout.runn.tv/playout/v1/stream/p_cinshf/playlist.m3u8
@@ -872,6 +891,16 @@ https://m3uplay.com/leo/live.php?id=463&format=.m3u8
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=415&format=.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",TV Asia
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.m3u8?id=3071&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Sun Neo
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.m3u8?id=3088&format=.m3u8
+
 ================================================== Zee5 ===============================================================================================================
 
 #EXTINF:-1 tvg-id="&TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665.png" group-title="ZEE5",&TV HD
@@ -1024,6 +1053,9 @@ https://toober.keralive.workers.dev/4c3caf7294b3/c8bf99484885/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="4K",4K Travel
 https://streams2.sofast.tv/ptnr-lgtv/title-4K-TRAVEL-TV-ENG_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f92ab8c4-4897-46ad-8da0-d09d4a9bb25f/manifest.m3u8
 #https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="4K",Travelxp 4K HDR
+https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
 
 ============================================================= Ambiance===================================================================================================================
 
@@ -1230,6 +1262,20 @@ https://shls-live-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/in
 
 
 ================================================== United Kingdom ===============================================================================================================
+
+#EXTINF:-1 tvg-logo="" group-title="UK",ITV 1 HD
+http://212.32.241.201:8000/play/a03n
+#EXTINF:-1 tvg-logo="" group-title="UK",ITV 1 HD (2)
+http://212.32.241.201:8000/play/a03p
+#EXTINF:-1 tvg-logo="" group-title="UK",ITV 2 HD
+http://212.32.241.201:8000/play/a03k
+#EXTINF:-1 tvg-logo="" group-title="UK",ITV 3 HD
+http://212.32.241.201:8000/play/a02p
+#EXTINF:-1 tvg-logo="" group-title="UK",4 HD
+http://212.32.241.201:8000/play/a002
+#EXTINF:-1 tvg-logo="" group-title="UK",5 HD
+http://212.32.241.201:8000/play/a023 
+
 
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1400001E4_20250107T031103SQUARE.png" group-title="UK",Curiosity Now Row
@@ -4267,6 +4313,17 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3bc92ffb55814535801f929a1ac96c57/in
 https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/index.m3u8
 
 
+#EXTINF:-1 tvg-id="10550" tvg-logo="" group-title="Waves",News State Uttar Pradesh/Uttarakhand
+https://cdn.originein.in/nntv/nnup/index.m3u8
+#EXTINF:-1 tvg-id="10550" tvg-logo="" group-title="Waves",News State Punjab Haryana/Himachal
+https://cdn.originein.in/nntv/nnpunj/index.m3u8 
+#EXTINF:-1 tvg-id="10550" tvg-logo="" group-title="Waves",News State Bihar/Jharkhand
+https://cdn.originein.in/nntv/nnbrjh/index.m3u8
+#EXTINF:-1 tvg-id="10550" tvg-logo="" group-title="Waves",News State Madhya Pradesh/Chhattisgarh
+https://cdn.originein.in/nntv/nnmp/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="10550" tvg-logo="" group-title="Waves",Astha HD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/c0a91ce585024dc9ac69786ea4e6ebd4/index.m3u8
 #EXTINF:-1 tvg-id="10550" tvg-logo="" group-title="Waves",Astha Bhajan
@@ -5188,8 +5245,10 @@ https://d1taaads3ztvmu.cloudfront.net/120723/mastii/chunklist.m3u8
 
 #EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700015M0_20240731T012453SQUARE.png" group-title="Hindi Music",Music India
 https://amg00416-amg00416c5-samsung-in-3259.playouts.now.amagi.tv/playlist/amg00416-travelxp-musicindia-samsungin/playlist.m3u8
+
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10596.jpg" group-title="Hindi Music",E24
-https://bagnetwork.digivive.com/hlslive/Admin/px09241091/live/E24LiveB/master_1.m3u8
+https://amg13643-amg13643c2-amgplt0173.playout.now3.amagi.tv/playlist/amg13643-amg13643c2-amgplt0173/playlist.m3u8
+#https://amg13643-amg13643c2-amgplt0016.playout.now3.amagi.tv/playlist/amg13643-amg13643c2-amgplt0016/playlist.m3u8
 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10545.jpg" group-title="Hindi Music",B4U Music
 https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
@@ -5442,6 +5501,9 @@ https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 #EXTINF:0, tvg-logo="https://d3s2p39m306u7r.cloudfront.net/atrangii/LG/Atrangii_FullandFinal.png" group-title="Hindi Entertainment",Atrangi
 https://amg13343-amg13343c1-amgplt0173.playout.now3.amagi.tv/playlist/amg13343-amg13343c1-amgplt0173/playlist.m3u8
+#https://amg13343-amg13343c1-amgplt0637.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13343-amg13343c1-amgplt0637/playlist.m3u8
+#https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/28a659a4-a882-4bbc-baae-94a207e8b914/master.m3u8
+#https://csm-e-runntvprdlive-eb.runnads.runn.media/csm/extlive/runntvprd01,atrangiividaa2.m3u8?yo.up=https://amg13343-amg13343c1-amgplt0249.playout.now3.amagi.tv
 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10598.jpg" group-title="Hindi Entertainment",Dabangg
 
