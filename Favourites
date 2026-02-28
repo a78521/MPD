@@ -835,6 +835,12 @@ https://m3uplay.com/leo/live.php?id=1763&format=.m3u8
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=1145&format=.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",&Pictures HD
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=185&format=.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",CN+ HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
@@ -860,6 +866,11 @@ https://m3uplay.com/leo/live.php?id=479&format=.m3u8
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=463&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Anmol Cinema
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=415&format=.m3u8
 
 ================================================== Zee5 ===============================================================================================================
 
