@@ -3226,6 +3226,7 @@ https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02
 
 #EXTINF:-1 tvg-logo="" group-title="Shemaroo",Shemaroo TV
 https://mumt02.tangotv.in/SHEMAROOTV/index.m3u8
+#https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shemaroo",Shemaroo Umang
 https://mumt04.tangotv.in/SHEMAROOUMANG/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shemaroo",Shemaroo Josh
@@ -3233,13 +3234,13 @@ https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/
 
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SMRBOL/Web/thumbnail/logo_web.png" group-title="Shemaroo",Shemaroo Bollywood
 https://smr-runntv-blywd.cdn.runn.tv/shemaroo/stream/smrbol/playlist.m3u8
-#https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/playlist.m3u8
 #https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#https://amg00864-amg00864c4-amgplt0637.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg00864-amg00864c4-amgplt0637/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SMRFGN/Web/thumbnail/logo_web.png" group-title="Shemaroo",Shemaroo FilmiGaane
 https://smr-runntv-flmgn.cdn.runn.tv/shemaroo/stream/smrfgn/manifest/2.m3u8
-#https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/playlist.m3u8
+
 
 ======================================================================= SKY GO==================================================================================================
 
@@ -5151,9 +5152,6 @@ https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
 #EXTINF:0, tvg-logo="https://a.jsrdn.com/hls/23146/yrf-music/logo_20240322_175611_70.png" group-title="Hindi Music",YRF Music
 https://amg00223-unisys-amg00223c2-lg-in-2045.playouts.now.amagi.tv/playlist/amg00223-sevencolorsbroadcastingprivatelimited-yfrmusic-lgin/playlist.m3u8
 
-#EXTINF:0, tvg-logo="" group-title="Hindi Music",Hindi Music
-https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL2Rob29tNHUubWUvc3RhbGtlcl9wb3J0YWwvIiwibWFjIjoiMDA6MUE6Nzk6MDA6MTI6NDQiLCJzbiI6IkY3NzUzQTY0RTIyNkUiLCJkZXZpY2VfaWQxIjoiNEIwQUFDNEI1RUIwQzkzMTAwNjVDN0QxMTJGRjUwQ0FERDczMDcxNkQ0NzYyMTg0RkMxQjkxMTYyRDMzRUUyQiIsImRldmljZV9pZDIiOiI0QjBBQUM0QjVFQjBDOTMxMDA2NUM3RDExMkZGNTBDQURENzMwNzE2RDQ3NjIxODRGQzFCOTExNjJEMzNFRTJCIiwic2lnIjoiIn0%3D&id=10544
-
 #EXTINF:0, tvg-logo="" group-title="Hindi Music",T Series
 http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 
@@ -5200,7 +5198,8 @@ https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
 
 
 #EXTINF:0, tvg-logo="" group-title="Hindi Music",Shemaroo Filmigane
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/playlist.m3u8
+https://smr-runntv-flmgn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
+
 #EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460001373_20250416T005420SQUARE.png" group-title="Hindi Music",Bolly Raga
 https://cc-up9j649x4thrj.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-up9j649x4thrj/SBUM/RunnTV/BollyRaga_IN/BollyRaga_IN.m3u8
 
