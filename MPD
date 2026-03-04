@@ -1602,12 +1602,12 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.m
 #EXTINF:-1 tvg-id="rock-entertainment" tvg-logo="https://i.imgur.com/BuKajCb.png" group-title="Cignal TV",Rock Entertainment
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e4ee0cf8ca9746f99af402ca6eed8dc7:be2a096403346bc1d0bb0f812822bb62
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_rockentertainment/default/index.mpd
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockentertainment.mpd
 
 #EXTINF:-1 tvg-id="rock-action" tvg-logo="https://i.imgur.com/T70dbrM.png" group-title="Cignal TV",Rock Action
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f852fb8412b11edb8780242ac120002:4cbc004d8c444f9f996db42059ce8178
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_rockextreme/default/index.mpd
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockextreme.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGEL2Ne.png" group-title="Cignal TV",Warner TV HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
