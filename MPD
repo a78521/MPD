@@ -550,7 +550,7 @@ https://delta45tatasky.akamaized.net/out/i/1633.mpd
 #EXTHTTP:{"Cookie":"__hdnea__=st=1772850171~exp=1772936571~acl=/*~hmac=98e31bfd8decc070ed5c709a503ec487d2d163602639a2afe43dfa6caa5e13b3"}
 #KODIPROP:inputstream.adaptive.license_key=d9025bf5bbe6502cab58edaa0b50750b:91b5ca6ebefe3a977cb6fcae31868664
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux; Android 13) ExoPlayerLib/2.11.7
-https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsHD_BTS/output/index.mpd
+https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsHD_BTS/output/index.mpd?__hdnea__=st=1772850171~exp=1772936571~acl=/*~hmac=98e31bfd8decc070ed5c709a503ec487d2d163602639a2afe43dfa6caa5e13b3
 
 
 #EXTINF:-1 tvg-logo="" group-title="watcho",Discovery ID HD
