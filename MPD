@@ -920,17 +920,25 @@ https://load.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 ##KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
 https://load.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl1fhd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Perfect TV" tvg-logo="https://get.perfecttv.net/logo/footballfhd.png",808 Football FHD
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Perfect TV" tvg-logo="https://get.perfecttv.net/logo/footballfhd.png",Football FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=footballfhd
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Perfect TV" tvg-logo="https://get.perfecttv.net/logo/cricketfhd.png",812 Cricket FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=cricket
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro UHD" group-title="Perfect TV"  tvg-logo="https://get.perfecttv.net/logo/sportuhd.png",807 Astro UHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ac8b2f7af05ad829805345a517bc110:ee1ae1cd086fa9bfc0505e6d5e9e27e9
@@ -972,7 +980,11 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=cinemax
 
 
-
+#EXTINF:-1 tvg-id="HITSMovies" ch-number="401" group-title="Perfect TV" group-logo="" tvg-logo="https://get.perfecttv.net/logo/hitsmovies.png",HITS Movies
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_key=ff1febd7018d0dd711601e795e0d6210:38fbfb3a56e40ff92c9df8acbcba9ef6
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hitsmovies
 
 #EXTINF:-1 group-logo="" group-title="Perfect TV" tvg-id="474.unifi" ch-number="474" tvg-logo="https://get.perfecttv.net/logo/rockaction.png",Rock Action
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -995,11 +1007,7 @@ https://get.perfecttv.net/dashVision3.mpd?username=vip_3klp0es8&password=wg3piwE
 #KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
 https://get.perfecttv.net/dashVision3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=galaxypremium
 
-#EXTINF:-1 tvg-id="HITSMovies" ch-number="401" group-title="Perfect TV" group-logo="" tvg-logo="https://get.perfecttv.net/logo/hitsmovies.png",HITS Movies
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_key=ff1febd7018d0dd711601e795e0d6210:38fbfb3a56e40ff92c9df8acbcba9ef6
-https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hitsmovies
+
 
 #EXTINF:-1 tvg-id="" tvg-name="159 Studio Universal" tvg-logo="https://get.perfecttv.net/logo/studiouniversal.png" group-title="Perfect TV",Studio Universal
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
