@@ -1048,21 +1048,12 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 #KODIPROP:inputstream.adaptive.license_key=16ce4fb658cf41678c72cca871770da3:95509b2ad660b196310e93a0388a8a6b
 https://get.perfecttv.net/dashVision.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=fashiontv
 
-#EXTINF:-1 tvg-id="" ch-number="531" tvg-name="MTV Live HD" group-title="Perfect TV" tvg-logo="https://get.perfecttv.net/logo/mtvlife.png",MTV Live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ac2542a4f7be746633db07647451710:22f964a6d6927ccdba482e775cdff190
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd?channel=mtvlive
-
-
 
 #EXTINF:-1 group-logo="" group-title="Perfect TV" tvg-logo="https://get.perfecttv.net/logo/dmax.png",DMAX HD 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_key=62fae935e91c4e8d9e835a294ea81909:328cfed51cba1bfa41f1bda219ceeff8
-https://get.perfecttv.net/dashVision.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dmax|User-Agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://get.perfecttv.net/dashVision.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dmax
 
 #EXTINF:-1 group-logo="" group-title="Perfect TV" tvg-logo="https://get.perfecttv.net/logo/history.png",History HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1106,12 +1097,6 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 #KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
 #https://get.perfecttv.net/dashVision.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=animalplanet|User-Agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 
-#EXTINF:-1 tvg-id="501.unifi" tvg-name="BBC Earth" group-title="Perfect TV" tvg-logo="https://get.perfecttv.net/logo/bbcearth.png" ch-number="501",BBC Earth
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_key=dbf62ff0804bc5b8d523ef009d786310:bb1bdb27cc5fe1ec637d257999344cc3
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd?channel=bbcearth
-
 #EXTINF:-1 tvg-id="512.unifi" ch-number="512" tvg-name="BBC Lifestyle" group-title="Perfect TV" tvg-logo="https://get.perfecttv.net/logo/bbclifestyle.png",BBC Lifestyle
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1120,14 +1105,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd?chan
 #KODIPROP:inputstream.adaptive.license_key=f429292dc744f284355308561577ac10:b12e1f894129c517dc8845baaeebec8a
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbclifestyle
 
-
-
-
-#EXTINF:-1 group-logo="" group-title="Perfect TV" tvg-id="611.astro" tvg-logo="https://get.perfecttv.net/logo/ceria2.png" group-logo="" ,Ceria
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_key=b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88
-https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=ceria
 
 
 #EXTINF:-1 tvg-id="551.unifi" tvg-name"Moonbug Kids" group-title="Perfect TV" tvg-logo="https://get.perfecttv.net/logo/moonbug.png",Moonbug
