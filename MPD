@@ -545,7 +545,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/o
 https://delta45tatasky.akamaized.net/out/i/1633.mpd
 
 
-#EXTINF:-1 tvg-logo="" group-title="watcho",Star Gold HD,Colors HD
+#EXTINF:-1 tvg-logo="" group-title="watcho",Colors HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTHTTP:{"Cookie":"__hdnea__=st=1772850171~exp=1772936571~acl=/*~hmac=98e31bfd8decc070ed5c709a503ec487d2d163602639a2afe43dfa6caa5e13b3"}
 #KODIPROP:inputstream.adaptive.license_key=d9025bf5bbe6502cab58edaa0b50750b:91b5ca6ebefe3a977cb6fcae31868664
@@ -2343,6 +2343,15 @@ https://shd-gcp-live.akamaized.net/live/bitmovin-mbc-2/51db9d7fa48a27d051f1eecb6
 #KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f
 https://shd-gcp-live.akamaized.net/live/bitmovin-mbc-max/b628d2bbaee0431a17859963edf2975f/index.mpd
 
+#EXTINF:-1 tvg-logo="" group-title="USA Channels",Rock Action
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+https://slive.mana2.my/RockAction/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="USA Channels",Rock Entertainment
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+https://slive.mana2.my/RockEntertainment/index.mpd
 
 
 #EXTINF:-129 tvg-logo="https://i.imgur.com/VqTXs9t.png" group-logo="https://i.imgur.com/tURRa1o.png" group-title="USA Channels",CURIOSITY CHANNEL
