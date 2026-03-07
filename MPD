@@ -544,20 +544,13 @@ https://ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/o
 #KODIPROP:inputstream.adaptive.license_key=6f715e0e16cf4b20bc94f6f85023974b:516785ded0aee1dafae22e2874528b2a
 https://delta45tatasky.akamaized.net/out/i/1633.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="watcho",Colors HD
-https://jiotvbpkmob.cdn.jio.com/bpk-tv/ColorsHD_BTS/output/index.mpd?name=ColorsHD&keyId=d9025bf5bbe6502cab58edaa0b50750b&key=91b5ca6ebefe3a977cb6fcae31868664&cookie=__hdnea__=st=1772191697~exp=1772278097~acl=/*~hmac=9eeb9b91c5a24edb651b3658d43b0c0f86ce5226f7eee44338ce364dcbf8ed0c
-
 
 EXTINF:-1 tvg-id="144" tvg-name="Colors HD" group-title="watcho" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTHTTP:{"Cookie":"__hdnea__=st=1772888431~exp=1772974831~acl=/*~hmac=6c544b985633a2811cdb53cd089a255163e6c63e0d16d86d5ea5c51112b7f5b9"}
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ygx/69.1 ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_key=d9025bf5bbe6502cab58edaa0b50750b:91b5ca6ebefe3a977cb6fcae31868664
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux; Android 13) ExoPlayerLib/2.11.7
 https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsHD_BTS/output/index.mpd
-
-
-
 
 
 #EXTINF:-1 tvg-logo="" group-title="watcho",Discovery ID HD
