@@ -545,12 +545,12 @@ https://ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/o
 https://delta45tatasky.akamaized.net/out/i/1633.mpd
 
 
-EXTINF:-1 tvg-id="144" tvg-name="Colors HD" group-title="watcho" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
+#EXTINF:-1 tvg-logo="" group-title="watcho",Star Gold HD,Colors HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTHTTP:{"Cookie":"__hdnea__=st=1772888431~exp=1772974831~acl=/*~hmac=6c544b985633a2811cdb53cd089a255163e6c63e0d16d86d5ea5c51112b7f5b9"}
+#EXTHTTP:{"Cookie":"__hdnea__=st=1772850171~exp=1772936571~acl=/*~hmac=98e31bfd8decc070ed5c709a503ec487d2d163602639a2afe43dfa6caa5e13b3"}
 #KODIPROP:inputstream.adaptive.license_key=d9025bf5bbe6502cab58edaa0b50750b:91b5ca6ebefe3a977cb6fcae31868664
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux; Android 13) ExoPlayerLib/2.11.7
-https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsHD_BTS/output/index.mpd
+https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsHD_BTS/output/index.mpd
 
 
 #EXTINF:-1 tvg-logo="" group-title="watcho",Discovery ID HD
