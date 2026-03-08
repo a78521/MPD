@@ -273,7 +273,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/AL_Jazeera_BTS/output/index.mpd?__hdnea__
 #KODIPROP:inputstream.adaptive.license_key=5181d3e6698055578cedc5bfc86b3e56:3dca7917d8cf9bb7095dc72b48bdcd3c
 https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_BTS/output/index.mpd?__hdnea__=st=1772899229~exp=1772985629~acl=/*~hmac=b4a8c1fe89c761e8aa6cc4b9c484c7d54750d47fe99c9af358708c45bb1f41ca
 
-#EXTINF:-1 tvg-id="1374" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="JT",Disney Junior
+#EXTINF:-1 tvg-id="1374" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Junior.png" group-title="JT",Disney Junior
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b1f9702f7d853c1b198495f64924311:40e11e60a12dd6c154dfea0ffbd5bda8
 https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Junior_BTS/output/index.mpd?__hdnea__=st=1772899229~exp=1772985629~acl=/*~hmac=b4a8c1fe89c761e8aa6cc4b9c484c7d54750d47fe99c9af358708c45bb1f41ca
