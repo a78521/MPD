@@ -617,6 +617,11 @@ https://mega.z5cable.com/bpk-tv/espn_3_hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://mega.z5cable.com/bpk-tv/espn_plus_hd/default/index.mpd
 
+#EXTINF:-1 tvg-id="golf" tvg-logo=" group-title="Megacable",Golf Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://mega.z5cable.com/bpk-tv/golf_channel_hd/default/index.mpd
+
 #EXTINF:-1 tvg-id="foxnews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/250px-Fox_News_Channel_logo.svg.png" group-title="Megacable",Fox News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
@@ -666,6 +671,11 @@ https://mega.z5cable.com/bpk-tv/e_hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://mega.z5cable.com/bpk-tv/nick_hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="cartoonito" tvg-logo="" group-title="Megacable",Cartoonito
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://mega.z5cable.com/bpk-tv/boomerang_hd/default/index.mpd
 
 #EXTINF:-1 tvg-id="cartoon network" tvg-logo="" group-title="Megacable",Cartoon Network HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
