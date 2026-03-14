@@ -688,6 +688,11 @@ https://mega.z5cable.com/bpk-tv/mtv_hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://mega.z5cable.com/bpk-tv/discovery_channel_hd/default/index.mpd
 
+#EXTINF:-1 tvg-id="id" tvg-logo="" group-title="Megacable",Discovery ID
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://mega.z5cable.com/bpk-tv/id_hd/default/index.mpd
+
 #EXTINF:-1 tvg-id="discovery turbo" tvg-logo="" group-title="Megacable",Discovery Turbo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
