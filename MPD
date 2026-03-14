@@ -539,12 +539,12 @@ https://sghost.mobileads.uno/uni5/uni5.mpd?id=Bein4
 
 =========================================================== Megacable ====================================================================================================
 
-#EXTINF:-1 tvg-id="hbo family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/330px-Cinemax_LA.png" group-title="Megacable",HBO Family
+#EXTINF:-1 tvg-id="hbo family" tvg-logo="" group-title="Megacable",HBO Family
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 https://mega.z5cable.com/bpk-tv/hbo_family_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="hbo plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/330px-Cinemax_LA.png" group-title="Megacable",HBO Plus
+#EXTINF:-1 tvg-id="hbo plus" tvg-logo="" group-title="Megacable",HBO Plus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 https://mega.z5cable.com/bpk-tv/hbo_plus_hd/default/index.mpd
