@@ -565,9 +565,14 @@ https://mega.z5cable.com/bpk-tv/cinemax_hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://mega.z5cable.com/bpk-tv/amc_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="syfy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="Megacable",syfy
+#EXTINF:-1 tvg-id="usa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="Megacable",USA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://mega.z5cable.com/bpk-tv/syfy_hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="sony" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Megacable",Sony Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://mega.z5cable.com/bpk-tv/syfy_hd/default/index.mpd
 
 #EXTINF:-1 tvg-id="axn" tvg-logo="" group-title="Megacable",AXN
@@ -614,12 +619,12 @@ https://mega.z5cable.com/bpk-tv/cnn_hd/default/index.mpd
 
 
 
-#EXTINF:-1 tvg-id="tlc" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/500px-NBA_TV.svg.png" group-title="Megacable",TLC HD
+#EXTINF:-1 tvg-id="tlc" tvg-logo="" group-title="Megacable",TLC HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://mega.z5cable.com/bpk-tv/tlc_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="hgtv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/500px-NBA_TV.svg.png" group-title="Megacable",HGTV
+#EXTINF:-1 tvg-id="hgtv" tvg-logo="" group-title="Megacable",HGTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://mega.z5cable.com/bpk-tv/hgtv_hd/default/index.mpd
