@@ -544,7 +544,7 @@ https://sghost.mobileads.uno/uni5/uni5.mpd?id=Bein4
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://mega.z5cable.com/bpk-tv/cinemax_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="axn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/330px-Cinemax_LA.png" group-title="Megacable",AXN
+#EXTINF:-1 tvg-id="axn" tvg-logo="" group-title="Megacable",AXN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://mega.z5cable.com/bpk-tv/axn_hd/default/index.mpd
@@ -579,7 +579,7 @@ https://mega.z5cable.com/bpk-tv/fox_news_hd/default/index.mpd
 #EXTINF:-1 tvg-id="cnn" tvg-logo="" group-title="Megacable",CNN	
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
-https://mega.z5cable.com/bpk-tv/cnn/default/index.mpd
+https://mega.z5cable.com/bpk-tv/cnn_hd/default/index.mpd
 
 #EXTINF:-1 tvg-id="nbatv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/500px-NBA_TV.svg.png" group-title="Megacable",NBA TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
