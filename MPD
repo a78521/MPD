@@ -685,6 +685,11 @@ https://mega.z5cable.com/bpk-tv/tnt_hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://mega.z5cable.com/bpk-tv/e_hd/default/index.mpd
 
+#EXTINF:-1 tvg-id="disney" tvg-logo="" group-title="Megacable",Disney
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://mega.z5cable.com/bpk-tv/disney_channel_hd/default/index.mpd
+
 #EXTINF:-1 tvg-id="nick" tvg-logo="" group-title="Megacable",Nick HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
