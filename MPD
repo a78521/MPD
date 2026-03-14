@@ -536,12 +536,25 @@ https://sghost.mobileads.uno/uni5/uni5.mpd?id=Bein3
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=Bein4
 
 
+
 =========================================================== Megacable ====================================================================================================
+
+#EXTINF:-1 tvg-id="cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/330px-Cinemax_LA.png" group-title="Megacable",Cinemax
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://mega.z5cable.com/bpk-tv/cinemax_hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="axn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/330px-Cinemax_LA.png" group-title="Megacable",AXN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://mega.z5cable.com/bpk-tv/axn_hd/default/index.mpd
+
 
 #EXTINF:-1 tvg-id="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/330px-ESPN_wordmark.svg.png" group-title="Megacable",ESPN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://mega.z5cable.com/bpk-tv/espn_hd/default/index.mpd
+
 
 #EXTINF:-1 tvg-id="espn2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/330px-ESPN2_logo.svg.png" group-title="Megacable",ESPN 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -563,10 +576,21 @@ https://mega.z5cable.com/bpk-tv/espn_plus_hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://mega.z5cable.com/bpk-tv/fox_news_hd/default/index.mpd
 
+#EXTINF:-1 tvg-id="cnn" tvg-logo="" group-title="Megacable",CNN	
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://mega.z5cable.com/bpk-tv/cnn/default/index.mpd
+
 #EXTINF:-1 tvg-id="nbatv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/500px-NBA_TV.svg.png" group-title="Megacable",NBA TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://mega.z5cable.com/bpk-tv/nba_tv_hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="nfl" tvg-logo="" group-title="Megacable",NFL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://mega.z5cable.com/bpk-tv/nfl_hd/default/index.mpd
+
 
 =========================================================== Times Play ==========================================================================================================
 
