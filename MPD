@@ -539,6 +539,11 @@ https://sghost.mobileads.uno/uni5/uni5.mpd?id=Bein4
 
 =========================================================== Megacable ====================================================================================================
 
+#EXTINF:-1 tvg-id="hbo family" tvg-logo="" group-title="Megacable",HBO 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://mega.z5cable.com/bpk-tv/hbo_2_hd/default/index.mpd
+
 #EXTINF:-1 tvg-id="hbo family" tvg-logo="" group-title="Megacable",HBO Family
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
@@ -555,10 +560,25 @@ https://mega.z5cable.com/bpk-tv/hbo_plus_hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://mega.z5cable.com/bpk-tv/cinemax_hd/default/index.mpd
 
+#EXTINF:-1 tvg-id="amc" tvg-logo="" group-title="Megacable",amc
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://mega.z5cable.com/bpk-tv/amc_hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="syfy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="Megacable",syfy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://mega.z5cable.com/bpk-tv/syfy_hd/default/index.mpd
+
 #EXTINF:-1 tvg-id="axn" tvg-logo="" group-title="Megacable",AXN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://mega.z5cable.com/bpk-tv/axn_hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="warner" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/200px-Warner2018LA.png" group-title="Megacable",WB TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://mega.z5cable.com/bpk-tv/warner_channel_hd/default/index.mpd
 
 
 #EXTINF:-1 tvg-id="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/330px-ESPN_wordmark.svg.png" group-title="Megacable",ESPN
@@ -616,7 +636,16 @@ https://mega.z5cable.com/bpk-tv/nba_tv_hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://mega.z5cable.com/bpk-tv/nfl_hd/default/index.mpd
 
+#EXTINF:-1 tvg-id="tnt" tvg-logo="" group-title="Megacable",TNT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://mega.z5cable.com/bpk-tv/tnt_hd/default/index.mpd
 
+
+#EXTINF:-1 tvg-id="e!" tvg-logo="" group-title="Megacable",E!
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://mega.z5cable.com/bpk-tv/e_hd/default/index.mpd
 
 #EXTINF:-1 tvg-id="nick" tvg-logo="" group-title="Megacable",Nick HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -637,6 +666,29 @@ https://mega.z5cable.com/bpk-tv/nick_jr_hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://mega.z5cable.com/bpk-tv/mtv_hd/default/index.mpd
+
+
+#EXTINF:-1 tvg-id="discovery" tvg-logo="" group-title="Megacable",Discovery HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://mega.z5cable.com/bpk-tv/discovery_channel_hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="discovery turbo" tvg-logo="" group-title="Megacable",Discovery Turbo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://mega.z5cable.com/bpk-tv/discovery_turbo_hd/default/index.mpd
+
+
+#EXTINF:-1 tvg-id="history" tvg-logo="" group-title="Megacable",History HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://mega.z5cable.com/bpk-tv/history_channel_hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="h2" tvg-logo="" group-title="Megacable",H2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://mega.z5cable.com/bpk-tv/history_2_hd/default/index.mpd
+
 
 #EXTINF:-1 tvg-id="animal planet" tvg-logo="" group-title="Megacable",Animal Planet HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
