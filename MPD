@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="338.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/80C77245-57B4-4DA8-8C30-4A0A2DB30D1B/0-16x9.png?width=530" group-title="Unifi",Zee Cinema HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=22fdfcf5cb304eb6b2ebbecbca9c9d10:b7c4f0ab8bc0bd4deabe73cf75dfa537
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=ZeeCinema
 
