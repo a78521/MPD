@@ -2033,6 +2033,9 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 ===================================================================Plex TV ==============================================================================================================
 
+#EXTINF:-1 tvg-logo="" group-title="Plex TV",Shemaroo Bollywood
+https://epg-ipv4.provider.plex.tv/library/parts/698f7631338300003d436270-62d1a58e520656fda09e609d.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=x4VMH7LsysimgyLHyBsK&includeAllStreams=1&redirectedFromV6=1
+
 #EXTINF:-1 tvg-logo="" group-title="Plex TV",Cricket Gold
 https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Plex TV",True History
@@ -2040,7 +2043,74 @@ https://linear-188.frequency.stream/dist/plex/188/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Plex TV",One Crime & Justice
 https://linear-593.frequency.stream/dist/xumo/593/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Plex TV",Bloomberg TV
+https://epg-ipv4.provider.plex.tv/library/parts/698f7631338300003d436270-61d73ab0a7b7c7f703418516.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=x4VMH7LsysimgyLHyBsK&includeAllStreams=1&redirectedFromV6=1
+#EXTINF:-1 tvg-logo="" group-title="Plex TV",France 24
+https://epg-ipv4.provider.plex.tv/library/parts/698f7631338300003d436270-678fe7959407a53556d3e8eb.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=x4VMH7LsysimgyLHyBsK&includeAllStreams=1&redirectedFromV6
+#EXTINF:-1 tvg-logo="" group-title="Plex TV",USA Today
+https://epg-ipv4.provider.plex.tv/library/parts/698f7631338300003d436270-60df3e18541143002f3b8607.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=x4VMH7LsysimgyLHyBsK&includeAllStreams=1&redirectedFromV6=1
+#EXTINF:-1 tvg-logo="" group-title="Plex TV",News Max 2
+https://epg-ipv4.provider.plex.tv/library/parts/698f7631338300003d436270-5fb81660b7ad2d002dcb7335.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=x4VMH7LsysimgyLHyBsK&includeAllStreams=1&redirectedFromV6=1
+#EXTINF:-1 tvg-logo="" group-title="Plex TV",Reuters
+https://epg-ipv4.provider.plex.tv/library/parts/698f7631338300003d436270-5eea71d65252710041e0ccbc.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=x4VMH7LsysimgyLHyBsK&includeAllStreams=1&redirectedFromV6=1
+#EXTINF:-1 tvg-logo="" group-title="Plex TV",Eurnews
+https://epg-ipv4.provider.plex.tv/library/parts/698f7631338300003d436270-60089d90f682a3002c348299.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=x4VMH7LsysimgyLHyBsK&includeAllStreams=1&redirectedFromV6=1
+#EXTINF:-1 tvg-logo="" group-title="Plex TV",Yahoo Finance
+https://epg-ipv4.provider.plex.tv/library/parts/698f7631338300003d436270-5f170f01b898490041b49dd1.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=x4VMH7LsysimgyLHyBsK&includeAllStreams=1&redirectedFromV6=1
 
+#EXTINF:-1 tvg-logo="" group-title="Plex TV",Million Dollar Dream Home
+https://epg-ipv4.provider.plex.tv/library/parts/698f7631338300003d436270-684c2379e32026b0c1f53793.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=x4VMH7LsysimgyLHyBsK&includeAllStreams=1&redirectedFromV6=1
+#EXTINF:-1 tvg-logo="" group-title="Plex TV",Design
+https://epg-ipv4.provider.plex.tv/library/parts/698f7631338300003d436270-5f0641d3e8ffda004033b16e.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=x4VMH7LsysimgyLHyBsK&includeAllStreams=1&redirectedFromV6=1
+#EXTINF:-1 tvg-logo="" group-title="Plex TV",The Bold and the Beautiful
+https://epg-ipv4.provider.plex.tv/library/parts/698f7631338300003d436270-67d9a3d663c5439aeaf61305.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=x4VMH7LsysimgyLHyBsK&includeAllStreams=1&redirectedFromV6=1
+
+#EXTINF:-1 tvg-logo="" group-title="Plex TV",Always Funny
+https://epg-ipv4.provider.plex.tv/library/parts/698f7631338300003d436270-5ef11486d33ab9004048a1cd.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=x4VMH7LsysimgyLHyBsK&includeAllStreams=1&redirectedFromV6=1
+#EXTINF:-1 tvg-logo="" group-title="Plex TV",Mythical 24x7
+https://epg-ipv4.provider.plex.tv/library/parts/698f7631338300003d436270-650b5bb3f4b2d9579946a500.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=x4VMH7LsysimgyLHyBsK&includeAllStreams=1&redirectedFromV6=1
+
+#EXTINF:-1 tvg-logo="" group-title="Plex TV",Don't Tell the Bride
+https://epg-ipv4.provider.plex.tv/library/parts/698f7631338300003d436270-635847d0d3a668f1cafc1f9d.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=x4VMH7LsysimgyLHyBsK&includeAllStreams=1&redirectedFromV6=1
+#EXTINF:-1 tvg-logo="" group-title="Plex TV",Hunter
+https://epg-ipv4.provider.plex.tv/library/parts/698f7631338300003d436270-66f6b6baac1a1890ef197a4b.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=x4VMH7LsysimgyLHyBsK&includeAllStreams=1&redirectedFromV6=1
+#EXTINF:-1 tvg-logo="" group-title="Plex TV",Four in a Bed
+https://epg-ipv4.provider.plex.tv/library/parts/698f7631338300003d436270-66e8d7600a1c525933947792.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=x4VMH7LsysimgyLHyBsK&includeAllStreams=1&redirectedFromV6=1
+#EXTINF:-1 tvg-logo="" group-title="Plex TV",Farscape
+https://epg-ipv4.provider.plex.tv/library/parts/698f7631338300003d436270-635195e9ccee3e1547a8831a.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=x4VMH7LsysimgyLHyBsK&includeAllStreams=1&redirectedFromV6=1
+#EXTINF:-1 tvg-logo="" group-title="Plex TV",TFH
+https://epg-ipv4.provider.plex.tv/library/parts/698f7631338300003d436270-61d738b5a7b7c7f703418514.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=x4VMH7LsysimgyLHyBsK&includeAllStreams=1&redirectedFromV6=1
+
+#EXTINF:-1 tvg-logo="" group-title="Plex TV",Wildest
+https://epg-ipv4.provider.plex.tv/library/parts/698f7631338300003d436270-636abc6d4cbc0319a0bd49c0.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=x4VMH7LsysimgyLHyBsK&includeAllStreams=1&redirectedFromV6=1
+#EXTINF:-1 tvg-logo="" group-title="Plex TV",Wild Earth
+https://epg-ipv4.provider.plex.tv/library/parts/698f7631338300003d436270-60d4edddb2fdec002c141135.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=x4VMH7LsysimgyLHyBsK&includeAllStreams=1&redirectedFromV6=1
+#EXTINF:-1 tvg-logo="" group-title="Plex TV",Real Wild
+https://epg-ipv4.provider.plex.tv/library/parts/698f7631338300003d436270-63584a0cf8e2be1350f802a4.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=x4VMH7LsysimgyLHyBsK&includeAllStreams=1&redirectedFromV6=1
+#EXTINF:-1 tvg-logo="" group-title="Plex TV",Mighty Planes
+https://epg-ipv4.provider.plex.tv/library/parts/698f7631338300003d436270-5f74cf83ffbe690040689f4d.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=x4VMH7LsysimgyLHyBsK&includeAllStreams=1&redirectedFromV6=1
+
+#EXTINF:-1 tvg-logo="" group-title="Plex TV",Holidayscapes
+https://epg-ipv4.provider.plex.tv/library/parts/698f7631338300003d436270-654eb862dde2222e8ba551f1.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=x4VMH7LsysimgyLHyBsK&includeAllStreams=1&redirectedFromV6=1
+#EXTINF:-1 tvg-logo="" group-title="Plex TV",Motorvision TV
+https://epg-ipv4.provider.plex.tv/library/parts/698f7631338300003d436270-603fb593a99efc002dbf90e4.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=x4VMH7LsysimgyLHyBsK&includeAllStreams=1&redirectedFromV6=1
+
+#EXTINF:-1 tvg-logo="" group-title="Plex TV",Poker Go
+https://epg-ipv4.provider.plex.tv/library/parts/698f7631338300003d436270-64ac687b4192b4e1bab96279.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=x4VMH7LsysimgyLHyBsK&includeAllStreams=1&redirectedFromV6=1
+#EXTINF:-1 tvg-logo="" group-title="Plex TV",WPT
+https://epg-ipv4.provider.plex.tv/library/parts/698f7631338300003d436270-5f6b8e7900b0950040d0f2b2.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=x4VMH7LsysimgyLHyBsK&includeAllStreams=1&redirectedFromV6=1
+#EXTINF:-1 tvg-logo="" group-title="Plex TV",FIFA +
+https://epg-ipv4.provider.plex.tv/library/parts/698f7631338300003d436270-66628a708dfc36b8c8a399c0.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=x4VMH7LsysimgyLHyBsK&includeAllStreams=1&redirectedFromV6=1
+#EXTINF:-1 tvg-logo="" group-title="Plex TV",Tennis +
+https://epg-ipv4.provider.plex.tv/library/parts/698f7631338300003d436270-6761f91555e174e95ccc4e4c.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=x4VMH7LsysimgyLHyBsK&includeAllStreams=1&redirectedFromV6=1
+#EXTINF:-1 tvg-logo="" group-title="Plex TV",Racing America
+https://epg-ipv4.provider.plex.tv/library/parts/698f7631338300003d436270-61a945156547ba4d6d238dc9.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=x4VMH7LsysimgyLHyBsK&includeAllStreams=1&redirectedFromV6=1
+#EXTINF:-1 tvg-logo="" group-title="Plex TV",FTF Sports
+https://epg-ipv4.provider.plex.tv/library/parts/698f7631338300003d436270-605a309dc5acdc002c7a20aa.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=x4VMH7LsysimgyLHyBsK&includeAllStreams=1&redirectedFromV6=1
+#EXTINF:-1 tvg-logo="" group-title="Plex TV",World Surf League
+https://epg-ipv4.provider.plex.tv/library/parts/698f7631338300003d436270-652875586425fdb1f32d2169.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=x4VMH7LsysimgyLHyBsK&includeAllStreams=1&redirectedFromV6=1
+#EXTINF:-1 tvg-logo="" group-title="Plex TV",PFL MMA
+https://epg-ipv4.provider.plex.tv/library/parts/698f7631338300003d436270-643f0ecd76de2b4015ae6c01.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=x4VMH7LsysimgyLHyBsK&includeAllStreams=1&redirectedFromV6=1
 
 ===================================================================Pluto TV ===================================================================================================
 
