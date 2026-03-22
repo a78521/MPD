@@ -1662,8 +1662,7 @@ https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 ========================================================== Food & Travel =====================================================================================================================
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Food_Food-002.jpg" group-title="Food & Travel",FOOD FOOD
-https://d1shkqa6pm4dhq.cloudfront.net/master_1080.m3u8
-#https://mumt03.tangotv.in/FOODFOOD/index.m3u8
+https://d2lk5u59tns74c.cloudfront.net/out/v1/ffc601b3dc8d41c5b09115702538d75a/index.m3u8
 
 #EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3000003QJ_20240925T012639SQUARE.png" group-title="Food & Travel",foodxp
 https://amg00416-amg00416c10-samsung-in-4883.playouts.now.amagi.tv/playlist/amg00416-travelxp-foodxp-samsungin/playlist.m3u8
