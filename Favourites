@@ -523,6 +523,8 @@ https://mumt03.tangotv.in/CLASSICHITS/index.m3u8
 https://mumt03.tangotv.in/BFLIX/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Big Magic
 https://mumt05.tangotv.in/BIGMAGIC/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",India Talkies
+https://mumt01.tangotv.in/INDIATALKIES/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NFYY1.png?lock=720x540" group-title="Tango TV",Pasand TV
 https://mumt01.tangotv.in/PASANDTV/index.m3u8
 
