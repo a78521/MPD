@@ -1285,14 +1285,14 @@ https://login.bheem.tv/bpk-tv/22401/output/index.mpd
 
 =========================================================== Perfect TV =================================================================================================================
 
-#EXTINF:-1 tvg-id="401" tvg-name="HBO" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="Perfect TV"" ch-number="401",HBO
+#EXTINF:-1 tvg-id="401" tvg-name="HBO" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="Perfect TV" ch-number="401",HBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ad888ee5dd6496a8c2c77a6284ff936:718716c435914901d2551930a256974e
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://get.perfecttv.net/myunifi.mpd?channel=HBO&kid=7ad888ee-5dd6-496a-8c2c-77a6284ff936
 
-#EXTINF:-1 tvg-id="405" tvg-name="Cinemax" ch-number:"Cinemax" group-title="Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" ch-number="405",Cinemax
+#EXTINF:-1 tvg-id="405" tvg-name="Cinemax" ch-number:"Cinemax" group-title="Perfect TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" ch-number="405",Cinemax
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b83391c0f7c64142baa326b101c9f3d4:1ea53c247b115d6c3bb37a4d0485a37c
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
@@ -1300,7 +1300,27 @@ https://get.perfecttv.net/myunifi.mpd?channel=HBO&kid=7ad888ee-5dd6-496a-8c2c-77
 https://get.perfecttv.net/myunifi.mpd?channel=Cinemax&kid=b83391c0-f7c6-4142-baa3-26b101c9f3d4
 
 
+#EXTINF:-1 tvg-id="473.unifi" ch-number="473" tvg-logo="http://playtv.unifi.com.my:7218/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png" group-logo="https://playtv.unifi.com.my/EPG/WEBTV/assets/images/unifi_logo_white.png" group-title="Perfect TV",Rock Entertainment
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6bbe30dc7d7949849ba0c4f2abb2a3ff:9eb316564523faecf7d5b2fef8081007
+#EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
+https://get.perfecttv.net/myunifi.mpd?channel=RockEnt&kid=6bbe30dc-7d79-4984-9ba0-c4f2abb2a3ff
 
+#EXTINF:-1 tvg-id="451" tvg-name="Warner TV HD" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/7C14DEDF-68C8-447B-B1D7-5CB170AF3CF3/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="Unifi", Warner TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f4ea7be45af4275a8d76845fb19dba5:b02208ea61a2cdbf5b09440bc3157f04
+#EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
+https://get.perfecttv.net/myunifi.mpd?channel=WarnerTV&kid=6f4ea7be-45af-4275-a8d7-6845fb19dba5
+
+
+#EXTINF:-1 tvg-id="701" tvg-name="unifi Sports 1" group-title="Unifi" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202304/20230418/202304180833546499vy.png",Unifi Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90c7eb5d66b442a9a591775cc1154bc9:4af842b9ad5315a01d7655b8b502196f
+#EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
+https://get.perfecttv.net/myunifi.mpd?channel=unifi1&kid=90c7eb5d-66b4-42a9-a591-775cc1154bc9
 
 #EXTINF:-1 group-logo="" group-title="Perfect TV" tvg-id="413.astro" tvg-logo="https://get.perfecttv.net/logo/showcase.png",Showcase Movies 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
