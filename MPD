@@ -1285,6 +1285,23 @@ https://login.bheem.tv/bpk-tv/22401/output/index.mpd
 
 =========================================================== Perfect TV =================================================================================================================
 
+#EXTINF:-1 tvg-id="401" tvg-name="HBO" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="Perfect TV"" ch-number="401",HBO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ad888ee5dd6496a8c2c77a6284ff936:718716c435914901d2551930a256974e
+#EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://get.perfecttv.net/myunifi.mpd?channel=HBO&kid=7ad888ee-5dd6-496a-8c2c-77a6284ff936
+
+#EXTINF:-1 tvg-id="405" tvg-name="Cinemax" ch-number:"Cinemax" group-title="Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" ch-number="405",Cinemax
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b83391c0f7c64142baa326b101c9f3d4:1ea53c247b115d6c3bb37a4d0485a37c
+#EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://get.perfecttv.net/myunifi.mpd?channel=Cinemax&kid=b83391c0-f7c6-4142-baa3-26b101c9f3d4
+
+
+
+
 #EXTINF:-1 group-logo="" group-title="Perfect TV" tvg-id="413.astro" tvg-logo="https://get.perfecttv.net/logo/showcase.png",Showcase Movies 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -1396,7 +1413,7 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=cricket
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro UHD" group-title="Perfect TV"  tvg-logo="https://get.perfecttv.net/logo/sportuhd.png",807 Astro UHD
+#EXTINF:-1 tvg-id="" tvg-name="Astro UHD" group-title="Perfect TV"  tvg-logo="https://get.perfecttv.net/logo/sportuhd.png",Astro UHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1793,17 +1810,19 @@ https://mob.webtvstream.bhtelecom.ba/hls15/viasat_nature.mpd?n=276ceb87b528e1ce0
 
 ===================================================== Unifi ================================================================================================================
 
-#EXTINF:-1 group-title="Unifi",ZeeCinema
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 group-title="Unifi",Zee Cinema
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_key=22fdfcf5cb304eb6b2ebbecbca9c9d10:b7c4f0ab8bc0bd4deabe73cf75dfa537
 https://unifi-live.secureswiftcontent.com/Content/DASH/Live/channel(ZeeCinema)/master.mpd
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7218/CPS/images/universal/film/logo/202308/20230809/20230809082222536837.png" group-title="Unifi",HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_key=7ad888ee5dd6496a8c2c77a6284ff936:718716c435914901d2551930a256974e
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(HBO)/master.mpd
 
@@ -2418,6 +2437,17 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
 
 
+#EXTINF:-1 tvg-id="ROCKACtion" tvg-name="Rock Action" group-title="Astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/RockAction.png",414 Rock Action
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5143/default_primary.mpd
+
+#EXTINF:-1 tvg-id="ROCKXStream" tvg-name="ROCK X Stream" group-title="Astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/RockXStream.png",415 Rock X Stream
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5144/default_primary.mpd
 
 
 #EXTINF:-1 group-title="Astro" tvg-logo="https://pictr.com/images/2024/11/06/xi92Bq.png",AXN
@@ -2577,6 +2607,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=50c699c444e5f80dacafc4c99667d810:de6c5feaae5f6963b4b392ddc8b6a778
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_ott.mpd
 
+#EXTINF:-1 tvg-id="BlippiandFriends" group-title="Astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Blippi&Friends.png" ch-number="619",Blippi & Friends
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1119e01b67a19a3eb37c41140c3fa10:5124996ebcfee077b4aacec307f38d0f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5175/default_primary.mpd
+
 
 #EXTINF:-1 group-title="Astro" tvg-logo="https://pictr.com/images/2025/01/14/x135f6.png",CGTN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2645,6 +2681,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9985/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5018/default_ott.mpd
 
 
+
+
+#EXTINF:-1 tvg-id="AstroSportsUHD" tvg-name="Astro UHD" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png", Astro Sports UHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_primary.mpd
 
 #EXTINF:-1 group-title="Astro" tvg-logo="https://pictr.com/images/2025/01/20/xppmcO.png",Arena Arena 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
