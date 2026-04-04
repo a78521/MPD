@@ -909,10 +909,32 @@ https://m3uplay.com/leo/live.php?id=1763&format=.m3u8
 https://m3uplay.com/leo/live.php?id=1145&format=.m3u8
 
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",&TV HD
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.m3u8?id=472&format=.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",&TV HD
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=415&format=.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",&Pictures HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=185&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",&Xplor HD
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.m3u8?id=1668&format=.m3u8 
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Zee Cinema HD
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=165&format=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",CN+ HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
