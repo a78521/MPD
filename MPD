@@ -1337,12 +1337,12 @@ https://get.perfecttv.net/myunifi.mpd?channel=WarnerTV&kid=6f4ea7be-45af-4275-a8
 https://get.perfecttv.net/myunifi.mpd?channel=unifi1&kid=90c7eb5d-66b4-42a9-a591-775cc1154bc9
 
 
-#EXTINF:-1 player-buffer="6" group-logo="" group-title="Perfect TV" tvg-id="555.unifi" ch-number="555" tvg-logo="https://get.perfecttv.net/logo/dreamworks2.png" group-logo="", 206 Dreamworks
+#EXTINF:-1 player-buffer="6" group-logo="" group-title="Perfect TV" tvg-id="555.unifi" ch-number="555" tvg-logo="https://get.perfecttv.net/logo/dreamworks2.png" group-logo="",Dreamworks
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e8ce35ed8bc34772abedd63383aa11b7:1d2d76741e825e5c7babf597374b016e
 https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dreamworks&kid=e8ce35ed-8bc3-4772-abed-d63383aa11b7
 
-#EXTINF:-1 tvg-id="551.unifi" tvg-name"Moonbug Kids" group-title="Perfect TV" tvg-logo="https://get.perfecttv.net/logo/moonbug.png" ,207 Moonbug
+#EXTINF:-1 tvg-id="551.unifi" tvg-name"Moonbug Kids" group-title="Perfect TV" tvg-logo="https://get.perfecttv.net/logo/moonbug.png",Moonbug
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1356,7 +1356,7 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 #KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
 https://get.perfecttv.net/astro_10802.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=showcase
 
-#EXTINF:-1 tvg-id="hits" ch-number="454" tvg-name="HITS HD" group-title="Perfect TV" tvg-logo="https://get.perfecttv.net/logo/hits.png",174 HITS
+#EXTINF:-1 tvg-id="hits" ch-number="454" tvg-name="HITS HD" group-title="Perfect TV" tvg-logo="https://get.perfecttv.net/logo/hits.png",HITS
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
@@ -1364,14 +1364,14 @@ https://get.perfecttv.net/astro_10802.mpd?username=vip_3klp0es8&password=wg3piwE
 #KODIPROP:inputstream.adaptive.license_key=1fe92685a75844dc54c9dac124802510:36cb2063bf5338d18d31657371b15817
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hits
 
-#EXTINF:-1 tvg-id="HITS Movies" ch-number="401" group-title="Perfect TV" group-logo="" tvg-logo="https://get.perfecttv.net/logo/hitsmovies.png",163 HITS Movies
+#EXTINF:-1 tvg-id="HITS Movies" ch-number="401" group-title="Perfect TV" group-logo="" tvg-logo="https://get.perfecttv.net/logo/hitsmovies.png",HITS Movies
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
 #KODIPROP:inputstream.adaptive.license_key=ff1febd7018d0dd711601e795e0d6210:38fbfb3a56e40ff92c9df8acbcba9ef6
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hitsmovies
 
 
-#EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="Perfect TV" tvg-id="251.astro" tvg-logo="https://get.perfecttv.net/logo/zeecinema.png" ,Zee Cinema
+#EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="Perfect TV" tvg-id="251.astro" tvg-logo="https://get.perfecttv.net/logo/zeecinema.png",Zee Cinema
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -1537,6 +1537,13 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bbb23a5ad81427fa6817864b2383402:81e055a8d6ddf6392ae9033f0f037b98
 https://load.perfecttv.net/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=badminton
+
+#EXTINF:-1 group-logo="" group-title="SPORTS FHD" tvg-id="golf" tvg-logo="https://get.perfecttv.net/logo/golf.png" group-logo="",Astro Golf
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=705bab5e645b6d7c95588b29520f8110:28639bcfb5cbee8ff9ca398fcf5bfcd0
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=golf
 
 
 
