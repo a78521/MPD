@@ -2124,22 +2124,45 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(unifi1)/mas
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://images.indihometv.com/images/channels/imageCir_HBO-180x180_2025_11_05_11_21_29.jpg" group-title="IndiHome TV",HBO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1fa578fb90848a6b40ae09d052e8f96:bf0d2334a6e1ac5c0ed41849ed4d3698
+https://cdn10jtedge.indihometv.com/atm/mpd-vo/hbo/manifest.mpd
+
+
 #EXTINF:-1 tvg-logo="" group-title="IndiHome TV",HBO Hits
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
+
+#EXTINF:-1 tvg-id="HBOHits" tvg-logo="https://images.indihometv.com/images/channels/imageCir_HBO-Hits-180x180_2025_11_05_11_23_20.jpg" group-title="IndiHome TV",HBO Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=904b0f31ea6c42169b5743723c046a49:27c81c26dbe300fc934efe042bd03fda
+https://cdn10jtedge.indihometv.com/atm/mpd-vo/hbohits/manifest.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="IndiHome TV",HBO Family
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 
+#EXTINF:-1 tvg-id="HBOFamily" tvg-logo="https://images.indihometv.com/images/channels/imageCir_HBO-Familly-180x180_2025_11_05_11_14_46.jpg" group-title="IndiHome TV",HBO Family
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff67b52d6c5e4a769f8aba596633b821:fbccc3d9c3a5da07af6469a007defe88
+https://cdn10jtedge.indihometv.com/atm/mpd-vo/hbofamily/manifest.mpd
+
 #EXTINF:-1 tvg-logo="" group-title="IndiHome TV",HBO Signature
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 
+#EXTINF:-1 tvg-id="HBOSignature" tvg-logo="https://images.indihometv.com/images/channels/imageCir_HBO-Signature-180x180_2025_11_05_12_57_49.jpg" group-title="IndiHome TV",HBO Signature
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3f11c01afca40a3ada8ae7516460f8f:50b96ac7a610e68614fc85bbe73f6291
+https://cdn10jtedge.indihometv.com/atm/mpd-vo/hbosignature/manifest.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="IndiHome TV",Cinemax
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="cinemax" tvg-logo="https://images.indihometv.com/images/channels/imageCir_Cinemax-180x180_2025_11_05_13_11_15.jpg" group-title="IndiHome TV",Cinemax
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8287a4d25e9c4ebcae4ba1da118514a0:ec9bc03228ad5e4d96482d90d6095a85
+https://cdn10jtedge.indihometv.com/atm/mpd-vo/cinemax/manifest.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="IndiHome TV",Warner
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2161,11 +2184,16 @@ https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://cdn10jtedge.indihometv.com/atm/DASH/kix/manifest.mpd
 
+#EXTINF:-1 tvg-logo="" group-title="IndiHome TV",FTV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://cdn10jtedge.indihometv.com/atm/DASH/fashiontv/manifest.mpd
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="IndiHome TV",Da Vinci
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-https://cdn10jtedge.indihometv.com/atm/DASH/davinci/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=ff339c6ca7224a8d93bd487e45513b3d:5b8809c4ccf2ee43baa17c9e0a6fbdb0
+https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="" group-title="IndiHome TV",Cartoonito
@@ -2179,6 +2207,11 @@ https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
 #EXTINF:-1 tvg-logo="" group-title="IndiHome TV",Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://cdn10jtedge.indihometv.com/atm/DASH/nickelodeon/manifest.mpd
+
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-logo="https://images.indihometv.com/images/channels/image_ch_cartoonnetwork.png" group-title="IndiHome TV",Cartoon Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=becf26bd23324d149cde4f26a95e333d:881c3a84223b1b6903a3bbee00012413
+https://cdn08jtedge.indihometv.com/dassdvr/133/cartoonnetwork/manifest.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="IndiHome TV",MTV Live
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2204,6 +2237,13 @@ https://cdn10jtedge.indihometv.com/atm/DASH/ABC_AUSTRALIA/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://cdn10jtedge.indihometv.com/atm/DASH/aljazeera/manifest.mpd
 
+
+
+#EXTINF:-1 tvg-id="CNBCAsia" tvg-logo="https://images.indihometv.com/images/channels/image_ch_cnbcasia.png" group-title="IndiHome TV",CNBC Asia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5195cbd347b4492382ae174a00045276:56961bdc4edc6caf510889b44f225aeb
+https://cdn08jtedge.indihometv.com/dassdvr/134/cnbcasia/manifest.mpd
+
 #EXTINF:-1 tvg-logo="" group-title="IndiHome TV",CGTN Doc
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://cdn10jtedge.indihometv.com/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd
@@ -2211,6 +2251,12 @@ https://cdn10jtedge.indihometv.com/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd
 #EXTINF:-1 tvg-logo="" group-title="IndiHome TV",DW
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://cdn10jtedge.indihometv.com/atm/DASH/DWTV/manifest.mpd
+
+#EXTINF:-1 tvg-id="Euronews" tvg-logo="https://images.indihometv.com/images/channels/image_ch_euronews.png" group-title="IndiHome TV",EuroNews
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=968e5adf9f42409298eabdd7ee4a1707:3a42fa0c4072f924299bc08443a4f061
+https://cdn08jtedge.indihometv.com/dassdvr/134/euronews/manifest.mpd
+
 
 #EXTINF:-1 tvg-logo="" group-title="IndiHome TV",France 24
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2220,7 +2266,10 @@ https://cdn10jtedge.indihometv.com/atm/DASH/FRANCE_24/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://cdn10jtedge.indihometv.com/atm/DASH/NHK_WORLD_JAPAN/manifest.mpd
 
-
+#EXTINF:-1 tvg-id="galaxy" tvg-logo="https://images.indihometv.com/images/channels/image_ch_fightsport.png" group-title="IndiHome TV",Fight Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f4c7790660c4a0ea82f38ca1998da13:9186a4ec6c2c2af731de820bf517e4e0
+https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
 
 
 ======================================================= Cignal TV =================================================================================================================
