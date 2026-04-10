@@ -987,6 +987,16 @@ https://m3uplay.com/leo/live.m3u8?id=164&format=.m3u8
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=463&format=.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Discovery ID HD
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.m3u8?id=3434&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Animal Planet HD
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.m3u8?id=3451&format=.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Sony BBC Earth HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
@@ -1015,7 +1025,7 @@ https://m3uplay.com/leo/live.php?id=415&format=.m3u8
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.m3u8?id=3071&format=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Sun Neo
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Sun Neo HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.m3u8?id=3088&format=.m3u8
@@ -1143,6 +1153,19 @@ https://m3uplay.com/leo/live.php?id=592&format=.m3u8
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=585&format=.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Shemaroo Bollywood
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.m3u8?id=3075&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Shemaroo Filmi Gaane
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.m3u8?id=3074&format=.m3u8
 
 
 
@@ -1278,6 +1301,11 @@ https://m3uplay.com/leo/live.php?id=837&format=.m3u8
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=838&format=.m3u8 
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Taiwan Talks
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.m3u8?id=3084&format=.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Zee News UP/UK
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
@@ -1317,8 +1345,10 @@ https://m3uplay.com/leo/live.php?id=3385&format=.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Sundrani
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.m3u8?id=3083&format=.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Sadhna
