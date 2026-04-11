@@ -882,18 +882,18 @@ https://tplay.live/playlist/music/dance-performance/index.m3u8
 
 ================================================== Jio ===============================================================================================================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Jio",Colors HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Jio-HD",Colors HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=144&format=.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Colors Cineplex HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-HD",Colors Cineplex HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=1477&format=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="Jio",Colors Infinity HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="Jio-HD",Colors Infinity HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=1158&format=.m3u8
@@ -914,108 +914,142 @@ https://m3uplay.com/leo/live.php?id=1450&format=.m3u8
 https://m3uplay.com/leo/live.php?id=1763&format=.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",MTV HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-HD",MTV HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=1145&format=.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",&TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-HD",&TV HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.m3u8?id=472&format=.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",&TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-HD",&TV HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=415&format=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",&Pictures HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-HD",&Pictures HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=185&format=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",&Xplor HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-HD",&Xplor HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.m3u8?id=1668&format=.m3u8 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Zee TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-HD",Zee TV HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=167&format=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Zee Cinema HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-HD",Zee Cinema HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=165&format=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",CN+ HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-HD",CN+ HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=1079&format=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Nick HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-HD",Nick HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=1226&format=.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",History TV 18 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-HD",History TV 18 HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.m3u8?id=146&format=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",History TV 18 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-HD",History TV 18 HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=578&format=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",TLC HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-HD",TLC HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=479&format=.m3u8
 
 
-EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",travelxp HD
+EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-HD",travelxp HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.m3u8?id=164&format=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Discovery HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-HD",Discovery HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=463&format=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Discovery ID HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-HD",Discovery ID HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.m3u8?id=3434&format=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Animal Planet HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-HD",Animal Planet HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.m3u8?id=3451&format=.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Sony BBC Earth HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-HD",Sony BBC Earth HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=821&format=.m3u8 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Sony Sports 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-HD",Sony Sports 1 HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.m3u8?id=162&format=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Sony Sports 5 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-HD",Sony Sports 2 HD
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.m3u8?id=891&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-HD",Sony Sports 3 HD
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.m3u8?id=892&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-HD",Sony Sports 5 HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.m3u8?id=155&format=.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Specials",Jio Sports HD
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.m3u8?id=889&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Specials",Jio Events HD
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.m3u8?id=871&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Specials",Jio Exclusive HD
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.m3u8?id=866&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Specials",Jio Specials HD
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.m3u8?id=3366&format=.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Anmol Cinema
@@ -1028,7 +1062,7 @@ https://m3uplay.com/leo/live.php?id=415&format=.m3u8
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.m3u8?id=3071&format=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Sun Neo HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-HD",Sun Neo HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.m3u8?id=3088&format=.m3u8
@@ -1078,17 +1112,17 @@ https://m3uplay.com/leo/live.php?id=488&format=.m3u8
 https://m3uplay.com/leo/live.php?id=1839&format=.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Sony Entertainment HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-HD",Sony Entertainment HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.m3u8?id=291&format=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Sony Sab HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-HD",Sony Sab HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.m3u8?id=471&format=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Sony Max HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-HD",Sony Max HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.m3u8?id=476&format=.m3u8
@@ -1272,7 +1306,17 @@ https://m3uplay.com/leo/live.m3u8?id=143&format=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",CNBC Awaz
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
-https://m3uplay.com/leo/live.m3u8?id=190&format=.m3u8 
+https://m3uplay.com/leo/live.m3u8?id=190&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Republic India
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.m3u8?id=858&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Times Now
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.m3u8?id=876&format=.m3u8
 
 
 
@@ -1315,35 +1359,41 @@ https://m3uplay.com/leo/live.m3u8?id=3084&format=.m3u8
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=572&format=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",CN
+
+
+======Kids=====
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Kids",CN
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=816&format=.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Discovery Kids
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Kids",Discovery Kids
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=554&format=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Nick
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Kids",Gubbare
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=3385&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Kids",Nick
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=545&format=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Pogo
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Kids",Pogo
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=559&format=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Sonic
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Kids",Sonic
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=815&format=.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Gubbare
-#EXTVLCOPT:http-referrer="https://m3uplay.com"
-#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
-https://m3uplay.com/leo/live.php?id=3385&format=.m3u8
+
 
 
 
@@ -1354,63 +1404,88 @@ https://m3uplay.com/leo/live.php?id=3385&format=.m3u8
 https://m3uplay.com/leo/live.m3u8?id=3083&format=.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Sadhna
-#EXTVLCOPT:http-referrer="https://m3uplay.com"
-#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
-https://m3uplay.com/leo/live.php?id=593&format=.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Astha
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="io-Devotional",Astha
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.m3u8?id=175&format=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Astha Bhajan
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="io-Devotional",Astha Bhajan
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=594&format=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Satsang
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="io-Devotional",Bhakti Dhara
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
-https://m3uplay.com/leo/live.php?id=597&format=.m3u8 
+https://m3uplay.com/leo/live.m3u8?id=3236&format=.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Sanskar
-#EXTVLCOPT:http-referrer="https://m3uplay.com"
-#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
-https://m3uplay.com/leo/live.m3u8?id=288&format=.m3u8 
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Disha TV
-#EXTVLCOPT:http-referrer="https://m3uplay.com"
-#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
-https://m3uplay.com/leo/live.php?id=599&format=.m3u8 
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Shubh
-#EXTVLCOPT:http-referrer="https://m3uplay.com"
-#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
-https://m3uplay.com/leo/live.php?id=828&format=.m3u8 
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Divya
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Devotional",Divya
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=801&format=.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Ishwar TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Devotional",Disha TV
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=599&format=.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Devotional",Hare Krsna
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.m3u8?id=879&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Devotional",Sadhna
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=593&format=.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Devotional",Satsang
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=597&format=.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Devotional",Sanskar
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.m3u8?id=288&format=.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Devotional",Shubh
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=828&format=.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Devotional",Isha Foundation
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.m3u8?id=3232&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Devotional",Ishwar TV
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=601&format=.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Paras TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Devotional",Paras TV
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=602&format=.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Shraddha MH1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Devotional",Shraddha MH1
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=609&format=.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Devotional",Vedant Ras
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.m3u8?id=887&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Devotional",Vedic
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.m3u8?id=856&format=.m3u8 
 
 
 ================================================== Zee5 ===============================================================================================================
