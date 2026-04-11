@@ -600,6 +600,13 @@ https://mumt02.tangotv.in/SHEMAROOTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_UMANG/images/LOGO_HD/image.png" group-title="Tango TV",Shemaroo Umang
 https://mumt04.tangotv.in/SHEMAROOUMANG/index.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Dangal TV
+https://mumt01.tangotv.in/DANGAL/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Dangal 2
+https://mumt03.tangotv.in/DANGAL2/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Q TV
 https://mumt05.tangotv.in/THEQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Unique_Tv.png" group-title="Tango TV",Unique TV
@@ -666,6 +673,12 @@ https://mumt04.tangotv.in/KHABARFAST/index.m3u8
 https://mumt05.tangotv.in/KHABRAINABHITAK/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L5GeJFb.png" group-title="Tango TV",NE News
 https://mumt05.tangotv.in/NENEWS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Prime News
+https://mumt02.tangotv.in/PRIMENEWS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Sach Bedhadak
+https://mumt04.tangotv.in/SACHBEDHADAK/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Samachar Plus
+https://mumt05.tangotv.in/VERTENTSAMACHARPLUS/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bhaktisagar.png" group-title="Tango TV",Bhakti Sagar
@@ -680,6 +693,8 @@ https://mumt04.tangotv.in/DISHATV/index.m3u8
 https://mumt05.tangotv.in/FATEHTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PARAS_GOLD_ONE/images/LOGO_HD/image.png" group-title="Tango TV",Paras Gold
 https://mumt04.tangotv.in/PARASGOLD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Subhari TV
+https://mumt04.tangotv.in/SUBHARTITV/index.m3u8
 
 
 =================================================================== Temp ================================================================================================
@@ -1386,7 +1401,7 @@ https://m3uplay.com/leo/live.m3u8?id=255&format=.m3u8
 https://m3uplay.com/leo/live.m3u8?id=212&format=.m3u8
 
 
-====================================================================Int News==================================================================================
+===========================================Int News==============================================
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AL_Jazeera.png" group-title="Jio-Int News",Aljazeera
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
@@ -1495,7 +1510,7 @@ https://m3uplay.com/leo/live.m3u8?id=1191&format=.m3u8
 
 
 
-======Stringray=====
+===========================Stringray===========================
 
 #EXTINF:-1 tvg-id="1003" tvg-name="Stingray Naturescape" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/naturescape-a003s-dhaka.png" tvg-chno="1003" group-title="Jio-Stringray",Stingray Naturescape
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
