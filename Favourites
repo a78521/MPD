@@ -1101,6 +1101,12 @@ https://m3uplay.com/leo/live.m3u8?id=204&format=.m3u8
 https://m3uplay.com/leo/live.php?id=583&format=.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Sansad TV 2 HD
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.m3u8?id=520&format=.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Zee Action
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
@@ -1358,6 +1364,20 @@ https://m3uplay.com/leo/live.m3u8?id=3084&format=.m3u8
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=572&format=.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Punjabi",Jus Punjabi HD
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.m3u8?id=959&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Punjabi",Jus One HD
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.m3u8?id=959&format=.m3u8
 
 
 
