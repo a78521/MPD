@@ -942,12 +942,12 @@ https://m3uplay.com/leo/live.m3u8?id=1668&format=.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-HD",Zee TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Jio-HD",Zee TV HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=167&format=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-HD",Zee Cinema HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Jio-HD",Zee Cinema HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=165&format=.m3u8
@@ -990,7 +990,7 @@ https://m3uplay.com/leo/live.m3u8?id=3434&format=.m3u8
 https://m3uplay.com/leo/live.m3u8?id=3451&format=.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-HD",Sony BBC Earth HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Jio-HD",Sony BBC Earth HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=821&format=.m3u8 
@@ -1092,7 +1092,7 @@ https://m3uplay.com/leo/live.m3u8?id=3382&format=.m3u8
  https://m3uplay.com/leo/live.m3u8?id=3383&format=.m3u8 
 
 
-=============Jio DD===================
+=======================================Jio DD=======================================
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_National.png" group-title="Jio-DD",DD National
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
@@ -1225,7 +1225,7 @@ https://m3uplay.com/leo/live.php?id=585&format=.m3u8
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=585&format=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/smrbol.png" group-title="Jio-Music",Shemaroo Bollywood
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/smrbol.png" group-title="Jio-Movies",Shemaroo Bollywood
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.m3u8?id=3075&format=.m3u8
