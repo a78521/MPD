@@ -1156,6 +1156,13 @@ https://m3uplay.com/leo/live.php?id=488&format=.m3u8
 https://m3uplay.com/leo/live.php?id=1839&format=.m3u8
 
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Epic Bhojpuri
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.m3u8?id=3384&format=.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-HD",Sony Entertainment HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
