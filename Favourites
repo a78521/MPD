@@ -221,14 +221,14 @@ http://vipfdedgevv.top:8080/live/VIP0110174213587850/51742135878100/147059.ts
 https://mysouq1.com/live/76631957/10205687/675817.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports 2 HD Jio
-#EXTVLCOPT:http-referrer="https://lay.com"
-#KODIPROP:inputstream.adaptive.http-referrer="https://lay.com"
-https://lay.com/leo/live.php?id=1984&format=.m3u8
+#EXTVLCOPT:http-referrer="https://m3uplay.com/"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com/"
+https://m3uplay.com//leo/live.php?id=1984&format=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports Khel Jio
-#EXTVLCOPT:http-referrer="https://lay.com"
-#KODIPROP:inputstream.adaptive.http-referrer="https://lay.com"
-https://lay.com/leo/live.php?id=1998&format=.m3u8
+#EXTVLCOPT:http-referrer="https://m3uplay.com/"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com/"
+https://m3uplay.com//leo/live.php?id=1998&format=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports 2 HD Jio
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1040,10 +1040,9 @@ https://m3uplay.com/leo/live.m3u8?id=892&format=.m3u8
 https://m3uplay.com/leo/live.m3u8?id=155&format=.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/FTV_HD.png" group-title="Jio-Specials",FTV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/FTV_HD.png" group-title="Jio-HD",FTV HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
-https://m3uplay.com/leo/live.m3u8?id=889&format=.m3u8
 https://m3uplay.com/leo/live.m3u8?id=1598&format=.m3u8
 
 
@@ -1398,19 +1397,19 @@ https://m3uplay.com/leo/live.m3u8?id=858&format=.m3u8
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.m3u8?id=3240&format=.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Times_Now_HD.png" group-title="Jio",Times Now
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Times_Now_HD.png" group-title="Jio-English News",Times Now
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.m3u8?id=876&format=.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",NDTV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-English News",NDTV
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.m3u8?id=255&format=.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",ET Now
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-English News",ET Now
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.m3u8?id=212&format=.m3u8
@@ -1428,22 +1427,22 @@ https://m3uplay.com/leo/live.m3u8?id=494&format=.m3u8
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.m3u8?id=193&format=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Euro_News.png" group-title="Jio-Int New",Euro News
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Euro_News.png" group-title="Jio-Int News",Euro News
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=837&format=.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/France_24.png" group-title="Jio-Int New",France 24
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/France_24.png" group-title="Jio-Int News",France 24
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=838&format=.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="Jio-Int New",NHK World Japan
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="Jio-Int News",NHK World Japan
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.m3u8?id=1405&format=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Taiwan_Plus.png" group-title="Jio-Int New",Taiwan Plus
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Taiwan_Plus.png" group-title="Jio-Int News",Taiwan Plus
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.m3u8?id=3084&format=.m3u8
@@ -1629,18 +1628,18 @@ https://m3uplay.com/leo/live.m3u8?id=3083&format=.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="io-Devotional",Astha
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Devotional",Astha
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.m3u8?id=175&format=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="io-Devotional",Astha Bhajan
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Devotional",Astha Bhajan
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=594&format=.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="io-Devotional",Bhakti Dhara
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Devotional",Bhakti Dhara
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.m3u8?id=3236&format=.m3u8
