@@ -1126,6 +1126,11 @@ https://m3uplay.com/leo/live.m3u8?id=3382&format=.m3u8
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
  https://m3uplay.com/leo/live.m3u8?id=3383&format=.m3u8 
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Hindi Ent",Swastik Stories
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.m3u8?id=3401&format=.m3u8
+
 
 =======================================Jio DD=======================================
 
