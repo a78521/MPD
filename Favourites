@@ -1826,79 +1826,79 @@ https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-zeeanmolcinema
 
 
 
-================================================== Oxolive ===============================================================================================================
+================================================== tulnit ===============================================================================================================
 
 
-#EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony Sports 1 HD
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Sony Sports 1 HD
 #EXTVLCOPT:http-referrer=https://nxtlive.net/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://nxtlive.net/
 https://nxtlive.net/sliv/stream.m3u8?id=1000009276
 
-#EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony Sports 2 HD
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Sony Sports 2 HD
 #EXTVLCOPT:http-referrer=https://nxtlive.net/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://nxtlive.net/
 https://nxtlive.net/sliv/stream.m3u8?id=1000009277
 
-#EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony Sports 3 HD
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Sony Sports 3 HD
 #EXTVLCOPT:http-referrer=https://nxtlive.net/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://nxtlive.net/
 https://nxtlive.net/sliv/stream.m3u8?id=1000009278
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony Sports 5 HD
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Sony Sports 5 HD
 #EXTVLCOPT:http-referrer=https://nxtlive.net/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://nxtlive.net/
 https://nxtlive.net/sliv/stream.m3u8?id=1000009275
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony TV HD
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Sony TV HD
 #EXTVLCOPT:http-referrer=https://nxtlive.net/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://nxtlive.net/
 https://nxtlive.net/sliv/stream.m3u8?id=1000009246
 
 
-#EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony Max HD
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Sony Max HD
 #EXTVLCOPT:http-referrer=https://nxtlive.net/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://nxtlive.net/
 https://nxtlive.net/sliv/stream.m3u8?id=1000009247
 
-#EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony Sab HD
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Sony Sab HD
 #EXTVLCOPT:http-referrer=https://nxtlive.net/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://nxtlive.net/
 https://nxtlive.net/sliv/stream.m3u8?id=1000009248
 
-#EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony BBC Earth HD
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Sony BBC Earth HD
 #EXTVLCOPT:http-referrer=https://nxtlive.net/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://nxtlive.net/
 https://nxtlive.net/sliv/stream.m3u8?id=1000009252
 
-#EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony Pix HD
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Sony Pix HD
 #EXTVLCOPT:http-referrer=https://nxtlive.net/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://nxtlive.net/
 https://nxtlive.net/sliv/stream.m3u8?id=1000009258
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony Max
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Sony Max
 #EXTVLCOPT:http-referrer=https://nxtlive.net/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://nxtlive.net/
 https://nxtlive.net/sliv/stream.m3u8?id=1000009249
 
-#EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony Wah
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Sony Wah
 #EXTVLCOPT:http-referrer=https://nxtlive.net/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://nxtlive.net/
 https://nxtlive.net/sliv/stream.m3u8?id=1000009253
 
-#EXTINF:-1 tvg-logo="" group-title="Oxolive",Sony Pal
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Sony Pal
 #EXTVLCOPT:http-referrer=https://nxtlive.net/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://nxtlive.net/
 https://nxtlive.net/sliv/stream.m3u8?id=1000009273
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Oxolive",Zee TV Canada
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Zee TV Canada
 #EXTVLCOPT:http-referrer=https://m3uplay.com
 https://toober.keralive.workers.dev/4c3caf7294b3/c8bf99484885/playlist.m3u8
 
@@ -6253,6 +6253,15 @@ https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
 #EXTINF:0, tvg-logo="https://a.jsrdn.com/hls/23146/yrf-music/logo_20240322_175611_70.png" group-title="Hindi Music",YRF Music
 https://amg00223-unisys-amg00223c2-lg-in-2045.playouts.now.amagi.tv/playlist/amg00223-sevencolorsbroadcastingprivatelimited-yfrmusic-lgin/playlist.m3u8
 
+
+
+#EXTINF:0, tvg-logo="" group-title="Hindi Music",Saregama Music
+https://saregama.keralive.workers.dev/saregama/saregama_master.m3u8
+#EXTVLCOPT:http-referrer="https://tulnit.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://tulnit.com"
+
+
+
 #EXTINF:0, tvg-logo="" group-title="Hindi Music",T Series
 http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 
@@ -6745,15 +6754,21 @@ https://livestream.unlimitedcdn.com/onlymusic/tracks-v1a1/mono.m3u8
 https://keralive.com/yupp/tv.m3u8?c=wah-punjabi&e=.m3u8
 
 
-#EXTINF:0, tvg-logo="" group-title="Punjabi Music",Boogle Bollywood
+#EXTINF:0, tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/boogle-bollywood-black.png" group-title="Punjabi Music",Boogle Bollywood
 #EXTVLCOPT:http-referrer=https://keralive.com/
 https://keralive.com/yupp/play.php?watch=boogle-bollywood
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi Music",Punjabi Music HD
-#EXTVLCOPT:http-referrer="https://oxolive.com"
-#KODIPROP:inputstream.adaptive.http-referrer="https://oxolive.com"
+#EXTVLCOPT:http-referrer="https://tulnit.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://tulnit.com"
 https://fucking-tv-ott.keralive.workers.dev/mumt02/PUNJABIMUSICHD/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi Music",Vision Punjabi Music
+#EXTVLCOPT:http-referrer="https://tulnit.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://tulnit.com"
+https://visionbeats.keralive.workers.dev/Visionpunjabmusic/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi Music",Punjabi Beats HD
