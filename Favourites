@@ -574,9 +574,9 @@ https://mumt02.tangotv.in/EVERGREENHITS2/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Hindi%20Hits.jpg?raw=true" group-title="Tango TV",Hindi Hits HD
 https://mumt01.tangotv.in/HINDIHITS/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Music",Melody Hits
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Tango TV",Melody Hits
 https://mumt03.tangotv.in/MELODYHITS/index.m3u8
-#EXTINF:0, tvg-logo="" group-title="Hindi Music",Classic Hits
+#EXTINF:0, tvg-logo="" group-title="Tango TV",Classic Hits
 https://mumt03.tangotv.in/CLASSICHITS/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Balle Balle
@@ -641,6 +641,8 @@ https://mumt04.tangotv.in/PTCPUNJABIGOLD/index.m3u8
 https://mumt04.tangotv.in/GOLDMINES/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Goldmines 2
 https://mumt03.tangotv.in/GOLDMINES2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Goldmines Movies
+https://mumt04.tangotv.in/GOLDMINEMOVIES/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Goldmines Bollywood
 https://mumt03.tangotv.in/GOLDMINESBOLLYWOOD/index.m3u8
 
