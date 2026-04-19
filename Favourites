@@ -6266,10 +6266,9 @@ https://amg00223-unisys-amg00223c2-lg-in-2045.playouts.now.amagi.tv/playlist/amg
 
 
 #EXTINF:0, tvg-logo="" group-title="Hindi Music",Saregama Music
-https://saregama.keralive.workers.dev/saregama/saregama_master.m3u8
 #EXTVLCOPT:http-referrer="https://tulnit.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://tulnit.com"
-
+https://saregama.keralive.workers.dev/saregama/saregama_master.m3u8
 
 
 #EXTINF:0, tvg-logo="" group-title="Hindi Music",T Series
