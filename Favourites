@@ -883,7 +883,9 @@ https://public.kliv.fun/TPTV8A/play.php?id=1052
 
 
 #EXTINF:-1 tvg-id="341" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/discoveryhdworld.png" group-title="Temp",Discovery HD World
-
+#EXTVLCOPT:http-referrer="https://mini.allinonereborn.fun"
+#KODIPROP:inputstream.adaptive.http-referrer="https://mini.allinonereborn.fun"
+https://mini.allinonereborn.fun/jiotv-www/app/ts_live_463.m3u8
 
 #EXTINF:-1 tvg-id="287" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/animalplanethdworld.png" group-title="Temp",Animal Planet HD World
 
@@ -6367,6 +6369,23 @@ http://a-edge.bliscdn.com/Visionbeats/index.m3u8
 #KODIPROP:inputstream.adaptive.http-referrer="https://tulnit.com"
 https://visionbeats.keralive.workers.dev/Visionbeats/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Punjabi Music",VISION Punjabi Music
+#EXTVLCOPT:http-referrer="https://tulnit.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://tulnit.com"
+https://visionbeats.keralive.workers.dev/Visionpunjabmusic/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Punjabi",VISION Punjab TV
+#EXTVLCOPT:http-referrer="https://tulnit.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://tulnit.com"
+https://visionbeats.keralive.workers.dev/Visionpunjabtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Punjabi Devotional",VISION Punjab Gurbani
+#EXTVLCOPT:http-referrer="https://tulnit.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://tulnit.com"
+https://visionbeats.keralive.workers.dev/Visionpunjabgurbani/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Music",Deewana HD
 https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8
 
@@ -6813,11 +6832,6 @@ https://keralive.com/yupp/play.php?watch=boogle-bollywood
 #KODIPROP:inputstream.adaptive.http-referrer="https://tulnit.com"
 https://fucking-tv-ott.keralive.workers.dev/mumt02/PUNJABIMUSICHD/index.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi Music",Vision Punjabi Music
-#EXTVLCOPT:http-referrer="https://tulnit.com"
-#KODIPROP:inputstream.adaptive.http-referrer="https://tulnit.com"
-https://visionbeats.keralive.workers.dev/Visionpunjabmusic/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi Music",Punjabi Beats HD
