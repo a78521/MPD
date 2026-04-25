@@ -1150,8 +1150,6 @@ https://m3uplay.com/leo/live.m3u8?id=248&format=.m3u8
 https://m3uplay.com/leo/live.m3u8?id=1368&format=.m3u8
 
 
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Hindi Ent",Z TV
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
@@ -1162,10 +1160,33 @@ https://m3uplay.com/leo/live.m3u8?id=1368&format=.m3u8
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.m3u8?id=1359&format=.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Hindi Ent",&Pictures
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=1839&format=.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Hindi Ent",Anmol TV
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.m3u8?id=473&format=.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Epic_HD.png" group-title="Jio-Hindi Ent",Epic
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.m3u8?id=3382&format=.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Hindi Ent",Epic Bharat
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.m3u8?id=3383&format=.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Epic Bhojpuri
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.m3u8?id=3384&format=.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Hindi Ent",Nazara
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
@@ -1225,13 +1246,6 @@ https://m3uplay.com/leo/live.php?id=488&format=.m3u8
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=1839&format=.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Epic Bhojpuri
-#EXTVLCOPT:http-referrer="https://m3uplay.com"
-#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
-https://m3uplay.com/leo/live.m3u8?id=3384&format=.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-HD",Sony Entertainment HD
