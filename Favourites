@@ -1037,9 +1037,9 @@ EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images
 https://m3uplay.com/leo/live.m3u8?id=164&format=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Jio-HD",Discovery HD
-#EXTVLCOPT:http-referrer="https://m3uplay.com"
-#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
-https://m3uplay.com/leo/live.php?id=463&format=.m3u8
+#EXTVLCOPT:http-referrer="https://mini.allinonereborn.fun"
+#KODIPROP:inputstream.adaptive.http-referrer="https://mini.allinonereborn.fun"
+https://mini.allinonereborn.fun/jiotv-www/app/ts_live_463.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/IDHDHindi.png" group-title="Jio-HD",Discovery ID HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
@@ -1064,6 +1064,10 @@ https://m3uplay.com/leo/live.php?id=821&format=.m3u8
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=762&format=.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-HD",Sony Liv HD
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=155&format=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-HD",Sony Sports 1 HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
@@ -1123,6 +1127,11 @@ https://m3uplay.com/leo/live.m3u8?id=2230&format=.m3u8
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=415&format=.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Anmol Cinema 2
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=2761&format=.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",TV Asia
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
@@ -1149,11 +1158,21 @@ https://m3uplay.com/leo/live.m3u8?id=248&format=.m3u8
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.m3u8?id=1368&format=.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Hindi Ent",Colors Cineplex
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=482&format=.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Hindi Ent",Z TV
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
  https://m3uplay.com/leo/live.m3u8?id=1351&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Hindi Ent",Zee Cinema
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=484&format=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Hindi Ent",Big Magic
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
