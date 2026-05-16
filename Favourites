@@ -297,152 +297,127 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife_Women_27112025/DASH/Cr
 
 =================================================================== Wasmer ================================================================================================
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Only Music HD
-https://origin-cae-m462953.toober.com/4c3caf7294b3/90bbe53a7d6778ea/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Z TV Canada
-https://origin-cae-m462953.toober.com/4c3caf7294b3/c8bf99484885/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Pitaara International HD
-https://origin-cae-m462953.toober.com/4c3caf7294b3/3dd066d387031492/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Just In HD
-https://origin-cae-m462953.toober.com/4c3caf7294b3/51351edd58e6b987/playlist.m3u8 
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Gurkibani TV
-https://origin-cae-m462953.toober.com/4c3caf7294b3/989fdca4eb3992a8/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer", D5 Channel
-https://origin-cae-m462953.toober.com/4c3caf7294b3/05aa7f7f4b8afdae/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",News Only Punjabi
-https://origin-cae-m462953.toober.com/4c3caf7294b3/cc9c7422fe459d9a/playlist.m3u8 
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",TV Punjab
-https://origin-cae-m462953.toober.com/4c3caf7294b3/d1f9ed765eda471c/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Star Sports 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Star Sports 1 HD (Yupp)
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=1976
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Star Sports 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Star Sports 2 HD (Yupp)
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3691
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Star Sports 2 Hindi HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Star Sports 2 Hindi HD (Yupp)
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3548
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Fox 501 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Fox 501 HD (Yupp)
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=2756
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Willow Sports
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Willow Sports (Yupp)
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=2755
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",B4U Music
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",B4U Music (Yupp)
 https://yupptv.rkdyiptv.workers.dev/live/3087.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Sony TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Sony TV HD (airtel)
 https://airtel.rkdyiptv.workers.dev/live/404.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Sony Max HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Sony Max HD (airtel)
 https://airtel.rkdyiptv.workers.dev/live/395.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Star Plus HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Star Plus HD (airtel)
 https://airtel.rkdyiptv.workers.dev/live/409.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Star Gold HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Star Gold HD (airtel)
 https://airtel.rkdyiptv.workers.dev/live/391.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Star Bharat HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Star Bharat HD (airtel)
 https://airtel.rkdyiptv.workers.dev/live/420.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Colors HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Colors HD (airtel)
 https://airtel.rkdyiptv.workers.dev/live/415.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",English Movie
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",English Movie (airtel)
 https://airtel.rkdyiptv.workers.dev/live/2288.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",English Movie
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",English Movie (airtel)
 https://airtel.rkdyiptv.workers.dev/live/2289.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",English Movie
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",English Movie (airtel)
 https://airtel.rkdyiptv.workers.dev/live/2290.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Colors
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Colors (airtel)
 https://airtel.rkdyiptv.workers.dev/live/413.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Colors
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Colors (airtel)
 https://airtel.rkdyiptv.workers.dev/live/414.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Colors Rishtey
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Colors Rishtey (airtel)
 https://airtel.rkdyiptv.workers.dev/live/428.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer"Sab
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer"Sab (airtel)
 https://airtel.rkdyiptv.workers.dev/live/425.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Utsav Bharat
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Utsav Bharat (airtel)
 https://airtel.rkdyiptv.workers.dev/live/421.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Star Plus HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Star Plus HD (tata)
 http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=902
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",B4u Kadak
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",B4u Kadak (tata)
 http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=1114
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",R Bharat
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",R Bharat (tata)
 http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=1119
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Star Movies Select HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Star Movies Select HD (tata)
 http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=1125
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Jindabad TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Jindabad TV (tata)
 http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=60767
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Lokdhun
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Lokdhun (tata)
 http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=60768
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Surrey News
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Surrey News (tata)
 http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=1136
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Wah Punjabi
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Wah Punjabi (tata)
 http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=1216
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Vision Beats
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Vision Beats (tata)
 http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=8695
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Vision Punjab Music HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Vision Punjab Music HD (tata)
 http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=8699
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Vision Punjab HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Vision Punjab HD (tata)
 http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=8702
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Z TV Canada
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Z TV Canada (tata)
 http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=8703
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Z Bollywood
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Z Bollywood (tata)
 http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=8704
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Hindi Premium 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Hindi Premium 1 (tata)
 http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=75500
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Hindi Premium 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Hindi Premium 2 (tata)
 http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=75503
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Hindi Premium 3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Hindi Premium 3 (tata)
 http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=75504
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Hindi Premium 4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Hindi Premium 4 (tata)
 http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=75508
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Hindi Premium 5
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Hindi Premium 5 (tata)
 http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=75509
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Hindi Premium 6
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Hindi Premium 6 (tata)
 http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=75510
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Hindi Premium 7
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Hindi Premium 7 (tata)
 http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=75511
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Hindi Premium 8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Hindi Premium 8 (tata)
 http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=75513
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Hindi Premium 9
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Hindi Premium 9 (tata)
 http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=75514
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Punjabi Premium 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Punjabi Premium 1 (tata)
 http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=62780
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",English Premium 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",English Premium 1 (tata)
 http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=75506
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Fox 502 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Fox 502 HD (tata)
 http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=60759
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Fox 503 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Fox 503 HD (tata)
 http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=60760
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Fox 504 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Fox 504 HD (tata)
 http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=60761
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Fox 505 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Fox 505 HD (tata)
 http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=60762
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Fox 506 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Fox 506 HD (tata)
 http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=5210
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",ESPN
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",ESPN (tata)
 http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=75501
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",ESPN 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",ESPN 2 (tata)
 http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=75502
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Sky Sports Live 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Sky Sports Live 1 (tata)
 http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=75507
 
 =================================================================== Ottera TV ================================================================================================
