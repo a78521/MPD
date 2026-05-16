@@ -6142,6 +6142,7 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/7e8b490d6b9c4013a3e3e874aa352212/in
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a5ee7c4e7a2a4b15a22a3bcf523b9776/index.m3u8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10595.jpg" group-title="Hindi News",TV9 Bharatvasrsh
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_720p/chunks.m3u8
+#https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10590.jpg" group-title="Hindi News",News 18 India
 https://n18syndication-prasar-bharati.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10552.jpg" group-title="Hindi News",News Nation
