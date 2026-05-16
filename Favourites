@@ -5614,6 +5614,13 @@ https://amg00866-amg00866c3-xiaomi-in-3553.playouts.now.amagi.tv/playlist.m3u8
 https://amg00866-amg00866c4-xiaomi-in-3552.playouts.now.amagi.tv/playlist.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="" group-title="Xiaomi TV",Nature Time
+https://amg01515-amg01515c13-xiaomi-international-4618.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Xiaomi TV",Nature Time 2
+https://amg01515-amg01515c14-xiaomi-international-4619.playouts.now.amagi.tv/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="" group-title="Xiaomi TV",Now 70
 https://lightning-now70s-xiaomi.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Xiaomi TV",Now 80
