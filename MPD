@@ -126,6 +126,9 @@ https://a156aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/utc
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/il20sicd8s/out/v1/d2bfb9b1f48a4929a61507d03620a681/cenc.mpd?encoding=segmentBase
 
 
+
+
+
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.EB1PZ3NAw2zwsdHoL-fS0AAAAA?pid=Api&P=0&h=180" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", HBO 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fafc24484004893326a8354fe889767:01a4a713abdc5803f4816831ee27906f
@@ -137,10 +140,66 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xrs2ntety1/
 #KODIPROP:inputstream.adaptive.license_key=e8c6a262b77b153530a6caaf2e07944a:81071cf5808c0387adab93d8ff9b1f09
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zilmviiwo5/out/v1/fe78320a319045d99299fb05208d90af/cenc.mpd
 
+#EXTINF:-1 tvg-logo=" group-logo="" group-title="Amazon", HBO Zone
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b380bec87af5c16ee145bbf8cd7d65e:edcb65d1269bd76f166d6bc56114211f
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/u7xfabrc5b/out/v1/67371e988d6649afbde43ba1e9747550/cenc.mpd
+
+#EXTINF:-1 tvg-logo=" group-logo="" group-title="Amazon", HBO West
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=266fed45577cd293af39165e8073bc19:8e805607852c0606ecc553bd234d78b2
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/zzhnlvao6q/out/v1/66f60c1d629549a78a22cc2913bfb3d1/cenc.mpd
+
+#EXTINF:-1 tvg-logo=" group-logo="" group-title="Amazon",HBO Comedy
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=217624a3983b3593ca7d1f3b01042d4f:fecaa3486d9deef3f7f0e1a95b662cb7
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/f6ns8qsqde/out/v1/0827e077a8224107a1e6137627cc8198/cenc.mpd
+
+#EXTINF:-1 tvg-logo=" group-logo="" group-title="Amazon", HBO Signature
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2742f4791f17231bdb933844dabfb5bc:3c49eb8a723248f87fb8c3722874557e
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/o6rq3swwr4/out/v1/6a362c145af241e5a6eb45e0729ce5e6/cenc.mpd
+
 #EXTINF:-1 tvg-logo="" group-title="Amazon",Cinemax
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bf813dc4a32e0e9bcbce4446a65f4b12:eb9973b1a30c76812aa7ca8864b6a3c1
 https://a181aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/zewdvsfpre/out/v1/d65e537877cc4112b8fd88c6210f39da/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="" group-title="Amazon", REELZ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2312fd39721560ea14f98caf3464195e:93713bb73be2d8aedf3eeb898850e7d5
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/dhdemvb6ff/out/v1/2dbabadc0d204aa9aad2c2e5d29af5c0/cenc.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Amazon", Screenpix
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=537cc6cb07fe4bcc63d06c3018d5e35c:7420e0237883a05e4d2ddafaf114b050
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/9lvpst0mpb/out/v1/ba33b946c96e4a60886e2d91156398cd/cenc.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Amazon", Screenpix Action
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a340ce5a22ce1a5f54c2c5dd18e8fe7d:afa091d637e61d585ad036fd4b8a3235
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/2bsytxoitz/out/v1/312e6d1e20e744c0a9bf25519f6da91b/cenc.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Amazon", Screenpix Westerns
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=429d2a8c13dc9a40a13ef8d4e2325209:631892e5f5451b5596528e194c44d95b
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/ikqumnhhew/out/v1/1f50afbc65ba48e79f8325022bdb72a0/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="" group-title="Amazon", MGM Celebrates Black Cinema
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dab8e28bb3dd8335c1669dc2aa7891fc:ce8ec4255a0c5a495749ea524e4e98b4
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/vzhzbcmueh/out/v1/3a0e3004d0514932acc2bb6758c61ed5/cenc.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Amazon",Adult Swim
 #KODIPROP:inputstream.adaptive.license_type=clearkey
