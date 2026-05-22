@@ -169,6 +169,18 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/o6rq3swwr4/out/v
 #KODIPROP:inputstream.adaptive.license_key=bf813dc4a32e0e9bcbce4446a65f4b12:eb9973b1a30c76812aa7ca8864b6a3c1
 https://a181aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/zewdvsfpre/out/v1/d65e537877cc4112b8fd88c6210f39da/cenc.mpd
 
+#EXTINF:-1 tvg-logo="" group-title="Amazon", Cinemax East
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a5fc143bea61aa94eee0479933d5e72:8a365e8c3e2b8efdbcaab16d07c3b929
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/rckhgp0mdp/out/v1/3952b81ea31d45b38372b128371301d2/cenc.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Amazon", Cinemax West
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf813dc4a32e0e9bcbce4446a65f4b12:eb9973b1a30c76812aa7ca8864b6a3c1
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/zewdvsfpre/out/v1/d65e537877cc4112b8fd88c6210f39da/cenc.mpd
+
 
 #EXTINF:-1 tvg-logo="" group-title="Amazon", REELZ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
