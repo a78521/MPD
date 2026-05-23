@@ -714,8 +714,8 @@ https://livestream8.sunnxt.com/248c92b73514435686fd72ba325d4008/SunNeoHDB_IN_ind
 https://get.perfecttv.net/astro_10802.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=zeecinema
 
 #EXTINF:-1 group-logo="https://get.perfecttv.net/logo/zeecinema.png" group-title="Indian",Zee Cinema HD (2)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
 #KODIPROP:inputstream.adaptive.license_key=https://m3u.8088y.fun/jtvp/zee_cinema_HD.json
 https://m3u.8088y.fun/jtvp/zee_cinema_HD.mpd?tk=testing
 
