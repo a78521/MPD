@@ -727,6 +727,26 @@ https://m3u.8088y.fun/jtvp/zee_cinema_HD.mpd?tk=testing
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=colorhindi
 
 
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Indian",Sony TV HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15;Airxtream_network) ExoPlayerLib/2.11.7
+#KODIPROP:inputstream.adaptive.license_key=https://jioplus.cr7x.workers.dev/license/999/999/291/key.json
+https://jioplus.cr7x.workers.dev/live/999/999/291/index.mpd
+
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Indian",Sony Sab HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15;Airxtream_network) ExoPlayerLib/2.11.7
+#KODIPROP:inputstream.adaptive.license_key=https://jioplus.cr7x.workers.dev/license/999/999/471/key.json
+https://jioplus.cr7x.workers.dev/live/999/999/471/index.mpd
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Indian",Sony Max HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15;Airxtream_network) ExoPlayerLib/2.11.7
+#KODIPROP:inputstream.adaptive.license_key=https://jioplus.cr7x.workers.dev/license/999/999/476/key.json
+https://jioplus.cr7x.workers.dev/live/999/999/476/index.mpd
+
+
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/194389/150x150_SunNeoHD_194389_00f513c6-9032-400b-98c8-664e11a68e23.jpg" group-title="Indian",Sun Neo HD Australia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09ffaaff477d490abb4516b7e0711d35:759cc157a993e8a76ff4d675e34b5400
