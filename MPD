@@ -6113,7 +6113,138 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Jio_Specials_HD_BTS/output/index.mpd
 
 
 
+================================================================= Jio Temp===================================================================================================================
+
+#EXTINF:-1 tvg-id="" group-title="Jiostar" tvg-logo="",Colors HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15;Airxtream_network) ExoPlayerLib/2.11.7
+#KODIPROP:inputstream.adaptive.license_key=https://jioplus.cr7x.workers.dev/license/999/999/144/key.json
+https://jioplus.cr7x.workers.dev/live/999/999/144/index.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Jiostar" tvg-logo="",Colors Cineplex Bollywood
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15;Airxtream_network) ExoPlayerLib/2.11.7
+#KODIPROP:inputstream.adaptive.license_key=https://jioplus.cr7x.workers.dev/license/999/999/1763/key.json
+https://jioplus.cr7x.workers.dev/live/999/999/1763/index.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Jiostar" tvg-logo="",Colors Rishtey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15;Airxtream_network) ExoPlayerLib/2.11.7
+#KODIPROP:inputstream.adaptive.license_key=https://jioplus.cr7x.workers.dev/license/999/999/279/key.json
+https://jioplus.cr7x.workers.dev/live/999/999/279/index.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Jiostar" tvg-logo="",Colors Cineplex
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15;Airxtream_network) ExoPlayerLib/2.11.7
+#KODIPROP:inputstream.adaptive.license_key=https://jioplus.cr7x.workers.dev/license/999/999/482/key.json
+https://jioplus.cr7x.workers.dev/live/999/999/482/index.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Jiostar" tvg-logo="",Colors Cineplex Superhit
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15;Airxtream_network) ExoPlayerLib/2.11.7
+#KODIPROP:inputstream.adaptive.license_key=https://jioplus.cr7x.workers.dev/license/999/999/1450/key.json
+https://jioplus.cr7x.workers.dev/live/999/999/1450/index.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Jiostar" tvg-logo="",Nick Hindi
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15;Airxtream_network) ExoPlayerLib/2.11.7
+#KODIPROP:inputstream.adaptive.license_key=https://jioplus.cr7x.workers.dev/license/999/999/545/key.json
+https://jioplus.cr7x.workers.dev/live/999/999/545/index.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Jiostar" tvg-logo="",B4U Bhojpuri
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15;Airxtream_network) ExoPlayerLib/2.11.7
+#KODIPROP:inputstream.adaptive.license_key=https://jioplus.cr7x.workers.dev/license/999/999/1296/key.json
+https://jioplus.cr7x.workers.dev/live/999/999/1296/index.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Jiostar" tvg-logo="",Shemaroo TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15;Airxtream_network) ExoPlayerLib/2.11.7
+#KODIPROP:inputstream.adaptive.license_key=https://jioplus.cr7x.workers.dev/license/999/999/1961/key.json
+https://jioplus.cr7x.workers.dev/live/999/999/1961/index.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Jiostar" tvg-logo="",Shemaroo Umang
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15;Airxtream_network) ExoPlayerLib/2.11.7
+#KODIPROP:inputstream.adaptive.license_key=https://jioplus.cr7x.workers.dev/license/999/999/2078/key.json
+https://jioplus.cr7x.workers.dev/live/999/999/2078/index.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Jiostar" tvg-logo="",Nazara
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15;Airxtream_network) ExoPlayerLib/2.11.7
+#KODIPROP:inputstream.adaptive.license_key=https://jioplus.cr7x.workers.dev/license/999/999/3383/key.json
+https://jioplus.cr7x.workers.dev/live/999/999/3383/index.mpd
 
 
+#EXTINF:-1 tvg-id="" group-title="Jiostar" tvg-logo="",Sun Neo HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15;Airxtream_network) ExoPlayerLib/2.11.7
+#KODIPROP:inputstream.adaptive.license_key=https://jioplus.cr7x.workers.dev/license/999/999/3088/key.json
+https://jioplus.cr7x.workers.dev/live/999/999/3088/index.mpd
 
+#EXTINF:-1 tvg-id="" group-title="Jiostar" tvg-logo="",Sonic Hindi
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15;Airxtream_network) ExoPlayerLib/2.11.7
+#KODIPROP:inputstream.adaptive.license_key=https://jioplus.cr7x.workers.dev/license/999/999/815/key.json
+https://jioplus.cr7x.workers.dev/live/999/999/815/index.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Jiostar" tvg-logo="",EPIC Bhojpuri
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15;Airxtream_network) ExoPlayerLib/2.11.7
+#KODIPROP:inputstream.adaptive.license_key=https://jioplus.cr7x.workers.dev/license/999/999/3384/key.json
+https://jioplus.cr7x.workers.dev/live/999/999/3384/index.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Jiostar" tvg-logo="",ABP News India
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15;Airxtream_network) ExoPlayerLib/2.11.7
+#KODIPROP:inputstream.adaptive.license_key=https://jioplus.cr7x.workers.dev/license/999/999/1403/key.json
+https://jioplus.cr7x.workers.dev/live/999/999/177/index.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Jiostar" tvg-logo="",Republic Bharat
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15;Airxtream_network) ExoPlayerLib/2.11.7
+#KODIPROP:inputstream.adaptive.license_key=https://jioplus.cr7x.workers.dev/license/999/999/1403/key.json
+https://jioplus.cr7x.workers.dev/live/999/999/1403/index.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Jiostar" tvg-logo="",News 18 India
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15;Airxtream_network) ExoPlayerLib/2.11.7
+#KODIPROP:inputstream.adaptive.license_key=https://jioplus.cr7x.workers.dev/license/999/999/231/key.json
+https://jioplus.cr7x.workers.dev/live/999/999/231/index.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Jiostar" tvg-logo="",TV9 Bharatvarsh
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15;Airxtream_network) ExoPlayerLib/2.11.7
+#KODIPROP:inputstream.adaptive.license_key=https://jioplus.cr7x.workers.dev/license/999/999/1251/key.json
+https://jioplus.cr7x.workers.dev/live/999/999/1251/index.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Jiostar" tvg-logo="",Zee News
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15;Airxtream_network) ExoPlayerLib/2.11.7
+#KODIPROP:inputstream.adaptive.license_key=https://jioplus.cr7x.workers.dev/license/999/999/504/key.json
+https://jioplus.cr7x.workers.dev/live/999/999/504/index.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Jiostar" tvg-logo="",Oscar Movies
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15;Airxtream_network) ExoPlayerLib/2.11.7
+#KODIPROP:inputstream.adaptive.license_key=https://jioplus.cr7x.workers.dev/license/999/999/883/key.json
+https://jioplus.cr7x.workers.dev/live/999/999/883/index.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Jiostar" tvg-logo="",Music India
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15;Airxtream_network) ExoPlayerLib/2.11.7
+#KODIPROP:inputstream.adaptive.license_key=https://jioplus.cr7x.workers.dev/license/999/999/250/key.json
+https://jioplus.cr7x.workers.dev/live/999/999/250/index.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Jiostar" tvg-logo="",Sangeet Bhojpuri
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15;Airxtream_network) ExoPlayerLib/2.11.7
+#KODIPROP:inputstream.adaptive.license_key=https://jioplus.cr7x.workers.dev/license/999/999/741/key.json
+https://jioplus.cr7x.workers.dev/live/999/999/741/index.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Jiostar" tvg-logo="",E 24
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15;Airxtream_network) ExoPlayerLib/2.11.7
+#KODIPROP:inputstream.adaptive.license_key=https://jioplus.cr7x.workers.dev/license/999/999/741/key.json
+https://jioplus.cr7x.workers.dev/live/999/999/591/index.mpd
 
