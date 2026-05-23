@@ -96,6 +96,22 @@ https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Nat%20Geo%20HD
 https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Nat%20Geo%20Wild%20HD.m3u8
 
 
+========================================================= 24x7 ===========================================================================================================
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://spoo.me/Friends" group-title="24x7", Friends
+http://toms-pics.info:25461/live/TOPPDOGG6/detroit6/297133.m3u8
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://spoo.me/HIMYM" group-title="24x7", How I Met Your Mother
+http://bgdc.live:25461/live/calvin12/minor/233472.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="24.7.Dummy.us" tvg-logo="https://picon-13398.kxcdn.com/thebigbangtheory247.jpg" group-title="24x7",The Big Bang Theory
+http://toms-pics.info:25461/live/TOPPDOGG6/detroit6/297784.m3u8
+
+#EXTINF:-1 tvg-name="24.7.Dummy.us" tvg-logo="http://x.playerlatino.live/twoandhalfmen.png" group-title="24x7",Two And a Half Men
+http://toms-pics.info:25461/live/TOPPDOGG6/detroit6/298000.m3u8
+
+#EXTINF:-1 tvg-name="24.7.Dummy.us" tvg-logo="https://i.ibb.co/f8Sc1h6/Sin-t-tulo-1.png" group-title="24x7",Malcolm in the Middle
+http://toms-pics.info:25461/live/TOPPDOGG6/detroit6/297377.ts
 
 ========================================================= Mac ===========================================================================================================
 
