@@ -6123,13 +6123,12 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Jio_Specials_HD_BTS/output/index.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Jio Temp" tvg-logo="",Colors HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15;Airxtream_network) ExoPlayerLib/2.11.7
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5
 #KODIPROP:inputstream.adaptive.license_key=https://jioplus.cr7x.workers.dev/license/999/999/144/key.json
 https://jioplus.cr7x.workers.dev/live/999/999/144/index.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Jio Temp" tvg-logo="",Colors Cineplex Bollywood
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15;Airxtream_network) ExoPlayerLib/2.11.7
 #KODIPROP:inputstream.adaptive.license_key=https://jioplus.cr7x.workers.dev/license/999/999/1763/key.json
 https://jioplus.cr7x.workers.dev/live/999/999/1763/index.mpd
 
