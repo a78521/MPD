@@ -720,6 +720,12 @@ https://get.perfecttv.net/astro_10802.mpd?username=vip_3klp0es8&password=wg3piwE
 https://m3u.8088y.fun/jtvp/zee_cinema_HD.mpd?tk=testing
 
 
+#EXTINF:-1 tvg-id="406" group-title="Indian" tvg-logo="https://tatalogo.pages.dev/406.png",MTV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
+https://alex4528.site/jplus/oi0ILIOLoOi1iiL1LIll0l/manifest.mpd
+
+
 #EXTINF:-1 group-logo="https://get.perfecttv.net/logo/colorhindi.png" group-title="Indian",Colors HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
