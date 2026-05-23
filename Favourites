@@ -337,17 +337,44 @@ https://aynaott.unosottor.workers.dev/bpk-tv/Ptvsports.m3u8
 https://aynaott.unosottor.workers.dev/bpk-tv/asports.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports 1 HD
-https://playztv-apps.pages.dev/star-sports/index.m3u8
+https://sflex07.fun/Sflex-Artl/STAR_SPORTS_1_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports 2 HD
+https://sflex07.fun/Sflex-Artl/STAR_SPORTS_2_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports Tamil
+https://sflex07.fun/Sflex-Artl/SPORTS18SYMHYP3.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Cricbuzz
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1163988.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Willow
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/13141.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Sky Sports Cricket
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/9258/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Fox 501 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/19146/index.m3u8
+
+
+#EXTINF:-1 tvg-id="WillowSports.us" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/willow_sports_stacked_logo_full_white.png" group-title="Cricket",Willow Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/20-by-xfireflix.png" group-title="Cricket", PTV Sports
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7712196dbee413ab510c825e5c4d3f0:1ade126fa6a9162ba34bd5de5b1427ca
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+https://ottlive.dishhome.com.np/protected/jQTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/geekyhimanshu/KP-Channels/refs/heads/main/StarSports1HindiHD.jpg" group-title="Cricket",Star Sports 1 Hindi HD
-http://163.61.227.29:8000/play/a062
+
 #EXTINF:-1 tvg-id="https://raw.githubusercontent.com/geekyhimanshu/KP-Channels/refs/heads/main/StarSportHD1.jpg" tvg-logo="" group-title="Cricket",Star Sports 1 English HD
-http://163.61.227.29:8000/play/a00f
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/geekyhimanshu/KP-Channels/refs/heads/main/StarSportsHD2.jpg" group-title="Cricket",Star Sports 2 English HD
-http://163.61.227.29:8000/play/a069
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/geekyhimanshu/KP-Channels/refs/heads/main/StarSportsHindiHD2.jpg" group-title="Cricket",Star Sports 2 Hindi HD
-http://163.61.227.29:8000/play/a012
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports 1 Hindi HD
 https://crichd.workspace-sultanarabi161.workers.dev/live/starhindi.m3u8
