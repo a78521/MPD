@@ -6253,3 +6253,7 @@ https://jioplus.cr7x.workers.dev/live/999/999/741/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://jioplus.cr7x.workers.dev/license/999/999/741/key.json
 https://jioplus.cr7x.workers.dev/live/999/999/591/index.mpd
 
+#EXTINF:-1 tvg-id="" group-title="Jio Temp" tvg-logo="",E 24
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey.joker-verse.workers.dev/license
+https://jiooo.cr7x.workers.dev/live/999/999/591/index.mpd|plaYtv/7.1.5 (Linux;Android 15;Jioplus) ExoPlayerLib/2.11.7
