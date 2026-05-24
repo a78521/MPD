@@ -1920,6 +1920,16 @@ https://lotus.stingray.com/ads/ose-155ads-montreal/lgchannels/master.m3u8
 #EXTINF:-1 tvg-id="3481" tvg-name="Stingray Cozy Cafe" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/cozycafe-400ads_cafe001-tokyo.png" group-title="Stringray", Stingray Cozy Cafe
 https://lotus.stingray.com/ads/cozycafe-400ads_cafe001-tokyo/lgchannels/master.m3u8
 
+
+#EXTINF:-1 tvg-id="3323" tvg-name="Stingray The Spa" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ose-122ads-montreal.png" group-title=""Stringray", Stingray The Spa
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="3324" tvg-name="Stingray Todays K-Pop" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ose-317ads-montreal.png" group-title=""Stringray", Stingray Todays K-Pop
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="3325" tvg-name="Stingray Easy Listening" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ose-137ads-montreal.png" group-title=""Stringray", Stingray Easy Listening
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="3327" tvg-name="Stingray 2000s" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ose-232ads-montreal.png" group-title=""Stringray", Stingray 2000s
+https://lotus.stingray.com/manifest/ose-232ads-montreal/samsungtvplus/master.m3u8
+
 #EXTINF:-1 tvg-id="1003" tvg-name="Stingray Naturescape" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/naturescape-a003s-dhaka.png" tvg-chno="1003" group-title="Jio-Stringray",Stingray Naturescape
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
