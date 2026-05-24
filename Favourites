@@ -1615,6 +1615,16 @@ https://m3uplay.com/leo/live.m3u8?id=3074&format=.m3u8
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.m3u8?id=2327&format=.m3u8 
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Movies",Eros Bolywood Cinema
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.m3u8?id=3543&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Movies",Eros Universe Entertainment
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.m3u8?id=3544&format=.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/b4u_movies.png" group-title="Jio-Movies",B4U Movies
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
@@ -1892,23 +1902,23 @@ https://m3uplay.com/leo/live.m3u8?id=1191&format=.m3u8
 
 #EXTINF:-1 tvg-id="3285" tvg-name="Stingray Naturescape" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/naturescape-a003s-dhaka.png" group-title="Stringray", Stingray Naturescape
 https://lotus.stingray.com/manifest/naturescape-a003s-dhaka/samsungtvplus/master.m3u8
-
 #EXTINF:-1 tvg-id="3286" tvg-name="ZenLIFE by Stingray" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/zenlife-zen001-seoul.png" group-title="Stringray", ZenLIFE by Stingray
 https://lotus.stingray.com/manifest/zenlife-zen001-seoul/samsungtvplus/master.m3u8
-
 #EXTINF:-1 tvg-id="3287" tvg-name="Holidaycapes by Stingray" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/holidayscapes.png" group-title="Stringray", Holidaycapes by Stingray
 https://lotus.stingray.com/manifest/holidayscapes/samsungtvplus/master.m3u8
-
 #EXTINF:-1 tvg-id="3288" tvg-name="Movie Music by Stingray" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/cmusic-cme004-dhaka.png" group-title="Stringray", Movie Music by Stingray
 https://lotus.stingray.com/manifest/cmusic-cme004-dhaka/samsungtvplus/master.m3u8
-
 #EXTINF:-1 tvg-id="3289" tvg-name="Qello Concerts by Stingray" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/qello-qello001-dhaka.png" group-title="Stringray", Qello Concerts by Stingray
 https://lotus.stingray.com/manifest/qello-qello001-dhaka/samsungtvplus/master.m3u8
-
 #EXTINF:-1 tvg-id="3290" tvg-name="Stingray Djazz" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/djazz-djaads-dhaka.png" group-title="Stringray", Stingray Djazz
 https://lotus.stingray.com/manifest/djazz-djaads-dhaka/samsungtvplus/master.m3u8
 
-
+EXTINF:-1 tvg-id="3478" tvg-name="Stingray Classic Rock" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ose-101ads-montreal.png" group-title="Stringray", Stingray Classic Rock
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="3479" tvg-name="Stingray Greatest Hits" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ose-155ads-montreal.png" group-title="Stringray", Stingray Greatest Hits
+https://lotus.stingray.com/ads/ose-155ads-montreal/lgchannels/master.m3u8
+#EXTINF:-1 tvg-id="3481" tvg-name="Stingray Cozy Cafe" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/cozycafe-400ads_cafe001-tokyo.png" group-title="Stringray", Stingray Cozy Cafe
+https://lotus.stingray.com/ads/cozycafe-400ads_cafe001-tokyo/lgchannels/master.m3u8
 
 #EXTINF:-1 tvg-id="1003" tvg-name="Stingray Naturescape" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/naturescape-a003s-dhaka.png" tvg-chno="1003" group-title="Jio-Stringray",Stingray Naturescape
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
