@@ -96,6 +96,63 @@ https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Nat%20Geo%20HD
 https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Nat%20Geo%20Wild%20HD.m3u8
 
 
+========================================================= Darshan ===========================================================================================================
+
+#EXTINF:-1 tvg-id="24272" tvg-chno="109" tvg-name="iskcon-vrindavan" tvg-language="HIN" "tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1141860372ISKCON_TVW_720x960.webp" group-title="Darshan", ISKCON Vrindavan
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; S905X Build/PPR1.180610.011)
+https://cam3.pc.cdn.bitgravity.com/cam/live/feed023/Prasar_bharati_OTT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="24275" tvg-chno="108" tvg-name="somnath-temple" tvg-language="HIN" "tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/366953270Shree_Somnath_TVW_720x960.webp" group-title="Darshan", Somnath  Temple
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; S905X Build/PPR1.180610.011)
+https://cam3.pc.cdn.bitgravity.com/cam/live/somnath1/Prasar_bharati_OTT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="24270" tvg-chno="110" tvg-name="shirdi-saibaba" tvg-language="HIN" "tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1396684665Shirdi_Saibaba_TVW_720x960.webp" group-title="Darshan", Shirdi Saibaba
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; S905X Build/PPR1.180610.011)
+https://cam3.pc.cdn.bitgravity.com/cam/live/feed008/Prasar_bharati_OTT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="24271" tvg-chno="111" tvg-name="kashi-vishwanath-temple" tvg-language="HIN" "tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/573090631Kashi_Vishwanath_Temple___384x512_copy.webp" group-title="Darshan", Kashi Vishwanath Temple
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; S905X Build/PPR1.180610.011)
+https://cam3.pc.cdn.bitgravity.com/cam/live/Kashi_Vishwanath/Prasar_bharati_OTT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="24278" tvg-chno="113" tvg-name="mahavir-temple,-patna" tvg-language="HIN" "tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1681375390Mahavir_Temple_Patna__TVW_720x960.webp" group-title="Darshan", Mahavir Temple, Patna
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; S905X Build/PPR1.180610.011)
+https://cam3.pc.cdn.bitgravity.com/cam/live/PatnaHanuman/Prasar_bharati_OTT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="24274" tvg-chno="119" tvg-name="dagdusheth-halwai-ganpati-temple,-pune" tvg-language="HIN" "tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/126729717Dagdusheth_TVW_720x960.webp" group-title="Darshan", Dagdusheth Halwai Ganpati Temple, Pune
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; S905X Build/PPR1.180610.011)
+https://cam3.pc.cdn.bitgravity.com/cam/live/dagdusheth1/Prasar_bharati_OTT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="24277" tvg-chno="120" tvg-name="naina-devi-ji-temple,-himachal-pradesh" tvg-language="HIN" "tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/38903457Naina_Devi_Ji__TVW_720x960.webp" group-title="Darshan", Naina Devi Ji Temple, Himachal Pradesh
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; S905X Build/PPR1.180610.011)
+https://cam3.pc.cdn.bitgravity.com/cam/live/Nainadevi/Prasar_bharati_OTT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="24267" tvg-chno="122" tvg-name="harimandir-ji-patna-saheb" tvg-language="HIN" "tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/985863252Takhat_Sri_Harimandir_Ji_Mob_384x512.webp" group-title="Darshan", Harimandir Ji Patna Saheb
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; S905X Build/PPR1.180610.011)
+https://cam3.pc.cdn.bitgravity.com/cam/live/gurudwara_patnasahib/Prasar_bharati_OTT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="24276" tvg-chno="123" tvg-name="naga-sai-temple,-coimbatore" tvg-language="HIN" "tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1329814412Naga_Sai_TVW_720x960.webp" group-title="Darshan", Naga Sai Temple, Coimbatore
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; S905X Build/PPR1.180610.011)
+https://cam3.pc.cdn.bitgravity.com/cam/live/feed88_1/nagasai/Prasar_bharati_OTT/playlist.m3u8
+
+
 ========================================================= 24x7 ===========================================================================================================
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://spoo.me/Friends" group-title="24x7", Friends
