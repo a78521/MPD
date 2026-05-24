@@ -7009,6 +7009,22 @@ https://origin-cae-m462953.toober.com /4c3caf7294b3/b21e8e62fed6263f/playlist.m3
 ======================================================== Hindi Entertainment ===========================================================================================================
 
 
+#EXTINF:0, tvg-logo="" group-title="Hindi Entertainment",Colors USA
+#EXTVLCOPT:http-referrer="https://tulnit.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://tulnit.com"
+https://maamusic.keralive.workers.dev/out/v1/a526e652e4644463bca88e350785bed0/index.m3u8
+
+#EXTINF:0, tvg-logo="" group-title="Hindi Entertainment",Colors Cineplex USA
+#EXTVLCOPT:http-referrer="https://tulnit.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://tulnit.com"
+https://etv.keralive.workers.dev/090823/smil:colorscineplexus.smil/playlist.m3u8
+
+#EXTINF:0, tvg-logo="" group-title="Hindi Entertainment",Colors Rishtey USA
+#EXTVLCOPT:http-referrer="https://tulnit.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://tulnit.com"
+https://etv.keralive.workers.dev/090823/smil:colorscineplexus.smil/playlist.m3u8
+https://etv.keralive.workers.dev/090823/smil:ristheyamerica.smil/playlist.m3u8
+
 #EXTINF:0, tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3700007OZ_20250624T021650SQUARE.png" group-title="Hindi Entertainment",&TV HD
 https://amg01117-amg01117c1-amgplt0002.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0002/playlist.m3u8
 #https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
