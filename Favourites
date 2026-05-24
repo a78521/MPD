@@ -6498,7 +6498,8 @@ https://live.sli.ke/live/npnhm84gz9/master.m3u8
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-ndtv24x7-samsungin/playlist.m3u8
 
-
+#EXTINF:0, tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1256803319News9.webp" group-title="English News",News 9
+https://amg01106-amg01106c3-amgplt0747.playout.now3.amagi.tv/amg01106c3/hls.m3u8
 
 #EXTINF:0, tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/Times_NOW.png" group-title="English News",Times Now
 https://d3pvf6sv7wsu07.cloudfront.net/master.m3u8
@@ -7125,8 +7126,12 @@ https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-215
 
 #EXTINF:0, tvg-logo="" group-title="Punjabi",Punjab Mail USA
 http://cdn12.henico.net:8080/live/punjabmailusa/index.m3u8
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/D5 Punjabi.jpg"" group-title="Punjabi",D5 Channel Punjabi
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/D5 Punjabi.jpg"  "group-title="Punjabi",D5 Channel Punjabi
 https://d5.tv360.ca:3453/live/cd5live.m3u8
+#EXTINF:0, tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1622813991WhatsApp_Image_2026-04-09_at_11.15" "group-title="Punjabi",Daily Post News
+https://stream.ottlive.co.in/dailypost/index.m3u8
+#EXTINF:0, tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/5661248393.4" "group-title="Punjabi",World Punjabi TV
+https://stream.ottlive.co.in/worldpunjabitv/index.m3u8
 #EXTINF:0, tvg-logo="" group-title="Punjabi",Brit Asia TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8
 
