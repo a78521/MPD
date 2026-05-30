@@ -423,6 +423,12 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
+#EXTINF:-1 tvg-id="Fox.501.uk" tvg-logo="https://i.ibb.co/Qcy3Dcg/Od-KOXawp-400x400-modified.png" group-title="Cricket",Fox Sports 501 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=01c9bbf8137e58378a5ead514998a7b4:fb01e61809e80e5e93a889cd31daab22
+https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/20-by-xfireflix.png" group-title="Cricket", PTV Sports
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
