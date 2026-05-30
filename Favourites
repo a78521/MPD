@@ -955,7 +955,8 @@ https://mumt04.tangotv.in/PTCPUNJABIGOLD/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Apna Punjab
 https://mumt03.tangotv.in/APNAPUNJAB/index.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Andy Haryana
+https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Goldmines
 https://mumt04.tangotv.in/GOLDMINES/index.m3u8
@@ -1029,7 +1030,7 @@ https://mumt05.tangotv.in/VERTENTSAMACHARPLUS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Astha
 https://mumt01.tangotv.in/AASTHA/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Astha Bhajan
-https://mumt05.tangotv.in/AASTHABHAJAN/index.m3u8
+https://mumt05.tangotv.in/87NeALx2AASTHABHAJAN/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bhaktisagar.png" group-title="Tango TV",Bhakti Sagar
 https://mumt05.tangotv.in/BHAKTISAGAR/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Darshan_24.png" group-title="Tango TV",Darshan 24
