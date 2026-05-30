@@ -854,13 +854,13 @@ https://mumt05.tangotv.in/87NeALx2OSCARMOVIESBHOJPURI/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Hi_Dost.png" group-title="Tango TV",Hi Dost
 https://mumt03.tangotv.in/HIDOST/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_E24/images/LOGO_HD/image.png" group-title="Tango TV",E24
-https://mumt04.tangotv.in/E24/index.m3u8
+https://mumt04.tangotv.in/m18aqlK4E24/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Food Food
 https://mumt03.tangotv.in/FOODFOOD/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",B4U Music
-https://mumt04.tangotv.in/B4UMUSIC/index.m3u8
+https://mumt04.tangotv.in/m18aqlK4B4UMUSIC/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",B4U Movies
 https://mumt02.tangotv.in/B4UMOVIES/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",B4U Bhojpuri
@@ -884,19 +884,19 @@ https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lxgXHx4.png" group-title="Tango TV",Mastii
 https://mumt02.tangotv.in/MASTIII/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Music India
-https://mumt05.tangotv.in/MUSICINDIA/index.m3u8
+https://mumt05.tangotv.in/87NeALx2MUSICINDIA/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Insync.png" group-title="Tango TV",InSync
 https://mumt04.tangotv.in/INSYNC/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Epic Music
 https://mumt04.tangotv.in/EPICMUSIC/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Evergreen Hits
-https://mumt02.tangotv.in/EVERGREENHITS2/index.m3u8
+https://mumt07.tangotv.in/zHjX9OFlEVERGREENHITS2/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Hindi%20Hits.jpg?raw=true" group-title="Tango TV",Hindi Hits HD
 https://mumt01.tangotv.in/HINDIHITS/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Tango TV",Melody Hits
-https://mumt03.tangotv.in/MELODYHITS/index.m3u8
+https://mumt03.tangotv.in/Dsly5z3HMELODYHITS/index.m3u8
 #EXTINF:0, tvg-logo="" group-title="Tango TV",Classic Hits
 https://mumt03.tangotv.in/CLASSICHITS/index.m3u8
 
@@ -938,9 +938,9 @@ https://mumt04.tangotv.in/m18aqlK4SHEMAROOUMANG/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Dangal TV
-https://mumt01.tangotv.in/DANGAL/index.m3u8
+https://mumt04.tangotv.in/m18aqlK4DANGAL/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Dangal 2
-https://mumt03.tangotv.in/DANGAL2/index.m3u8
+https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Anjan TV
@@ -982,21 +982,23 @@ https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8
 https://mumt04.tangotv.in/m18aqlK4PITAARA/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Goldmines
-https://mumt04.tangotv.in/GOLDMINES/index.m3u8
+https://mumt04.tangotv.in/m18aqlK4GOLDMINES/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Goldmines 2
 https://mumt03.tangotv.in/GOLDMINES2/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Goldmines Movies
-https://mumt04.tangotv.in/GOLDMINEMOVIES/index.m3u8
+https://mumt04.tangotv.in/m18aqlK4GOLDMINEMOVIES/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Goldmines Bollywood
-https://mumt03.tangotv.in/GOLDMINESBOLLYWOOD/index.m3u8
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",DD National HD
 https://mumt01.tangotv.in/DDNATIONALHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20News%20HD.png" group-title="Tango TV",DD News
 https://mumt04.tangotv.in/DDNEWS/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Manoranjan TV
+https://mumt04.tangotv.in/m18aqlK4MANORANJANTV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Manoranjan Movies
-https://mumt04.tangotv.in/MANORANJANMOVIES/index.m3u8
+https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Manoranjan Prime
 https://mumt02.tangotv.in/MANORANJANPRIME/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Manoranjan Grand
