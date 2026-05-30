@@ -114,7 +114,7 @@ https://cam3.pc.cdn.bitgravity.com/cam/live/somnath1/Prasar_bharati_OTT/playlist
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; S905X Build/PPR1.180610.011)
-https://in1.sunilprasad.com.np/wavespb/00170/NainaDeviJiTemple,HimachalPradesh.24277/playlist.m3u8
+https://in1.sunilprasad.com.np/wavespb/00170/NainaDeviJile,HimachalPradesh.24277/playlist.m3u8
 
 #EXTINF:-1 tvg-id="24270" tvg-chno="110" tvg-name="shirdi-saibaba" "tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1396684665Shirdi_Saibaba_TVW_720x960.webp" group-title="Darshan",Shirdi Saibaba
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1089,9 +1089,10 @@ https://public.kliv.fun/TPTV8A/play.php?id=1060
 #EXTINF:-1 tvg-logo="" group-title="Temp",CN HD+
 
 #EXTINF:-1 tvg-id="63" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/zeetvhd.png" group-title="Temp",Zee TV HD
-
+http://202.70.146.135:8000/play/a04g/index.m3u8
 #EXTINF:-1 tvg-id="503" tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Temp",Zee Cinema HD
-https://public.kliv.fun/TPTV8A/play.php?id=11693
+http://202.70.146.135:8000/play/a03f/index.m3u8
+
 
 #EXTINF:-1 tvg-id="40" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/andtvhd.png" group-title="Temp",&tv HD
 
@@ -1104,7 +1105,7 @@ https://public.kliv.fun/TPTV8A/play.php?id=11619
 https://public.kliv.fun/TPTV8A/play.php?id=11624
 
 #EXTINF:-1 tvg-id="1183" tvg-logo="" group-title="Temp",Zee Cafe HD
-https://public.kliv.fun/TPTV8A/play.php?id=833
+http://202.70.146.135:8000/play/a04n/index.m3u8
 
 #EXTINF:-1 tvg-id="666" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/tataplaytheatrehd.png" group-title="Temp",Tata Play Theatre HD
 https://public.kliv.fun/TPTV8A/play.php?id=1113
