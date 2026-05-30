@@ -828,11 +828,13 @@ https://streams2.sofast.tv/ptnr-runntv/title-XTREM-SPORTS-ENG/sofastplayout/dd07
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Fast Mix
 https://mumt01.tangotv.in/FASTMIX/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Pankh
-https://mumt04.tangotv.in/PANKH/index.m3u8
+https://mumt04.tangotv.in/m18aqlK4PANKH/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Total TV
 https://mumt04.tangotv.in/TOTALTV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Gangaur
 https://mumt04.tangotv.in/GANGAURTV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Padharo Sa
+https://mumt03.tangotv.in/Dsly5z3HPADHAROSA/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Classic Hits
@@ -846,7 +848,7 @@ https://mumt01.tangotv.in/INDIATALKIES/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NFYY1.png?lock=720x540" group-title="Tango TV",Pasand TV
 https://mumt01.tangotv.in/PASANDTV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",Oscar Movies Bhojpuri
-https://mumt05.tangotv.in/OSCARMOVIESBHOJPURI/index.m3u8
+https://mumt05.tangotv.in/87NeALx2OSCARMOVIESBHOJPURI/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Hi_Dost.png" group-title="Tango TV",Hi Dost
@@ -869,12 +871,15 @@ https://mumt02.tangotv.in/B4UKADAK/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",All Time Movies
 https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Tango TV",9XM
-https://mumt01.tangotv.in/9XM/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Tango TV",9X Jalwa
-https://mumt03.tangotv.in/9XJALWA/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Tango TV",9X Jhakkas
-https://mumt03.tangotv.in/9XJHAKAAS/index.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png?lock=720x540" group-title="Tango TV",9XM
+https://mumt01.tangotv.in/O5aw8Zn39XM/index.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_JALWA/images/LOGO_HD/image.png" group-title="Tango TV",9X Jalwa
+https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s142504_ld_h15_aa.png?lock=720x540" group-title="Tango TV",9X Tashan
+https://mumt01.tangotv.in/O5aw8Zn39XTASHAN/index.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s90012_ld_h15_aa.png?lock=720x540" group-title="Tango TV",9X Jhakkas
+https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lxgXHx4.png" group-title="Tango TV",Mastii
 https://mumt02.tangotv.in/MASTIII/index.m3u8
@@ -916,11 +921,19 @@ https://mumt03.tangotv.in/MHONEMOVIES/index.m3u8
 https://mumt03.tangotv.in/GTCNEWS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",GTC Punjabi
 https://mumt01.tangotv.in/GTC/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Punjabi TV
+https://mumt07.tangotv.in/zHjX9OFlPUNJABITV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Punjabi Beats
+https://mumt07.tangotv.in/zHjX9OFlPUNJABIBEATS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Punjabi Music HD
+https://mumt07.tangotv.in/zHjX9OFlPUNJABIMUSICHD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Tabbar Hits
+https://mumt04.tangotv.in/m18aqlK4TABBARHITS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_TV/images/LOGO_HD/image.png" group-title="Tango TV",Shemaroo TV
 https://mumt02.tangotv.in/SHEMAROOTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_UMANG/images/LOGO_HD/image.png" group-title="Tango TV",Shemaroo Umang
-https://mumt04.tangotv.in/SHEMAROOUMANG/index.m3u8
+https://mumt04.tangotv.in/m18aqlK4SHEMAROOUMANG/index.m3u8
 
 
 
@@ -933,36 +946,40 @@ https://mumt03.tangotv.in/DANGAL2/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Anjan TV
 https://mumt02.tangotv.in/ANJANTV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Pasand TV
-https://mumt01.tangotv.in/PASANDTV/index.m3u8
+https://mumt01.tangotv.in/O5aw8Zn3PASANDTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Q TV
-https://mumt05.tangotv.in/THEQ/index.m3u8
+https://mumt05.tangotv.in/87NeALx2THEQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Unique_Tv.png" group-title="Tango TV",Unique TV
 https://mumt05.tangotv.in/UNIQUETV/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Sangeet Bangla
-https://mumt05.tangotv.in/SANGEETBANGLA/index.m3u8
+https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Sangeet Bhojpuri
-https://mumt01.tangotv.in/SANGEETBHOJPURI/index.m3u8
+https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Sangeet Marathi
+https://mumt07.tangotv.in/zHjX9OFlSANGEETMARATHI/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",PTC News
 https://mumt02.tangotv.in/PTCNEWS/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_MUSIC/images/LOGO_HD/image.png" group-title="Tango TV",PTC Music
-https://mumt04.tangotv.in/PTCMUSIC/index.m3u8
+https://mumt04.tangotv.in/m18aqlK4PTCMUSIC/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_CHAKDE/images/LOGO_HD/image.png" group-title="Tango TV",PTC Chakde
 https://mumt02.tangotv.in/PTCCHAKDE/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",PTC Simran
-https://mumt05.tangotv.in/PTCSIMRAN/index.m3u8
+https://mumt05.tangotv.in/87NeALx2PTCSIMRAN/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_PUNJABI/images/LOGO_HD/image.png" group-title="Tango TV",PTC Punjabi
-https://mumt04.tangotv.in/PTCPUNJABI/index.m3u8
+https://mumt04.tangotv.in/m18aqlK4PTCPUNJABI/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_PUNJABI_GOLD/images/LOGO_HD/image.png" group-title="Tango TV",PTC Punjabi Gold
-https://mumt04.tangotv.in/PTCPUNJABIGOLD/index.m3u8
+https://mumt04.tangotv.in/m18aqlK4PTCPUNJABIGOLD/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Apna Punjab
 https://mumt03.tangotv.in/APNAPUNJAB/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Andy Haryana
 https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Pitaara
+https://mumt04.tangotv.in/m18aqlK4PITAARA/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Goldmines
 https://mumt04.tangotv.in/GOLDMINES/index.m3u8
@@ -994,21 +1011,27 @@ https://mumt03.tangotv.in/NEWSNATION/index.m3u8
 https://mumt03.tangotv.in/NEWS24/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Republic Bharat
 https://mumt02.tangotv.in/REPUBLICBHARAT/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Times Now Navbharat
+https://mumt03.tangotv.in/Dsly5z3HTIMESNOWNAVBHARAT/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",TV9 Bharatvarsh
+https://mumt01.tangotv.in/O5aw8Zn3TV9BHARATVARSH/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Zee Bharat
+https://mumt03.tangotv.in/Dsly5z3HZEEBHARAT/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Republic TV
 https://mumt05.tangotv.in/REPUBLICTV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",News X
-https://mumt01.tangotv.in/NEWSX/index.m3u8
+https://mumt01.tangotv.in/O5aw8Zn3NEWSX/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",News X World
-https://mumt03.tangotv.in/NEWSXWORLD/index.m3u8
+https://mumt03.tangotv.in/Dsly5z3HNEWSXWORLD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/APN.png" group-title="Tango TV",APN
 https://mumt01.tangotv.in/APN/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ARYAN_TV_NATIONAL/images/LOGO_HD/image.png" group-title="Tango TV",Aryan TV
 https://mumt04.tangotv.in/ARYANTVNATIONAL/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FIRST_INDIA_NEWS_RAJASTHAN/images/LOGO_HD/image.png" group-title="Tango TV",First India News
-https://mumt03.tangotv.in/1STINDIANEWS/index.m3u8
+https://mumt03.tangotv.in/Dsly5z3H1STINDIANEWS/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HARKHABAR/images/LOGO_HD/LOGO_HD_image.png" group-title="Tango TV",Har Khabar
 https://mumt01.tangotv.in/HARKHABAR/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/exRpVmL.png" group-title="Tango TV",IND 24
@@ -1034,7 +1057,7 @@ https://mumt05.tangotv.in/VERTENTSAMACHARPLUS/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Astha
-https://mumt01.tangotv.in/AASTHA/index.m3u8
+https://mumt05.tangotv.in/87NeALx2AASTHA/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Astha Bhajan
 https://mumt05.tangotv.in/87NeALx2AASTHABHAJAN/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bhaktisagar.png" group-title="Tango TV",Bhakti Sagar
@@ -1051,10 +1074,18 @@ https://mumt05.tangotv.in/DIVYA/index.m3u8
 https://mumt05.tangotv.in/FATEHTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PARAS_GOLD_ONE/images/LOGO_HD/image.png" group-title="Tango TV",Paras Gold
 https://mumt04.tangotv.in/PARASGOLD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Sadhna TV
+https://mumt05.tangotv.in/87NeALx2SADHNATV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Satsang
+https://mumt05.tangotv.in/87NeALx2SATSANG/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Sanskar TV
-https://mumt05.tangotv.in/SANSKAR/index.m3u8
+https://mumt05.tangotv.in/87NeALx2SANSKAR/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Shraddha MH1
+https://mumt01.tangotv.in/O5aw8Zn3MHONESHRADDHA/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Subhari TV
 https://mumt04.tangotv.in/SUBHARTITV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Vedic
+https://mumt05.tangotv.in/87NeALx2VEDIC/index.m3u8
 
 
 =================================================================== Temp ================================================================================================
