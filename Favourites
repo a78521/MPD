@@ -1104,7 +1104,7 @@ https://mumt05.tangotv.in/87NeALx2VEDIC/index.m3u8
 =================================================================== Temp ================================================================================================
 
 #EXTINF:-1 tvg-id="8" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starplushd.png" group-title="Temp",Star Plus HD
-
+http://202.70.146.135:8000/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starplushd.png" group-title="Temp",Star Plus
 
 
@@ -1112,7 +1112,7 @@ https://mumt05.tangotv.in/87NeALx2VEDIC/index.m3u8
 
 
 #EXTINF:-1 tvg-id="star-gold-hd" tvg-logo="https://live.dinesh29.com.np/logos/star-gold-hd.png" group-title="Temp",Star Gold HD
-https://public.kliv.fun/TPTV8A/play.php?id=1042
+http://202.70.146.135:8000/play/a02a/index.m3u8
 
 #EXTINF:-1 tvg-id="utsav-gold-hd" tvg-logo="" group-title="Temp",Utsav Gold HD
 https://public.kliv.fun/TPTV8A/play.php?id=3004
@@ -1126,7 +1126,7 @@ http://ptuf.ridsys.in/riptv/live/STAR_MOVIES_HD/index.m3u8
 
 
 #EXTINF:-1 tvg-id="colors-hd" tvg-logo="https://tv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Temp",Colors HD
-
+http://202.70.146.135:8000/play/a00b/index.m3u8
 
 #EXTINF:-1 tvg-id="cineplex-hd" tvg-logo="https://live.dinesh29.com.np/logos/cineplex-hd.png" group-title="Temp",Colors Cineplex HD
 
@@ -1135,7 +1135,7 @@ http://ptuf.ridsys.in/riptv/live/STAR_MOVIES_HD/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://live.dinesh29.com.np/logos/tataplay/mtvhd.png" group-title="Temp",MTV HD
-https://public.kliv.fun/TPTV8A/play.php?id=1060
+
 
 #EXTINF:-1 tvg-logo="" group-title="Temp",CN HD+
 
@@ -1159,10 +1159,10 @@ https://public.kliv.fun/TPTV8A/play.php?id=11624
 http://202.70.146.135:8000/play/a04n/index.m3u8
 
 #EXTINF:-1 tvg-id="666" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/tataplaytheatrehd.png" group-title="Temp",Tata Play Theatre HD
-https://public.kliv.fun/TPTV8A/play.php?id=1113
+
 
 #EXTINF:-1 tvg-id="disney-international-hd" tvg-logo="https://live.dinesh29.com.np/logos/disney-international-hd.png" group-title="Temp",Disney International HD
-https://public.kliv.fun/TPTV8A/play.php?id=931
+http://202.70.146.135:8000/play/a04p/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Temp",Disney Channel HD
 
@@ -1173,11 +1173,11 @@ https://public.kliv.fun/TPTV8A/play.php?id=931
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://live.dinesh29.com.np/logos/sony-sab-hd.png" group-title="Temp",Sony Sab HD
 
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://live.dinesh29.com.np/logos/sony-max-hd.png" group-title="Temp",Sony Max HD
-https://public.kliv.fun/TPTV8A/play.php?id=11670
+
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="" group-title="Temp",Sony Pal
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Temp",Sony Pix HD
-https://public.kliv.fun/TPTV8A/play.php?id=1093
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Temp",Ten 1 HD
@@ -1190,14 +1190,13 @@ https://public.kliv.fun/TPTV8A/play.php?id=1093
 
 
 #EXTINF:-1 tvg-id="star-movies-hd" tvg-logo="https://live.dinesh29.com.np/logos/star-movies-hd.png" group-title="Temp",Star Movies HD
-https://public.kliv.fun/TPTV8A/play.php?id=11677
-#http://ptuf.ridsys.in/riptv/live/STAR_MOVIES_HD/index.m3u8
+http://202.70.146.135:8000/play/a06r/index.m3u8
 #EXTINF:-1 tvg-id="star-movies-select-hd" tvg-logo="https://live.dinesh29.com.np/logos/star-movies-select-hd.png" group-title="Temp",Star Movies Select HD
-https://public.kliv.fun/TPTV8A/play.php?id=1125
+
 
 
 #EXTINF:-1 tvg-id="star-sports-1-hd" tvg-logo="https://live.dinesh29.com.np/logos/star-sports-1-hd.png" group-title="Temp",Star Sports 1 HD
-
+http://202.70.146.135:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="star-sports-2-hd" tvg-logo="https://live.dinesh29.com.np/logos/star-sports-2-hd.png" group-title="Temp",Star Sports 2 HD
 
 #EXTINF:-1 tvg-id="star-sports-1-hd-hindi" tvg-logo="https://live.dinesh29.com.np/logos/star-sports-1-hd-hindi.png" group-title="Temp",Star Sports 1 HD Hindi
@@ -1217,11 +1216,11 @@ https://servertvhub.site/jio/app/app/ts_live_1998.m3u8
 
 
 #EXTINF:-1 tvg-id="562" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/moviesnowhd.png" group-title="Temp",Movies Now HD
-https://public.kliv.fun/TPTV8A/play.php?id=1028
+
 #EXTINF:-1 tvg-id="210" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/mnhd.png" group-title="Temp",MN+ HD
 
 #EXTINF:-1 tvg-id="599" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/mnxhd.png" group-title="Temp",MNX HD
-https://public.kliv.fun/TPTV8A/play.php?id=11650
+
 #EXTINF:-1 tvg-id="599" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/mnxhd.png" group-title="Temp",Romedy Now
 
 
@@ -1235,11 +1234,11 @@ https://public.kliv.fun/TPTV8A/play.php?id=11650
 https://m3uplay.com/leo/live.m3u8?id=1226&format=.m3u8
 
 #EXTINF:-1 tvg-id="1079" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/cartoonnetworkhd.png" group-title="Temp",Cartoon Network HD+
-https://public.kliv.fun/TPTV8A/play.php?id=11709
+
 #EXTINF:-1 tvg-id="605" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/nationalgeographichd.png" group-title="Temp",National Geographic HD
-https://public.kliv.fun/TPTV8A/play.php?id=11657
+http://202.70.146.135:8000/play/a05o/index.m3u8
 #EXTINF:-1 tvg-id="413" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/natgeowildhd.png" group-title="Temp",Nat Geo Wild HD
-https://public.kliv.fun/TPTV8A/play.php?id=1052
+http://202.70.146.135:8000/play/a05j/index.m3u8
 
 
 #EXTINF:-1 tvg-id="341" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/discoveryhdworld.png" group-title="Temp",Discovery HD World
@@ -1252,6 +1251,8 @@ https://mini.allinonereborn.fun/jiotv-www/app/ts_live_463.m3u8
 
 #EXTINF:-1 tvg-id="480" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/tlchd.png" group-title="Temp",TLC HD
 
+#EXTINF:-1 tvg-id="480" tvg-logo="" group-title="Temp",travelxp HD
+http://202.70.146.135:8000/play/a04o/index.m3u8
 
 #EXTINF:-1 tvg-id="164" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/travelxphd.png" group-title="Temp",Travelxp English HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
