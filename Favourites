@@ -240,6 +240,9 @@ http://slayerteam.in.rs:80/play/live.php?mac=00:1B:79:F0:81:7F&extension=ts&stre
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3132515182ec50091b496fe515564084" group-title="AynaOTT",Hindi Movie Classic 24
 https://vods2.aynaott.com/hindimovies/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="AynaOTT",Star Sports 1 HD
+https://tvsen7.aynaott.com/sspts1/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/e92e9e2fb70909f3dd30a8d89e644119" group-title="AynaOTT",Goldmines Bollywood
 https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8
 
