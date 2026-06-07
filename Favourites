@@ -5794,6 +5794,13 @@ https://dt3lrqnyx3dks.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="10595" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1245247643INDIA_TODAY_TV______720x405.webp" group-title="Waves",India Today
 https://d2lk5u59tns74c.cloudfront.net/out/v1/d4435039c7d1433d9b9d0b6cdc9dd4ff/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="" group-title="Waves",News 9
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; S905X Build/PPR1.180610.011)
+https://amg01106-amg01106c3-amgplt0747.playout.now3.amagi.tv/amg01106c3/hls_amagi_standard_variant_1_common.m3u8
+
 #EXTINF:-1 tvg-id="10545" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/269746116Frame_1597877911.webp" group-title="Waves",B4U Music
 https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
 #https://b4u.cdn.runn.tv/B4U_Music/master.m3u8
@@ -6876,16 +6883,14 @@ https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/bollywood-hd.jpg" group-title="Hindi Movies",BOLLYWOOD HD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-classic/logo_20220801_200458_68.png" group-title="Hindi Movies",BOLLYWOOD Classic
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+
 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10647.jpg" group-title="Hindi Movies",Abzy Movies
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8
-#http://57.129.53.130:21001/ABZY_Movies/master.m3u8
+http://57.129.53.130:21001/ABZY_Movies/master.m3u8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10648.jpg" group-title="Hindi Movies",Abzy Dhakhad
-https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8
-#http://57.129.53.130:21001/ABZY_Dhakad/master.m3u8
+http://57.129.53.130:21001/ABZY_Dhakad/master.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="Hindi Movies",Shemaroo Bollywood
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
@@ -6914,17 +6919,12 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991756/hls/master.m3u8?includeAsset
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",Manoranjan Movies
-https://mumt04.tangotv.in/MANORANJANMOVIES/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",Classic Hits
-https://mumt03.tangotv.in/CLASSICHITS/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",Hindi Movies
-http://103.220.29.158:8080/HINDI.MOVIES/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",India Talkies
-https://mumt01.tangotv.in/INDIATALKIES/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",Gold Movies
-https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL2Rob29tNHUubWUvc3RhbGtlcl9wb3J0YWwvIiwibWFjIjoiMDA6MUE6Nzk6MDA6MTI6NDQiLCJzbiI6IkY3NzUzQTY0RTIyNkUiLCJkZXZpY2VfaWQxIjoiNEIwQUFDNEI1RUIwQzkzMTAwNjVDN0QxMTJGRjUwQ0FERDczMDcxNkQ0NzYyMTg0RkMxQjkxMTYyRDMzRUUyQiIsImRldmljZV9pZDIiOiI0QjBBQUM0QjVFQjBDOTMxMDA2NUM3RDExMkZGNTBDQURENzMwNzE2RDQ3NjIxODRGQzFCOTExNjJEMzNFRTJCIiwic2lnIjoiIn0%3D&id=9856
-
 
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png" group-title="Hindi Movies",Zee Cine Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
