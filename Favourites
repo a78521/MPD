@@ -730,16 +730,22 @@ https://tv9live.cdn.runn.tv/title-News9_Non_SSAI/v1/vglive-sk-791223/main.m3u8
 
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYGLD/Web/thumbnail/d4eada62-e3ab-48b9-afe7-44942db7cf00.png" group-title="Runn TV",NH BollyGold
 https://nh-runntv-blygld.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
-#https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8   
+#https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8
+#https://prod-runn.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYRAG/Web/thumbnail/edac5b07-addf-45c8-97fb-77af5ff4831b.png" group-title="Runn TV",NH BollyRaga
 https://nh-runntv-blyrag.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8
 #https://209a7ee785af4abf93eeff4c5a7a62cf.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollyraga-airtel/playlist.m3u8
+#https://prod-runn.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="40" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYFLX/Web/thumbnail/a3b425cc-d6bd-4618-b78f-27c875df5da5.png" group-title="Runn TV",NH BollyFlix
 https://nh-runntv-blyflx.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8
 #https://2591a0ff9bc74048b89ae1954c9f7bdb.mediatailor.ap-south-1.amazonaws.com/v1/manifest/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollyflix-airtel/67c75bf9-b03f-4485-acaf-5e57d126f7a9/1.m3u8
+#https://prod-runn.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="40" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/p_supjio.png" group-title="Runn TV",Superfine Films
+https://supflm.cdn.runn.tv/runntv/stream/p_supjio/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/B4UBHO/Mobile/thumbnail/7904ddf9-245b-42bf-ba57-dc482fbb41f7.png" group-title="Runn TV",B4U Bhojpuri
@@ -775,8 +781,11 @@ https://playout.runn.tv/playout/v1/stream/p_tttflm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SMRBOL/Web/thumbnail/logo_web.png" group-title="Runn TV",Shemaroo Bollywood
 https://smr-runntv-blywd.cdn.runn.tv/shemaroo/stream/smrbol/playlist.m3u8
+#https://prod-runn.cdn.runn.tv/shemaroo/stream/smrbol/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SMRFGN/Web/thumbnail/logo_web.png" group-title="Runn TV",Shemaroo Filmigaane
 https://smr-runntv-flmgn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
+#https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/blywcm.png" group-title="Runn TV",Eros Universe Bollywood Cinema
 https://airtel-eros-blywdcnm.cdn.runn.tv/eros/stream/blywcm/playlist.m3u8
@@ -788,18 +797,26 @@ https://airtel-eros-entrtnmnt.cdn.runn.tv/eros/stream/ersent/playlist.m3u8
 https://playout.runn.tv/playout/v1/stream/jagran/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="Runn TV",dice
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/dicmed.png" group-title="Runn TV",Dice Media
 https://dicemedia.cdn.runn.tv/pocketaces/stream/dicmed/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Runn TV",Filter Copy
+#https://supflm.cdn.runn.tv/pocketaces/stream/dicmed/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/fltrcopy.png" group-title="Runn TV",Filter Copy
 https://filtercopy.cdn.runn.tv/pocketaces/stream/fltrcopy/playlist.m3u8
+#https://supflm.cdn.runn.tv/pocketaces/stream/fltrcopy/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Swastik_Stories.png" group-title="Runn TV",Swastik Stories
+https://csm-e-cesharedlsgsin2live-87593184.bln1.yospace.com/csm/extlive/runntvprd01,swastikrunn/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Runn TV",Atrangi
 https://csm-e-runntvprdlive-eb.runnads.runn.media/csm/extlive/runntvprd01,atrangiividaa2.m3u8?yo.up=https://amg13343-amg13343c1-amgplt0249.playout.now3.amagi.tv
 
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_CINSHF/Web/thumbnail/logo_web.png" group-title="Runn TV",Cineshorts Premiere
 https://playout.runn.tv/playout/v1/stream/p_cinshf/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_PKTFLM/Web/thumbnail/logo_web.png" group-title="Runn TV",Pocket Films
 https://pktflm.cdn.runn.tv/runntv/stream/p_pktflm/playlist.m3u8
+#https://prod-runn.cdn.runn.tv/runntv/stream/p_pktflm/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/PITCOM/Web/thumbnail/7dbe24ad-ae8e-4f50-a44c-dd7b2ea97ccc.png" group-title="Runn TV",Pitaara Comedy
@@ -827,6 +844,7 @@ https://streams2.sofast.tv/ptnr-runntv/title-Goal_TV/sofastplayout/WiseM3U8_1/ma
 
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/GREGLD/Mobile/thumbnail/3db87275-f469-4f9d-8ee5-b6cd5fa3a039.png" group-title="Runn TV",Green Gold TV
 https://greengold.cdn.runn.tv/greengold/stream/grngld/playlist.m3u8
+#https://supflm.cdn.runn.tv/greengold/stream/grngld/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/HOOHOO/Mobile/thumbnail/9eedcb6c-542b-4153-b5f9-524f0b6b0e5e.png" group-title="Runn TV",Hoop TV
 https://streams2.sofast.tv/ptnr-runntv/title-Hoop_TV/WiseM3U8_28/sofast/cleanhls/master.m3u8
@@ -6951,7 +6969,7 @@ https://cc-u6hadnoh0u6td.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73d
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",Alright!
-https://csm-e-cesharedlsgsin2live-87593135.bln1.yospace.com/csm/extlive/runntvprd01,alrightrunn.m3u8?yo.up=https://ruskmedia.cdn.runn.tv/ruskmedia/stream/alrght/manifest/
+https://supflm.cdn.runn.tv/ruskmedia/stream/alrght/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",Xumo Bollywood Cinema
 https://dbrb49pjoymg4.cloudfront.net/10001/99991756/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991756
