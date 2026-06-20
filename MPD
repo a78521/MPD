@@ -3427,6 +3427,7 @@ https://amg00841-aenetworksukane-mysterytv-samsunguk-mggb7.amagi.tv/playlist/amg
 
 #EXTINF:-1 group-title="UK Channels" tvg-id="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD25000019N_20250107T030719SQUARE.png" tvg-logo="",Master Chef UK
 https://d1nn4ic5ci0eid.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lyzxm437mvkb8/MasterchefUKPoweredbyBanijay_GB.m3u8
+#https://d1nn4ic5ci0eid.cloudfront.net/1080p-vtt/index.m3u8
 
 #EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900014LW_20250107T022833SQUARE.png",Great British Menu
 https://1aff0fa3bd654a519fb776e986e4d6b3.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-gb_GreatBritishMenu/playlist.m3u8
