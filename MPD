@@ -3414,14 +3414,20 @@ https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-dash/comedyce
 
 #EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300001X5_20260528T054034SQUARE.png",American Idol
 https://d2yn8dyffvmgy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2mt12zhezzrsh/AmericanIdol_GB.m3u8
+
 #EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1400001E4_20250107T031103SQUARE.png",CURIOSITY Now
 https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynowvtt-samsunggb/playlist.m3u8
+#https://dbrb49pjoymg4.cloudfront.net/10001/99951358/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951358
+
 #EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2000008XP_20250811T172940SQUARE.png",Ghost Hunters
 https://amg00353-amg00353c30-samsung-gb-8552.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-ghosthunterfetch-samsunggb/playlist.m3u8
+
 #EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD50000320_20250107T030722SQUARE.png",Mystery TV
 https://amg00841-aenetworksukane-mysterytv-samsunguk-mggb7.amagi.tv/playlist/amg00841-aenetworksukane-mysterytv-samsunguk/playlist.m3u8
+
 #EXTINF:-1 group-title="UK Channels" tvg-id="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD25000019N_20250107T030719SQUARE.png" tvg-logo="",Master Chef UK
 https://d1nn4ic5ci0eid.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lyzxm437mvkb8/MasterchefUKPoweredbyBanijay_GB.m3u8
+
 #EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900014LW_20250107T022833SQUARE.png",Great British Menu
 https://1aff0fa3bd654a519fb776e986e4d6b3.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-gb_GreatBritishMenu/playlist.m3u8
 
