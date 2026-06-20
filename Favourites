@@ -7206,8 +7206,17 @@ http://divyaloktv.livebox.co.in/divyaloktvhls/divyaloktvchannel.m3u8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/376927479.jpeg" group-title="Devotional",Hare Krsna
 https://samacar.hk.harekrsnatv.com/harekrsna/tv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/sri_shyam_tv.jpg" group-title="Devotional",Sri Shyam TV
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bhakti_Dhara.png" group-title="Devotional",Bhakti Dhara
+https://newsliveindia.com:4433/bhaktidhara/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shri_Shyam_TV.png" group-title="Devotional",Sri Shyam TV
 https://cloudcdn.in/live/shreeshyamtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/swastiktv.png" group-title="Devotional",Swastik TV
+https://server.playontv.in/swastiktv/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Devotional",Vrindavan Dham
 http://cdn12.henico.net:8080/live/varindavan/index.m3u8
 
