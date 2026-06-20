@@ -1810,7 +1810,7 @@ https://techtraveleat.in/leo/live.php?id=571&format=.m3u8
 
 
 
-===========================Hindi News======================================
+===========================Jio-Hindi News======================================
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Hindi News",Aaj Tak
 #EXTVLCOPT:http-referrer="https://techtraveleat.in"
@@ -2404,8 +2404,20 @@ https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
 https://cc-0eowrlibr9f50.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0eowrlibr9f50/BRJW/Amagi/Samsung/Fireplace_4K_SONO20_US/Fireplace_4K_SONO20.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ambiance",Fish Tank
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fish-tank/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1900004ZY_20260528T054045SQUARE.png" group-title="Ambiance",Cozy Vibes
+https://d2u685l6ogqukw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-gk6fn6n13b6a1/playlist.m3u8?ads.ads_cdn=cf&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=cf&ads.consent=%7BTC_STRING
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700012OU_20250610T001107SQUARE.png" group-title="Ambiance",Ocean Vives
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-j8l68sqtjf8kc.m3u8
+#https://d16r2z0d3scka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-9qu9nc4iscqzc/SONOS45.m3u8?ads.ads_cdn=cf&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=cf&ads.consent=%7BTC_STRING
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1800011SF_20260528T054108SQUARE.png" group-title="Ambiance",Island Vibes
+https://d1ymro77otn0de.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-9yjc1bbtb29cb/playlist.m3u8?ads.ads_cdn=cf&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=cf&ads.consent=%7BTC_STRING
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1800013A2_20260528T054211SQUARE.png" group-title="Ambiance",Spring Vibes
+https://d2ukgixwnnmwdo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-bs4wlk29m03sy/playlist.m3u8?ads.ads_cdn=cf&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=cf&ads.consent=%7BTC_STRING
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1800010BQ_20260528T054159SQUARE.png" group-title="Ambiance",Rainy Day Vibes
+https://d34n9zc4s80y0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-mmwoc0cuclwuw/playlist.m3u8?ads.ads_cdn=cf&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=cf&ads.consent=%7BTC_STRING
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1900005OD_20260528T054221SQUARE.png" group-title="Ambiance",Storm Vibes
+https://d3ecghhmgi0wqh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-orv3ja3yrvvbi/playlist.m3u8?ads.ads_cdn=cf&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=cf&ads.consent=%7BTC_STRING
 
 ============================================================= Bhojpuri===================================================================================================================
 
@@ -3123,6 +3135,9 @@ https://debzvrwex1ip7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://d3em2dvvzq3oj4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-23j2wegjm8ftd/Evolution_Earth.m3u8
 #EXTINF:0, tvg-logo="https://d2aqhkzukipl76.cloudfront.net/SPACE-SERIES/logo/Spaceseries-400x200.png" group-title="Infotainment",Space Series
 https://streams2.sofast.tv/ptnr-lg/title-Space_Series_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e7c8dc3b-ce82-46d1-bd86-426fd5c8adf0/manifest.m3u8
+
+#EXTINF:0, tvg-logo="" group-title="Infotainment",Space Live
+https://d111bsx9oooqoh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nc099t1l922mf/playlist.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="Infotainment",Air Space
 https://9c8418ea80924443bf6a437d9be28be7.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCLTVPlus_AIRandSPACE/playlist.m3u8
@@ -6470,7 +6485,7 @@ https://live-content.xumo.com/3346/content/XM0PXTAAR32HJW/23831769/master.m3u8
 ======================================================== Hindi News ===========================================================================================================
 
 #EXTINF:-1 tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/bemisaal-20-saal/at-hd-191x84.png" group-title="Hindi News",Aaj Tak HD
-https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_1080p/chunks.m3u8
+https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/playlist.m3u8
 #https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-t34to9qsw6v1s.m3u8
 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10595.jpg" group-title="Hindi News",Times Now Navbharat HD
@@ -6498,6 +6513,8 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgt
 https://n18syndication-prasar-bharati.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10552.jpg" group-title="Hindi News",News Nation
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
+#https://cc-52950m0v2qv0p.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-52950m0v2qv0p/nntv/national/index.m3u8
+
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10554.jpg" group-title="Hindi News",News 24
 https://amg13643-amg13643c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13643-amg13643c1-amgplt0016/playlist.m3u8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10594.jpg" group-title="Hindi News",IBC 24
@@ -6507,6 +6524,11 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2774c390ad884e06a7b0257c8489e23d/in
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10593.jpg" group-title="Hindi News",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
 #https://backupndtvindiaelemarchana.akamaized.net/hls/live/2004134/ndtvindia/master_1.m3u8
+
+
+#EXTINF:0, tvg-logo="" group-title="Hindi News",ABP Sansani
+https://cc-801kiwlpcq9u1.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-801kiwlpcq9u1/v1/channel/Sansani/Sansani_m.m3u8
+#https://d2g1p0cv65b13g.cloudfront.net/abphls/2026/04/bWVkLTE3NzY3NTUzNzkZH/1080p/index.m3u8 
 
 
 #EXTINF:0, tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1930298847Sudarshan_channel_Mob_384x216.webp" group-title="Hindi News",Sudarshan News
@@ -6935,22 +6957,27 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991756/hls/master.m3u8?includeAsset
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png" group-title="Hindi Movies",Zee Cine Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
+#https://amg00862-amg00862c8-amgplt0016.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0016/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcomedynation.png" group-title="Hindi Movies",Zee Comedy Nation
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8
+#https://amg00862-amg00862c5-amgplt0016.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0016/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Zee_Dil_Se.png" group-title="Hindi Movies",Zee Dil Se
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8
+#https://amg00862-amg00862c6-amgplt0016.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0016/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zhornights.png" group-title="Hindi Movies",Zee Horror Nights
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8
+#https://amg00862-amg00862c7-amgplt0016.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0016/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png" group-title="Hindi Movies",Zee South Flix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
+#https://amg00862-amg00862c9-amgplt0016.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0016/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Zee Bollymovies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
@@ -7193,6 +7220,9 @@ https://livestream.unlimitedcdn.com/sanjhatv/index.m3u8
 
 #EXTINF:0, tvg-logo="https://icon2.cleanpng.com/20180617/wtf/kisspng-television-channel-television-show-punjabi-languag-pocketnewsalert-5b2616f8e75031.4728199715292229049475.jpg" group-title="Punjabi",Desi Channel
 https://main.clickstreamcdn.com/agm-dc/desi-channel/index.m3u8
+
+#EXTINF:0, tvg-logo="" group-title="Punjabi",Punjabi Shorts
+https://cc-m6zq76ijc87jw.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m6zq76ijc87jw/punjabshort/index.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="Punjabi",Zee Punjabi
 #EXTVLCOPT:http-referrer="https://techtraveleat.in"
