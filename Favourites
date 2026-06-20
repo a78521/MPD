@@ -851,7 +851,7 @@ https://mumt03.tangotv.in/CLASSICHITS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",BFLIX
 https://mumt03.tangotv.in/BFLIX/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Big Magic
-https://mumt05.tangotv.in/BIGMAGIC/index.m3u8
+https://mumt05.tangotv.in/87NeALx2BIGMAGIC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",India Talkies
 https://mumt01.tangotv.in/INDIATALKIES/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NFYY1.png?lock=720x540" group-title="Tango TV",Pasand TV
@@ -876,6 +876,8 @@ https://mumt02.tangotv.in/B4UMOVIES/index.m3u8
 https://mumt05.tangotv.in/B4UBHOJPURI/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",B4U Kadak
 https://mumt02.tangotv.in/B4UKADAK/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Epic Bhojpuri
+https://mumt01.tangotv.in/O5aw8Zn3EPICBHOJPURI/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",All Time Movies
 https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8
@@ -930,10 +932,14 @@ https://mumt03.tangotv.in/GTCNEWS/index.m3u8
 https://mumt01.tangotv.in/GTC/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Punjabi TV
 https://mumt07.tangotv.in/zHjX9OFlPUNJABITV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Punjabi TV
+https://mumt02.tangotv.in/PUNJABITV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Punjabi Beats
 https://mumt07.tangotv.in/zHjX9OFlPUNJABIBEATS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Punjabi Music HD
 https://mumt07.tangotv.in/zHjX9OFlPUNJABIMUSICHD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Punjabi Music HD
+https://mumt02.tangotv.in/PUNJABIMUSICHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Tabbar Hits
 https://mumt04.tangotv.in/m18aqlK4TABBARHITS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Josh TV
