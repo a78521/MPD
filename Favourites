@@ -713,6 +713,8 @@ https://abpnews.cdn.runn.tv/2042871-b/abpnews/master.m3u8
 https://csm-e-runntvprdlive-eb.runnads.runn.media/csm/extlive/runntvprd01,news-hls.m3u8
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/TV9BHA/Web/thumbnail/4eaef931-e0a5-449e-90aa-aa4da623b0c0.png" group-title="Runn TV",TV9 Bharatvarsh
 https://tv9live.cdn.runn.tv/title-TV9_Bharathvarsh_Non_SSAI/v1/vglive-sk-301666/main.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Runn TV",GTC News
+https://csm-e-cesharedlsgsin2live-97896504.bln1.yospace.com/csm/extlive/runntvprd01,gtcnewsvidaa.m3u8?yo.up=https://gtc.ottlive.co.in/gtcnews
 
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_NAVBHT/Web/thumbnail/logo_web.png" group-title="Runn TV",Times Now Navbharat HD
 https://a66fd974d289494994f6cf39649c806d.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/navbharat/master.m3u8
