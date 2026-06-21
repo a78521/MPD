@@ -3149,7 +3149,7 @@ https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1
 ========================================================== Infotainment =======================================================================================================================
 
 #EXTINF:0, tvg-logo="" group-title="Infotainment",Ancient Aliens
-https://d3b6a5tp9s4ibt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-53xuhdrfd4e8a/v1/ae_networks_ancientaliens_1/samsungheadend_us/latest/main/hls/playlist.m3u8 
+
 #EXTINF:0, tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD50000320_20250107T030722SQUARE.png" group-title="Infotainment",Mystery TV
 https://amg00841-aenetworksukane-mysterytv-samsunguk-mggb7.amagi.tv/playlist/amg00841-aenetworksukane-mysterytv-samsunguk/playlist.m3u8
 
@@ -3162,8 +3162,10 @@ https://debzvrwex1ip7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://debzvrwex1ip7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-59uqfidguq5ol/v1/aenetworks_modernmarvels_2/samsungheadend_ca/latest/main/hls/playlist.m3u8
 #EXTINF:0, tvg-logo="" group-title="Infotainment",Evolution Earth
 https://d3em2dvvzq3oj4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-23j2wegjm8ftd/Evolution_Earth.m3u8
+
 #EXTINF:0, tvg-logo="https://d2aqhkzukipl76.cloudfront.net/SPACE-SERIES/logo/Spaceseries-400x200.png" group-title="Infotainment",Space Series
 https://streams2.sofast.tv/ptnr-lg/title-Space_Series_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e7c8dc3b-ce82-46d1-bd86-426fd5c8adf0/manifest.m3u8
+#https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=66d13b2e131c1f514209cdee&AV_CHANNEL_NAME=SPACE-SERIES
 
 #EXTINF:0, tvg-logo="" group-title="Infotainment",Space Live
 https://d111bsx9oooqoh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nc099t1l922mf/playlist.m3u8
@@ -3186,6 +3188,9 @@ https://n18syndication-amagi.akamaized.net/bpk-tv/History_HD_NW18_MOB/output01/i
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="Infotainment",History TV 18 Hindi
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
 #https://n18syndication-amagi.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/index.m3u8
+
+#EXTINF:0, tvg-logo="" group-title="Infotainment",The Explorers 
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=662d4954fd8fcc3b9708b449&AV_CHANNEL_NAME=THE-EXPLORERS-English
 
 #EXTINF:0, tvg-logo="" group-title="Infotainment",China Travel
 https://amg01314-cgtn-amg01314c7-lg-uae-10953.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01314-cgtn-cgtnchinatravel-lguae/playlist.m3u8
