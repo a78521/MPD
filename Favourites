@@ -877,7 +877,7 @@ https://mumt03.tangotv.in/CLASSICHITS/index.m3u8
 https://mumt03.tangotv.in/BFLIX/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Big Magic
 https://mumt05.tangotv.in/87NeALx2BIGMAGIC/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",India Talkies
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Tango TV",India Talkies
 https://mumt01.tangotv.in/INDIATALKIES/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NFYY1.png?lock=720x540" group-title="Tango TV",Pasand TV
 https://mumt01.tangotv.in/PASANDTV/index.m3u8
@@ -6974,6 +6974,10 @@ https://supflm.cdn.runn.tv/ruskmedia/stream/alrght/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",Xumo Bollywood Cinema
 https://dbrb49pjoymg4.cloudfront.net/10001/99991756/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991756
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",Bollywood TV
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67a2ee7c290aa8ddc50217d9&AV_CHANNEL_NAME=BOLLYWOOD-TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",Bollywood 4U
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=662d478697460fa7f5068941&AV_CHANNEL_NAME=BOLLYWOOD4U
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",Manoranjan Movies
 
@@ -6982,6 +6986,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991756/hls/master.m3u8?includeAsset
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",Hindi Movies
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",India Talkies
+http://210.89.51.165/hlslive/Admin/RSPD031/live/IndiaTalkies/master_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png" group-title="Hindi Movies",Zee Cine Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
