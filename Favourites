@@ -775,8 +775,8 @@ https://playout.runn.tv/playout/v1/stream/p_runshf/playlist.m3u8
 https://runact.cdn.runn.tv/runntv/stream/p_runthr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_TTTFLM/Web/thumbnail/logo_web.png" group-title="Runn TV",Terribly Tiny Tales
-https://playout.runn.tv/playout/v1/stream/p_tttflm/playlist.m3u8
-#https://1533611984fa4f9da3ccd596ddcc0779.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/tttflm-airtel/playlist.m3u8
+https://1533611984fa4f9da3ccd596ddcc0779.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/tttflm-airtel/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SMRBOL/Web/thumbnail/logo_web.png" group-title="Runn TV",Shemaroo Bollywood
@@ -787,9 +787,9 @@ https://smr-runntv-blywd.cdn.runn.tv/shemaroo/stream/smrbol/playlist.m3u8
 https://smr-runntv-flmgn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
 #https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/blywcm.png" group-title="Runn TV",Eros Universe Bollywood Cinema
+#EXTINF:-1 tvg-logo="" group-title="Runn TV",Eros Universe Bollywood Cinema
 https://airtel-eros-blywdcnm.cdn.runn.tv/eros/stream/blywcm/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/ersent.png" group-title="Runn TV", Eros Universe Entertainment
+#EXTINF:-1 tvg-logo="" group-title="Runn TV", Eros Universe Entertainment
 https://airtel-eros-entrtnmnt.cdn.runn.tv/eros/stream/ersent/playlist.m3u8
 
 
@@ -797,7 +797,7 @@ https://airtel-eros-entrtnmnt.cdn.runn.tv/eros/stream/ersent/playlist.m3u8
 https://playout.runn.tv/playout/v1/stream/jagran/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/dicmed.png" group-title="Runn TV",Dice Media
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/dicmed.png" group-title="Runn TV",dice
 https://dicemedia.cdn.runn.tv/pocketaces/stream/dicmed/playlist.m3u8
 #https://supflm.cdn.runn.tv/pocketaces/stream/dicmed/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/fltrcopy.png" group-title="Runn TV",Filter Copy
@@ -806,7 +806,7 @@ https://filtercopy.cdn.runn.tv/pocketaces/stream/fltrcopy/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Swastik_Stories.png" group-title="Runn TV",Swastik Stories
-https://csm-e-cesharedlsgsin2live-87593184.bln1.yospace.com/csm/extlive/runntvprd01,swastikrunn/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="Runn TV",Atrangi
 https://csm-e-runntvprdlive-eb.runnads.runn.media/csm/extlive/runntvprd01,atrangiividaa2.m3u8?yo.up=https://amg13343-amg13343c1-amgplt0249.playout.now3.amagi.tv
