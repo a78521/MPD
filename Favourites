@@ -2616,6 +2616,7 @@ https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="History",History 2
 https://fast-channels-prod.akamaized.net/out/v1/6fbb677b6ffc4a4fac47a8fd85c8b333/live.m3u8
+#https://csm-e-nineext2au-eb.bln1.yospace.com/csm/extlive/nnaprd01,prod-fast-channels-history2-nsa.m3u8
 
 #EXTINF:-1 tvg-id="484" tvg-logo="" group-title="History",History Hit
 https://ldsaaaaaa-timeline-samsung-uk-azlgu.amagi.tv/playlist/ldsAAAAAA-timeline-samsung-uk/playlist.m3u8
