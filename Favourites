@@ -3500,6 +3500,9 @@ https://amg02333-pbs-amg02333c3-lg-au-4538.playouts.now.amagi.tv/playlist/amg023
 #EXTINF:-1 tvg-logo="https://tv-experience.lg.com.au/images/channels/documentary/626-PBS-Science.png" group-title="PBS",PBS Science
 https://amg02333-pbs-amg02333c10-lg-au-4537.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbsscience-lgau/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="PBS",PBS Nature
+https://amg02333-pbs-amg02333c11-firetv-us-4242.playouts.now.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="PBS_NATURE" tvg-name="PBS Nature" tvg-logo="" group-title="PBS",PBS Nature
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
