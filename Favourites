@@ -2715,14 +2715,84 @@ https://d1h8whhtg5u7om.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 ================================================== United States ===============================================================================================================
 
+#EXTINF:-1 tvg-id="udptv/hbohd" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-us.png?raw=true" group-title="USA",HBO HD
+https://box.djdoolky76.net/stream/udptv/hbohd/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+#EXTINF:-1 tvg-id="udptv/hbohits" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/hbo-hits-ph.png?raw=true" group-title="USA",HBO Hits
+https://box.djdoolky76.net/stream/udptv/hbohits/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+#EXTINF:-1 tvg-id="udptv/hbosignature" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/hbo-signature-ph.png?raw=true" group-title="USA",HBO Signature
+https://box.djdoolky76.net/stream/udptv/hbosignature/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+#EXTINF:-1 tvg-id="udptv/hbowest" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-us.png?raw=true" group-title="USA",HBO West
+https://box.djdoolky76.net/stream/udptv/hbowest/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+#EXTINF:-1 tvg-id="udptv/hbozone" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hd/hbo-zone-hd-us.png?raw=true" group-title="USA",HBO Zone
+https://box.djdoolky76.net/stream/udptv/hbozone/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+#EXTINF:-1 tvg-id="udptv/hbo2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hd/hbo-2-hd-us.png?raw=true" group-title="USA",HBO2
+https://box.djdoolky76.net/stream/udptv/hbo2/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+https://box.djdoolky76.net/stream/udptv/gtv/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+#EXTINF:-1 tvg-id="udptv/hbocomedy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-comedy-us.png?raw=true" group-title="USA",HBO Comedy
+https://box.djdoolky76.net/stream/udptv/hbocomedy/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+#EXTINF:-1 tvg-id="udptv/hbofamily" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/hbo-family-br.png?raw=true" group-title="USA",HBO Family
+https://box.djdoolky76.net/stream/udptv/hbofamily/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+#EXTINF:-1 tvg-id="udptv/hboboxing" tvg-logo="https://www.thefightcity.com/wp-content/uploads/2019/10/HBO-logo-image-1-300x192.jpg" group-title="USA",HBO Boxing
+https://box.djdoolky76.net/stream/udptv/hboboxing/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+
+#EXTINF:-1 tvg-id="udptv/cinemax" tvg-logo="https://i.imgur.com/YomkvVa.png" group-title="USA",Cinemax
+https://box.djdoolky76.net/stream/udptv/cinemax/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+
+#EXTINF:-1 tvg-id="udptv/axn" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/poland/axn-pl.png?raw=true" group-title="USA",AXN
+https://box.djdoolky76.net/stream/udptv/axn/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+#EXTINF:-1 tvg-id="udptvus/amc" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/amc-es.png" group-title="USA",AMC
+https://box.djdoolky76.net/stream/udptvus/amc/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+#EXTINF:-1 tvg-id="udptvus/fx" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fx-us.png?raw=true" group-title="USA",FX
+https://box.djdoolky76.net/stream/udptvus/fx/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+#EXTINF:-1 tvg-id="udptvus/syfy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" group-title="USA",SYFY
+https://box.djdoolky76.net/stream/udptvus/syfy/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+#EXTINF:-1 tvg-id="udptv/warnertv" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/warner-tv-ph.png?raw=true" group-title="USA",Warner TV
+https://box.djdoolky76.net/stream/udptv/warnertv/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+
+
+#EXTINF:-1 tvg-id="udptv/tapactionflix" tvg-logo="https://i.imgur.com/PwM0arW.png" group-title="USA",Tap Action Flix
+https://box.djdoolky76.net/stream/udptv/tapactionflix/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+#EXTINF:-1 tvg-id="udptv/tapmovies" tvg-logo="https://i.imgur.com/3RVA5mV.png" group-title="USA",Tap Movies
+https://box.djdoolky76.net/stream/udptv/tapmovies/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+
+
+#EXTINF:-1 tvg-id="udptvus/bbcearth" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/bbc-earth-ca.png" group-title="USA",BBC Earth
+https://box.djdoolky76.net/stream/udptvus/bbcearth/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+#EXTINF:-1 tvg-id="udptvus/bbcfood" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/bbc-food-vod.png?raw=true" group-title="USA",BBC Food
+https://box.djdoolky76.net/stream/udptvus/bbcfood/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+#EXTINF:-1 tvg-id="udptv/bbclifestyle" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/poland/bbc-lifestyle-pl.png?raw=true" group-title="USA",BBC Lifestyle
+https://box.djdoolky76.net/stream/udptv/bbclifestyle/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+
+#EXTINF:-1 tvg-id="udptvus/tnt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png" group-title="USA",TNT
+https://box.djdoolky76.net/stream/udptvus/tnt/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+#EXTINF:-1 tvg-id="udptvus/tnteast" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png" group-title=""USA",TNT East
+https://box.djdoolky76.net/stream/udptvus/tnteast/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+#EXTINF:-1 tvg-id="udptv/tntsports1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title=""USA",TNT Sports 1
+https://box.djdoolky76.net/stream/udptv/tntsports1/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+#EXTINF:-1 tvg-id="udptv/tntsports2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" group-title=""USA",TNT Sports 2
+https://box.djdoolky76.net/stream/udptv/tntsports2/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+#EXTINF:-1 tvg-id="udptv/tntsports3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" group-title=""USA",TNT Sports 3
+https://box.djdoolky76.net/stream/udptv/tntsports3/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+#EXTINF:-1 tvg-id="udptv/tntsports4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" group-title=""USA",TNT Sports 4
+https://box.djdoolky76.net/stream/udptv/tntsports4/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+#EXTINF:-1 tvg-id="udptv/tsn1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-1-ca.png" group-title=""USA",TSN1
+https://box.djdoolky76.net/stream/udptv/tsn1/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+#EXTINF:-1 tvg-id="udptv/tsn2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-2-ca.png" group-title=""USA",TSN2
+https://box.djdoolky76.net/stream/udptv/tsn2/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+#EXTINF:-1 tvg-id="udptv/tsn3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-3-ca.png" group-title=""USA",TSN3
+https://box.djdoolky76.net/stream/udptv/tsn3/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+#EXTINF:-1 tvg-id="udptv/tsn4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-4-ca.png" group-title=""USA",TSN4
+https://box.djdoolky76.net/stream/udptv/tsn4/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+#EXTINF:-1 tvg-id="udptv/tsn5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-5-ca.png" group-title=""USA",TSN5
+https://box.djdoolky76.net/stream/udptv/tsn5/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+
 #EXTINF:-1 tvg-logo="" group-title="USA",ion
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ion-tablo/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",ion Plus
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",ion Mystery
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA",ion Mystery
-https://d2md0hqgew2ie6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-staiznrm1ejlo/Ion_Plus_US.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="USA",Ken 2
