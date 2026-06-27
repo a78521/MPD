@@ -3232,10 +3232,17 @@ https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1
 
 ========================================================== Infotainment =======================================================================================================================
 
-#EXTINF:0, tvg-logo="" group-title="Infotainment",Ancient Aliens
-
+#EXTINF:0, tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1852-LG-Logo-PNG-100x100_v1.png" group-title="Infotainment",Ancient Aliens
+https://aenetworks.global.transmit.live/hls/68b709bb2119c010f1166417/v1/ae_networks_ancientaliens_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:0, tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/wbd_logo/mystwrld400X200.png" group-title="Infotainment",Mysterious Worlds
+https://amg00136-wbd-amg00136c14-lg-us-1937.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-warnerbrostvmysteriousworlds-lgus/playlist.m3u8
 #EXTINF:0, tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD50000320_20250107T030722SQUARE.png" group-title="Infotainment",Mystery TV
 https://amg00841-aenetworksukane-mysterytv-samsunguk-mggb7.amagi.tv/playlist/amg00841-aenetworksukane-mysterytv-samsunguk/playlist.m3u8
+#EXTINF:0, tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/wbd/LG_Logo_700x200_MythBusters.png" group-title="Infotainment",Mythbusters
+https://amg00136-wbd-amg00136c44-lg-us-5704.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-mythbustersall-lgus/playlist.m3u8
+
+#EXTINF:0, tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Curiosity%20Now/LG_800X200.png" group-title="Infotainment",Curiosity Now
+https://amg00170-amg00170c1-lg-us-3478.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynow-lgus/playlist.m3u8
 
 
 #EXTINF:0, tvg-logo="" group-title="Infotainment",History & Warfare
@@ -3250,6 +3257,9 @@ https://d3em2dvvzq3oj4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:0, tvg-logo="https://d2aqhkzukipl76.cloudfront.net/SPACE-SERIES/logo/Spaceseries-400x200.png" group-title="Infotainment",Space Series
 https://streams2.sofast.tv/ptnr-lg/title-Space_Series_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e7c8dc3b-ce82-46d1-bd86-426fd5c8adf0/manifest.m3u8
 #https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=66d13b2e131c1f514209cdee&AV_CHANNEL_NAME=SPACE-SERIES
+
+#EXTINF:0, tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/wbd/LG/SpaceandBeyond/LG_Logo_400x200_Space&Beyond.png" group-title="Infotainment",Space & Beyond
+https://amg00136-wbd-amg00136c83-lg-us-9807.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-spaceandbeyond-lgus/playlist.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="Infotainment",Space Live
 https://d111bsx9oooqoh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nc099t1l922mf/playlist.m3u8
@@ -3306,6 +3316,7 @@ https://amg00644-tvtoday-amg00644c2-lg-in-3508.playouts.now.amagi.tv/playlist/am
 #EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/IndiaToday/ITTV-400x200.png" group-title="LG TV",India Today
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://amg00644-tvtoday-amg00644c1-lg-in-3506.playouts.now.amagi.tv/playlist/amg00644-tvtodaynetworkltdfast-indiatoday-lgin/playlist.m3u8
+#https://amg00644-amg00644c1-amgplt0643.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg00644-amg00644c1-amgplt0643/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/ABP/NEWS/Channellogo200x400.png" group-title="LG TV",ABP News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
