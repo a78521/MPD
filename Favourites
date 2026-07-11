@@ -2401,12 +2401,12 @@ https://playyonogames.in/sliv/stream.m3u8?id=1000009249
 #EXTINF:-1 tvg-logo="" group-title="tulnit",Sony Wah
 #EXTVLCOPT:http-referrer=https://b4uplay.com/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://playyonogames.in/
-https://b4uplay.com/sliv/stream.m3u8?id=1000009253
+https://playyonogames.in/sliv/stream.m3u8?id=1000009253
 
 #EXTINF:-1 tvg-logo="" group-title="tulnit",Sony Pal
 #EXTVLCOPT:http-referrer=https://b4uplay.com/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://playyonogames.in/
-https://b4uplay.com/sliv/stream.m3u8?id=1000009273
+https://playyonogames.in/sliv/stream.m3u8?id=1000009273
 
 
 #EXTINF:-1 tvg-logo="" group-title="tulnit",&TV HD USA
@@ -2454,6 +2454,7 @@ https://yupp-us-vt.keralive.workers.dev/090823/smil:colorsaapkadev.smil/playlist
 #EXTINF:-1 tvg-logo="" group-title="tulnit",Colors India
 #EXTVLCOPT:http-referrer=https://bhoomtv.org
 https://maamusic.keralive.workers.dev/out/v1/a526e652e4644463bca88e350785bed0/index.m3u8
+
 ============================================================= 4K===================================================================================================================
 
 #EXTINF:-1 tvg-logo="" group-title="4K",4K Travel
@@ -6987,29 +6988,16 @@ https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
 https://amg00223-unisys-amg00223c2-lg-in-2045.playouts.now.amagi.tv/playlist/amg00223-sevencolorsbroadcastingprivatelimited-yfrmusic-lgin/playlist.m3u8
 
 
-
-#EXTINF:0, tvg-logo="" group-title="Hindi Music",Saregama Music
-#EXTVLCOPT:http-referrer="https://tulnit.com"
-#KODIPROP:inputstream.adaptive.http-referrer="https://tulnit.com"
-https://saregama.keralive.workers.dev/saregama/saregama_master.m3u8
-
 #EXTINF:0, tvg-logo="" group-title="Hindi Music",MTV India
 #EXTVLCOPT:http-referrer="https://tulnit.com"
-#KODIPROP:inputstream.adaptive.http-referrer="https://tulnit.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.org/"
 https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
 
 
 #EXTINF:0, tvg-logo="" group-title="Hindi Music",T Series
 http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 
-#EXTINF:0, tvg-logo="" group-title="Hindi Music",ITV Indian Music
-https://ca1.buximedia.com/itv/indian/index.m3u8
-#EXTINF:0, tvg-logo="" group-title="English Music", ITV Afrobaeats
-https://ca1.buximedia.com/itv/afrobeats/index.m3u8
-#EXTINF:0, tvg-logo="" group-title="English Music",ITV Urban Music
-https://ca1.buximedia.com/itv/love2/index.m3u8
-#EXTINF:0, tvg-logo="" group-title="English Music",Xite Hits
-https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
+
 
 #EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800005S8_20250910T004933SQUARE.png" group-title="English Music",Concerto
 https://amg01076-amg01076c14-samsung-in-7057.playouts.now.amagi.tv/playlist/amg01076-lightning-concerto-samsungin/playlist.m3u8
