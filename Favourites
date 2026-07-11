@@ -7648,8 +7648,13 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:0, tvg-logo="" group-title="Kids",Kid Do Matrix
 https://cc-le0kohm4qt3mk.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-le0kohm4qt3mk/OTM/OTM_KiddoMatix-SCTE_SAMSUNG/playlist.m3u8
 
+#EXTINF:0, tvg-logo="" group-title="Kids",He-Man and the Masters of the Universe
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984059
+#EXTINF:0, tvg-logo="" group-title="Kids",Sonic The Hedgehog
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984024&ads.xumo_streamId=99984024
 
-
+#EXTINF:0, tvg-logo="" group-title="Kids",Super Mario Brothers
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984029&ads.xumo_streamId=99984029&ads.channelId=99984029&ads.ad_tag_id=104565&ads.csid=lgchannels_uk_supermariobrothers_ssai&ads.channelName=supermariobrothers_uk&ads.xumo_contentName=Wildbrain&ads.xumo_contentId=1854
 
 ======================================================== Pishow ===========================================================================================================
 
