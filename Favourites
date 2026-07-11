@@ -7303,12 +7303,11 @@ https://origin-cae-m462953.toober.com /4c3caf7294b3/b21e8e62fed6263f/playlist.m3
 
 
 #EXTINF:0, tvg-logo="" group-title="Hindi Entertainment",Colors USA
-#EXTVLCOPT:http-referrer="https://tulnit.com"
+#EXTVLCOPT:http-referrer="hhttps://bhoomtv.org/"
 #KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.org/"
 https://maamusic.keralive.workers.dev/out/v1/a526e652e4644463bca88e350785bed0/index.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="Hindi Entertainment",Colors Cineplex USA
-#EXTVLCOPT:http-referrer="https://tulnit.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.org/"
 https://etv.keralive.workers.dev/090823/smil:colorscineplexus.smil/playlist.m3u8
 
@@ -7341,6 +7340,9 @@ https://balajitelefilms-yupptv.vgcdn.net/v1/019d675553f51ea540a815e5635b31/019d6
 #EXTINF:0, tvg-logo="" group-title="Hindi Entertainment",Dishoom
 https://d1i2c9u9bg7ji9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ekn1swkg8b4cn/playlist.m3u8?ads.ads_cdn=cf&ads.afsdk_params=AFSDK_VALUE&ads.app_domain=APP_DOMAIN&ads.app_name=APP_NAME&ads.cdn=cf&ads.device_did=PSID
 
+#EXTINF:0, tvg-logo="" group-title="Hindi Entertainment",Raj Pariwar
+#KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.org/"
+https://raj-network.keralive.workers.dev/hlslive/Admin/px08241089/live/Raj_Pariwar/chunklist_1.m3u8
 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10598.jpg" group-title="Hindi Entertainment",Dabangg
 
