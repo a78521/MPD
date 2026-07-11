@@ -6911,8 +6911,8 @@ https://d2o3r1shda7xvv.cloudfront.net/index_5.m3u8
 https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
 #https://amg00222-amg00222c4-amgplt0002.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8
 
-#EXTINF:0, tvg-logo="" group-title="International News",Africa News
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8
+#EXTINF:0, tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/7ccdfe2a-385a-4ba4-af56-6cdcb85aa494.jpeg" group-title="International News",Africa News
+https://africanews-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiNjdkNzUyNzQtNzI0Ni00MjI2LWI4MDUtZWQ0YTgzZTAwOGU4IiwibWt0IjoidWsiLCJjaCI6NjU3NiwicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="International News",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8
@@ -6924,6 +6924,11 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 https://dai4s4shjeg0o.cloudfront.net/HTMediaLabsInd760b6cd7/5b3b64baca764020a525dd7ce42e27e6/master.m3u8 
 #https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #http://d2e1asnsl7br7b.cloudfront.net/4c152bfc7ad2463d928bfbec0990eaeb/index.m3u8
+
+#EXTINF:0, tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/82a28e14-7f41-4a39-b6b9-57de69feb0ef.jpeg" group-title="International News",CGTN
+https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8?ads_amagi_channel_id=852
+#EXTINF:0, tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/1869dc72-ca6d-4f46-b1ff-85d1aef818fa.jpeg" group-title="International News",CGTN Global Biz
+https://amg01314-cgtn-amg01314c6-rakuten-gb-10205.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01314-cgtn-cgtnglobalbiz-rakutengb/playlist.m3u8?ads_amagi_channel_id=1066
 
 #EXTINF:0, tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD8000016N_20251125T100002SQUARE.png" group-title="International News",CNN
 https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
@@ -6951,6 +6956,9 @@ https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/Euronews/euronews_logo_resized_400x200_updated.png" group-title="International News",Euro News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://amg00882-amg00882c2-lg-in-5560.playouts.now.amagi.tv/playlist/amg00882-euronewsfast-euronewseng-lgin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/b4e13e24-5808-4dbb-8239-bf72c9611650.jpeg" group-title="International News",France 24
+https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8?ads_amagi_channel_id=938
 
 #EXTINF:0, tvg-logo="" group-title="International News",NHK Japan
 https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
@@ -7002,7 +7010,7 @@ https://amg00223-unisys-amg00223c2-lg-in-2045.playouts.now.amagi.tv/playlist/amg
 
 
 #EXTINF:0, tvg-logo="" group-title="Hindi Music",MTV India
-#EXTVLCOPT:http-referrer="https://tulnit.com"
+#EXTVLCOPT:http-referrer="https://bhoomtv.org/"
 #KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.org/"
 https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
 
@@ -7037,12 +7045,12 @@ https://d1taaads3ztvmu.cloudfront.net/120723/mastii/chunklist.m3u8
 #EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700015M0_20240731T012453SQUARE.png" group-title="Hindi Music",Music India
 https://amg00416-amg00416c5-samsung-in-3259.playouts.now.amagi.tv/playlist/amg00416-travelxp-musicindia-samsungin/playlist.m3u8
 
-#EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10596.jpg" group-title="Hindi Music",E24
+#EXTINF:0, tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1715950932E24_TVW_720x405.webp" group-title="Hindi Music",E24
 https://amg13643-amg13643c2-amgplt0173.playout.now3.amagi.tv/playlist/amg13643-amg13643c2-amgplt0173/playlist.m3u8
 #https://amg13643-amg13643c2-amgplt0016.playout.now3.amagi.tv/playlist/amg13643-amg13643c2-amgplt0016/playlist.m3u8
 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10545.jpg" group-title="Hindi Music",B4U Music
-https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
+https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/160c818d-4a57-4b89-ae62-0423e18110cf/3.m3u8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10543.jpg" group-title="Hindi Music",B4U Bhojpuri
 https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
 
@@ -7057,23 +7065,23 @@ https://cc-up9j649x4thrj.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 http://a-edge.bliscdn.com/Visionbeats/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk99k86H/VISION-TV.jpg" group-title="Hindi Music",VISION BEATS (2)
-#EXTVLCOPT:http-referrer="https://tulnit.com"
-#KODIPROP:inputstream.adaptive.http-referrer="https://tulnit.com"
+#EXTVLCOPT:http-referrer="https://bhoomtv.org"
+#KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.org"
 https://visionbeats.keralive.workers.dev/Visionbeats/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Punjabi Music",VISION Punjabi Music
-#EXTVLCOPT:http-referrer="https://tulnit.com"
-#KODIPROP:inputstream.adaptive.http-referrer="https://tulnit.com"
+#EXTVLCOPT:http-referrer="https://bhoomtv.org"
+#KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.org"
 https://visionbeats.keralive.workers.dev/Visionpunjabmusic/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Punjabi",VISION Punjab TV
-#EXTVLCOPT:http-referrer="https://tulnit.com"
-#KODIPROP:inputstream.adaptive.http-referrer="https://tulnit.com"
+#EXTVLCOPT:http-referrer="https://bhoomtv.org"
+#KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.org"
 https://visionbeats.keralive.workers.dev/Visionpunjabtv/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Punjabi Devotional",VISION Punjab Gurbani
-#EXTVLCOPT:http-referrer="https://tulnit.com"
-#KODIPROP:inputstream.adaptive.http-referrer="https://tulnit.com"
+#EXTVLCOPT:http-referrer="https://bhoomtv.org"
+#KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.org"
 https://visionbeats.keralive.workers.dev/Visionpunjabgurbani/index.m3u8
 
 
@@ -7082,10 +7090,11 @@ https://visionbeats.keralive.workers.dev/Visionpunjabgurbani/index.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Music",Melody Hits
-https://mumt03.tangotv.in/MELODYHITS/index.m3u8
-
+https://mumt03.tangotv.in/Dsly5z3HMELODYHITS/index.m3u8
 #EXTINF:0, tvg-logo="" group-title="Hindi Music",Classic Hits
-https://mumt03.tangotv.in/CLASSICHITS/index.m3u8
+https://mumt03.tangotv.in/Dsly5z3HCLASSICHITS/index.m3u8
+#EXTINF:0, tvg-logo="" group-title="Hindi Music",Evergreen Hits
+https://mumt07.tangotv.in/zHjX9OFlEVERGREENHITS2/index.m3u8
 
 
 
@@ -7114,9 +7123,9 @@ https://pb-dkdpz5so0aqqr.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73d
 https://cc-el8oh7stk6uz8.akamaized.net/RMNK/Amagi/TMC2_IN/TMC2_IN.m3u8
 
 #EXTINF:0, tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/B4UMOV/TV/thumbnail/d4287ab1-409a-4afb-9e92-57f185f83bda.png" group-title="Hindi Movies",B4U Movies
-https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
+https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/f7db623e-05ce-46f3-8589-22dd210f1aa4/3.m3u8
 #EXTINF:0, tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/B4UKAD/TV/thumbnail/03b91d0d-88bf-4dce-89fe-70f9fcf78b95.png" group-title="Hindi Movies",B4U Kadak
-https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
+https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/ab542e60-6c6f-4273-80ea-0ce19dcb9801/3.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/bollywood-hd.jpg" group-title="Hindi Movies",BOLLYWOOD HD
@@ -7202,10 +7211,7 @@ https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",YYZ TV
-#EXTVLCOPT:http-referrer="https://onezoo.net"
-#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
-https://onezoo.net/tv/restream-tv/stream.m3u8?id=6af8a7357985
-#http://cdn12.henico.net:8080/live/sursangam/index.m3u8
+http://cdn12.henico.net:8080/live/sursangam/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Bollywood Non Stop HD
 #EXTVLCOPT:http-referrer="https://onezoo.net"
@@ -7213,17 +7219,16 @@ https://onezoo.net/tv/restream-tv/stream.m3u8?id=6af8a7357985
 https://onezoo.net/tv/restream-tv/stream.m3u8?id=1160e0e7ca2d
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Goldmines
-https://mumt04.tangotv.in/GOLDMINES/index.m3u8
+https://mumt04.tangotv.in/m18aqlK4GOLDMINES/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Goldmines 2
-https://mumt03.tangotv.in/GOLDMINES2/index.m3u8
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Goldmines Action
-https://mumt03.tangotv.in/GOLDMINESACTION/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Goldmines Movies
-https://mumt04.tangotv.in/GOLDMINEMOVIES/index.m3u8
-
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G90YhWRg/goldmine-bollywood.jpg" group-title="Hindi Movies",Goldmines Bollywood
-https://mumt03.tangotv.in/GOLDMINESBOLLYWOOD/index.m3u8
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Goldmines Movies
+https://mumt04.tangotv.in/m18aqlK4GOLDMINEMOVIES/index.m3u8
 
 ======================================================== English Movies ===========================================================================================================
 
@@ -7319,27 +7324,16 @@ https://maamusic.keralive.workers.dev/out/v1/a526e652e4644463bca88e350785bed0/in
 https://etv.keralive.workers.dev/090823/smil:colorscineplexus.smil/playlist.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="Hindi Entertainment",Colors Rishtey USA
-#EXTVLCOPT:http-referrer="https://tulnit.com"
+#EXTVLCOPT:http-referrer="https://bhoomtv.org"
 #KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.org/"
-https://etv.keralive.workers.dev/090823/smil:colorscineplexus.smil/playlist.m3u8
 https://etv.keralive.workers.dev/090823/smil:ristheyamerica.smil/playlist.m3u8
 
 #EXTINF:0, tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3700007OZ_20250624T021650SQUARE.png" group-title="Hindi Entertainment",&TV HD
 https://amg01117-amg01117c1-amgplt0002.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0002/playlist.m3u8
 #https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
 
-
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Tv Asia.jpg" group-title="Hindi Entertainment",TV Asia
-https://amg00206-amg00206c1-distrotv-us-6886.playouts.now.amagi.tv/24-25-6886.m3u8
-
-#EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1700011V7_20241024T054054SQUARE.png" group-title="Hindi Entertainment",Nazara
+#EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1700011V7_20241024T054054SQUARE.png" group-title="Hindi Entertainment",Epic Bharat
 https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8
-
-#EXTINF:0, tvg-logo="https://d3s2p39m306u7r.cloudfront.net/atrangii/LG/Atrangii_FullandFinal.png" group-title="Hindi Entertainment",Atrangi
-https://amg13343-amg13343c1-amgplt0173.playout.now3.amagi.tv/playlist/amg13343-amg13343c1-amgplt0173/playlist.m3u8
-#https://amg13343-amg13343c1-amgplt0637.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13343-amg13343c1-amgplt0637/playlist.m3u8
-#https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/28a659a4-a882-4bbc-baae-94a207e8b914/master.m3u8
-#https://csm-e-runntvprdlive-eb.runnads.runn.media/csm/extlive/runntvprd01,atrangiividaa2.m3u8?yo.up=https://amg13343-amg13343c1-amgplt0249.playout.now3.amagi.tv
 
 #EXTINF:0, tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mtgnqu.png" group-title="Hindi Entertainment",Kutingg
 https://balajitelefilms-yupptv.vgcdn.net/v1/019d675553f51ea540a815e5635b31/019d67562bdd1ea540a815e5635b34/playlist.m3u8
@@ -7359,9 +7353,9 @@ https://raj-network.keralive.workers.dev/hlslive/Admin/px08241089/live/Raj_Pariw
 
 
 #EXTINF:0, tvg-logo="" group-title="Hindi Entertainment",The Q
-https://mumt05.tangotv.in/THEQ/index.m3u8
+https://mumt05.tangotv.in/87NeALx2THEQ/index.m3u8
 #EXTINF:0, tvg-logo="" group-title="Hindi Entertainment",HI Dost
-https://mumt03.tangotv.in/HIDOST/index.m3u8
+https://mumt03.tangotv.in/Dsly5z3HHIDOST/index.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="Hindi Entertainment",Swatik Stories
 https://csm-e-cesharedlsgsin2live-87593184.bln1.yospace.com/csm/extlive/runntvprd01,swastikrunn/master.m3u8
@@ -7571,8 +7565,8 @@ https://keralive.com/yupp/play.php?watch=boogle-bollywood
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi Music",Punjabi Music HD
-#EXTVLCOPT:http-referrer="https://tulnit.com"
-#KODIPROP:inputstream.adaptive.http-referrer="https://tulnit.com"
+#EXTVLCOPT:http-referrer="https://bhoomtv.org"
+#KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.org"
 https://fucking-tv-ott.keralive.workers.dev/mumt02/PUNJABIMUSICHD/index.m3u8
 
 
