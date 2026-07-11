@@ -872,13 +872,18 @@ https://mumt03.tangotv.in/Dsly5z3HPADHAROSA/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Classic Hits
-https://mumt03.tangotv.in/CLASSICHITS/index.m3u8
+https://mumt03.tangotv.in/Dsly5z3HCLASSICHITS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",BFLIX
 https://mumt03.tangotv.in/BFLIX/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Big Magic
 https://mumt05.tangotv.in/87NeALx2BIGMAGIC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Tango TV",India Talkies
 https://mumt01.tangotv.in/INDIATALKIES/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Tango TV",Hollywood B&W Classics
+https://mumt01.tangotv.in/O5aw8Zn3HollywoodBW/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NFYY1.png?lock=720x540" group-title="Tango TV",Pasand TV
 https://mumt01.tangotv.in/PASANDTV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",Oscar Movies Bhojpuri
