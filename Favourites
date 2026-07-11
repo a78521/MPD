@@ -6704,6 +6704,10 @@ https://a66fd974d289494994f6cf39649c806d.mediatailor.ap-south-1.amazonaws.com/v1
 https://d3kdywbtdfbp9z.cloudfront.net/v1/master/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/master.m3u8?aws.sessionId=de665baf-9683-4bf8-80ec-95c7853418e2
 #https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
 
+#EXTINF:0, tvg-logo="" group-title="Hindi News",ABP Sansani
+https://cc-801kiwlpcq9u1.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-801kiwlpcq9u1/v1/channel/Sansani/Sansani_m.m3u8
+#https://d2g1p0cv65b13g.cloudfront.net/abphls/2026/04/bWVkLTE3NzY3NTUzNzkZH/1080p/index.m3u8 
+
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10608.jpg" group-title="Hindi News",Aaj Tak
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7b044d82f0bc462b8be3e2dec0bf2bd2/index.m3u8
 #https://feeds.intoday.in/aajtak/api/master.m3u8
@@ -6735,9 +6739,7 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiam
 #https://backupndtvindiaelemarchana.akamaized.net/hls/live/2004134/ndtvindia/master_1.m3u8
 
 
-#EXTINF:0, tvg-logo="" group-title="Hindi News",ABP Sansani
-https://cc-801kiwlpcq9u1.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-801kiwlpcq9u1/v1/channel/Sansani/Sansani_m.m3u8
-#https://d2g1p0cv65b13g.cloudfront.net/abphls/2026/04/bWVkLTE3NzY3NTUzNzkZH/1080p/index.m3u8 
+
 
 
 #EXTINF:0, tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1930298847Sudarshan_channel_Mob_384x216.webp" group-title="Hindi News",Sudarshan News
@@ -6757,6 +6759,10 @@ https://cc-ax7fwp25aou64.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
 #EXTINF:0, tvg-logo="https://static.indiatvnews.com/ins-web/images/speed-news.png" group-title="Hindi News",Ind1a Speed News
 https://poclive-indiatvnews.akamaized.net/hlslive/Admin/px0219297/live/janya/master.m3u8
+
+
+#EXTINF:0, tvg-logo="" group-title="Hindi News",Vande Bharat
+https://live.ottlive.co.in/vandebharat/vandebharat/index.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/512px-Zee_news.svg.png" group-title="Hindi News",Zee News
 https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
