@@ -7304,17 +7304,17 @@ https://origin-cae-m462953.toober.com /4c3caf7294b3/b21e8e62fed6263f/playlist.m3
 
 #EXTINF:0, tvg-logo="" group-title="Hindi Entertainment",Colors USA
 #EXTVLCOPT:http-referrer="https://tulnit.com"
-#KODIPROP:inputstream.adaptive.http-referrer="https://tulnit.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.org/"
 https://maamusic.keralive.workers.dev/out/v1/a526e652e4644463bca88e350785bed0/index.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="Hindi Entertainment",Colors Cineplex USA
 #EXTVLCOPT:http-referrer="https://tulnit.com"
-#KODIPROP:inputstream.adaptive.http-referrer="https://tulnit.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.org/"
 https://etv.keralive.workers.dev/090823/smil:colorscineplexus.smil/playlist.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="Hindi Entertainment",Colors Rishtey USA
 #EXTVLCOPT:http-referrer="https://tulnit.com"
-#KODIPROP:inputstream.adaptive.http-referrer="https://tulnit.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.org/"
 https://etv.keralive.workers.dev/090823/smil:colorscineplexus.smil/playlist.m3u8
 https://etv.keralive.workers.dev/090823/smil:ristheyamerica.smil/playlist.m3u8
 
@@ -7335,12 +7335,19 @@ https://amg13343-amg13343c1-amgplt0173.playout.now3.amagi.tv/playlist/amg13343-a
 #https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/28a659a4-a882-4bbc-baae-94a207e8b914/master.m3u8
 #https://csm-e-runntvprdlive-eb.runnads.runn.media/csm/extlive/runntvprd01,atrangiividaa2.m3u8?yo.up=https://amg13343-amg13343c1-amgplt0249.playout.now3.amagi.tv
 
+#EXTINF:0, tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mtgnqu.png" group-title="Hindi Entertainment",Kutingg
+https://balajitelefilms-yupptv.vgcdn.net/v1/019d675553f51ea540a815e5635b31/019d67562bdd1ea540a815e5635b34/playlist.m3u8
+
+#EXTINF:0, tvg-logo="" group-title="Hindi Entertainment",Dishoom
+https://d1i2c9u9bg7ji9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ekn1swkg8b4cn/playlist.m3u8?ads.ads_cdn=cf&ads.afsdk_params=AFSDK_VALUE&ads.app_domain=APP_DOMAIN&ads.app_name=APP_NAME&ads.cdn=cf&ads.device_did=PSID
+
+
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10598.jpg" group-title="Hindi Entertainment",Dabangg
 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10649.jpg" group-title="Hindi Entertainment",Maiboli
 
 #EXTINF:0, tvg-logo="https://nagantv.com/upload/files/desi%20play%20tv.png" group-title="Hindi Entertainment",Desi Play
-https://amg00857-amg00857c1-rakuten-us-4656.playouts.now.amagi.tv/playlist.m3u8
+
 
 #EXTINF:0, tvg-logo="" group-title="Hindi Entertainment",The Q
 https://mumt05.tangotv.in/THEQ/index.m3u8
