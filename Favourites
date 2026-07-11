@@ -2836,12 +2836,64 @@ https://box.djdoolky76.net/stream/udptv/tsn4/master.m3u8?u=gratisph&p=b7594b1f3f
 #EXTINF:-1 tvg-id="udptv/tsn5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-5-ca.png" group-title=""USA",TSN5
 https://box.djdoolky76.net/stream/udptv/tsn5/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
 
-#EXTINF:-1 tvg-logo="" group-title="USA",ion
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="USA",ion
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ion-tablo/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",ion Plus
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",ion Mystery
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51529_dark_360w_270h.png" group-title="USA",A&E HD
+http://206.212.244.63/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/0dec42cc5ef48c489cc10db906dc5b9b.png" group-title="USA",aspire
+http://206.212.244.63/10/index.m3u8
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28506_dark_360w_270h.png" group-title="USA",axs tv
+http://206.212.244.63/12/index.m3u8
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="USA",Bet West
+http://206.212.244.63/16/index.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" group-title="USA",Bravo
+http://206.212.244.63/26/index.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" group-title="USA",CNBC
+http://206.212.244.63/41/index.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78851_dark_360w_270h.png" group-title="USA",Cozi
+http://206.212.244.63/49/index.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24282_dark_360w_270h.png" group-title="USA",Discovery Science
+http://206.212.244.63/55/index.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="USA",Disney Channel
+http://206.212.244.63/650/index.m3u8
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60506_dark_360w_270h.png" group-title="USA",Disney Jr.
+http://206.212.244.63/655/index.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="USA",ESPN
+http://206.212.244.63/59/index.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58649_dark_360w_270h.png" group-title="USA",Fox Business
+http://206.212.244.63/66/index.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="USA",Fox News
+http://206.212.244.63/67/index.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" group-title="USA",Freeform
+http://206.212.244.63/69/index.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16834_dark_360w_270h.png" group-title="USA",Fyi
+http://206.212.244.63/78/index.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105723_dark_360w_270h.png" group-title="USA",Hallmark Family
+http://206.212.244.63/85/index.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61522_dark_360w_270h.png" group-title="USA",Hallmark Mystery
+http://206.212.244.63/86/index.m3u8
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87679_dark_360w_270h.png" group-title="USA",History Channel
+http://206.212.244.63/91/index.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" group-title="USA",MSNBC
+http://206.212.244.63/114/index.m3u8
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86880_dark_360w_270h.png" group-title="USA",Nat Geo Wild
+http://206.212.244.63/123/index.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="USA",TLC
+http://206.212.244.63/159/index.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_dark_360w_270h.png" group-title="USA",usa
+http://206.212.244.63/168/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.open-epg.com/x364.png" group-title="USA",BBC One
+http://193.239.186.231/BBC1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71799_dark_360w_270h.png" group-title="USA",Bloomberg TV
+https://www.bloomberg.com/media-manifest/streams/us.m3u8
 
 
 
@@ -2850,67 +2902,71 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="USA",Warner TV HD
 
+#EXTINF:-1 tvg-logo="" group-title="USA",Buzzr
+https://buzzrota-web.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="USA",Grit Xtra
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="USA",HBO
-http://23.237.104.106:8080/USA_HBO/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA",HBO 2
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="USA",HBO
+http://40.160.24.53/HBO_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO2._SL170_FMpng_.png" group-title="USA",HBO 2
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA",HBO Comedy
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59839_dark_360w_270h.png" group-title="USA",HBO Comedy
 http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA",HBO Zone
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="USA",HBO Zone
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA",Cinemax
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34933_dark_360w_270h.png" group-title="USA",Cinemax
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="USA",Moremax
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",We TV
 http://23.237.104.106:8080/USA_WE_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA",Hallmark Channel
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11221_dark_360w_270h.png" group-title="USA",Hallmark Channel
 http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA",Showtime
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-us.png" group-title="USA",Showtime
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",Showtime Family
 http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="USA",Starz
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12719_dark_360w_270h.png" group-title="USA",Starz
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA",Starz Cinema
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67236_dark_360w_270h.png" group-title="USA",Starz Cinema
 http://23.237.104.106:8080/USA_STARZ_CINEMA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA",Starz Comedy
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34901_dark_360w_270h.png" group-title="USA",Starz Comedy
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="USA",FX
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="USA",FX
 http://23.237.104.106:8080/USA_FX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA",FXX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fxx-us.png" group-title="USA",FXX
 http://23.237.104.106:8080/USA_FXX/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA",SYFY
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70253_dark_360w_270h.png" group-title="USA",FXM
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11097_dark_360w_270h.png" group-title="USA",SYFY
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA",E!
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/f73b80e3eb56cec06df6705d00e2f422.png" group-title="USA",E!
 http://23.237.104.106:8080/USA_E/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="USA",Vh1
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="USA",Vh1
 http://23.237.104.106:8080/USA_VH1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA",Bounce
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73067_dark_360w_270h.png" group-title="USA",Bounce
 http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",IFC
 http://23.237.104.106:8080/USA_IFC/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="USA",Paramount Network
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11163_dark_360w_270h.png" group-title="USA",Paramount Network
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="USA",Starmax
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",Showtime
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA",Fuse
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" group-title="USA",Fuse
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA",HLN
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" group-title="USA",HLN
 http://23.237.104.106:8080/USA_HLN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",Buzzr
 http://23.237.104.106:8080/USA_BUZZR/index.m3u8
@@ -2919,28 +2975,28 @@ http://23.237.104.106:8080/USA_REELZ/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",Destination America
 http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="USA",Cooking Channel
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="USA",Cooking Channel
 http://23.237.104.106:8080/USA_COOKING/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA",Food Network
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44718_dark_360w_270h.png" group-title="USA",Food Network
 http://23.237.104.106:8080/USA_FOOD_NETWORK/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="USA",Comedy Central
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="USA",Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="USA",CMT
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="USA",CMT
 http://23.237.104.106:8080/USA_CMT/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="USA",Discovery
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="USA",Discovery
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA",Animal Planet
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" group-title="USA",Animal Planet
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="USA",Nat Geo
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="USA",Nat Geo
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA",Nat Geo Wild
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86880_dark_360w_270h.png" group-title="USA",Nat Geo Wild
 http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="USA",Boomerang
