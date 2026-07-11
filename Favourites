@@ -2409,11 +2409,51 @@ https://b4uplay.com/sliv/stream.m3u8?id=1000009253
 https://b4uplay.com/sliv/stream.m3u8?id=1000009273
 
 
+#EXTINF:-1 tvg-logo="" group-title="tulnit",&TV HD USA
+#EXTVLCOPT:http-referrer=https://techtraveleat.in
+https://285abc3a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQW5kVFZfSExT/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Zee TV HD APAC
+#EXTVLCOPT:http-referrer=https://techtraveleat.in
+https://colors.keralive.workers.dev/260723/smil:zeetvapachd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Zee Cinema HD APAC
+#EXTVLCOPT:http-referrer=https://techtraveleat.in
+https://yupp-origin-vt.keralive.workers.dev/28072023/zeecinemaapachd_800/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="tulnit",Zee TV Canada
 #EXTVLCOPT:http-referrer=https://techtraveleat.in
 https://toober.keralive.workers.dev/4c3caf7294b3/c8bf99484885/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Zee TV DE
+#EXTVLCOPT:http-referrer=https://bhoomtv.org
+https://d47ddb99.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1kZV9aZWVUVkhEVUtHZXJtYW55X0hMUw/playlist.m3u8?ads.wurl_channel=2121
+
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Star Plus HD USA
+#EXTVLCOPT:http-referrer=https://bhoomtv.org
+https://maamusic.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starplushdus_us_https/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Star Bharat HD USA
+#EXTVLCOPT:http-referrer=https://bhoomtv.org
+https://maamusic.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starbharatus_us_https/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Utsav Plus
+#EXTVLCOPT:http-referrer=https://bhoomtv.org
+https://colors.keralive.workers.dev/260723/smil:starplusuk1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Utsav Bharat
+#EXTVLCOPT:http-referrer=https://bhoomtv.org
+https://colors.keralive.workers.dev/120723/smil:lifeokuk.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Colors Yupp USA
+#EXTVLCOPT:http-referrer=https://bhoomtv.org
+https://yupp-us-vt.keralive.workers.dev/090823/smil:colorsaapkadev.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Colors India
+#EXTVLCOPT:http-referrer=https://bhoomtv.org
+https://maamusic.keralive.workers.dev/out/v1/a526e652e4644463bca88e350785bed0/index.m3u8
 ============================================================= 4K===================================================================================================================
 
 #EXTINF:-1 tvg-logo="" group-title="4K",4K Travel
