@@ -110,12 +110,6 @@ https://cam3.pc.cdn.bitgravity.com/cam/live/feed023/Prasar_bharati_OTT/playlist.
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; S905X Build/PPR1.180610.011)
 https://cam3.pc.cdn.bitgravity.com/cam/live/somnath1/Prasar_bharati_OTT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="24277" tvg-chno="120" tvg-name="naina-devi-ji-temple,-himachal-pradesh" "tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/38903457Naina_Devi_Ji__TVW_720x960.webp" group-title="Darshan", Naina Devi Ji Temple
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; S905X Build/PPR1.180610.011)
-https://in1.sunilprasad.com.np/wavespb/00170/NainaDeviJile,HimachalPradesh.24277/playlist.m3u8
-
 #EXTINF:-1 tvg-id="24270" tvg-chno="110" tvg-name="shirdi-saibaba" "tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1396684665Shirdi_Saibaba_TVW_720x960.webp" group-title="Darshan",Shirdi Saibaba
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
