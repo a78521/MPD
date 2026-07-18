@@ -179,60 +179,72 @@ http://toms-pics.info:25461/live/TOPPDOGG6/detroit6/297377.ts
 ========================================================= Mac ===========================================================================================================
 
 #EXTINF:-1 tvg-logo="" group-title="Mac",Star Plus
-http://slayerteam.in.rs:80/play/live.php?mac=00:1B:79:F0:81:7F&extension=ts&stream=280767
-#EXTINF:-1 tvg-logo="" group-title="Mac",Star Bharat HD
-http://slayerteam.in.rs:80/play/live.php?mac=00:1B:79:F0:81:7F&extension=ts&stream=280765
-#EXTINF:-1 tvg-logo="" group-title="Mac",Star Gold HD
-http://slayerteam.in.rs:80/play/live.php?mac=00:1B:79:F0:81:7F&extension=ts&stream=280766
-#EXTINF:-1 tvg-logo="" group-title="Mac",Star Gold Select HD
-http://slayerteam.in.rs:80/play/live.php?mac=00:1B:79:F0:81:7F&extension=ts&stream=280778
-#EXTINF:-1 tvg-logo="" group-title="Mac",Star Movies HD
-http://slayerteam.in.rs:80/play/live.php?mac=00:1B:79:F0:81:7F&extension=ts&stream=1116488
-#EXTINF:-1 tvg-logo="" group-title="Mac",Star Movies Select HD
-http://slayerteam.in.rs:80/play/live.php?mac=00:1B:79:F0:81:7F&extension=ts&stream=1116489
 
+#EXTINF:-1 tvg-logo="" group-title="Mac",Star Bharat HD
+
+#EXTINF:-1 tvg-logo="" group-title="Mac",Star Gold HD
+
+#EXTINF:-1 tvg-logo="" group-title="Mac",Star Gold Select HD
+
+#EXTINF:-1 tvg-logo="" group-title="Mac",Star Movies HD
+http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441216&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Mac",Star Movies Select HD
+http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441215&extension=ts
 
 #EXTINF:-1 tvg-logo="" group-title="Mac",Star Sports1 Hindi HD
-http://slayerteam.in.rs:80/play/live.php?mac=00:1B:79:F0:81:7F&extension=ts&stream=1104672
+
 #EXTINF:-1 tvg-logo="" group-title="Mac",Star Sports 1 English HD
-http://slayerteam.in.rs:80/play/live.php?mac=00:1B:79:F0:81:7F&extension=ts&stream=1104673
+
 #EXTINF:-1 tvg-logo="" group-title="Mac",Star Sports 2 HD
-http://slayerteam.in.rs:80/play/live.php?mac=00:1B:79:F0:81:7F&extension=ts&stream=1104674
+
 #EXTINF:-1 tvg-logo="" group-title="Mac",Star Sports 2 Hindi HD
-http://slayerteam.in.rs:80/play/live.php?mac=00:1B:79:F0:81:7F&extension=ts&stream=1104676
+
+
+#EXTINF:-1 tvg-logo="" group-title="Mac",Unite8 Sports 1 HD
+http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441219&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Mac",Unite8 Sports 2 HD
+http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441206&extension=ts
 
 #EXTINF:-1 tvg-logo="" group-title="Mac",Sony Sab HD
-http://slayerteam.in.rs:80/play/live.php?mac=00:1B:79:F0:81:7F&extension=ts&stream=280764
+
 #EXTINF:-1 tvg-logo="" group-title="Mac",Sony Pix HD
-http://slayerteam.in.rs:80/play/live.php?mac=00:1B:79:F0:81:7F&extension=ts&stream=1116481
+http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441205&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="Mac",Sony BBC Earth HD
-http://slayerteam.in.rs:80/play/live.php?mac=00:1B:79:F0:81:7F&extension=ts&stream=1116472
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="Mac",Colors HD
-http://slayerteam.in.rs:80/play/live.php?mac=00:1B:79:F0:81:7F&extension=ts&stream=280774
+
 
 #EXTINF:-1 tvg-logo="" group-title="Mac",MTV HD
-http://slayerteam.in.rs:80/play/live.php?mac=00:1B:79:F0:81:7F&extension=ts&stream=280760
+
+#EXTINF:-1 tvg-logo="" group-title="Mac",Nick HD+
+http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441204&extension=ts
 
 #EXTINF:-1 tvg-logo="" group-title="Mac",Zee TV HD
-http://slayerteam.in.rs:80/play/live.php?mac=00:1B:79:F0:81:7F&extension=ts&stream=280773
+
 #EXTINF:-1 tvg-logo="" group-title="Mac",Zee Cinema HD
-http://slayerteam.in.rs:80/play/live.php?mac=00:1B:79:F0:81:7F&extension=ts&stream=280772
+
 
 
 
 #EXTINF:-1 tvg-logo="" group-title="Mac",Nat Geo HD
-http://slayerteam.in.rs:80/play/live.php?mac=00:1B:79:F0:81:7F&extension=ts&stream=1116478
+
 #EXTINF:-1 tvg-logo="" group-title="Mac",Nat Geo Wild HD
-http://slayerteam.in.rs:80/play/live.php?mac=00:1B:79:F0:81:7F&extension=ts&stream=1116479
+
+#EXTINF:-1 tvg-logo="" group-title="Mac",Discovery HD
+http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441223&extension=ts
+
+#EXTINF:-1 tvg-logo="" group-title="Mac",Disney HD
+http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441207&extension=ts
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="Mac",Times Now HD
-http://slayerteam.in.rs:80/play/live.php?mac=00:1B:79:F0:81:7F&extension=ts&stream=1116477
+
 
 #EXTINF:-1 tvg-logo="" group-title="Mac",TV Cine Top
-http://slayerteam.in.rs:80/play/live.php?mac=00:1B:79:F0:81:7F&extension=ts&stream=107423
+
 
 
 
