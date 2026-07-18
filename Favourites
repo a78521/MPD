@@ -1055,9 +1055,9 @@ https://mumt02.tangotv.in/MANORANJANGRAND/index.m3u8
 https://mumt04.tangotv.in/MOVIEPLEX/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",News Nation
-https://mumt03.tangotv.in/NEWSNATION/index.m3u8
+https://mumt03.tangotv.in/Dsly5z3HNEWSNATION/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",News 24
-https://mumt03.tangotv.in/NEWS24/index.m3u8
+https://mumt03.tangotv.in/Dsly5z3HNEWS24/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Republic Bharat
 https://mumt02.tangotv.in/REPUBLICBHARAT/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Times Now Navbharat
@@ -1069,40 +1069,40 @@ https://mumt03.tangotv.in/Dsly5z3HZEEBHARAT/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Republic TV
-https://mumt05.tangotv.in/REPUBLICTV/index.m3u8
+https://mumt05.tangotv.in/87NeALx2REPUBLICTV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",News X
 https://mumt01.tangotv.in/O5aw8Zn3NEWSX/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",News X World
 https://mumt03.tangotv.in/Dsly5z3HNEWSXWORLD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/APN.png" group-title="Tango TV",APN
-https://mumt01.tangotv.in/APN/index.m3u8
+https://mumt01.tangotv.in/O5aw8Zn3APN/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ARYAN_TV_NATIONAL/images/LOGO_HD/image.png" group-title="Tango TV",Aryan TV
 https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FIRST_INDIA_NEWS_RAJASTHAN/images/LOGO_HD/image.png" group-title="Tango TV",First India News
 https://mumt03.tangotv.in/Dsly5z3H1STINDIANEWS/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HARKHABAR/images/LOGO_HD/LOGO_HD_image.png" group-title="Tango TV",Har Khabar
-https://mumt01.tangotv.in/HARKHABAR/index.m3u8
+https://mumt01.tangotv.in/O5aw8Zn3HARKHABAR/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/exRpVmL.png" group-title="Tango TV",IND 24
 https://mumt02.tangotv.in/IND24/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hBkTmf9.png" group-title="Tango TV",India Ahead
 https://mumt05.tangotv.in/87NeALx2INDIAAHEAD/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_Voice.png" group-title="Tango TV",India Voice
-https://mumt04.tangotv.in/INDIAVOICE/index.m3u8
+https://mumt04.tangotv.in/m18aqlK4INDIAVOICE/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INH_24X7/images/LOGO_HD/image.png" group-title="Tango TV",INH 24x7
-https://mumt01.tangotv.in/INH24X7/index.m3u8
+https://mumt01.tangotv.in/O5aw8Zn3INH24X7/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KHABAR_FAST/images/LOGO_HD/image.png" group-title="Tango TV",Khabar Fast
-https://mumt04.tangotv.in/KHABARFAST/index.m3u8
+https://mumt04.tangotv.in/m18aqlK4KHABARFAST/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143262_ld_h15_aa.png?lock=720x540" group-title="Tango TV",Khabrein Abhi Tak
-https://mumt05.tangotv.in/KHABRAINABHITAK/index.m3u8
+https://mumt05.tangotv.in/87NeALx2KHABRAINABHITAK/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L5GeJFb.png" group-title="Tango TV",NE News
-https://mumt05.tangotv.in/NENEWS/index.m3u8
+https://mumt05.tangotv.in/87NeALx2NENEWS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Prime News
 https://mumt02.tangotv.in/PRIMENEWS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Sach Bedhadak
-https://mumt04.tangotv.in/SACHBEDHADAK/index.m3u8
+https://mumt04.tangotv.in/m18aqlK4SACHBEDHADAK/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Samachar Plus
-https://mumt05.tangotv.in/VERTENTSAMACHARPLUS/index.m3u8
+https://mumt05.tangotv.in/87NeALx2VERTENTSAMACHARPLUS/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Astha
@@ -6788,7 +6788,8 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgt
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10590.jpg" group-title="Hindi News",News 18 India
 https://n18syndication-prasar-bharati.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10552.jpg" group-title="Hindi News",News Nation
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
+https://nn-khabriyatv.originein.in/nntv/national/master_nnna_khabriyatv.m3u8
+#https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
 #https://cc-52950m0v2qv0p.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-52950m0v2qv0p/nntv/national/index.m3u8
 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10554.jpg" group-title="Hindi News",News 24
