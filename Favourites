@@ -7263,16 +7263,16 @@ https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-a
 https://amg17931-zee-amg17931c8-kogan-au-9555.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17931-asiatvusaltdfast-zeebollymovies-koganau/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",All Time Movies
-https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8
+https://mumt03.tangotv.in/Dsly5z3HALLTIMEMOVIES/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",YYZ TV
 http://cdn12.henico.net:8080/live/sursangam/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Bollywood Non Stop HD
-#EXTVLCOPT:http-referrer="https://onezoo.net"
-#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
-https://onezoo.net/tv/restream-tv/stream.m3u8?id=1160e0e7ca2d
+#EXTVLCOPT:http-referrer="https://bhoomtv.org/"
+#KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.org/"
+https://bhoomtv.org/tv/restream-tv/stream.m3u8?id=1160e0e7ca2d&t=1783781864
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Goldmines
 https://mumt04.tangotv.in/m18aqlK4GOLDMINES/index.m3u8
