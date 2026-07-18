@@ -7318,6 +7318,52 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=16426
 #EXTINF:-1 tvg-logo="" group-title="English Movies",LG Spotlight
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13959
 
+
+
+
+
+#EXTINF:0, tvg-logo="" group-title="English Movies",You Look Film Hits
+#EXTVLCOPT:http-referrer="https://bhoomtv.org/"
+#KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.org/"
+https://m3uplay.com/stream.m3u8?id=youlookhits
+
+#EXTINF:0, tvg-logo="" group-title="English Movies",You Look Action
+#EXTVLCOPT:http-referrer="https://bhoomtv.org/"
+#KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.org/"
+https://m3uplay.com/stream.m3u8?id=youlookaction
+
+#EXTINF:0, tvg-logo="" group-title="English Movies",Comedy Plus
+#EXTVLCOPT:http-referrer="https://bhoomtv.org/"
+#KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.org/"
+https://m3uplay.com/stream.m3u8?id=comedyplus
+
+#EXTINF:0, tvg-logo="" group-title="English Movies",Romance Plus
+#EXTVLCOPT:http-referrer="https://bhoomtv.org/"
+#KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.org/"
+https://m3uplay.com/stream.m3u8?id=romanceplus
+
+#EXTINF:0, tvg-logo="" group-title="English Movies",VHS Plus
+#EXTVLCOPT:http-referrer="https://bhoomtv.org/"
+#KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.org/"
+https://m3uplay.com/stream.m3u8?id=vhsplus
+
+#EXTINF:0, tvg-logo="" group-title="English Movies",Western Plus
+#EXTVLCOPT:http-referrer="https://bhoomtv.org/"
+#KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.org/"
+https://m3uplay.com/stream.m3u8?id=westernplus
+
+#EXTINF:0, tvg-logo="" group-title="English Movies",Horror Plus
+#EXTVLCOPT:http-referrer="https://bhoomtv.org/"
+#KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.org/"
+https://m3uplay.com/stream.m3u8?id=horrorplus
+
+#EXTINF:0, tvg-logo="" group-title="English Movies",Fun Flix
+#EXTVLCOPT:http-referrer="https://bhoomtv.org/"
+#KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.org/"
+https://m3uplay.com/stream.m3u8?id=funflix
+
+
+
 #EXTINF:-1 tvg-logo="https://d2aqhkzukipl76.cloudfront.net/BEST-THRILLER-TV-ENG/logo/Best-thriller-400x200.png" group-title="English Movies",Best Thriller
 https://streams2.sofast.tv/ptnr-lg/title-BEST_THRILLER_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04a87d60-a79e-4a36-9df8-0ea3a4e2c173/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://d2aqhkzukipl76.cloudfront.net/BEST-ACTION-TV-ENG/logo/Bestaction-tv-400x200.png" group-title="English Movies",Best Action
