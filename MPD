@@ -2712,6 +2712,11 @@ https://ucdn.mediaquest.com.ph/bpk-tv/discovery/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=3c8e5a927d414b069f236a5c8e1d7049:a9b9198bf7b116b30492aea4dc471122
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_animal_planet_sd/default/index.mpd
 
+#EXTINF:-1 tvg-logo="" group-title="Cignal TV",Global Trekker
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e4b8d2916a534f709c187d3e5a2f6049:85d67d8b52caf380c82dc45b07f26f69
+https://ucdn.mediaquest.com.ph/bpk-tv/globaltrekker/default/index.mpd
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jOCNrB8.png" group-title="Cignal TV",Travel Channel
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=18c6f9235b744d81a0397e2c9f6a5048:7974c1376447c563f5fdb41be0104ddf
@@ -2834,6 +2839,12 @@ https://ucdn.mediaquest.com.ph/bpk-tv/dr_tapsports/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6d4f8912c734b608e159f3a7d5c2046:ec647e6c500235352a8df03c518e9b23
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_onesportsplus_hd1/default/index.mpd
+
+
+#EXTINF:-1 tvg-logo="" group-title="Cignal TV",Priemer Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91e4c6725a834d198f602c7b9e3a5148:4185d260443198690be03e294fdc1240
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_ps_hd1/default/index.mpd
 
 
 ================================================================ Astro =======================================================================================================
