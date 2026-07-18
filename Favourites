@@ -7007,12 +7007,18 @@ https://amg00882-amg00882c2-lg-in-5560.playouts.now.amagi.tv/playlist/amg00882-e
 #EXTINF:-1 tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/b4e13e24-5808-4dbb-8239-bf72c9611650.jpeg" group-title="International News",France 24
 https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8?ads_amagi_channel_id=938
 
+#EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/gb-news-1776691923182.jpg" group-title="International News",GB News
+https://hlspackager.akamaized.net/live/DB/GB_NEWS/HLS/GB_NEWS.m3u8
+
 #EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/I24-1775733853052.jpg" group-title="International News",i24 News
 https://hlspackager.akamaized.net//live/DB/i24_ENGLISH/NEO/i24_ENGLISH.m3u8
 
 #EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/NHK-World-Japan-1625537551713.png" group-title="International News",NHK Japan
 https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
 #https://media-tyo.hls.nhkworld.jp/hls/w/live/1/sig/e52230f79050aa333c4ac6430f40a08f0898e6ec1c43d5cb9bcb82f9573797c4/v2.m3u8
+
+#EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/NOW-USA-1779314473532.jpg" group-title="International News",Now USA
+https://nowushls.wns.live/hls/stream.m3u8
 
 
 #EXTINF:0, tvg-logo=""https://cdn.neotvapp.com/file/quickfox/top-tv/channels/IMG-20260313-WA0002-1773408425170.jpg" group-title="International News",RT
@@ -7635,8 +7641,8 @@ https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-215
 #EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/375062410_746674004142191_3679713481887418192_n-1695131283758.jpg" group-title="Punjabi",Punjab Mail USA
 http://cdn12.henico.net:8080/live/punjabmailusa/index.m3u8
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/D5 Punjabi.jpg"  "group-title="Punjabi",D5 Channel Punjabi
-https://d5.tv360.ca:3453/live/cd5live.m3u8
+#EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/Hitube_JO6tXXNanI_2024_11_17_07_19_19 2-1731846120764.jpg" "group-title="Punjabi",D5 Channel Punjabi
+https://d5.tv360.ca/p/3453/live/cd5live.m3u8
 
 #EXTINF:0, tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1622813991WhatsApp_Image_2026-04-09_at_11.15" "group-title="Punjabi",Daily Post News
 https://stream.ottlive.co.in/dailypost/index.m3u8
