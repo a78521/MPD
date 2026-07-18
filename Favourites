@@ -238,10 +238,11 @@ http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441204&extens
 #EXTINF:-1 tvg-logo="" group-title="Mac",Zee Cinema HD
 
 
-
+#EXTINF:-1 tvg-logo="" group-title="Mac",Movies Now HD
+http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441212&extension=ts
 
 #EXTINF:-1 tvg-logo="" group-title="Mac",Nat Geo HD
-
+http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441039&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="Mac",Nat Geo Wild HD
 
 #EXTINF:-1 tvg-logo="" group-title="Mac",Discovery HD
