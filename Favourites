@@ -6977,15 +6977,18 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
 #https://4fb3f38a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfQkJDTmV3cy0xX0hMUw/playlist.m3u8
 
-#EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/099260397.jpeg" group-title="International News",CNA
-https://dai4s4shjeg0o.cloudfront.net/HTMediaLabsInd760b6cd7/5b3b64baca764020a525dd7ce42e27e6/master.m3u8 
-#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#http://d2e1asnsl7br7b.cloudfront.net/4c152bfc7ad2463d928bfbec0990eaeb/index.m3u8
+#EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/cgntv-1693594532150.jpg" group-title="International News"CGTN Global
+https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
 
 #EXTINF:0, tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/82a28e14-7f41-4a39-b6b9-57de69feb0ef.jpeg" group-title="International News",CGTN
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8?ads_amagi_channel_id=852
 #EXTINF:0, tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/1869dc72-ca6d-4f46-b1ff-85d1aef818fa.jpeg" group-title="International News",CGTN Global Biz
 https://amg01314-cgtn-amg01314c6-rakuten-gb-10205.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01314-cgtn-cgtnglobalbiz-rakutengb/playlist.m3u8?ads_amagi_channel_id=1066
+
+#EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/099260397.jpeg" group-title="International News",CNA
+https://dai4s4shjeg0o.cloudfront.net/HTMediaLabsInd760b6cd7/5b3b64baca764020a525dd7ce42e27e6/master.m3u8 
+#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#http://d2e1asnsl7br7b.cloudfront.net/4c152bfc7ad2463d928bfbec0990eaeb/index.m3u8
 
 #EXTINF:0, tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD8000016N_20251125T100002SQUARE.png" group-title="International News",CNN
 https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
@@ -6997,9 +7000,34 @@ https://mediapackage-ptcn-source.fullscreen.nz/index.m3u8
 #EXTINF:0, tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1300001RX_20250902T003744SQUARE.png" group-title="International News",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
-#EXTINF:0, tvg-logo="" group-title="International News",TRT World
-https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
-#https://webott.viatv.com.np/v0t1/TRTworld.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/Euronews/euronews_logo_resized_400x200_updated.png" group-title="International News",Euro News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg00882-amg00882c2-lg-in-5560.playouts.now.amagi.tv/playlist/amg00882-euronewsfast-euronewseng-lgin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/b4e13e24-5808-4dbb-8239-bf72c9611650.jpeg" group-title="International News",France 24
+https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8?ads_amagi_channel_id=938
+
+#EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/I24-1775733853052.jpg" group-title="International News",i24 News
+https://hlspackager.akamaized.net//live/DB/i24_ENGLISH/NEO/i24_ENGLISH.m3u8
+
+#EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/NHK-World-Japan-1625537551713.png" group-title="International News",NHK Japan
+https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
+#https://media-tyo.hls.nhkworld.jp/hls/w/live/1/sig/e52230f79050aa333c4ac6430f40a08f0898e6ec1c43d5cb9bcb82f9573797c4/v2.m3u8
+
+
+#EXTINF:0, tvg-logo=""https://cdn.neotvapp.com/file/quickfox/top-tv/channels/IMG-20260313-WA0002-1773408425170.jpg" group-title="International News",RT
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#https://wisehttott.wiseplayout.com/RT/master.m3u8
+#EXTINF:0, tvg-logo=""https://cdn.neotvapp.com/file/quickfox/top-tv/channels/IMG-20260313-WA0002-1773408425170.jpg" group-title="International News",RT India
+https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8
+#EXTINF:0, tvg-logo="" group-title="International News",RT Doc
+https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+
+#EXTINF:0, tvg-logo="" group-title="International News",Reuters
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/10b3da90-ab83-4d76-bc83-f0fdf71fa7cc/0.m3u8
+#https://amg00453-reuters-amg00453c1-lg-us-2227.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-lgus/playlist.m3u8
+#https://amg00453-reuters-amg00453c1-samsung-gb-2113.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-samsunggb/playlist.m3u8
+
 
 #EXTINF:0, tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3300002NF_20250107T031217SQUARE.png" group-title="International News",Sky News
 https://d25w9q07b2mtmw.cloudfront.net/live/master_4.m3u8
@@ -7010,35 +7038,23 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist480p.m3u8
 #https://amg00663-skynewsau-amg00663c1-lg-au-4519.playouts.now.amagi.tv/playlist/amg00663-australiannewschannelptyltdfast-skynews-lgau/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/Euronews/euronews_logo_resized_400x200_updated.png" group-title="International News",Euro News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
-https://amg00882-amg00882c2-lg-in-5560.playouts.now.amagi.tv/playlist/amg00882-euronewsfast-euronewseng-lgin/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/b4e13e24-5808-4dbb-8239-bf72c9611650.jpeg" group-title="International News",France 24
-https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8?ads_amagi_channel_id=938
-
-#EXTINF:0, tvg-logo="" group-title="International News",NHK Japan
-https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
-
-#EXTINF:0, tvg-logo="" group-title="International News"CGTN
-https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
+#EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/trt-1739730723789.jpg" group-title="International News",TRT World
+https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
+#https://webott.viatv.com.np/v0t1/TRTworld.stream/playlist.m3u8
 
 
 
 
 
-#EXTINF:0, tvg-logo="" group-title="International News",RT
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#https://wisehttott.wiseplayout.com/RT/master.m3u8
-#EXTINF:0, tvg-logo="" group-title="International News",RT India
-https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8
-#EXTINF:0, tvg-logo="" group-title="International News",RT Doc
-https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 
-#EXTINF:0, tvg-logo="" group-title="International News",Reuters
-https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/10b3da90-ab83-4d76-bc83-f0fdf71fa7cc/0.m3u8
-#https://amg00453-reuters-amg00453c1-lg-us-2227.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-lgus/playlist.m3u8
-#https://amg00453-reuters-amg00453c1-samsung-gb-2113.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-samsunggb/playlist.m3u8
+
+
+
+
+
+
+
+
 
 ======================================================== Hindi Music ===========================================================================================================
 
@@ -7551,6 +7567,10 @@ https://cloudcdn.in/live/shreeshyamtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/swastiktv.png" group-title="Devotional",Swastik TV
 https://server.playontv.in/swastiktv/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/sadhna-1776463668469.jpg" group-title="Devotional",Sadhna TV
+https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Devotional",Vrindavan Dham
 http://cdn12.henico.net:8080/live/varindavan/index.m3u8
 
@@ -7578,35 +7598,50 @@ https://live20.bozztv.com/giatvplayout7/giatv-210715/tracks-v1a1/mono.ts.m3u8
 
 ======================================================== Punjabi ===========================================================================================================
 
-#EXTINF:0, tvg-logo="" group-title="Punjabi",Prime Asia HD
+#EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/prime-asia-1774905958234.jpg" group-title="Punjabi",Prime Asia HD
 http://primeasia.mine.nu/Patv_Ind_FHD/index.m3u8
+#https://stream.ottlive.co.in/primeasia/index.m3u8
+
+#EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/prime-asia-1774905958234.jpg" group-title="Punjabi",Prime Asia HD
 #http://primeasia.selfip.net/Samsung/index.m3u8
+
 
 #EXTINF:0, tvg-logo="" group-title="Punjabi",Pitaara International HD
 #EXTVLCOPT:http-referrer="https://techtraveleat.in"
 #KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
 https://toober.keralive.workers.dev/4c3caf7294b3/3dd066d387031492/playlist.m3u8
 
-#EXTINF:0, tvg-logo="" group-title="Punjabi",Sanjha TV HD
+#EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/1000115688-1771023397782.jpg" group-title="Punjabi",Sanjha TV HD
 https://livestream.unlimitedcdn.com/sanjhatv/index.m3u8
 
 #EXTINF:0, tvg-logo="https://icon2.cleanpng.com/20180617/wtf/kisspng-television-channel-television-show-punjabi-languag-pocketnewsalert-5b2616f8e75031.4728199715292229049475.jpg" group-title="Punjabi",Desi Channel
 https://main.clickstreamcdn.com/agm-dc/desi-channel/index.m3u8
 
-#EXTINF:0, tvg-logo="" group-title="Punjabi",Punjabi Shorts
+#EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/punjabi-shorts-1767192407233.jpg" group-title="Punjabi",Punjabi Shorts
 https://cc-m6zq76ijc87jw.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m6zq76ijc87jw/punjabshort/index.m3u8
+#https://gtc.ottlive.co.in/punjabshort/index.m3u8
+
+
+#EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/gtc-1774906973031.jpg" group-title="Punjabi",GTC Punjabi
+https://gtc.ottlive.co.in/gtcpunjabi/index.m3u8
+#EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/gtc-usa-1773945969991.jpg" group-title="Punjabi",GTC Punjabi USA
+https://neotv.ottlive.co.in/gtcpunjabiusa/index.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="Punjabi",Zee Punjabi
 #EXTVLCOPT:http-referrer="https://techtraveleat.in"
 #KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
 https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-215
 
-#EXTINF:0, tvg-logo="" group-title="Punjabi",Punjab Mail USA
+#EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/375062410_746674004142191_3679713481887418192_n-1695131283758.jpg" group-title="Punjabi",Punjab Mail USA
 http://cdn12.henico.net:8080/live/punjabmailusa/index.m3u8
+
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/D5 Punjabi.jpg"  "group-title="Punjabi",D5 Channel Punjabi
 https://d5.tv360.ca:3453/live/cd5live.m3u8
+
 #EXTINF:0, tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1622813991WhatsApp_Image_2026-04-09_at_11.15" "group-title="Punjabi",Daily Post News
 https://stream.ottlive.co.in/dailypost/index.m3u8
+#https://ott.vutv.in/hls/dailypost/index.m3u8
+
 #EXTINF:0, tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/5661248393.4" "group-title="Punjabi",World Punjabi TV
 https://stream.ottlive.co.in/worldpunjabitv/index.m3u8
 #EXTINF:0, tvg-logo="" group-title="Punjabi",Brit Asia TV
@@ -7632,15 +7667,27 @@ https://livestream.unlimitedcdn.com/agm/sada-TV/index.m3u8
 https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
 #https://origin-cae-m462953.toober.com/4c3caf7294b3/d8d1a18f11805b3e/playlist.m3u8
 
+
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/GLOBLE DESI.jpg" group-title="Punjabi",Global Desi
 https://live.ottlive.co.in/globaldesi/globaldesi/index.m3u8
 #EXTINF:0, tvg-logo="https://i.imgur.com/WDLqcWW.png" group-title="Punjabi",Global Punjab
 https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8
 
-#EXTINF:0, tvg-logo="https://i.imgur.com/WDLqcWW.png" group-title="Local News",Global India
-https://server.livelegitpro.in/globalindiatv/globalindiatv/video.m3u8
-#EXTINF:0, tvg-logo="" group-title="Local News",Aaj Ki Khabar
-https://server.livelegitpro.in/aajkikhabar/aajkikhabar/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+#EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/pure-pink-1777672998614.jpg" group-title="Punjabi",Pure Pink Punjabi
+https://knocktv1.wiseplayout.com/PurePink/master.m3u8
+#EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/pure-pink-1777672998614.jpg" group-title="Punjabi",Knock TV Punjabi
+https://knocktv.wiseplayout.com/Knock_TV/master.m3u8
+#EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/pure-pink-1777672998614.jpg" group-title="Punjabi",Knock News Punjabi
+https://knocktv.wiseplayout.com/Knock_News/master.m3u8
+#EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/knock-news-1777673381670.jpg" group-title="Punjabi Devotional","Knock Bhakti Punjabi
+https://knocktv2.wiseplayout.com/Knock_Bhakti_EST/master.m3u8
+
 
 
 #EXTINF:0, tvg-logo="" group-title="Punjabi",Gurmat TV HD
@@ -7649,15 +7696,31 @@ http://livestream.unlimitedcdn.com/agm/gurmat-tv/index.m3u8
 https://live.ottlive.co.in/livepunjabi/livepunjabi/index.m3u8
 #EXTINF:0, tvg-logo="" group-title="Punjabi",Sanjha TV HD
 http://livestream.unlimitedcdn.com/sanjhatv/index.m3u8
-#EXTINF:0, tvg-logo="" group-title="Punjabi",The Unmute
-https://legitpro.co.in/theunmute/theunmute/index.m3u8
 
+#EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/theunumute-1755813367340.jpg" group-title="Punjabi",The Unmute
+https://stream.ottlive.co.in/unmute/index.m3u8
+
+#EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/286040681_5114536905296977_5286246418919181607_n-1695221089105.jpg" group-title="Punjabi",TV NRI Canada
+https://streamer12.vdn.dstreamone.net/nritv/nritv/chunks.m3u8
+#EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/rz-1755813141621.jpg" group-title="Punjabi",Roazana Spokesman
+https://stream.ottlive.co.in/spokesman/index.m3u8
+#EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/theunumute-1755813367340.jpg" group-title="Punjabi",Living India News
+https://stream.ottlive.co.in/livingindia/index.m3u8
+
+#EXTINF:0, tvg-logo="https://i.imgur.com/WDLqcWW.png" group-title="Local News",Global India
+https://server.livelegitpro.in/globalindiatv/globalindiatv/video.m3u8
+#EXTINF:0, tvg-logo="" group-title="Local News",Aaj Ki Khabar
+https://server.livelegitpro.in/aajkikhabar/aajkikhabar/tracks-v1a1/mono.m3u8
+#EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/81f70XEPGOL-1652167939940.jpg" group-title="Local News",TV Punjab
+https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/chunks.m3u8
 
 
 ======================================================== Punjabi Music ===========================================================================================================
 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10556.jpg" group-title="Punjabi Music",PTC Punjabi
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
+#EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/ptc-1767392027848.jpg" group-title="Punjabi Music",PTC Punjabi Canada
+https://neotv.ottlive.co.in/ptccanada/index.m3u8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10555.jpg" group-title="Punjabi Music",PTC Punjabi Gold
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
 #EXTINF:-1 tvg-id="15037" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/2073643161PTC-Music.webp" group-title="Punjabi Music", PTC MUSIC
@@ -7672,10 +7735,10 @@ http://a-edge.bliscdn.com/Visionpunjabmusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/channel/logos/ejnlyj.png" group-title="Punjabi Music",balle balle
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1065989006Tabbar_HIts_1920x1080_19.6%20" group-title="Punjabi Music",Tabbar Hits
-https://live1.ottlive.co.in/tabbarhitsswift/index.m3u8
+https://stream.ottlive.co.in/tabbarhits/index.m3u8
+#https://livingindia.ottlive.co.in/tabbarhits/index.m3u8
 #EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/756167842Punjab_HIts_1920x1080_16.9%20" group-title="Punjabi Music",Punjabi Hits
-https://server.livelegitpro.in/punjabihits/index.m3u8
-
+https://stream.ottlive.co.in/punjabihits/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/PURE PUNJABI.jpg" group-title="Punjabi Music",Pure Punjabi HD
 http://livestream.unlimitedcdn.com/agm-pp/pure-punjabi/tracks-v1a1/mono.m3u8
@@ -7743,7 +7806,7 @@ https://pitaaratv.cdn.runn.tv/ptnr-RunnTV/title-Pitaara_Comedy/v1/vglive-sk-2174
 
 #EXTINF:0, tvg-logo="" group-title="Punjabi Devotional",Fateh TV
 https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8
-#EXTINF:0, tvg-logo="" group-title="Punjabi Devotional",Guru Ki Bani
+#EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/1000115691-1771023142514.jpg" group-title="Punjabi Devotional",Gur Ki Bani
 http://livestream.unlimitedcdn.com/gurkibani/index.m3u8
 #EXTINF:0, tvg-logo="" group-title="Punjabi Devotional",Vision Gurbani
 http://a-edge.bliscdn.com/Visionpunjabgurbani/playlist.m3u8
@@ -7752,7 +7815,8 @@ https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/pla
 #EXTINF:0, tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/SikhRatnavali/LG/Logo400x200.jpg" group-title="Punjabi Devotional",Sikh Ratnavali
 https://amg00223-amg00223c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00223-amg00223c6-amgplt0173/playlist.m3u8
 
-
+#EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/gurbani-tv-1739452049033-1744825317965.jpg" group-title="Punjabi Devotional",Garv Gurbani
+https://stream.ottlive.co.in/distrogarvgurbani/index.m3u8
 
 ========================================================PTC ===========================================================================================================
 
