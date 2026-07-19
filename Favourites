@@ -7888,19 +7888,29 @@ https://stream.ottlive.co.in/distrogarvgurbani/index.m3u8
 ========================================================PTC ===========================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/B6K29Z9z/PTC-MUSIC.jpg" group-title="PTC",PTC Music
-https://mumt04.tangotv.in/PTCMUSIC/index.m3u8
+https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
+#https://mumt04.tangotv.in/m18aqlK4PTCMUSIC/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RVshdr29/PTC-NEWS.png" group-title="PTC",PTC News
 https://mumt02.tangotv.in/PTCNEWS/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsQVvSKJ/PTC-CHAKDE.png" group-title="PTC",PTC Chakde
 https://mumt02.tangotv.in/PTCCHAKDE/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cGJ2hb8/PTC-SIMRAN.jpg" group-title="PTC",PTC Simran
-https://mumt05.tangotv.in/PTCSIMRAN/index.m3u8
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3bc92ffb55814535801f929a1ac96c57/index.m3u8
+#https://mumt05.tangotv.in/87NeALx2PTCSIMRAN/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYLMzZpp/PTC-PUNJABI.jpg" group-title="PTC",PTC Punjabi
-https://mumt04.tangotv.in/PTCPUNJABI/index.m3u8
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
+#https://mumt04.tangotv.in/m18aqlK4PTCPUNJABI/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYLMzZpp/PTC-PUNJABI.jpg" group-title="PTC",PTC Punjabi Canada
 https://neotv.ottlive.co.in/ptccanada/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bJyf4r23/PTC-PUNJABI-GOLD.jpg" group-title="PTC",PTC Punjabi Gold
-https://mumt04.tangotv.in/PTCPUNJABIGOLD/index.m3u8
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
+#https://mumt04.tangotv.in/m18aqlK4PTCPUNJABIGOLD/index.m3u8
 
 
 
