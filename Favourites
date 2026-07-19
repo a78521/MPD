@@ -888,7 +888,7 @@ https://streams2.sofast.tv/ptnr-runntv/title-XTREM-SPORTS-ENG/sofastplayout/dd07
 =================================================================== Tango TV ================================================================================================
 
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Fast Mix
-https://mumt01.tangotv.in/FASTMIX/index.m3u8
+https://mumt01.tangotv.in/O5aw8Zn3FASTMIX/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Maati TV
 https://mumt03.tangotv.in/Dsly5z3HMATTITV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Pankh HD
@@ -896,9 +896,9 @@ https://mumt04.tangotv.in/m18aqlK4PANKH/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Tadka
 https://mumt03.tangotv.in/Dsly5z3HTADKA/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Total TV
-https://mumt04.tangotv.in/TOTALTV/index.m3u8
+https://mumt04.tangotv.in/m18aqlK4TOTALTV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Gangaur
-https://mumt04.tangotv.in/GANGAURTV/index.m3u8
+https://mumt04.tangotv.in/m18aqlK4GANGAURTV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Padharo Sa
 https://mumt03.tangotv.in/Dsly5z3HPADHAROSA/index.m3u8
 
@@ -906,7 +906,7 @@ https://mumt03.tangotv.in/Dsly5z3HPADHAROSA/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Classic Hits
 https://mumt03.tangotv.in/Dsly5z3HCLASSICHITS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",BFLIX
-https://mumt03.tangotv.in/BFLIX/index.m3u8
+https://mumt03.tangotv.in/Dsly5z3HBFLIX/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Big Magic
 https://mumt05.tangotv.in/87NeALx2BIGMAGIC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Tango TV",India Talkies
