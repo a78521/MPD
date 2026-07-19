@@ -7364,8 +7364,12 @@ https://mumt04.tangotv.in/m18aqlK4GOLDMINEMOVIES/index.m3u8
 ======================================================== English Movies ===========================================================================================================
 
 
-
-
+#EXTINF:-1 tvg-logo="" group-title="English Movies",Filmbox+ Love & Crime
+https://webtvstream.bhtelecom.ba/filmbox_stars.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English Movies",Filmbox+ Emotion
+https://webtvstream.bhtelecom.ba/filmbox_extra.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="English Movies",Filmbox+ Hits
+https://webtvstream.bhtelecom.ba/filmbox_premium.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="English Movies",Xumo Her Movies
