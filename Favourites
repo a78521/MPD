@@ -209,7 +209,7 @@ http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441206&extens
 #EXTINF:-1 tvg-logo="" group-title="Mac",Sony Pix HD
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441205&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="Mac",Sony BBC Earth HD
-
+http://93.119.105.61:80/play/live.php?extension=ts&mac=00:1A:79:00:14:3C&stream=441183
 #EXTINF:-1 tvg-logo="" group-title="Mac",Sony Sports 1 HD
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441094&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="Mac",Sony Sports 2 HD
@@ -226,6 +226,8 @@ http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441108&extens
 
 #EXTINF:-1 tvg-logo="" group-title="Mac",Nick HD+
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441204&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Mac",Colors Infinity HD+
+http://93.119.105.61:80/play/live.php?extension=ts&mac=00:1A:79:00:14:3C&stream=441186
 
 #EXTINF:-1 tvg-logo="" group-title="Mac",Zee TV HD
 
@@ -236,14 +238,23 @@ http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441204&extens
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441212&extension=ts
 
 #EXTINF:-1 tvg-logo="" group-title="Mac",Nat Geo HD
-http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441039&extension=ts
+http://93.119.105.61:80/play/live.php?extension=ts&mac=00:1A:79:00:14:3C&stream=441173
 #EXTINF:-1 tvg-logo="" group-title="Mac",Nat Geo Wild HD
-
+http://93.119.105.61:80/play/live.php?extension=ts&mac=00:1A:79:00:14:3C&stream=441172
 #EXTINF:-1 tvg-logo="" group-title="Mac",Discovery HD
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441223&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Mac",Animal Planet HD
+http://93.119.105.61:80/play/live.php?extension=ts&mac=00:1A:79:00:14:3C&stream=441184
+#EXTINF:-1 tvg-logo="" group-title="Mac",TLC HD
+http://93.119.105.61:80/play/live.php?extension=ts&mac=00:1A:79:00:14:3C&stream=441188
 
 #EXTINF:-1 tvg-logo="" group-title="Mac",Disney HD
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441207&extension=ts
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Mac",Hollywood Local
+http://93.119.105.61:80/play/live.php?extension=ts&mac=00:1A:79:00:14:3C&stream=441054
 
 
 
