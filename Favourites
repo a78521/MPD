@@ -3343,7 +3343,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/in
 https://epiconvh.akamaized.net/live/epic/master.m3u8
 #EXTINF:0, tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/Ishara_Thumbnail-v3/Ishara_Thumbnail.png" group-title="Epicon",Ishara
 https://epiconvh.akamaized.net/live/ishaara/master.m3u8
-#EXTINF:0, tvg-logo="https://www.epicon.in/img/nazara-logo.png" group-title="Epicon",Nazara
+#EXTINF:0, tvg-logo="https://www.epicon.in/img/nazara-logo.png" group-title="Epicon",Epic Bharat
 https://epiconvh.akamaized.net/live/nazara/master.m3u8
 #EXTINF:0, tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/Showbox_Thumbnail-v2/Showbox_Thumbnail.png" group-title="Epicon",Showbox
 https://epiconvh.akamaized.net/live/showbox/master.m3u8
@@ -7151,6 +7151,10 @@ https://amg00223-unisys-amg00223c2-lg-in-2045.playouts.now.amagi.tv/playlist/amg
 https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
 
 
+#EXTINF:0, tvg-logo="" group-title="Hindi Music",Epic Music
+https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8
+
+
 #EXTINF:0, tvg-logo="" group-title="Hindi Music",T Series
 http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 
@@ -7196,6 +7200,26 @@ https://smr-runntv-flmgn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
 
 #EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460001373_20250416T005420SQUARE.png" group-title="Hindi Music",Bolly Raga
 https://cc-up9j649x4thrj.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-up9j649x4thrj/SBUM/RunnTV/BollyRaga_IN/BollyRaga_IN.m3u8
+#https://d3q7boydbwbbm0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-herfuyvo6swzh/BollyRaga_IN.m3u8?ads.ads_cdn=cf&ads.afsdk_params=AFSDK_VALUE&ads.app_domain=APP_DOMAIN&ads.app_name=APP_NAME&ads.cdn=cf&ads.device_did=PSID&ads.device_dnt=TARGETOPT
+#https://prod-runn.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8
+#https://nh-runntv-blyrag.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8
+#https://209a7ee785af4abf93eeff4c5a7a62cf.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollyraga-airtel/playlist.m3u8
+
+
+#EXTINF:0, tvg-logo="" group-title="Hindi Music",Bolly Gold
+https://prod-runn.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
+#https://nh-runntv-blygld.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
+#https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8
+
+
+
+#EXTINF:0, tvg-logo="" group-title="Hindi Movies",Bolly Flix
+https://d1bnb20pevkrom.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-8xs28buuqfw19/BollyFlix_IN.m3u8?ads.ads_cdn=cf&ads.afsdk_params=AFSDK_VALUE&ads.app_domain=APP_DOMAIN&ads.app_name=APP_NAME&ads.cdn=cf&ads.device_did=PSID&ads.device_dnt=TARGETOPT
+#https://prod-runn.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8
+#https://nh-runntv-blyflx.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8
+#https://2591a0ff9bc74048b89ae1954c9f7bdb.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollyflix-airtel/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk99k86H/VISION-TV.jpg" group-title="Hindi Music",VISION BEATS
 http://a-edge.bliscdn.com/Visionbeats/index.m3u8
@@ -7586,7 +7610,10 @@ https://csm-e-cesharedlsgsin2live-87593184.bln1.yospace.com/csm/extlive/runntvpr
 
 #EXTINF:0, tvg-logo="" group-title="Hindi Entertainment",Epic TV
 https://dk5wsc7juvhmv.cloudfront.net/Epic_TV_IN_B_720.m3u8
+#https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
 
+#EXTINF:0, tvg-logo="" group-title="Hindi Entertainment",Epic Bharat
+https://epiconvh.akamaized.net/live/nazara/master.m3u8
 ======================================================== Devotional ===========================================================================================================
 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10610.jpg" group-title="Devotional",Sanskar TV
@@ -7930,6 +7957,9 @@ https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg0
 
 #EXTINF:0, tvg-logo="" group-title="Kids",Wow Kidz
 https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:0, tvg-logo="" group-title="Kids",Epic Kids
+https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="Kids",The Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
