@@ -773,8 +773,9 @@ https://nh-runntv-blyrag.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8
 
 #EXTINF:-1 tvg-id="40" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYFLX/Web/thumbnail/a3b425cc-d6bd-4618-b78f-27c875df5da5.png" group-title="Runn TV",NH BollyFlix
 https://nh-runntv-blyflx.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8
-#https://2591a0ff9bc74048b89ae1954c9f7bdb.mediatailor.ap-south-1.amazonaws.com/v1/manifest/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollyflix-airtel/67c75bf9-b03f-4485-acaf-5e57d126f7a9/1.m3u8
 #https://prod-runn.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8
+#https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
+#https://2591a0ff9bc74048b89ae1954c9f7bdb.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollyflix-airtel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="40" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/p_supjio.png" group-title="Runn TV",Superfine Films
 https://supflm.cdn.runn.tv/runntv/stream/p_supjio/playlist.m3u8
