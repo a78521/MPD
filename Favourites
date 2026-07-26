@@ -764,6 +764,7 @@ https://tv9live.cdn.runn.tv/title-News9_Non_SSAI/v1/vglive-sk-791223/main.m3u8
 https://nh-runntv-blygld.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
 #https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8
 #https://prod-runn.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
+#https://csm-e-runntvprdlive-eb.runnads.runn.media/csm/extlive/runntvprd01,nhbollygoldvidaa2.m3u8?yo.up=https://nh-vidaa-blygld.cdn.runn.tv/nhstdz/stream/blygld/manifest/&yo.eb.fb=aHR0cHM6Ly9uaC12aWRhYS1ibHlnbGQuY2RuLnJ1bm4udHYvbmhzdGR6L3N0cmVhbS9ibHlnbGQvcGxheWxpc3QubTN1OA==
 
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYRAG/Web/thumbnail/edac5b07-addf-45c8-97fb-77af5ff4831b.png" group-title="Runn TV",NH BollyRaga
 https://nh-runntv-blyrag.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8
