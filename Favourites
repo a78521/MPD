@@ -2900,6 +2900,12 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="" group-title="USA",amc
+http://23.239.31.26:8989/amc/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA",A&E
+http://23.239.31.26:8989/aande/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51529_dark_360w_270h.png" group-title="USA",A&E HD
 http://206.212.244.63/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/0dec42cc5ef48c489cc10db906dc5b9b.png" group-title="USA",aspire
