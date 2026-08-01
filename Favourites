@@ -8283,6 +8283,50 @@ https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u
 
 
 
+======================================================== Vidaa===========================================================================================================
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.kableone.com/Vidaa/Channel Logo_Vidaa/YRFMusic576.jpg" group-title="Vidaa",YRF Music
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=689c3adf57c9cf27ba0e86f4
+
+#EXTINF:-1 tvg-id="https://images.kableone.com/Vidaa/Channel Logo_Vidaa/GhaintPunjab_Logo_576x576_colored.png" tvg-logo="" group-title="Vidaa",Ghiant Punjab
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=689c3ce9ff6c2d9dda0a3cbc
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.kableone.com/Vidaa/Channel Logo_Vidaa/SagaMusic_576x576_colored.png" group-title="Vidaa",Sagaa Music
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=689c3b7a2167c15e4a0f7d87
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.kableone.com/Vidaa/Channel%20Logo_Vidaa/SMHaryanvi-576x576_colored.jpg" group-title="Vidaa",Sagaa Music Haryanvi
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=689c3c564dd7a6ba200eda2c
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://axcxgqlbvhjy.compat.objectstorage.eu-frankfurt-1.oraclecloud.com/PostersSquare/VIDAA/Pitaara/480X480.jpg" group-title="Vidaa",Pitara TV
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=6833225fa480cd11a309c886
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.kableone.com/Vidaa/Channel Logo_Vidaa/SikhRatnavali_576_576-Logo.jpg" group-title="Vidaa",Sikh Ratnavali
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=689c3bde5f1792f0bd0480eb
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://axcxgqlbvhjy.compat.objectstorage.eu-frankfurt-1.oraclecloud.com/PostersSquare/VIDAA/News%2018/News18-%20NEW_LOGO_480_4800_2.png" group-title="Vidaa",News 18
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=683704d9cfe586899e0876c8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://axcxgqlbvhjy.compat.objectstorage.eu-frankfurt-1.oraclecloud.com/PostersSquare/VIDAA/News%2018/News18-%20NEW_LOGO_480_4800_2.png" group-title="Vidaa",News 18 India
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=6980d8715fcb8a032e096f9f
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.vidaahub.com/s3_bucket/60076/live/60076_1139/00b0092dbb590e36a024e901c7ba984b?f=webp" group-title="Vidaa",Fear Factor
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=686d130ffa3281e77b03d64b
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.vidaahub.com/s3_bucket/60076/live/60076_1030/c7e702cb35a8fdf0d14b472e4f1cec01?f=webp" group-title="Vidaa",Deal or No Deal
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=686d142cc84e42ab1c0e088f
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.vidaahub.com/s3_bucket/60076/live/60076_3306/cf1ba8e954c773b08e851c1746a21c62?f=webp" group-title="Vidaa",MasterChef
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=686d0dbfe922fe4faf0c97b5
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Vidaa",Murdoch Mysteries
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=6a03087d2b073338950cd695
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Vidaa",Schitts Creek
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=6a0308b250a4d7bd7b00e404
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.frequency.com/linear_channel/918/solid/square/original_pgxgll5jx3jd1vhl3n0l5ae2c.png?0.08521592285528024" group-title="Vidaa",Animation+
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=6a0d7cca1c587cc4a30e19b8
+
 ======================================================== Wedo ===========================================================================================================
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300023X4_20250107T022022SQUARE.png" group-title="Wedo",Wedo TV Movies UK
