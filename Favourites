@@ -723,6 +723,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6640
 
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/9XJALW/Mobile/thumbnail/1fc78aac-ac76-4f74-b0da-0b889cff39f8.png" group-title="Runn TV",9X Jalwa
 https://9x.cdn.runn.tv/9X_Jalwa/master.m3u8
+#https://csm-e-runntvprdlive-eb.runnads.runn.media/csm/extlive/runntvprd01,9xjalwavidaa2.m3u8?yo.up=https://vidaa-9x.cdn.runn.tv/9X_Jalwa/
 
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/RUN9XM/Mobile/thumbnail/16b5daaf-45b7-4c22-a6ca-a5b81b472403.png" group-title="Runn TV",9XM
 https://9x.cdn.runn.tv/9XM/master.m3u8
@@ -764,7 +765,7 @@ https://tv9live.cdn.runn.tv/title-News9_Non_SSAI/v1/vglive-sk-791223/main.m3u8
 https://nh-runntv-blygld.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
 #https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8
 #https://prod-runn.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
-#https://csm-e-runntvprdlive-eb.runnads.runn.media/csm/extlive/runntvprd01,nhbollygoldvidaa2.m3u8?yo.up=https://nh-vidaa-blygld.cdn.runn.tv/nhstdz/stream/blygld/manifest/&yo.eb.fb=aHR0cHM6Ly9uaC12aWRhYS1ibHlnbGQuY2RuLnJ1bm4udHYvbmhzdGR6L3N0cmVhbS9ibHlnbGQvcGxheWxpc3QubTN1OA==
+#https://csm-e-runntvprdlive-eb.runnads.runn.media/csm/extlive/runntvprd01,nhbollygoldvidaa2.m3u8?yo.up=https://nh-vidaa-blygld.cdn.runn.tv/nhstdz/stream/blygld/manifest/
 
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYRAG/Web/thumbnail/edac5b07-addf-45c8-97fb-77af5ff4831b.png" group-title="Runn TV",NH BollyRaga
 https://nh-runntv-blyrag.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8
@@ -780,16 +781,19 @@ https://nh-runntv-blyflx.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="40" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/p_supjio.png" group-title="Runn TV",Superfine Films
 https://supflm.cdn.runn.tv/runntv/stream/p_supjio/playlist.m3u8
+#https://prod-runn.cdn.runn.tv/runntv/stream/p_supjio/playlist.m3u8
+#https://csm-e-runntvprdlive-eb.runnads.runn.media/csm/extlive/runntvprd01,superfinehindirunn.m3u8?yo.up=https://supflm.cdn.runn.tv/runntv/stream/p_supjio/manifest/
+#https://csm-e-runntvprdlive-eb.runnads.runn.media/csm/extlive/runntvprd01,superfinehindividaa.m3u8?yo.up=https://vidaa-supflm.cdn.runn.tv/runntv/stream/p_supjio/manifest/
 
 
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/B4UBHO/Mobile/thumbnail/7904ddf9-245b-42bf-ba57-dc482fbb41f7.png" group-title="Runn TV",B4U Bhojpuri
 https://b4u.cdn.runn.tv/B4U_Bhojpuri/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/B4UKAD/Web/thumbnail/4b80eee0-6cf3-4448-983d-cf7da7e9a44d.png" group-title="Runn TV",B4U Kadak
-https://b4u.cdn.runn.tv/B4U_Kadak/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/B4UMUS/Mobile/thumbnail/a7139e1a-3391-412c-9478-f8feb183f143.png" group-title="Runn TV",B4U Music
-https://b4u.cdn.runn.tv/B4U_Music/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/CARCAR/Mobile/thumbnail/54317851-3356-4b71-85af-f36b5c0250ae.png" group-title="Runn TV",Cartoon TV
 https://streams2.sofast.tv/ptnr-runntv/title-CARTOON_TV/sofastplayout/3e3230ae-4664-4ba3-9ea7-15c06471d5ce_0_HLS/manifest.m3u8
@@ -801,16 +805,25 @@ https://amg01954-amg01954c2-runntv-india-9913.playouts.now.amagi.tv/ts-eu-w1-n2/
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Runn Tv.jpg" group-title="Runn TV",Runn tv
 https://supflm.cdn.runn.tv/runntv/stream/p_supjio/manifest/1.m3u8
+
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_RUNACT/Web/thumbnail/logo_web.png" group-title="Runn TV",Runn Action
 https://runact.cdn.runn.tv/runntv/stream/p_runact/playlist.m3u8
+#https://csm-e-runntvprdlive-eb.runnads.runn.media/csm/extlive/runntvprd01,runnactionvidaa.m3u8?yo.up=https://vidaa-runact.cdn.runn.tv/runntv/stream/p_runact/manifest/
+#https://csm-e-cesharedlsgsin2live-97896488.bln1.yospace.com/csm/extlive/runntvprd01,runnactionairtel.m3u8?yo.up=https://airtel-runact.cdn.runn.tv/runntv/stream/p_runact/manifest/
+
+
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_RUNSHF/Web/thumbnail/logo_web.png" group-title="Runn TV",Runn Short Films
-https://playout.runn.tv/playout/v1/stream/p_runshf/playlist.m3u8
+https://f72e02ae6fd4491980c663c8729a1afb.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/runshf-airtel/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_RUNTHR/Web/thumbnail/logo_web.png" group-title="Runn TV",Runn Thrillers
 https://runact.cdn.runn.tv/runntv/stream/p_runthr/playlist.m3u8
+#https://prod-runn.cdn.runn.tv/runntv/stream/p_runthr/playlist.m3u8
+#https://csm-e-runntvprdlive-eb.runnads.runn.media/csm/extlive/runntvprd01,runnthrillervidaa.m3u8?yo.up=https://vidaa-runthr.cdn.runn.tv/runntv/stream/p_runthr/manifest/
+#https://csm-e-cesharedlsgsin2live-97896498.bln1.yospace.com/csm/extlive/runntvprd01,runnthrillerairtel.m3u8?yo.up=https://airtel-runthr.cdn.runn.tv/runntv/stream/p_runthr/manifest/
 
 #EXTINF:-1 tvg-id="6" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_TTTFLM/Web/thumbnail/logo_web.png" group-title="Runn TV",Terribly Tiny Tales
 https://1533611984fa4f9da3ccd596ddcc0779.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/tttflm-airtel/playlist.m3u8
-
+#https://csm-e-cesharedlsgsin2live-97896486.bln1.yospace.com/csm/extlive/runntvprd01,tttairtel.m3u8?yo.up=https://airtel-tttflm.cdn.runn.tv/runntv/stream/p_ttflm/manifest/
 
 
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SMRBOL/Web/thumbnail/logo_web.png" group-title="Runn TV",Shemaroo Bollywood
@@ -840,18 +853,19 @@ https://filtercopy.cdn.runn.tv/pocketaces/stream/fltrcopy/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Swastik_Stories.png" group-title="Runn TV",Swastik Stories
-
+https://amg14122-amg14122c1-amgplt0173.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg14122-amg14122c1-amgplt0173/1913fdcd-8daa-11f1-bf3d-c6ae7024b611/140/1280x720_2500000/index.m3u8
+#https://amg14122-amg14122c1-amgplt0173.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg14122-amg14122c1-amgplt0173/playlist.m3u8?ads.ua=[UA]&ads.usprivacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.ifa=[IFA]&ads.appversion=[APP_VERSION]&ads.devicemodel=[DEVICE_MODEL]&ads.devicetype=[DEVICE_TYPE]&ads.donotsell=[DNS]&ads.lat=[LMT]&ads.country=[COUNTRY]&ads.devicemake=[DEVICE_MAKE]&ads.targetad=[TARGETAD_ALLOWED]&coppa=0&ads.ifatype=[IFA_TYPE]&ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.deviceid=[DEVICE_ID]&ads.ip=[IP]
 
 #EXTINF:-1 tvg-logo="" group-title="Runn TV",Atrangi
 https://csm-e-runntvprdlive-eb.runnads.runn.media/csm/extlive/runntvprd01,atrangiividaa2.m3u8?yo.up=https://amg13343-amg13343c1-amgplt0249.playout.now3.amagi.tv
 
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_CINSHF/Web/thumbnail/logo_web.png" group-title="Runn TV",Cineshorts Premiere
-https://playout.runn.tv/playout/v1/stream/p_cinshf/playlist.m3u8
+https://e07b61696a8e4d6d9bbcb94b15fc8b4e.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/cinshf-airtel/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_PKTFLM/Web/thumbnail/logo_web.png" group-title="Runn TV",Pocket Films
 https://pktflm.cdn.runn.tv/runntv/stream/p_pktflm/playlist.m3u8
 #https://prod-runn.cdn.runn.tv/runntv/stream/p_pktflm/playlist.m3u8
-
+#https://csm-e-runntvprdlive-eb.runnads.runn.media/csm/extlive/runntvprd01,pocketfilmsvidaa2.m3u8?yo.up=https://vidaa-pktflm.cdn.runn.tv/runntv/stream/p_pktflm/manifest/
 
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/PITCOM/Web/thumbnail/7dbe24ad-ae8e-4f50-a44c-dd7b2ea97ccc.png" group-title="Runn TV",Pitaara Comedy
 https://pitaaratv.cdn.runn.tv/ptnr-RunnTV/title-Pitaara_Comedy/v1/vglive-sk-217489/playlist.m3u8
