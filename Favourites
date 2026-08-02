@@ -855,6 +855,7 @@ https://filtercopy.cdn.runn.tv/pocketaces/stream/fltrcopy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Swastik_Stories.png" group-title="Runn TV",Swastik Stories
 https://amg14122-amg14122c1-amgplt0173.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg14122-amg14122c1-amgplt0173/1913fdcd-8daa-11f1-bf3d-c6ae7024b611/140/1280x720_2500000/index.m3u8
 #https://amg14122-amg14122c1-amgplt0173.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg14122-amg14122c1-amgplt0173/playlist.m3u8?ads.ua=[UA]&ads.usprivacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.ifa=[IFA]&ads.appversion=[APP_VERSION]&ads.devicemodel=[DEVICE_MODEL]&ads.devicetype=[DEVICE_TYPE]&ads.donotsell=[DNS]&ads.lat=[LMT]&ads.country=[COUNTRY]&ads.devicemake=[DEVICE_MAKE]&ads.targetad=[TARGETAD_ALLOWED]&coppa=0&ads.ifatype=[IFA_TYPE]&ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.deviceid=[DEVICE_ID]&ads.ip=[IP]
+#https://amg14122-amg14122c1-amgplt0835.playout.now3.amagi.tv/playout/amg14122/amg14122c1/amgplt0835/amgplt0835.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Runn TV",Atrangi
 https://csm-e-runntvprdlive-eb.runnads.runn.media/csm/extlive/runntvprd01,atrangiividaa2.m3u8?yo.up=https://amg13343-amg13343c1-amgplt0249.playout.now3.amagi.tv
@@ -879,7 +880,7 @@ https://streams2.sofast.tv/ptnr-runntv/title-CricketGold/sofastplayout/CricketGo
 https://pitaaratv.cdn.runn.tv/ptnr-RUNNTV/title-Divya_Bhajan_NONSSAI/v1/vglive-sk-987805/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DIVDIV/Mobile/thumbnail/2e4bed94-9351-4ca8-9e99-9b2b6795ae5d.png" group-title="Runn TV",Divya TV
-https://pitaaratv.cdn.runn.tv/ptnr-RunnTV/title-DivyaTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-906482/playlist.m3u8
+https://tv.cdn.runn.tv/ptnr-RunnTV/title-DivyaTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-906482/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DRIDRI/Mobile/thumbnail/61491ba4-e10b-41dc-aafc-da010990a4fc.png" group-title="Runn TV",Drive
 https://streams2.sofast.tv/ptnr-runntv/title-DRIVE__SPEED/sofastplayout/2f833f43-9e48-4a6e-88a8-8d99c32eb898_0_HLS/manifest.m3u8
@@ -7457,6 +7458,7 @@ https://cc-u6hadnoh0u6td.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73d
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",Alright!
 https://supflm.cdn.runn.tv/ruskmedia/stream/alrght/playlist.m3u8
+#https://neotv-ruskmedia.cdn.runn.tv/ruskmedia/stream/alrght/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",Xumo Bollywood Cinema
 https://dbrb49pjoymg4.cloudfront.net/10001/99991756/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991756
@@ -7745,6 +7747,7 @@ https://mumt03.tangotv.in/Dsly5z3HHIDOST/index.m3u8
 #EXTINF:0, tvg-logo="" group-title="Hindi Entertainment",Swatik Stories
 https://csm-e-cesharedlsgsin2live-87593184.bln1.yospace.com/csm/extlive/runntvprd01,swastikrunn/master.m3u8
 #https://amg14122-amg14122c1-amgplt0173.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg14122-amg14122c1-amgplt0173/playlist.m3u8
+#https://amg14122-amg14122c1-amgplt0835.playout.now3.amagi.tv/playout/amg14122/amg14122c1/amgplt0835/amgplt0835.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="Hindi Entertainment",Epic TV
 https://dk5wsc7juvhmv.cloudfront.net/Epic_TV_IN_B_720.m3u8
@@ -7836,6 +7839,9 @@ http://primeasia.mine.nu/Patv_Ind_FHD/index.m3u8
 
 #EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/prime-asia-1774905958234.jpg" group-title="Punjabi",Prime Asia HD
 #http://primeasia.selfip.net/Samsung/index.m3u8
+
+#EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/pitaara-1722633239590-1739730034535.jpg" group-title="Punjabi",Pitaara
+https://janya-pitaaralive.akamaized.net/ptnr-Khabriya/title-PitaaraTV_SSAI/v1/vglive-sk-326599/playlist.m3u8
 
 
 #EXTINF:0, tvg-logo="" group-title="Punjabi",Pitaara International HD
