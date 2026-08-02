@@ -3565,6 +3565,9 @@ https://amg24335-amg24335c1-amgplt0173.playout.now3.amagi.tv/playlist/amg24335-a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://republiclive-lg.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/42e4b7b7-d7ce-45a5-9800-a14c204f09e0/main.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="LG TV",Republic
+https://republic-lg.vgcdn.net/vglive-sk-291713/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/TV9/Bharatvarsh_400x200-updated.jpg" group-title="LG TV",TV9 Bharatvarsh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01106-associatedbroad-tv9bharatvarsh-lgin/playlist.m3u8
