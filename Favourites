@@ -2536,9 +2536,20 @@ https://m3uplay.com/stream.m3u8?id=b4umusic
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 https://kableone.keralive.workers.dev/hls/live/2111218/SagaHits/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqCmrDT9/1.png" group-title="tulnit",9xM
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://9xmusic2.keralive.workers.dev/28072023/smil:9xmusic4.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="tulnit",9X Jalwa
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 https://9xmusic2.keralive.workers.dev/28072023/smil:9xjalwa.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5ZW0MTk/1.png" group-title="tulnit",YRF
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://kableone.keralive.workers.dev/hls/live/2111218/YrfMusic/master.m3u8
+
+
+
 
 ============================================================= 4K===================================================================================================================
 
@@ -7284,10 +7295,25 @@ https://amg00223-unisys-amg00223c2-lg-in-2045.playouts.now.amagi.tv/playlist/amg
 #https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=689c3adf57c9cf27ba0e86f4
 
 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5ZW0MTk/1.png" group-title="Hindi Music",YRF
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://kableone.keralive.workers.dev/hls/live/2111218/YrfMusic/master.m3u8
+
 #EXTINF:0, tvg-logo="" group-title="Hindi Music",MTV India
 #EXTVLCOPT:http-referrer="https://bhoomtv.me/"
 #KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.me/"
 https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqCmrDT9/1.png" group-title="Hindi Music",9xM
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://9xmusic2.keralive.workers.dev/28072023/smil:9xmusic4.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h1Pwsv6/1.png" group-title="Hindi Music",Loop HD
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://bhoomtv.me/tv/yet/stream.m3u8?id=1101
+
+
 
 
 #EXTINF:0, tvg-logo="" group-title="Hindi Music",Epic Music
@@ -7870,6 +7896,10 @@ https://gtc.ottlive.co.in/gtcpunjabi/index.m3u8
 #EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/gtc-usa-1773945969991.jpg" group-title="Punjabi",GTC Punjabi USA
 https://neotv.ottlive.co.in/gtcpunjabiusa/index.m3u8
 
+
+#EXTINF:0, tvg-logo="" group-title="Punjabi",Punjab TV
+https://panjabtv.akamaized.net/panjabtv/panjabtvhlsout/playlist.m3u8 
+
 #EXTINF:0, tvg-logo="" group-title="Punjabi",Zee Punjabi
 #EXTVLCOPT:http-referrer="https://techtraveleat.in"
 #KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
@@ -8009,18 +8039,13 @@ https://keralive.com/yupp/tv.m3u8?c=wah-punjabi&e=.m3u8
 #EXTVLCOPT:http-referrer=https://keralive.com/
 https://keralive.com/yupp/play.php?watch=boogle-bollywood
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi Music",Punjabi Music HD
-#EXTVLCOPT:http-referrer="https://bhoomtv.org"
-#KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.org"
-https://fucking-tv-ott.keralive.workers.dev/mumt02/PUNJABIMUSICHD/index.m3u8
-
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi Music",Punjabi Beats HD
 #EXTVLCOPT:http-referrer=https://colorsportscreen.com/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://colorsportscreen.com/
 https://colorsportscreen.com/freetv/stream.m3u8?id=aaf0d44bc8d7
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi Music",Nagaara TV
+https://nagaratv.gigabitcdn.net/in-nagara-tv/nagara-tv-SP/playlist.m3u8
 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/417344236.jpeg" group-title="Punjabi Music",Only Music
 http://livestream.unlimitedcdn.com/onlymusic/index.m3u8
