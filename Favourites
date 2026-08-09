@@ -2809,9 +2809,12 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 ================================================== MBC ===============================================================================================================
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gVM66na.jpg" group-title="MBC",MBC ACTION
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gVM66na.jpg" group-title="MBC",Movies Action
 https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YtYT25p.jpg" group-title="MBC",MBC THRILLER
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YtYT25p.jpg" group-title="MBC",Movies Thriller
 https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5tzQyBi.jpg" group-title="MBC",MBC BOLLYWOOD
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
@@ -2821,8 +2824,12 @@ https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 https://shls-live-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
 
 
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gVM66na.jpg" group-title="MBC",MBC 2
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/15198/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gVM66na.jpg" group-title="MBC",MBC Action
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/15197/index.m3u8  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gVM66na.jpg" group-title="MBC",MBC Max
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/15195/index.m3u8
 
 
 
