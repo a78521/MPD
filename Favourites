@@ -2549,6 +2549,16 @@ https://9xmusic2.keralive.workers.dev/28072023/smil:9xjalwa.smil/playlist.m3u8
 https://kableone.keralive.workers.dev/hls/live/2111218/YrfMusic/master.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SMRFGN/Web/thumbnail/logo_web.png" group-title="tulnit",Shemaroo Filmigaane
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://runn-tv.keralive.workers.dev/shemaroo/stream/smrfgn/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TFxLj80.png" group-title="tulnit",Shemaroo Bollywood
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://shemaroo-bollywood.keralive.workers.dev/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
+
 
 
 ============================================================= 4K===================================================================================================================
@@ -5229,6 +5239,9 @@ https://runn-tv.keralive.workers.dev/shemaroo/stream/smrbol/playlist.m3u8
 #EXTVLCOPT:http-referrer="https://bhoomtv.me/"
 #KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.me/"
 https://m3uplay.com/stream.m3u8?id=shemaroobollywood
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TFxLj80.png" group-title="Shemaroo",Shemaroo Bollywood
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Shemaroo",Shemaroo Bollywood 2
 #EXTVLCOPT:http-referrer="https://bhoomtv.me/"
