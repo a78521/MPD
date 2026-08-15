@@ -2665,6 +2665,7 @@ https://cdn.ottlive.co.in/mahuakhabar/tracks-v1a1/mono.m3u8
 
 
 ============================================================= Wild Life & Nature===================================================================================================================
+
 #EXTINF:-1 tvg-logo="" group-title="Wild Life & Nature",Love the Planet
 https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/ts-eu-w1-n2/playlist/amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Wild Life & Nature",Earth Touch TV
@@ -2677,11 +2678,24 @@ https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg0
 #https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lgse/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Wild Life & Nature",Terra Mater Wild TV
 https://amg01775-amg01775c1-amgplt0049.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01775-amg01775c1-amgplt0049/playlist.m3u8
+#https://amg01775-amg01775c1-amgplt0086.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0086/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Wild Life & Nature",Nature Moments
+https://aka-live1050.delivery.roku.com/d219883b-5654-402f-9391-33e9144cad39/t2-origin/out/v1/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Wild Life & Nature",Alone
+https://d3181anftsyl2u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6w5tevkbo9yqh/v1/aenetworks_alone_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Wild Life & Nature",Earthday 365
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99989003&ads.xumo_streamId=99989003
+
 
 #EXTINF:-1 tvg-logo="" group-title="Wild Life & Nature",Real Wild
 https://amg00426-lds-amg00426c1-samsung-th-4628.playouts.now.amagi.tv/playlist.m3u8
 #https://amg00426-littledotstudio-realwild-tcl-fzsi1.amagi.tv/ts-us-e2-n1/playlist/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
 #https://amg00426-littledotstudio-realwild-lgse-y7c7o.amagi.tv/playlist/amg00426-littledotstudio-realwild-lgse/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Wild Life & Nature",Go Wild
+https://d1si3n1st4nkgb.cloudfront.net/10502/89001002/hls/master.m3u8?ads.xumo_channelId=89001002
 
 #EXTINF:-1 tvg-logo="" group-title="Wild Life & Nature",Wild Ocean
 https://amg00376-magellan-amg00376c20-tclideo-northamerica-1368.playouts.now.amagi.tv/playlist/amg00376-magellantv-wildnaturemainnowus-tclideonorthamerica/playlist.m3u8
@@ -2697,6 +2711,10 @@ https://wildearth-plex.amagi.tv/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Wild Life & Nature",Brave Wilderness
 https://cc-amj6c1z90vweh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-amj6c1z90vweh/dist/samsungtv-ca/1098/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Wild Life & Nature",Weather Spy
+https://tmbijukin.global.transmit.live/hls/68dc4a172aa9a163d81820f5/v1/jukin_weatherspy_4/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1143
+#https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 
 
 ================================================== AUS & NZ===============================================================================================================
@@ -3507,10 +3525,15 @@ https://amg00170-amg00170c1-lg-us-3478.playouts.now.amagi.tv/playlist/amg00170-c
 https://dym0m3hpk8pit.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-twag9lr2sgbxc/History_and_Warfare_CA.m3u8
 #EXTINF:0, tvg-logo="" group-title="Infotainment",Modern Warfare
 https://debzvrwex1ip7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-59uqfidguq5ol/v1/aenetworks_modernmarvels_2/samsungheadend_ca/latest/main/hls/playlist.m3u8
+
 #EXTINF:0, group-title="Infotainment",Mordern Marvels
 https://debzvrwex1ip7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-59uqfidguq5ol/v1/aenetworks_modernmarvels_2/samsungheadend_ca/latest/main/hls/playlist.m3u8
+#https://aenetworks.global.transmit.live/hls/68b77b1a8da3641997c664ec/v1/aenetworks_modernmarvels_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1040&wurl_name=ModernMarvels
+#https://dbrb49pjoymg4.cloudfront.net/10001/99951473/hls/playlist.m3u8?ads.xumo_channelId=99951473
+
 #EXTINF:0, tvg-logo="" group-title="Infotainment",Evolution Earth
 https://d3em2dvvzq3oj4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-23j2wegjm8ftd/Evolution_Earth.m3u8
+
 
 #EXTINF:0, tvg-logo="https://d2aqhkzukipl76.cloudfront.net/SPACE-SERIES/logo/Spaceseries-400x200.png" group-title="Infotainment",Space Series
 https://streams2.sofast.tv/ptnr-lg/title-Space_Series_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e7c8dc3b-ce82-46d1-bd86-426fd5c8adf0/manifest.m3u8
@@ -3533,6 +3556,7 @@ https://cc-zko1curyce7jh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:0, tvg-logo="" group-title="Infotainment",Watch Mojo
 https://watchmojo-1-us.rewardedtv.wurl.tv/playlist.m3u8
 #https://watchmojo-1-us.tcl.wurl.tv/playlist.m3u8
+#https://2a39c98a1bdd45ef8a27ddeed9415ae1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_WatchMojo/playlist.m3u8
 
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="Infotainment",History TV 18 English
@@ -3549,7 +3573,47 @@ https://amg01314-cgtn-amg01314c7-lg-uae-10953.playouts.now.amagi.tv/ts-eu-w1-n2/
 #EXTINF:0, tvg-logo="" group-title="Infotainment",Discovering China
 https://ml-pull-hwc.myco.io/CGTN/hls/index.m3u8
 
-===================================================== LG TV =======================================================================================================================
+
+================================================================= Law & Crime =========================================================================================================
+
+#EXTINF:0, tvg-logo="" group-title="Law & Crime",Aftershock Real Crime
+https://aftershock-real-crime-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-rivegauche-1/master.m3u8
+
+#EXTINF:0, tvg-logo="" group-title="Law & Crime",Bloodline Detectives
+https://82595fa9.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfTWVkaWNhbERldGVjdGl2ZXNfSExT/playlist.m3u8
+
+#EXTINF:0, tvg-logo="" group-title="Law & Crime",Cold Case Files
+https://live-manifest.production-public.tubi.io/live/22e85147-dbbf-4e68-8f53-6d6169cd40c4/playlist.m3u8
+
+#EXTINF:0, tvg-logo="" group-title="Law & Crime",Crime Cults Killers by A&E
+https://aenetworks.global.transmit.live/hls/68b779592bcf083f5d656235/v1/aenetworks_kriminal_1/lg_us/latest/main/hls/playlist.m3u8
+#https://6d524948.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtdXNfS3JpbWluYWxfSExT/playlist.m3u8?ads.wurl_channel=1055
+
+
+#EXTINF:0, tvg-logo="" group-title="Law & Crime",Crime Investigation+
+#KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.org/"
+https://frndly.keralive.workers.dev/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/crimeinvest_live_nr/872add48b98943d38599fc11c695a8f7/index.m3u8
+
+#EXTINF:0, tvg-logo="" group-title="Law & Crime",Crime Scene TV
+https://d1si3n1st4nkgb.cloudfront.net/10502/89001003/hls/master.m3u8?ads.xumo_channelId=89001003
+
+#EXTINF:0, tvg-logo="" group-title="Law & Crime",Evidence of Evil
+https://74258b4b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfRXZpZGVuY2VvZkV2aWxfSExT/playlist.m3u8
+#EXTINF:0, tvg-logo="" group-title="Law & Crime",True Crime UK
+https://82f25f83.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfVHJ1ZUNyaW1lVUtmcm9tQ0JTUmVhbGl0eV9ITFM/playlist.m3u8
+
+#EXTINF:0, tvg-logo="" group-title="Law & Crime",The FBI Files
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88884569/hls/master.m3u8?ads.xumo_channelId=88884569
+#https://live-manifest.production-public.tubi.io/live/8aee9cff-b626-4950-99e5-809fb599100e/playlist.m3u8
+
+#EXTINF:0, tvg-logo="" group-title="Law & Crime",Forensic Files
+https://dxxo6hg8ul703.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uyh6mix4ly6d0/master.m3u8
+#https://live-manifest.production-public.tubi.io/live/8ebe3ce9-1b31-4a38-be9f-4b55f6b49eaf/playlist.m3u8
+
+#EXTINF:0, tvg-logo="" group-title="Law & Crime",True Crime Now
+https://d3oamiwgsms6v5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jrxjchbdd3yxa/True_Crime_Now_CA.m3u8
+
+=================================================================== LG TV =============================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/4k-traval/logo/4Ktravel-400x200.png" group-title="LG TV",4K TRAVEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
