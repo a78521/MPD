@@ -7836,8 +7836,11 @@ https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/in
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10611.jpg" group-title="Devotional",Satsang Digital
 https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index.m3u8
 
+#EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900027S7_20260812T010925SQUARE.png" group-title="Devotional",Ashirwad TV
+https://cc-4bl3meekcb3xc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bl3meekcb3xc/vglive-sk-868063/v1/019ed421ec3215fc60e916b474e5b8/019ed42e04231ea540a8171c8e8017/playlist.m3u8
 
-#EXTINF:0, tvg-logo="" group-title="Devotional",Aashirvad TV
+
+#EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900027S7_20260812T010925SQUARE.png" group-title="Devotional",Aashirvad TV
 #EXTVLCOPT:http-referrer="https://bhoomtv.me/"
 #KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.me/"
 https://m3uplay.com/stream.m3u8?id=aashirwadtv
