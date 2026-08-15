@@ -5184,9 +5184,6 @@ https://cc-r46wc5dtmorhv.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN300091WU_20260623T015633SQUARE.png" group-title="Samsung TV",Sansani Live
 https://cc-801kiwlpcq9u1.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-801kiwlpcq9u1/v1/channel/Sansani/Sansani_m.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300003OW_20240131T032351SQUARE.png_20240131032352.png" group-title="Samsung TV",Times Now Navbharat HD
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-tinnavbharat-samsungin/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300003OW_20240131T032351SQUARE.png_20240131032352.png" group-title="Samsung TV",Times Now Navbharat
 https://cc-1m2vxhrbry9j9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1m2vxhrbry9j9/master.m3u8
 
@@ -5241,7 +5238,7 @@ https://cc-bbm8etf5o08pz.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://amg01864-amg01864c2-samsung-in-3265.playouts.now.amagi.tv/playlist/amg01864-pitaaratvfast-divyabhajan-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600011RZ_20250205T004553SQUARE.png" group-title="Samsung TV",Bhakti Play
 https://cc-pisq3rszc5kpz.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pisq3rszc5kpz/OTM/OTM_BhaktiFlix-SCTE_SAMSUNG/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Samsung TV",Dharma Live
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN30009003_20260623T014742SQUARE.png" group-title="Samsung TV",Dharma Live
 https://cc-a8q0jnl3p75g9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a8q0jnl3p75g9/v1/channel/DharmaLIVE/DharmaLIVE_m.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900002KB_20260623T014801SQUARE.png" group-title="Samsung TV",E24
@@ -5293,7 +5290,7 @@ EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelog
 https://cc-qgrxgp51645lw.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qgrxgp51645lw/IQJW/WBD/WildFlix_IN/WildFlix_IN.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="Samsung TV",Animax
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD13000043W_20260623T013612SQUARE.png" group-title="Samsung TV",Animax
 https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Samsung TV",Willow Sports
@@ -5305,17 +5302,19 @@ https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2200002GZ_20260812T011010SQUARE.png" group-title="Samsung TV",The Cube
 https://4d64546b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9UaGVDdWJlX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Samsung TV",Docubay
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN8000186A_20260805T003950SQUARE.png" group-title="Samsung TV",Docubay
 https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3300003TW_20260805T004048SQUARE.png" group-title="Samsung TV",WedoTV Get Factual
 https://amg00735-amg00735c77-amgplt0016.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg00735-amg00735c77-amgplt0016/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Samsung TV",WedoTV Movies
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3300006TC_20260708T005932SQUARE.png" group-title="Samsung TV",WedoTV Big Stories
+https://amg00735-amg00735c16-samsung-in-11651.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg00735-videosolutionsagfast-wedobigstoriesnosubs-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN330000528_20260805T004052SQUARE.png" group-title="Samsung TV",WedoTV Movies
 https://amg00735-amg00735c46-samsung-in-11523.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg00735-videosolutionsagfast-wedomoviesasia-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Samsung TV",WedoTV Sports
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100015RL_20260708T005944SQUARE.png" group-title="Samsung TV",WedoTV Sports
 https://amg00735-amg00735c45-samsung-in-11524.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg00735-videosolutionsagfast-wedosportsasia-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Samsung TV",WedoTV Cars
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3300004EI_20260708T005956SQUARE.png" group-title="Samsung TV",WedoTV Cars
 https://amg00735-amg00735c78-amgplt0016.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg00735-amg00735c78-amgplt0016/playlist.m3u8
 
 
