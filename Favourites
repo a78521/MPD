@@ -5281,10 +5281,14 @@ https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2200002GZ_20260812T011010SQUARE.png" group-title="Samsung TV",The Cube
 https://4d64546b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9UaGVDdWJlX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Samsung TV",Docubay
+https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3300003TW_20260805T004048SQUARE.png" group-title="Samsung TV",WedoTV Get Factual
 https://amg00735-amg00735c77-amgplt0016.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg00735-amg00735c77-amgplt0016/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Samsung TV",WedoTV Movies
+https://amg00735-amg00735c46-samsung-in-11523.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg00735-videosolutionsagfast-wedomoviesasia-samsungin/playlist.m3u8
 
 
 ======================================================================= Shemaroo==================================================================================================
