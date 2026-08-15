@@ -2561,6 +2561,14 @@ https://shemaroo-bollywood.keralive.workers.dev/playlist/amg00864-shemarooentert
 
 
 
+
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Epic Crimes
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://epic-crime.keralive.workers.dev/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wsuyg2uxeak04/master.m3u8
+
+
+
+
 ============================================================= 4K===================================================================================================================
 
 #EXTINF:-1 tvg-logo="" group-title="4K",4K Travel
