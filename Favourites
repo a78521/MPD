@@ -3591,7 +3591,7 @@ https://aenetworks.global.transmit.live/hls/68b779592bcf083f5d656235/v1/aenetwor
 
 
 #EXTINF:0, tvg-logo="" group-title="Law & Crime",Crime Investigation+
-#KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.org/"
+#KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.me/"
 https://frndly.keralive.workers.dev/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/crimeinvest_live_nr/872add48b98943d38599fc11c695a8f7/index.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="Law & Crime",Crime Scene TV
@@ -7563,23 +7563,23 @@ https://d1bnb20pevkrom.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://a-edge.bliscdn.com/Visionbeats/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk99k86H/VISION-TV.jpg" group-title="Hindi Music",VISION BEATS (2)
-#EXTVLCOPT:http-referrer="https://bhoomtv.org"
-#KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.org"
+#EXTVLCOPT:http-referrer="https://bhoomtv.me"
+#KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.me"
 https://visionbeats.keralive.workers.dev/Visionbeats/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Punjabi Music",VISION Punjabi Music
-#EXTVLCOPT:http-referrer="https://bhoomtv.org"
-#KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.org"
+#EXTVLCOPT:http-referrer="https://bhoomtv.me"
+#KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.me"
 https://visionbeats.keralive.workers.dev/Visionpunjabmusic/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Punjabi",VISION Punjab TV
-#EXTVLCOPT:http-referrer="https://bhoomtv.org"
-#KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.org"
+#EXTVLCOPT:http-referrer="https://bhoomtv.me"
+#KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.me"
 https://visionbeats.keralive.workers.dev/Visionpunjabtv/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Punjabi Devotional",VISION Punjab Gurbani
-#EXTVLCOPT:http-referrer="https://bhoomtv.org"
-#KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.org"
+#EXTVLCOPT:http-referrer="https://bhoomtv.me"
+#KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.me"
 https://visionbeats.keralive.workers.dev/Visionpunjabgurbani/index.m3u8
 
 
@@ -7915,7 +7915,7 @@ https://maamusic.keralive.workers.dev/out/v1/a526e652e4644463bca88e350785bed0/in
 https://etv.keralive.workers.dev/090823/smil:colorscineplexus.smil/playlist.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="Hindi Entertainment",Colors Rishtey USA
-#EXTVLCOPT:http-referrer="https://bhoomtv.org"
+#EXTVLCOPT:http-referrer="https://bhoomtv.me"
 #KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.me/"
 https://etv.keralive.workers.dev/090823/smil:ristheyamerica.smil/playlist.m3u8
 
