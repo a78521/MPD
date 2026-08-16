@@ -72,6 +72,19 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/37140e68f8124d45a0d
 
 ================================================================Amazon ============================================================================================================
 
+#EXTINF:-1 tvg-name="Discovery asia" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEil-vpxCrLM1o_Y6Sm9gRLam2qNRjn1lzPk0nHitvR3bPyYAF6Czq6VdZA-onPQTLUHOl8vaIFBWco8ibLc3nOUdH5VfcbeWANEj8whSDTazRbxj8nnqNh5HcUZQHgr_BO1jVUZmRvvnywsimP2u1INeFroIunT1oSILTfCKUqfyQtbSjc0-hHvijvwHgM1" group-title="Amazon" event-duration="4",Discovery Asia
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=934907b134be3963a6263a453846924c:788e2835fb98568aed2f47bbdc091515
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/xjuw11dfold3/7D9R6Lt76cBTPyRRpV9eit/64aba6ff966a6b286cbadd55aaf2d0ab/BBC-client-logo-256x256.png" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", BBC Treasures
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f94bae425abea0ccacec08b2e72b7d07:8eea02108392c61aa79663bc064fc600
