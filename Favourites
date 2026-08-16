@@ -707,11 +707,103 @@ http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=75507
 
 =================================================================== Ottera TV ================================================================================================
 
+
+#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",Kids 31
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=31
+#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",Kids 33
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=33
+#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",TG
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=34
+#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",Kids 35
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=35
+#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",Kids 36
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=36
+#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",Kids 37
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=37
+#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",Kids 38
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=38
+#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",Kids 40
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=40
+#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",Kids 41
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=41
+
+
+
+#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",46
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=46
+#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",50
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=50
+#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",71
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=71
+#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",72
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=72
+#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",77
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=77
+#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",Audio Dungeon
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=79
+#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",82
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=82
+#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",Fireplace
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=83
+#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",84
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=84
+#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",100
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=100
+#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",125
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=125
+#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",134
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=134
+#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",142
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=142
+#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",ZooMoo
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=143
+#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",157
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=157
+#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",165
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=165
+#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",172
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=172
+#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",Chefclub Kids
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=188
+#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",?
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=190
+#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",Chefclub Kids
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=198
+
+
+
 #EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",Kids TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 
 #EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",Angry Birds
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=547
+
+#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",Angry Birds
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=823
+#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",ToonGoogles
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=824
+
+#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",827
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=827
+
+#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",5510
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5510
+#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",5514
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5514
+#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",5515
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5515
+#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",5536
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5536
+#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",5537
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5537
+#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",5538
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5538
+#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",5562
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5562
+#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",5564
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5564
+#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",5567
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5567
 
 #EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",Z Bollyworld
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6640
