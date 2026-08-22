@@ -194,26 +194,33 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/rckhgp0mdp/out/v
 #KODIPROP:inputstream.adaptive.license_key=bf813dc4a32e0e9bcbce4446a65f4b12:eb9973b1a30c76812aa7ca8864b6a3c1
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/zewdvsfpre/out/v1/d65e537877cc4112b8fd88c6210f39da/cenc.mpd
 
+#EXTINF:-1 tvg-name="UniversalMovies.us" tvg-logo="https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_universal_movies.webp" group-title="Amazon",Universal Movies
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5140ef6622446b7f26bacb12f7d7a1ec:ad6be1a83d188dc4bc7782b29a7ffb59
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/sxwo5bmuz5/out/v1/3a73b7f0ef1947bc93027ec75a92cbfa/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Amazon", REELZ
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/Reelz_Channel_1920x1080._SL170_FMpng_.png" group-title="Amazon", REELZ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2312fd39721560ea14f98caf3464195e:93713bb73be2d8aedf3eeb898850e7d5
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/dhdemvb6ff/out/v1/2dbabadc0d204aa9aad2c2e5d29af5c0/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Amazon", Screenpix
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/ScreenPix._SL170_FMpng_.png" group-title="Amazon", Screenpix
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=537cc6cb07fe4bcc63d06c3018d5e35c:7420e0237883a05e4d2ddafaf114b050
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/9lvpst0mpb/out/v1/ba33b946c96e4a60886e2d91156398cd/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Amazon", Screenpix Action
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/ScreenPix_Action._SL170_FMpng_.png" group-title="Amazon", Screenpix Action
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a340ce5a22ce1a5f54c2c5dd18e8fe7d:afa091d637e61d585ad036fd4b8a3235
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/2bsytxoitz/out/v1/312e6d1e20e744c0a9bf25519f6da91b/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Amazon", Screenpix Westerns
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/ScreenPix_Westerns_HD._SL170_FMpng_.png" group-title="Amazon", Screenpix Westerns
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=429d2a8c13dc9a40a13ef8d4e2325209:631892e5f5451b5596528e194c44d95b
@@ -226,11 +233,46 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/ikqumnhhew/out/v
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/a2x5qulu66/out/v1/b7749a4e6d41479ca533f4d7c01d7675/cenc.mpd
 
 
-#EXTINF:-1 tvg-logo="" group-title="Amazon", MGM Celebrates Black Cinema
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/mgm_presents_us.png" group-title="Amazon", MGM Celebrates Black Cinema
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dab8e28bb3dd8335c1669dc2aa7891fc:ce8ec4255a0c5a495749ea524e4e98b4
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/vzhzbcmueh/out/v1/3a0e3004d0514932acc2bb6758c61ed5/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/mako-movies/images/d/d5/MGM_Holdings_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20190126193754" group-title="Amazon", MGM+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={34bbe1d5cad94e81a2f2eb3275611f85:7e6a42fbe78e7ff8c20cb4eeb475ed17}
+https://epix.live.epix.services/out/v1/9e8d7f463c10401da4c78387a627e184/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3fsnLQn.png" group-title="Amazon", MGM+ Drive In
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2aa5443eab3841fca0804ed7df621e21:f6337da72d318e72e77742c7f8d2e698
+https://epix-drivein.live.epix.services/out/v1/bef1dd342f69416e9fdd844ece496dc0/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QKtbFDn.png" group-title="Amazon",MGM+ Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e177abdd25b476dbb474fa7c2ee76b3:dc43cb2d4bd48774ef9620fda1158060
+https://epix2.live.epix.services/out/v1/08bcf975c3ef4013adb31929aef1fb82/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9TEprOp.png" group-title="Amazon",MGM+ Marquee
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f2032b4cae944a0adf5ce111a2ff693:2b4a2855b0abde035714985be6db4bd0
+https://epix-hits.live.epix.services/out/v1/a87dee961e4249afae86749c59202b9e/index.mpd
+
+#EXTINF:-1 tvg-name="Nat Geo History" tvg-logo="https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_nat_geo_history.webp" group-title="Amazon",Nat Geo History
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7bc01ff11a011cdc47a27cd8ea5f3a3:64c22630a86bf1fbe3b3629cea6bc994
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/f56pkqphvu/out/v1/fc598dca849d4b579c7ad15031ba7633/cenc.mpd
+
+#EXTINF:-1 tvg-name="Nat Geo Travel" tvg-logo="https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_nat_geo_travel.webp" group-title="Amazon",Nat Geo Travel
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ffd0695416ec170799092de842ee3476:92c351fd9179bbdd7e65b13d49a221cf
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/tsn0r83bmq/out/v1/a98a628106534243929c64de7da5fbc6/cenc.mpd
+
 
 #EXTINF:-1 tvg-logo="" group-title="Amazon",Adult Swim
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -294,6 +336,31 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://otte-qw.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="bein1uk" tvg-name="BeIN Sports 1 UK" tvg-logo="https://shorter.me/sYn-B" group-title="Amazon",BeIN Sports AU 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
+#EXTINF:-1 tvg-id="bein2uk" tvg-name="BeIN Sports 2 UK" tvg-logo="https://shorter.me/-zUyl" group-title="Amazon",BeIN Sports AU 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd 
+
+#EXTINF:-1 tvg-id="bein3uk" tvg-name="BeIN Sports 3 UK" tvg-logo="https://shorter.me/KE4S9" group-title="Amazon",BeIN Sports AU 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 =========================================================== Box ====================================================================================================
 
