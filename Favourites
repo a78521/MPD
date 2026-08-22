@@ -10269,3 +10269,59 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzA3ZGVjOWEz
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1N2M3NDM4YWNiYTc4LTJmMzktNDcwNC1hNDExLWQyMzAzNTY0/master.m3u8
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://product-catalog-storage.s3.ca-central-1.amazonaws.com/channels/logo/TSN_5_HD.png" group-title="FSTV",TSN 5
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZjU1MDM5ZjMzY2FjLTY0Y2ItMDJkNC04MDM4LWVjYWNlNTEx/master.m3u8
+
+
+
+========================================================Xumo===========================================================================================================
+
+#EXTINF:-1 tvg-logo="" group-title="Xumo",25 Word
+https://dbrb49pjoymg4.cloudfront.net/10001/99991659/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991659
+
+#EXTINF:-1 tvg-logo="" group-title="Xumo",America Got Talent
+https://dbrb49pjoymg4.cloudfront.net/10001/99951457/hls/master.m3u8?ads.xumo_channelId=99951457
+#EXTINF:-1 tvg-logo="" group-title="Xumo",Ancient Aliens
+https://dbrb49pjoymg4.cloudfront.net/10001/99951474/hls/playlist.m3u8?ads.xumo_channelId=99951474&ads.xumo_streamId=99951474&ads.channelId=99951474
+#EXTINF:-1 tvg-logo="" group-title="Xumo",Alien Nation by DUST
+https://dbrb49pjoymg4.cloudfront.net/10001/99991292/hls/playlist.m3u8?ads.xumo_channelId=99991292
+#EXTINF:-1 tvg-logo="" group-title="Xumo",Alfred Hitchhock
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951256/hls/master.m3u8?ads.xumo_channelId=99951256
+#EXTINF:-1 tvg-logo="" group-title="Xumo",AMC Thrillers
+https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951377/hls/playlist.m3u8?ads.xumo_channelId=99951377&ads.channelId=99951377
+
+#EXTINF:-1 tvg-logo="" group-title="Xumo",BBC Food
+https://dbrb49pjoymg4.cloudfront.net/10001/99951177/hls/playlist.m3u8?ads.xumo_channelId=99951177
+
+#EXTINF:-1 tvg-logo="" group-title="Xumo",Classic Doctor Who
+https://dbrb49pjoymg4.cloudfront.net/10001/99951248/hls/playlist.m3u8?ads.xumo_channelId=99951248
+
+#EXTINF:-1 tvg-logo="" group-title="Xumo",Deal or No Deal
+https://dbrb49pjoymg4.cloudfront.net/10001/99991113/hls/master.m3u8?ads.xumo_channelId=99991113
+#EXTINF:-1 tvg-logo="" group-title="Xumo",Doctor Who
+https://dbrb49pjoymg4.cloudfront.net/10001/99951248/hls/playlist.m3u8?ads.xumo_channelId=99951248
+
+#EXTINF:-1 tvg-logo="" group-title="Xumo",Family Feud 
+https://dbrb49pjoymg4.cloudfront.net/10001/99991232/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991232
+
+#EXTINF:-1 tvg-logo="" group-title="Xumo",FilmRise
+https://dbrb49pjoymg4.cloudfront.net/10001/99991337/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991337
+
+#EXTINF:-1 tvg-logo="" group-title="Xumo",Ghosts Are Real
+https://dbrb49pjoymg4.cloudfront.net/10001/99951391/hls/playlist.m3u8?ads.xumo_channelId=99951391
+#EXTINF:-1 tvg-logo="" group-title="Xumo",Haunt TV
+https://dbrb49pjoymg4.cloudfront.net/10001/99951375/hls/playlist.m3u8?ads.xumo_channelId=99951375
+
+#EXTINF:-1 tvg-logo="" group-title="Xumo",Just For Laugh Gags
+https://dbrb49pjoymg4.cloudfront.net/10001/99991204/hls/master.m3u8?ads.xumo_channelId=99991204
+
+#EXTINF:-1 tvg-logo="" group-title="Xumo",OuterSphere by Lionsgate
+
+
+#EXTINF:-1 tvg-logo="" group-title="Xumo",Paranormal Files
+https://dtqutq7lmcchv.cloudfront.net/10001/99991769/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991769
+
+#EXTINF:-1 tvg-logo="" group-title="Xumo",Universal Monsters
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951264/hls/master.m3u8?ads.xumo_channelId=99951264&ads.asnw=169843&ads.afid=380753606&ads.sfid=19301317
+
+#EXTINF:-1 tvg-logo="" group-title="Xumo",The Walking Dead Universe
+https://d3pxo1qcgzxtxs.cloudfront.net/10005/99991623/hls/playlist.m3u8?ads.xumo_channelId=99991623
+
