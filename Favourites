@@ -1115,11 +1115,16 @@ https://mumt02.tangotv.in/PUNJABIMUSICHD/index.m3u8
 https://mumt04.tangotv.in/m18aqlK4TABBARHITS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Josh TV
 https://mumt03.tangotv.in/Dsly5z3HJOSHTV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Tadka
+https://mumt03.tangotv.in/Dsly5z3HTADKA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_TV/images/LOGO_HD/image.png" group-title="Tango TV",Shemaroo TV
-https://mumt02.tangotv.in/SHEMAROOTV/index.m3u8
+https://mumt06.tangotv.in/qYyB8fXVSHEMAROOTV/index.m3u8
+#https://streams.tangotv.in/SHEMAROOTV/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_UMANG/images/LOGO_HD/image.png" group-title="Tango TV",Shemaroo Umang
 https://mumt04.tangotv.in/m18aqlK4SHEMAROOUMANG/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Shemaroo Josh
+https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/index.m3u8
 
 
 
@@ -1168,6 +1173,8 @@ https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8
 https://mumt04.tangotv.in/m18aqlK4PITAARA/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Daily Post News
 https://mumt01.tangotv.in/O5aw8Zn3DAILYPOST/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",World Punjabi
+https://mumt06.tangotv.in/qYyB8fXVWPNWORLDPUNJABI/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Goldmines
 https://mumt04.tangotv.in/m18aqlK4GOLDMINES/index.m3u8
@@ -1205,9 +1212,14 @@ https://mumt02.tangotv.in/REPUBLICBHARAT/index.m3u8
 https://mumt03.tangotv.in/Dsly5z3HTIMESNOWNAVBHARAT/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",TV9 Bharatvarsh
 https://mumt01.tangotv.in/O5aw8Zn3TV9BHARATVARSH/index.m3u8
+#https://streams.tangotv.in/TV9BHARATVARSH/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Zee Bharat
 https://mumt03.tangotv.in/Dsly5z3HZEEBHARAT/index.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Zee News
+https://mumt07.tangotv.in/zHjX9OFlZEENEWS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Sudarshan News
+https://mumt04.tangotv.in/m18aqlK4SUDARSHANNEWS/index.m3u8
+#https://streams.tangotv.in/SUDARSHANNEWS/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Republic TV
 https://mumt05.tangotv.in/87NeALx2REPUBLICTV/index.m3u8
@@ -1244,6 +1256,10 @@ https://mumt02.tangotv.in/PRIMENEWS/index.m3u8
 https://mumt04.tangotv.in/m18aqlK4SACHBEDHADAK/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Samachar Plus
 https://mumt05.tangotv.in/87NeALx2VERTENTSAMACHARPLUS/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Zee UP/UK
+https://mumt07.tangotv.in/zHjX9OFlZEEUPUK/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Astha
