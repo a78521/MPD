@@ -1281,74 +1281,81 @@ https://mumt05.tangotv.in/87NeALx2VEDIC/index.m3u8
 =================================================================== Temp ================================================================================================
 
 #EXTINF:-1 tvg-id="8" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starplushd.png" group-title="Temp",Star Plus HD
-http://202.70.146.135:8000/play/a009/index.m3u8
+http://66.102.126.10:8000/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starplushd.png" group-title="Temp",Star Plus
 
 
 #EXTINF:-1 tvg-id="star-bharat-hd" tvg-logo="https://live.dinesh29.com.np/logos/star-bharat-hd.png" group-title="Temp",Star Bharat HD
-http://202.70.146.135:8000/play/a09v/index.m3u8
+
 
 #EXTINF:-1 tvg-id="star-gold-hd" tvg-logo="" group-title="Temp",Star Gold HD
-http://202.70.146.135:8000/play/a02a/index.m3u8
+http://66.102.126.10:8000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-id="star-gold-hd" tvg-logo="" group-title="Temp",Star Gold 2 HD
-http://202.70.146.135:8000/play/a04q/index.m3u8
+http://66.102.126.10:8000/play/a077/index.m3u8
 
 #EXTINF:-1 tvg-id="utsav-gold-hd" tvg-logo="" group-title="Temp",Utsav Gold HD
 http://202.70.146.135:8000/play/a02a/index.m3u8
 
-#EXTINF:-1 tvg-id="star-gold-select-hd" tvg-logo="https://live.dinesh29.com.np/logos/star-gold-select-hd.png" group-title="Temp",Star Gold Select HD
-http://202.70.146.135:8000/play/a068/index.m3u8
+#EXTINF:-1 tvg-id="star-gold-select-hd" tvg-logo="" group-title="Temp",Star Gold Select HD
+http://66.102.126.10:8000/play/a01s/index.m3u8
 
 #EXTINF:-1 tvg-id="star-gold-select-hd" tvg-logo="" group-title="Temp",Star Movies HD
-http://202.70.146.135:8000/play/a06r/index.m3u8
+http://66.102.126.10:8000/play/a021/index.m3u8
+#http://202.70.146.135:8000/play/a06r/index.m3u8
+
 #EXTINF:-1 tvg-id="star-gold-select-hd" tvg-logo="" group-title="Temp",Star Movies Select HD
-http://202.70.146.135:8000/play/a06q/index.m3u8
+http://66.102.126.10:8000/play/a020/index.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="colors-hd" tvg-logo="https://tv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Temp",Colors HD
-http://202.70.146.135:8000/play/a00b/index.m3u8
+
 #EXTINF:-1 tvg-id="cineplex-hd" tvg-logo="" group-title="Temp",Colors Cineplex HD
-http://202.70.146.135:8000/play/a04n/index.m3u8
+http://66.102.126.10:8000/play/a076/index.m3u8
 #EXTINF:-1 tvg-id="187" tvg-logo="" group-title="Temp",Colors Infinity HD
-http://202.70.146.135:8000/play/a0ab/index.m3u8
+http://66.102.126.10:8000/play/a014/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Temp",MTV HD
 
 
 #EXTINF:-1 tvg-logo="" group-title="Temp",CN HD+
-http://202.70.146.135:8000/play/a0a3/index.m3u8
+
 #EXTINF:-1 tvg-id="63" tvg-logo="" group-title="Temp",Zee TV HD
-http://202.70.146.135:8000/play/a04g/index.m3u8
+
 
 #EXTINF:-1 tvg-id="503" tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Temp",Zee Cinema HD
-http://202.70.146.135:8000/play/a03f/index.m3u8
-#http://103.159.180.34:5001/live/165.m3u8
+http://66.102.126.10:8000/play/a01x/index.m3u8
+
 
 #EXTINF:-1 tvg-id="40" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/andtvhd.png" group-title="Temp",&tv HD
-http://202.70.146.135:8000/play/a06c/index.m3u8
+http://66.102.126.10:8000/play/a01u/index.m3u8
 #EXTINF:-1 tvg-id="267" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/andpictureshd.png" group-title="Temp",&pictures HD
-http://202.70.146.135:8000/play/a06b/index.m3u8
+http://66.102.126.10:8000/play/a01t/index.m3u8
 #EXTINF:-1 tvg-id="1183" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/andxplorhd.png" group-title="Temp",&Xplor HD
-https://public.kliv.fun/TPTV8A/play.php?id=11619
-
+http://66.102.126.10:8000/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="1183" tvg-logo="" group-title="Temp",&flix HD
-https://public.kliv.fun/TPTV8A/play.php?id=11624
+
 
 #EXTINF:-1 tvg-id="1183" tvg-logo="" group-title="Temp",Zee Cafe HD
 http://202.70.146.135:8000/play/a04n/index.m3u8
 
-#EXTINF:-1 tvg-id="666" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/tataplaytheatrehd.png" group-title="Temp",Tata Play Theatre HD
+#EXTINF:-1 tvg-id="666" tvg-logo="" group-title="Temp",Tata Play Theatre HD
 
 
-#EXTINF:-1 tvg-id="disney-international-hd" tvg-logo="https://live.dinesh29.com.np/logos/disney-international-hd.png" group-title="Temp",Disney International HD
-http://202.70.146.135:8000/play/a04p/index.m3u8
+#EXTINF:-1 tvg-id="disney-international-hd" tvg-logo="" group-title="Temp",Disney International HD
+http://66.102.126.10:8000/play/a078/index.m3u8
+#http://202.70.146.135:8000/play/a04p/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Temp",Disney Channel HD
-http://202.70.146.135:8000/play/a01q/index.m3u8
+http://66.102.126.10:8000/play/a013/index.m3u8
+#http://202.70.146.135:8000/play/a01q/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-entertainment-hd" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Temp",Sony Entertainment HD
 http://202.70.146.135:8000/play/a005/index.m3u8
+#http://66.102.126.10:8000/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://live.dinesh29.com.np/logos/sony-sab-hd.png" group-title="Temp",Sony Sab HD
 http://202.70.146.135:8000/play/a025/index.m3u8
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://live.dinesh29.com.np/logos/sony-max-hd.png" group-title="Temp",Sony Max HD
@@ -1357,7 +1364,10 @@ http://202.70.146.135:8000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="" group-title="Temp",Sony Pal
 http://202.70.146.135:8000/play/a0ac/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Temp",Sony Pix HD
-http://202.70.146.135:8000/play/a06p/index.m3u8
+http://66.102.126.10:8000/play/a01z/index.m3u8
+#http://202.70.146.135:8000/play/a06p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Temp",Sony BBC Earth HD
+http://66.102.126.10:8000/play/a01r/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Temp",Ten 1 HD
@@ -1369,9 +1379,6 @@ http://202.70.146.135:8000/play/a0a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="Temp",Ten 5 HD
 http://202.70.146.135:8000/play/a09r/index.m3u8
 
-#EXTINF:-1 tvg-id="star-movies-hd" tvg-logo="https://live.dinesh29.com.np/logos/star-movies-hd.png" group-title="Temp",Star Movies HD
-http://202.70.146.135:8000/play/a06r/index.m3u8
-#EXTINF:-1 tvg-id="star-movies-select-hd" tvg-logo="https://live.dinesh29.com.np/logos/star-movies-select-hd.png" group-title="Temp",Star Movies Select HD
 
 
 
@@ -1395,7 +1402,7 @@ http://202.70.146.135:8000/play/a03c/index.m3u8
 http://202.70.146.135:8000/play/a03e/index.m3u8
 
 #EXTINF:-1 tvg-id="812" tvg-logo="" group-title="Temp",Eurosport HD
-
+http://66.102.126.10:8000/play/a01g/index.m3u8
 
 #EXTINF:-1 tvg-id="562" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/moviesnowhd.png" group-title="Temp",Movies Now HD
 http://202.70.146.135:8000/play/a057/index.m3u8
@@ -1424,7 +1431,9 @@ http://202.70.146.135:8000/play/a05j/index.m3u8
 
 
 #EXTINF:-1 tvg-id="341" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/discoveryhdworld.png" group-title="Temp",Discovery HD World
-http://202.70.146.135:8000/play/a05z/index.m3u8
+http://66.102.126.10:8000/play/a01k/index.m3u8
+#http://202.70.146.135:8000/play/a05z/index.m3u8
+
 #EXTVLCOPT:http-referrer="https://mini.allinonereborn.fun"
 #KODIPROP:inputstream.adaptive.http-referrer="https://mini.allinonereborn.fun"
 https://mini.allinonereborn.fun/jiotv-www/app/ts_live_463.m3u8
@@ -7520,8 +7529,17 @@ https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 
 
 
+======================================================== English Music ===========================================================================================================
+#EXTINF:-26 group-title="English Music" tvg-logo="https://tv.minchev.eu/logos/vibee.tv.png",V2Beat
+https://de1se01.v2beat.live/playlist.m3u8
 
+#EXTINF:-26 group-title="English Music" tvg-logo="https://tv.minchev.eu/logos/kronehit.at.png",Kronehit
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
+#EXTINF:-26 group-title="English Music" tvg-logo="https://tv.minchev.eu/logos/1mus.png",1 Music Channel
+http://rtmp.one.by:1300
+#EXTINF:-26 group-title="English Music" tvg-logo="https://tv.minchev.eu/logos/1mus.ru.png",1 Music Channel
+http://rtmp.one.by:2300
 
 
 
