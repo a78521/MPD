@@ -8863,7 +8863,7 @@ http://vg-zeefta.akamaized.net/ptnr-yupptv/title-wion/v1/master/611d79b11b77e2f5
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://test-yupptv.cachefly.net/120723/smil:ddindiahd.smil/playlist.m3u8?hdnts=st%3D1776489929~exp%3D1776511529~acl%3D%21%2A%2F120723%2Fsmil%3Addindiahd.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_40.65.61.144_yuppfast_2_channel_194_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_40.65.61.144_yuppfast_2_channel_194_-1~hmac%3De95e0644a9d0a396d3160880b8cc646eaf97e79f0894929c7cdae9c1a807a587
+https://d2gvyg6lvauoko.cloudfront.net/230226/ddindia/playlist.m3u8?ads.channel=5521&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1788098191~exp=1788119791~acl=!*/230226/ddindia/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_20.109.95.97_yuppfast_2_channel_194_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_20.109.95.97_yuppfast_2_channel_194_-1~hmac=5d50b5d5d6110dd650748c7c5d93172eb0f4e88d81d8bf76088c6d33b34d9d71&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=DDINDIA&ads.language=ENG&ads.user=0
 
 #EXTINF:-1 tvg-id="1" tvg-chno="005" tvg-name="ndtv-24x7" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mlwpdv.png" group-title="FTA Channels", NDTV 24x7
 #KODIPROP:inputstream=inputstream.adaptive
@@ -8881,8 +8881,7 @@ https://vg-timesgroup.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://vg-tv9live.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/59d1f22f-8f3f-4458-bb05-204baca5a6ba/main.m3u8?hdnts=st%3D1776489930~exp%3D1776511530~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F59d1f22f-8f3f-4458-bb05-204baca5a6ba%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_40.65.61.144_yuppfast_2_channel_188_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_40.65.61.144_yuppfast_2_channel_188_-1~hmac%3Dc674186e3104fc78f5933ca3d60254afe721a523dd59836562912f62742152b0
-
+tps://vg-tv9yupp.vgcdn.net/vglive-sk-526536/v1/019e01ace8511ea540a871e333268/019e01ad3da31ea55784752988551/main.m3u8
 
 #EXTINF:-1 tvg-id="171" tvg-chno="008" tvg-name="hornbill-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hornbill-tv.png" group-title="FTA Channels", Hornbill TV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -8895,6 +8894,13 @@ https://d1msejlow1t3l4.cloudfront.net/fta/hornbilltv/playlist.m3u8?hdnts=st%3D17
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://yuppparoriglin.akamaized.net/181224/smil:ndtvprofit.smil/playlist.m3u8?hdnts=st%3D1776489931~exp%3D1776511531~acl%3D%21%2A%2F181224%2Fsmil%3Andtvprofit.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_40.65.61.144_yuppfast_2_channel_3_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_40.65.61.144_yuppfast_2_channel_3_-1~hmac%3D4358f07e0e71ce3f6dfb24235f1d3608b2b3c1fc9658da5890f85a4a5cf6f7f9
+
+#EXTINF:-1 tvg-id="83" tvg-chno="83" tvg-name="Kiddo" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kiddo.png" group-title="FTA Channels",Kiddo
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5bcf9d24-04f2-401d-a93f-7af54f29461a/manifest.m3u8
+#EXTINF:-1 tvg-id="48" tvg-chno="48" tvg-name="Cartoon TV Classics" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ehuljr.png" group-title="FTA Channels",Cartoon TV Classics
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
+#EXTINF:-1 tvg-id="66" tvg-chno="66" tvg-name="English TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/english-tv.png" group-title="FTA Channels",English TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a5e9aebd-1df4-4e56-be4f-33a891756f9b/manifest.m3u8
 
 #EXTINF:-1 tvg-id="275" tvg-chno="011" tvg-name="oan-plus" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rohnbg.png" group-title="FTA Channels", OAN PLUS
 #KODIPROP:inputstream=inputstream.adaptive
@@ -9253,8 +9259,18 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 https://d2gvyg6lvauoko.cloudfront.net/230226/reporter1/playlist.m3u8?hdnts=st%3D1776489973~exp%3D1776511573~acl%3D%21%2A%2F230226%2Freporter1%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_40.65.61.144_yuppfast_2_channel_140_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_40.65.61.144_yuppfast_2_channel_140_-1~hmac%3D4a8e156823c16122911862a94944631793aff02994456d78b13cd6100df0243a
 
 
-
-
+#EXTINF:-1 tvg-id="52" tvg-chno="52" tvg-name="Cowboy Movie Channel" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/cowboy-movie-channel.png" group-title="FTA Channels",Cowboy Movie Channel
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4434fd47-6d46-43e9-b132-fab122edc732/manifest.m3u8
+#EXTINF:-1 tvg-id="77" tvg-chno="77" tvg-name="Horror TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/horror-tv.png" group-title="FTA Channels",Horror TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/master.m3u8
+#EXTINF:-1 tvg-id="72" tvg-chno="72" tvg-name="Tensions TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/tensions-tv.png" group-title="FTA Channels",Tensions TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9db01cea-0af6-4382-b2c6-e23525f6640d/manifest.m3u8
+#EXTINF:-1 tvg-id="55" tvg-chno="55" tvg-name="Drive In Movie Channel" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/drive-in-movie-channel.png" "FTA Channels",Drive In Movie Channel
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5056383-20ac-488f-b299-6577f66881ff/manifest.m3u8
+#EXTINF:-1 tvg-id="85" tvg-chno="85" tvg-name="Kung Fu" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kung-fu.png" group-title="FTA Channels",Kung Fu
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/06862a07-6a92-4b4d-abc3-5fea131713b5/manifest.m3u8
+#EXTINF:-1 tvg-id="68" tvg-chno="68" tvg-name="Fight TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fight-tv.png" group-title="FTA Channels",Fight TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8
 
 #EXTINF:-1 tvg-id="78" tvg-chno="272" tvg-name="scifi-world" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/oxsgsi.png" group-title="FTA Channels", Scifi World
 #KODIPROP:inputstream=inputstream.adaptive
