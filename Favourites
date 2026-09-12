@@ -1059,11 +1059,11 @@ https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",B4U Music
 https://mumt04.tangotv.in/m18aqlK4B4UMUSIC/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",B4U Movies
-https://mumt02.tangotv.in/B4UMOVIES/index.m3u8
+https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",B4U Bhojpuri
 https://mumt05.tangotv.in/B4UBHOJPURI/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",B4U Kadak
-https://mumt02.tangotv.in/B4UKADAK/index.m3u8
+https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Epic Bhojpuri
 https://mumt01.tangotv.in/O5aw8Zn3EPICBHOJPURI/index.m3u8
 
@@ -2660,6 +2660,23 @@ https://runn-tv.keralive.workers.dev/runntv/stream/p_supflm/playlist.m3u8
 https://runn-tv.keralive.workers.dev/runntv/stream/p_supjio/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="" group-title="tulnit",9XM
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://yupp-tv.keralive.workers.dev/28072023/smil:9xmusic4.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="tulnit",9X Jalwa
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://yupp-tv.keralive.workers.dev/28072023/smil:9xjalwa.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="tulnit",9X Tashan
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://yupp-tv.keralive.workers.dev/28072023/smil:9xtashan.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="tulnit",9X Jhakkas
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://yupp-tv.keralive.workers.dev/28072023/smil:9xjhakaas.smil/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="" group-title="tulnit",B4U Movies
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 https://m3uplay.com/stream.m3u8?id=b4umovies
@@ -2673,13 +2690,6 @@ https://techtraveleat.in/stream.m3u8?id=b4umusic
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 https://kableone.keralive.workers.dev/hls/live/2111218/SagaHits/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqCmrDT9/1.png" group-title="tulnit",9xM
-#EXTVLCOPT:http-referrer=https://bhoomtv.me
-https://9xmusic2.keralive.workers.dev/28072023/smil:9xmusic4.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="tulnit",9X Jalwa
-#EXTVLCOPT:http-referrer=https://bhoomtv.me
-https://9xmusic2.keralive.workers.dev/28072023/smil:9xjalwa.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5ZW0MTk/1.png" group-title="tulnit",YRF
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
