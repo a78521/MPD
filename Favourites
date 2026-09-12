@@ -712,13 +712,13 @@ http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=75507
 =================================================================== Ottera TV ================================================================================================
 
 
-#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",Kids 31
+#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",TG JUNIOR TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=31
 #EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",Kids 33
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=33
 #EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",TG
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=34
-#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",Kids 35
+#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",Sparkle Power
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=35
 #EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",Kids 36
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=36
@@ -728,7 +728,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=37
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=38
 #EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",Kids 40
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=40
-#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",Kids 41
+#EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",GrossOut TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=41
 
 
@@ -778,6 +778,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=198
 
 #EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",Kids TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
+
 
 #EXTINF:-1 tvg-id="8" tvg-logo="" group-title="Ottera TV",Angry Birds
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=547
