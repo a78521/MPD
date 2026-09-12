@@ -7277,6 +7277,7 @@ https://d2o3r1shda7xvv.cloudfront.net/index_5.m3u8
 #EXTINF:0, tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2300005ML_20251118T015422SQUARE.png" group-title="International News",AlJazeera
 https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
 #https://amg00222-amg00222c4-amgplt0002.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8
+#http://stream.mcquack.net/131/index.m3u8
 
 #EXTINF:0, tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/7ccdfe2a-385a-4ba4-af56-6cdcb85aa494.jpeg" group-title="International News",Africa News
 https://africanews-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiNjdkNzUyNzQtNzI0Ni00MjI2LWI4MDUtZWQ0YTgzZTAwOGU4IiwibWt0IjoidWsiLCJjaCI6NjU3NiwicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8
