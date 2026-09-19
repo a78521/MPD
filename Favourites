@@ -155,6 +155,31 @@ https://cam3.pc.cdn.bitgravity.com/cam/live/feed88_1/nagasai/Prasar_bharati_OTT/
 
 ========================================================= 24x7 ===========================================================================================================
 
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" group-title="24x7",America's Voice
+https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" group-title="24x7",Fear Factor
+https://amg00627-banijaygroup-fearfactor-samsungnz-zhrro.amagi.tv/playlist/amg00627-banijaygroup-fearfactor-samsungnz/playlist.m3u8
+#https://aegis-cloudfront-1.tubi.video/2a9fb8e7-51c2-40d0-9cc0-6eb963199568/playlist.m3u8
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" group-title="24x7", Ghost Hunters Channel
+https://amg00353-amg00353c30-samsung-nz-3439.playouts.now.amagi.tv/playlist.m3u8
+#https://amg00353-amg00353c30-samsung-au-3440.playouts.now.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" group-title="24x7",The Walking Dead
+https://amc-twdfanexperience-1-us.xumo.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" group-title="24x7", Mythbusters
+https://amg00627-banijay-amg00627c14-samsung-nz-2342.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mythbusters-samsungnz/playlist.m3u8
+#https://d2bog959vw5xq.cloudfront.net/playlist/amg00627-banijayfast-mythbusters-samsungau/playlist.m3u8
+#https://d1cgf0ptrv4t22.cloudfront.net/Mythbusters_GB.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://spoo.me/Friends" group-title="24x7", Friends
 http://toms-pics.info:25461/live/TOPPDOGG6/detroit6/297133.m3u8
 
@@ -273,6 +298,7 @@ http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441111&extens
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441113&extension=ts
 
 ======================================================== AnyOTT ===========================================================================================================
+
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3132515182ec50091b496fe515564084" group-title="AynaOTT",Hindi Movie Classic 24
 https://vods2.aynaott.com/hindimovies/index.m3u8
 
@@ -1128,6 +1154,8 @@ https://mumt07.tangotv.in/zHjX9OFlPUNJABIBEATS/index.m3u8
 https://mumt07.tangotv.in/zHjX9OFlPUNJABIMUSICHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Punjabi Music HD
 https://mumt02.tangotv.in/PUNJABIMUSICHD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Punjabi Sangat TV
+https://mumt06.tangotv.in/qYyB8fXVSANGATTV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Tabbar Hits
 https://mumt04.tangotv.in/m18aqlK4TABBARHITS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Josh TV
@@ -1319,8 +1347,13 @@ http://66.102.126.10:8000/play/a008/index.m3u8
 
 
 #EXTINF:-1 tvg-id="star-bharat-hd" tvg-logo="https://live.dinesh29.com.np/logos/star-bharat-hd.png" group-title="Temp",Star Bharat HD
+https://d1taaads3ztvmu.cloudfront.net/120723/smil:lifeokuk.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
+#EXTINF:-1 tvg-logo="" group-title="Temp",NDTV Good Times
+https://d1taaads3ztvmu.cloudfront.net/120723/smil:ndtvgoodtimes.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
+#EXTINF:-1 tvg-logo="" group-title="Temp",Krishna Vani
+https://d1taaads3ztvmu.cloudfront.net/120723/smil:krishnavani.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="star-gold-hd" tvg-logo="" group-title="Temp",Star Gold HD
 http://66.102.126.10:8000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-id="star-gold-hd" tvg-logo="" group-title="Temp",Star Gold 2 HD
@@ -3413,8 +3446,10 @@ https://vt-ip.vodep39240327.workers.dev/220.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sky",Sky Cinema Family FHD
 https://vt-ip.vodep39240327.workers.dev/221.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="" group-title="Sky",Sky Racing 1
+https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sky",Sky Racing 2
+https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8
 
 
 
@@ -4059,6 +4094,9 @@ https://amg02333-pbs-amg02333c10-lg-au-4537.playouts.now.amagi.tv/playlist/amg02
 
 #EXTINF:-1 tvg-logo="" group-title="PBS",PBS Nature
 https://amg02333-pbs-amg02333c11-firetv-us-4242.playouts.now.amagi.tv/playlist.m3u8
+#https://amg01597-wnetnewyorkpubl-pbsnature-xumo-8xorq.amagi.tv/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="PBS_NATURE" tvg-name="PBS Nature" tvg-logo="" group-title="PBS",PBS Nature
 #KODIPROP:inputstream=inputstream.adaptive
@@ -8147,8 +8185,10 @@ https://stream.ottlive.co.in/dailypost/index.m3u8
 
 #EXTINF:0, tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/5661248393.4" "group-title="Punjabi",World Punjabi TV
 https://stream.ottlive.co.in/worldpunjabitv/index.m3u8
+
 #EXTINF:0, tvg-logo="" group-title="Punjabi",Brit Asia TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8
+#https://hls.autopo.st/hls/britasiatv/index.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="Punjabi",Chardikala Time TV
 https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8
