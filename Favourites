@@ -1,7 +1,7 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png" group-title="Fav",Star Plus HD
-https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Star%20Plus%20HD.m3u8b
+https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Star%20Plus%20HD.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png" group-title="Fav",Star Bharat HD
 https://raw.githubusercontent.com/a78521/Channels/refs/heads/main/Star%20x`Bharat%20HD.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Fav",Star Gold HD
@@ -1926,7 +1926,7 @@ https://techtraveleat.in/leo/live.m3u8?id=1393&format=.m3u8
 
 
 
-===============================Music==============================
+=================================================================================Music=================================================================================================
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9xm.png" group-title="Jio-Music",9XM
 #EXTVLCOPT:http-referrer="https://techtraveleat.in"
@@ -2270,7 +2270,7 @@ https://techtraveleat.in/leo/live.m3u8?id=1191&format=.m3u8
 
 
 
-===========================Stringray===========================
+==============================================================================Stringray========================================================================================
 
 #EXTINF:-1 tvg-id="3285" tvg-name="Stingray Naturescape" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/naturescape-a003s-dhaka.png" group-title="Stringray", Stingray Naturescape
 https://lotus.stingray.com/manifest/naturescape-a003s-dhaka/samsungtvplus/master.m3u8
@@ -2798,14 +2798,11 @@ https://d3ecghhmgi0wqh.cloudfront.net/playlist_1920x1080.m3u8
 
 #EXTINF:-1 tvg-id="10550" tvg-logo="" group-title="Bhojpuri",B4U Bhojpuri
 https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/HD720/HD720.m3u8
-#https://b4u.cdn.runn.tv/B4U_Bhojpuri/HD720/HD720.m3u8
+
 
 #EXTINF:-1 tvg-id="10550" tvg-logo="" group-title="Bhojpuri",B4U+ Bhojpuri
 https://d15g19kirdse6k.cloudfront.net/B4U_Bhojpuri/master.m3u8
 
-#EXTINF:-1 tvg-id="10550" tvg-logo="" group-title="Bhojpuri",B4U
-https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/HD720/HD720.m3u8
-#https://b4u.cdn.runn.tv/B4U_Bhojpuri/HD720/HD720.m3u8
 
 #EXTINF:-1 tvg-id="10550" tvg-logo="" group-title="Bhojpuri",Epic Bhojpuri
 https://cc-8hy4a26pz2uos.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8hy4a26pz2uos/playlist.m3u8
@@ -3593,7 +3590,7 @@ https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10574.jpg" group-title="Doordarshan",DD National HD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
-#EXTINF:-1 tvg-id="10539" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1194248787Frame_1597877919.webp" group-title="Doordarshan", DD INDIA
+#EXTINF:-1 tvg-id="10539" tvg-logo="https://prodcdn1.pb.com/shows/thumbnail/1194248787Frame_1597877919.webp" group-title="Doordarshan", DD INDIA
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10541.jpg" group-title="Doordarshan",DD News
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
@@ -6319,23 +6316,16 @@ https://wiselp.wiseplayout.com/9XM/master.m3u8
 https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
 
 
-#EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10647.jpg" group-title="Waves",Abzy Movies
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8
-#EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10648.jpg" group-title="Waves",Abzy Dhakhad
-https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="10608" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/317045659DD_TRIPURA__2_.webp" group-title="Waves", AAJ TAK
+#EXTINF:-1 tvg-id="10608" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/317045659DD_TRIPURA__2_.webp" group-title="Waves", Aaj Tak
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7b044d82f0bc462b8be3e2dec0bf2bd2/index.m3u8
-#EXTINF:-1 tvg-id="10546" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1693877778Frame_1597877912.webp" group-title="Waves", GOOD NEWS TODAY
+#EXTINF:-1 tvg-id="10546" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1693877778Frame_1597877912.webp" group-title="Waves", Good News Today
 https://d2lk5u59tns74c.cloudfront.net/out/v1/75f3183e143240a29fbddd502a6a3f8d/index.m3u8
 
 #EXTINF:-1 tvg-id="10549" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/925545393ABP_NEWS.webp" group-title="Waves", ABP NEWS
 https://abpmitv.akamaized.net/hls/live/2042842/abpnews/master.m3u8
 
 #EXTINF:0, tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1483991994india_tv.webp" group-title="Waves",India TV
-https://vg-indiatvlive.akamaized.net/ptnr-waves/title-IndiaTV_MI_Waves/vglive-sk-394591/playlist.m3u8
+https://vg-indiatv-waves.vgcdn.net/vglive-sk-394591/playlist.m3u8
 
 #EXTINF:-1 tvg-id="10594" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/682104833IBC_24.webp" group-title="Waves",IBC24
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0bfbd0b9de7f4407949202296560c0fe/index.m3u8
@@ -6358,7 +6348,7 @@ https://n18syndication-prasar-bharati.akamaized.net/bpk-tv/News18_India_NW18_MOB
 #EXTINF:-1 tvg-id="10827" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/2122233949download__6_.webp" group-title="Waves",Republic TV Bharat
 https://d2lk5u59tns74c.cloudfront.net/out/v1/7e8b490d6b9c4013a3e3e874aa352212/index.m3u8
 
-#EXTINF:-1 tvg-id="10551" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/332387229REPUBLIC_TV.webp" group-title="Waves",R Republic
+#EXTINF:-1 tvg-id="10551" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/332387229REPUBLIC_TV.webp" group-title="Waves",Republic TV
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8
 
 #EXTINF:-1 tvg-id="10595" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/896613924Tv9_bharatvarsha.webp" group-title="Waves",TV9 Bharatvarsh
@@ -6397,7 +6387,7 @@ https://sablive-ddpb.akamaized.net/mastii/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="10598" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/888970933Dabangg_Logo_-_1920x1080.webp" group-title="Waves",DABANNG
-https://sablive-ddpb.akamaized.net/dabangg/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="10596" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/659096870E_24.webp" group-title="Waves",E24
@@ -6446,6 +6436,12 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/bc57af15b4df4200af5fa4c1d6ab0a72/in
 https://d2lk5u59tns74c.cloudfront.net/out/v1/e903e03c2b414ee0b74db68d7779ccad/index.m3u8
 #EXTINF:-1 tvg-id="10550" tvg-logo="" group-title="Waves",Dharm Sandesh
 https://d2lk5u59tns74c.cloudfront.net/out/v1/aed713462c734923aac946a547265288/index.m3u8
+
+
+#EXTINF:-1 tvg-id="10550" tvg-logo="" group-title="Waves",Ayush Next
+https://d2lk5u59tns74c.cloudfront.net/out/v1/60ab07b02a2942498cdd81f045a625a1/index.m3u8
+#EXTINF:-1 tvg-id="10550" tvg-logo="" group-title="Waves",RT India
+https://rt-india.rttv.com/live/rtindia/tracks-v1a1/index.m3u8
 
 
 =============================================================Xiaomi TV =======================================================================================================================
