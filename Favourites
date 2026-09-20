@@ -10351,3 +10351,48 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99951264/hls/master.m3u8?ads.xumo_cha
 #EXTINF:-1 tvg-logo="" group-title="Xumo",The Walking Dead Universe
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99991623/hls/playlist.m3u8?ads.xumo_channelId=99991623
 
+
+
+======================================================== Yupp TV ===========================================================================================================
+
+
+#EXTINF:-1 tvg-logo="" group-title="Yupp TV",Star Plus
+https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Yupp TV",Star Bharat
+https://d1taaads3ztvmu.cloudfront.net/120723/smil:lifeokuk.smil/chunklist_b2628000.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Yupp TV",Colors APAC
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsaudev.smil/chunklist_b1928000.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Yupp TV",Colors Rishtey
+https://d1rc86nwwc9fag.cloudfront.net/260723/rishteyuk_600/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Yupp TV",Colors Cineplex
+https://d1rc86nwwc9fag.cloudfront.net/260723/smil:rishteycineplexukdev.smil/chunklist_b1928000.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Yupp TV",Zee TV HD APAC
+https://d1rc86nwwc9fag.cloudfront.net/260723/zeetvapachd_2500/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Yupp TV",Zee Cinema HD APAC
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeecinemaapachd.smil/chunklist_b2628000.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Yupp TV",Republic Bharat
+https://d1rc86nwwc9fag.cloudfront.net/out/v1/vglive-sk-561573/534f6684a9824ef894260909ab46b4f1/main_1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Yupp TV",Republic TV
+https://d1rc86nwwc9fag.cloudfront.net/out/v1/vglive-sk-884117/243a5fabe7fe4c8fadf2cb7bcc0a5baf/main_1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Yupp TV",NDTV 24x7
+https://d1rc86nwwc9fag.cloudfront.net/v1/vglive-sk-401405/0194a671d8dd1ebd416a3e0a8a4524/0194a67abb941ebd47043cd206ba4f/ndtv247_720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Yupp TV",NDTV India
+https://d1rc86nwwc9fag.cloudfront.net/v1/vglive-sk-830439/0194a704d3821ebd47043cd206ba50/0194a714d63f1ea506ec5e557ad08/ndtvindia_720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Yupp TV",NDTV Good Times
+https://d1taaads3ztvmu.cloudfront.net/120723/smil:ndtvgoodtimes.smil/chunklist_b1928000.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Yupp TV",Mirror Now
+https://d1rc86nwwc9fag.cloudfront.net/v1/vglive-sk-310426/timesnow_mirrornow_3500k.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Yupp TV",Zee Bihar/Jharkhand
+https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-198870/zeebiharjharkhand_2500k.m3u8
+
+
