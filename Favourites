@@ -10355,14 +10355,16 @@ https://d3pxo1qcgzxtxs.cloudfront.net/10005/99991623/hls/playlist.m3u8?ads.xumo_
 #EXTINF:-1 tvg-logo="" group-title="Yupp TV",Star Plus
 https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Yupp TV",Star Bharat
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IQ2n0WY.png" group-title="Yupp TV",Star Bharat
 https://d1taaads3ztvmu.cloudfront.net/120723/smil:lifeokuk.smil/chunklist_b2628000.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Yupp TV",Colors APAC
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsaudev.smil/chunklist_b1928000.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Yupp TV",Colors Rishtey
+#EXTINF:-1 tvg-logo="" group-title="Yupp TV",Colors Rishtey UK
 https://d1rc86nwwc9fag.cloudfront.net/260723/rishteyuk_600/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Yupp TV",Colors Rishtey America
+https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Yupp TV",Colors Cineplex
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:rishteycineplexukdev.smil/chunklist_b1928000.m3u8
@@ -10373,22 +10375,69 @@ https://d1rc86nwwc9fag.cloudfront.net/260723/zeetvapachd_2500/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Yupp TV",Zee Cinema HD APAC
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeecinemaapachd.smil/chunklist_b2628000.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Yupp TV",Republic Bharat
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-330-j5jl5on4-v2/imageContent-330-j5jl5on4-m2.png" group-title="Yupp TV",MTV India
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/boogle-bollywood.png" group-title="Yupp TV",Boogle Bollywood
+https://yuppparoriglin.akamaized.net/181224/smil:bogglebollywood.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/haryanvi-hits.png" group-title="Yupp TV",Haryanvi Hits
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:haryanvihits.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/lnnuqu.png" group-title="Yupp TV",Republic Bharat
 https://d1rc86nwwc9fag.cloudfront.net/out/v1/vglive-sk-561573/534f6684a9824ef894260909ab46b4f1/main_1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Yupp TV",Republic TV
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/usnsgu.png" group-title="Yupp TV",Republic TV
 https://d1rc86nwwc9fag.cloudfront.net/out/v1/vglive-sk-884117/243a5fabe7fe4c8fadf2cb7bcc0a5baf/main_1.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Yupp TV",NDTV 24x7
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mlwpdv.png" group-title="Yupp TV",NDTV 24x7
 https://d1rc86nwwc9fag.cloudfront.net/v1/vglive-sk-401405/0194a671d8dd1ebd416a3e0a8a4524/0194a67abb941ebd47043cd206ba4f/ndtv247_720p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Yupp TV",NDTV India
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sltkhm.png" group-title="Yupp TV",NDTV India
 https://d1rc86nwwc9fag.cloudfront.net/v1/vglive-sk-830439/0194a704d3821ebd47043cd206ba50/0194a714d63f1ea506ec5e557ad08/ndtvindia_720p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Yupp TV",NDTV Good Times
+#https://vg-ndtvyupp.vgcdn.net/vglive-sk-971210/v1/0194a704d3821ebd47043cd206ba50/0194a714d63f1ea506ec5e557ad08/main.m3u8
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mxzyyw.png" group-title="Yupp TV",NDTV Good Times
 https://d1taaads3ztvmu.cloudfront.net/120723/smil:ndtvgoodtimes.smil/chunklist_b1928000.m3u8
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ddsklc.png" group-title="Yupp TV",NDTV Profit
+https://yuppparoriglin.akamaized.net/181224/smil:ndtvprofit.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
-#EXTINF:-1 tvg-logo="" group-title="Yupp TV",Mirror Now
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mphzpu.png" group-title="Yupp TV",ABP News
+https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-472500/abpnews/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Yupp TV",DD India
+https://da86m1sqpm3o0.cloudfront.net/120723/smil:ddindiahd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mirror-now.png" group-title="Yupp TV",Mirror Now
 https://d1rc86nwwc9fag.cloudfront.net/v1/vglive-sk-310426/timesnow_mirrornow_3500k.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Yupp TV",Zee Bihar/Jharkhand
 https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-198870/zeebiharjharkhand_2500k.m3u8
 
 
+
+
+#EXTINF:-1 tvg-logo="" group-title="Yupp TV",News 9
+https://tv9live.yuppcdn.net/vglive-sk-526536/v1/019e01ace8511ea540a871e333268/019e01ad3da31ea55784752988551/main.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Yupp TV",Wow Kidz
+https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/krishna-vani.png" group-title="Yupp TV",Krishna Vani
+https://d1taaads3ztvmu.cloudfront.net/120723/smil:krishnavani.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yupptv-veda.png" group-title="Yupp TV",Yupp TV Veda
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:yupptvveda1.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="ttps://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hare-krishna-tv.png" group-title="Yupp TV",Hare Krishna TV
+https://yuppparoriglin.akamaized.net/181224/smil:harekrishna.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/lakshyatv.png" group-title="Yupp TV",Lakshya TV HD
+https://yuppparoriglin.akamaized.net/181224/smil:lakshyatv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/astroscience.png" group-title="Yupp TV",Astro Science
+https://yuppparoriglin.akamaized.net/181224/smil:astrotech.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/songdew.png" group-title="Yupp TV",Songdew TV
+https://yuppparoriglin.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+
+#EXTINF:-1 tvg-logo="" group-title="Yupp TV",Pravasi HD
+https://yuppparoriglin.akamaized.net/181224/smil:pravasi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-logo="" group-title="Yupp TV",Wah Punjabi
+https://yuppparoriglin.akamaized.net/181224/smil:wahpunjabi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
