@@ -3774,6 +3774,10 @@ https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1
 
 ========================================================== Infotainment =======================================================================================================================
 
+
+#EXTINF:0, tvg-logo="" group-title="Infotainment",History Connect
+https://d17g0in9p18tot.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/history_connect/germane.m3u8
+
 #EXTINF:0, tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1852-LG-Logo-PNG-100x100_v1.png" group-title="Infotainment",Ancient Aliens
 https://aenetworks.global.transmit.live/hls/68b709bb2119c010f1166417/v1/ae_networks_ancientaliens_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:0, tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/wbd_logo/mystwrld400X200.png" group-title="Infotainment",Mysterious Worlds
@@ -3840,6 +3844,12 @@ https://amg01314-cgtn-amg01314c7-lg-uae-10953.playouts.now.amagi.tv/ts-eu-w1-n2/
 #EXTINF:0, tvg-logo="" group-title="Infotainment",Discovering China
 https://ml-pull-hwc.myco.io/CGTN/hls/index.m3u8
 
+#EXTINF:0, tvg-logo="" group-title="Infotainment",Docubox HD
+https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
+#EXTINF:0, tvg-logo="" group-title="Infotainment",DocuBay
+https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8?ads.device_did=PSID&ads.device_dnt=TARGETOPT
+#EXTINF:0, tvg-logo="" group-title="Infotainment",The Cube
+https://4d64546b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9UaGVDdWJlX0hMUw/playlist.m3u8?ads.wurl_channel=2228&ads.wurl_name=TheCube
 
 ================================================================= Law & Crime =========================================================================================================
 
@@ -8487,7 +8497,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-210728/playlist.m3u8
 #EXTINF:0, tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB900003KR_20250107T031153SQUARE.png" group-title="Kids",Mr. Bean Animated
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 
-
 #EXTINF:0, tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HUNGAMA/images/LOGO_HD/image.png" group-title="Kids",Hungama TV
 http://103.185.24.134:3001/HUNGAMA/index.m3u8
 #EXTINF:0, tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUPER_HUNGAMA/images/LOGO_HD/image.png" group-title="Kids",Sonic
@@ -8527,7 +8536,8 @@ https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9998402
 https://aka-live1050.delivery.roku.com/4c394a43-2ae4-493b-acce-7dd7700495ef/t2-origin/out/v1/live.m3u8
 
 
-
+#EXTINF:0, tvg-logo="" group-title="Kids",Purple Turtle Kids
+https://d3dnq4y7z8jspg.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/purple_turtle/v1/channel/Purple-Turtle/germane.m3u8
 
 
 #EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA400003FQ_20260421T140742SQUARE.png" group-title="Kids",Animation+
