@@ -1092,6 +1092,8 @@ https://mumt05.tangotv.in/B4UBHOJPURI/index.m3u8
 https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Epic Bhojpuri
 https://mumt01.tangotv.in/O5aw8Zn3EPICBHOJPURI/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",InSync
+https://samitaorigin.tangotv.in/INSYNC/SAMITAORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",All Time Movies
 https://mumt03.tangotv.in/Dsly5z3HALLTIMEMOVIES/index.m3u8
@@ -1100,6 +1102,7 @@ https://mumt03.tangotv.in/Dsly5z3HALLTIMEMOVIES/index.m3u8
 https://mumt01.tangotv.in/O5aw8Zn39XM/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_JALWA/images/LOGO_HD/image.png" group-title="Tango TV",9X Jalwa
 https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8
+#https://samitaorigin.tangotv.in/9XJALWA/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s142504_ld_h15_aa.png?lock=720x540" group-title="Tango TV",9X Tashan
 https://mumt01.tangotv.in/O5aw8Zn39XTASHAN/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s90012_ld_h15_aa.png?lock=720x540" group-title="Tango TV",9X Jhakkas
@@ -1110,6 +1113,7 @@ https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8
 https://mumt02.tangotv.in/MASTIII/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Music India
 https://mumt05.tangotv.in/87NeALx2MUSICINDIA/index.m3u8
+#https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Insync.png" group-title="Tango TV",InSync
 https://mumt04.tangotv.in/INSYNC/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Epic Music
@@ -1140,6 +1144,7 @@ https://mumt03.tangotv.in/Dsly5z3HMHONEMOVIE/index.m3u8
 https://mumt03.tangotv.in/Dsly5z3HAPNAPUNJAB/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Balle Balle
 https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8
+#https://streams.tangotv.in/BALLEBALLE/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",GTC News
 https://mumt03.tangotv.in/GTCNEWS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",GTC Punjabi
@@ -2573,72 +2578,74 @@ https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-zeeanmolcinema
 
 
 #EXTINF:-1 tvg-logo="" group-title="tulnit",Sony Sports 1 HD
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000009276
+#EXTVLCOPT:http-referrer=https://techandeat.online/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://techandeat.online/
+https://techandeat.online/sliv/stream.m3u8?id=1000009276
 
 #EXTINF:-1 tvg-logo="" group-title="tulnit",Sony Sports 2 HD
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000009277
+#EXTVLCOPT:http-referrer=https://techandeat.online/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://techandeat.online/
+https://techandeat.online/sliv/stream.m3u8?id=1000009277
 
 #EXTINF:-1 tvg-logo="" group-title="tulnit",Sony Sports 3 HD
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000009278
+#EXTVLCOPT:http-referrer=https://techandeat.online/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://techandeat.online/
+https://techandeat.online/sliv/stream.m3u8?id=1000009278
 
 
 #EXTINF:-1 tvg-logo="" group-title="tulnit",Sony Sports 5 HD
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000009275
+#EXTVLCOPT:http-referrer=https://techandeat.online/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://techandeat.online/
+https://techandeat.online/sliv/stream.m3u8?id=1000009275
 
 
 
 #EXTINF:-1 tvg-logo="" group-title="tulnit",Sony TV HD
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000009246&e=.m3u8
+#EXTVLCOPT:http-referrer=https://techandeat.online/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://techandeat.online/
+https://techandeat.online/sliv/stream.m3u8?id=1000009246&e=.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="tulnit",Sony Max HD
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000009247&e=.m3u8
+#EXTVLCOPT:http-referrer=https://techandeat.online/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://techandeat.online/
+https://techandeat.online/sliv/stream.m3u8?id=1000009247&e=.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="tulnit",Sony Sab HD
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000009248&e=.m3u8
+#EXTVLCOPT:http-referrer=https://techandeat.online/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://techandeat.online/
+https://techandeat.online/sliv/stream.m3u8?id=1000009248&e=.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="tulnit",Sony BBC Earth HD
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000009252
+#EXTVLCOPT:http-referrer=https://techandeat.online/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://techandeat.online/
+https://techandeat.online/sliv/stream.m3u8?id=1000009252
 
 #EXTINF:-1 tvg-logo="" group-title="tulnit",Sony Pix HD
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000009258&e=.m3u8
+#EXTVLCOPT:http-referrer=https://techandeat.online/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://techandeat.online/
+https://techandeat.online/sliv/stream.m3u8?id=1000009258&e=.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="tulnit",Sony Max
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000009249
+#EXTVLCOPT:http-referrer=https://techandeat.online/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://techandeat.online/
+https://techandeat.online/sliv/stream.m3u8?id=1000009249
 
-
-
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Sony Max 2
+#EXTVLCOPT:http-referrer=https://techandeat.online/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://techandeat.online/
+https://techandeat.online/sliv/stream.m3u8?id=1000044878
 
 #EXTINF:-1 tvg-logo="" group-title="tulnit",Sony Wah
 #EXTVLCOPT:http-referrer=https://b4uplay.com/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000009253
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://techandeat.online/
+https://techandeat.online/sliv/stream.m3u8?id=1000009253
 
 #EXTINF:-1 tvg-logo="" group-title="tulnit",Sony Pal
 #EXTVLCOPT:http-referrer=https://b4uplay.com/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000009273
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://techandeat.online/
+https://techandeat.online/sliv/stream.m3u8?id=1000009273
 
 
 #EXTINF:-1 tvg-logo="" group-title="tulnit",&TV HD USA
@@ -2719,33 +2726,71 @@ https://yupp-tv.keralive.workers.dev/28072023/smil:9xjhakaas.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="tulnit",B4U Movies
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
-https://m3uplay.com/stream.m3u8?id=b4umovies
+https://techtraveleat.in/stream.m3u8?id=b4umovies
 
 #EXTINF:-1 tvg-logo="" group-title="tulnit",B4U Music
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 https://techtraveleat.in/stream.m3u8?id=b4umusic
-#https://m3uplay.com/stream.m3u8?id=b4umusic
+
+#EXTINF:-1 tvg-logo="" group-title="tulnit",B4U Music
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://techtraveleat.in/stream.m3u8?id=shemaroobollywood
+
+
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Music India
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://techtraveleat.in/stream.m3u8?id=musicindia
+
+#EXTINF:-1 tvg-logo="" group-title="tulnit",YRF Music
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://techtraveleat.in/stream.m3u8?id=yrfmusic
 
 #EXTINF:-1 tvg-logo="" group-title="tulnit",Saga Hits
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 https://kableone.keralive.workers.dev/hls/live/2111218/SagaHits/master.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Saga Music
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://kableone.keralive.workers.dev/hls/live/2111218/SagaMusic/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5ZW0MTk/1.png" group-title="tulnit",YRF
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5ZW0MTk/1.png" group-title="tulnit",YRF Music
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 https://kableone.keralive.workers.dev/hls/live/2111218/YrfMusic/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SMRFGN/Web/thumbnail/logo_web.png" group-title="tulnit",Shemaroo Filmigaane
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SMRFGN/Web/thumbnail/logo_web.png" group-title="tulnit",Shemaroo Filmigaane (runn)
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 https://runn-tv.keralive.workers.dev/shemaroo/stream/smrfgn/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SMRFGN/Web/thumbnail/logo_web.png" group-title="tulnit",Shemaroo Filmigaane
+#EXTVLCOPT:http-referrer=https://bhoomtv.
+https://shemaroo.keralive.workers.dev/du_filmigaane/du_filmigaane_1080/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TFxLj80.png" group-title="tulnit",Shemaroo Bollywood (runn)
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://runn-tv.keralive.workers.dev/shemaroo/stream/smrbol/playlist.m3u8
+#https://smr-runntv-blywd.cdn.runn.tv/shemaroo/stream/smrbol/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TFxLj80.png" group-title="tulnit",Shemaroo Bollywood
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 https://shemaroo-bollywood.keralive.workers.dev/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TFxLj80.png" group-title="tulnit",Shemaroo Bollywood
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://shemaroo.keralive.workers.dev/du_bollywoodmovies1/du_bollywoodmovies_1080/playlist.m3u8
 
+#EXTINF:-1 tvg-logo=" group-title="tulnit",Shemaroo Commedy
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://shemaroo.keralive.workers.dev/du_comedy/du_comedy_1080/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=" group-title="tulnit",NH BollyRaga
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://erose.keralive.workers.dev/manifest/live/nhstudioz/blyrag/airtel/master.m3u8
+#https://runn-tv.keralive.workers.dev/nhstdz/stream/blyrag/playlist.m3u8
 
 
 
@@ -5335,7 +5380,7 @@ https://runn-tv.keralive.workers.dev/shemaroo/stream/smrbol/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shemaroo",Shemaroo Bollywood
 #EXTVLCOPT:http-referrer="https://bhoomtv.me/"
 #KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.me/"
-https://m3uplay.com/stream.m3u8?id=shemaroobollywood
+https://techtraveleat.in/stream.m3u8?id=shemaroobollywood
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TFxLj80.png" group-title="Shemaroo",Shemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
@@ -7557,7 +7602,7 @@ https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
 https://amg00223-unisys-amg00223c2-lg-in-2045.playouts.now.amagi.tv/playlist/amg00223-sevencolorsbroadcastingprivatelimited-yfrmusic-lgin/playlist.m3u8
 #https://amg00223-unisysinfo-yrf-music-hls-sooka-c5xsj.amagi.tv/playlist/amg00223-unisysinfo-yrf-music-hls-sooka/playlist.m3u8
 #https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=689c3adf57c9cf27ba0e86f4
-
+#https://vidaa.kableone.com/hls/live/2111218/YrfMusic/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5ZW0MTk/1.png" group-title="Hindi Music",YRF
@@ -7577,8 +7622,9 @@ https://9xmusic2.keralive.workers.dev/28072023/smil:9xmusic4.smil/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 https://bhoomtv.me/tv/yet/stream.m3u8?id=1101
 
-
-
+#EXTINF:-1 tvg-logo="" group-title="Hindi Music",Only Music HD
+https://livestream.unlimitedcdn.com/onlymusic/index.m3u8
+#https://mumbai-edge.smartplaytv.in/OnlyMusic/index.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="Hindi Music",Epic Music
 https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8
@@ -7635,11 +7681,14 @@ https://cc-up9j649x4thrj.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #https://209a7ee785af4abf93eeff4c5a7a62cf.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollyraga-airtel/playlist.m3u8
 
 
-#EXTINF:0, tvg-logo="" group-title="Hindi Music",Bolly Gold
+#EXTINF:0, tvg-logo="" group-title="Hindi Movies",NH Bolly Gold
 https://prod-runn.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
 #https://nh-runntv-blygld.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
 #https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8
 
+
+#EXTINF:0, tvg-logo="" group-title="Hindi Movies",Bolly Gold
+#https://nhstudio.vgcdn.net/v1/019c6f6ccfb71567ee931d808fa98f/019c6f7cedea1567ee931d808fa993/playlist.m3u8
 
 
 #EXTINF:0, tvg-logo="" group-title="Hindi Movies",Bolly Flix
@@ -7868,42 +7917,42 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=13959
 #EXTINF:0, tvg-logo="" group-title="English Movies",You Look Film Hits
 #EXTVLCOPT:http-referrer="https://bhoomtv.me/"
 #KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.me/"
-https://m3uplay.com/stream.m3u8?id=youlookhits
+https://techtraveleat.in/stream.m3u8?id=youlookhits
 
 #EXTINF:0, tvg-logo="" group-title="English Movies",You Look Action
 #EXTVLCOPT:http-referrer="https://bhoomtv.me/"
 #KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.me/"
-https://m3uplay.com/stream.m3u8?id=youlookaction
+https://techtraveleat.in/stream.m3u8?id=youlookaction
 
 #EXTINF:0, tvg-logo="" group-title="English Movies",Comedy Plus
 #EXTVLCOPT:http-referrer="https://bhoomtv.me/"
 #KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.me/"
-https://m3uplay.com/stream.m3u8?id=comedyplus
+https://techtraveleat.in/stream.m3u8?id=comedyplus
 
 #EXTINF:0, tvg-logo="" group-title="English Movies",Romance Plus
 #EXTVLCOPT:http-referrer="https://bhoomtv.me/"
 #KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.me/"
-https://m3uplay.com/stream.m3u8?id=romanceplus
+https://techtraveleat.in/stream.m3u8?id=romanceplus
 
 #EXTINF:0, tvg-logo="" group-title="English Movies",VHS Plus
 #EXTVLCOPT:http-referrer="https://bhoomtv.me/"
 #KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.me/"
-https://m3uplay.com/stream.m3u8?id=vhsplus
+https://techtraveleat.in/stream.m3u8?id=vhsplus
 
 #EXTINF:0, tvg-logo="" group-title="English Movies",Western Plus
 #EXTVLCOPT:http-referrer="https://bhoomtv.me/"
 #KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.me/"
-https://m3uplay.com/stream.m3u8?id=westernplus
+https://techtraveleat.in/stream.m3u8?id=westernplus
 
 #EXTINF:0, tvg-logo="" group-title="English Movies",Horror Plus
 #EXTVLCOPT:http-referrer="https://bhoomtv.me/"
 #KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.me/"
-https://m3uplay.com/stream.m3u8?id=horrorplus
+https://techtraveleat.in/stream.m3u8?id=horrorplus
 
 #EXTINF:0, tvg-logo="" group-title="English Movies",Fun Flix
 #EXTVLCOPT:http-referrer="https://bhoomtv.me/"
 #KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.me/"
-https://m3uplay.com/stream.m3u8?id=funflix
+https://techtraveleat.in/stream.m3u8?id=funflix
 
 
 
@@ -8081,7 +8130,7 @@ https://cc-4bl3meekcb3xc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900027S7_20260812T010925SQUARE.png" group-title="Devotional",Aashirvad TV
 #EXTVLCOPT:http-referrer="https://bhoomtv.me/"
 #KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.me/"
-https://m3uplay.com/stream.m3u8?id=aashirwadtv
+https://techtraveleat.in/stream.m3u8?id=aashirwadtv
 
 #EXTINF:0, tvg-logo="" group-title="Devotional",Shubh TV HD
 https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/index.m3u8
@@ -8156,6 +8205,8 @@ https://livestream.unlimitedcdn.com/sanjhatv/index.m3u8
 
 #EXTINF:0, tvg-logo="https://icon2.cleanpng.com/20180617/wtf/kisspng-television-channel-television-show-punjabi-languag-pocketnewsalert-5b2616f8e75031.4728199715292229049475.jpg" group-title="Punjabi",Desi Channel
 https://main.clickstreamcdn.com/agm-dc/desi-channel/index.m3u8
+#https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
+#https://desichannel.kableone.com/desichannel/master.m3u8
 
 #EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/punjabi-shorts-1767192407233.jpg" group-title="Punjabi",Punjabi Shorts
 https://cc-m6zq76ijc87jw.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m6zq76ijc87jw/punjabshort/index.m3u8
@@ -8455,7 +8506,7 @@ https://dsqc6t9mmrr3w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 #EXTINF:0, tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB22000040Z_20260721T035934SQUARE.png" group-title="Kids",Masha & the Bear
 #KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.me/"
-https://m3uplay.com/stream.m3u8?id=mashaandbear
+https://techtraveleat.in/stream.m3u8?id=mashaandbear
 #https://d3hbnwwbqh8h2o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-7kbm9odbqtx8p/Marsha&theBear_GB.m3u8?ads.ads_cdn=cf&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=cf&ads.consent=%7BTC_STRING%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT
 
 
@@ -10396,6 +10447,14 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:haryanvihits.smil/playlist.m3
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:9xmusic4.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/9xtashan-white.png" group-title="Yupp TV",9X Tashan
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:9xtashan.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Yupp TV",9X Jalwa
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:9xjalwa.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Yupp TV",Balle Balle
+#https://d1msejlow1t3l4.cloudfront.net/fta/balleballe/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Yupp TV",Insync
+https://d1msejlow1t3l4.cloudfront.net/fta/insync/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/lnnuqu.png" group-title="Yupp TV",Republic Bharat
