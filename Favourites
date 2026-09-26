@@ -1175,6 +1175,7 @@ https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Dangal TV
 https://mumt04.tangotv.in/m18aqlK4DANGAL/index.m3u8
+#https://streams.tangotv.in/DANGAL/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Dangal 2
 https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8
 
@@ -1247,10 +1248,16 @@ https://mumt02.tangotv.in/MANORANJANGRAND/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Movieplex
 https://mumt04.tangotv.in/MOVIEPLEX/index.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",Bharat 24
+https://streams.tangotv.in/BHARAT24/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango TV",India TV
+https://streams.tangotv.in/INDIATV/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",News Nation
 https://mumt03.tangotv.in/Dsly5z3HNEWSNATION/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",News 24
-https://mumt03.tangotv.in/Dsly5z3HNEWS24/index.m3u8
+https://mumt01.tangotv.in/O5aw8Zn3NEWS24/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Republic Bharat
 https://mumt02.tangotv.in/REPUBLICBHARAT/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango TV",Times Now Navbharat
