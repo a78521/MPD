@@ -2694,6 +2694,41 @@ https://yupp-us-vt.keralive.workers.dev/090823/smil:colorsaapkadev.smil/playlist
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 https://maamusic.keralive.workers.dev/out/v1/a526e652e4644463bca88e350785bed0/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Colors USA
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://yupp-us-vt.keralive.workers.dev/090823/smil:colorsaapkadev.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Colors USA Yupp
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://yupp-music.keralive.workers.dev/out/v1/a526e652e4644463bca88e350785bed0/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Colors ME
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://colors.keralive.workers.dev/28072023/smil:colorsme.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Colors APAC
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://yupp-origin-vt.keralive.workers.dev/28072023/smil:colorsaudev.smil/playlist.m3u8
+#https://colors.keralive.workers.dev/28072023/smil:colorsau1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Colors Cineplex USA
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://etv.keralive.workers.dev/090823/smil:colorscineplexus.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Colors Cineplex UK
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://yupp-origin-vt.keralive.workers.dev/260723/smil:rishteycineplexukdev.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Colors Rishtey USA
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://etv.keralive.workers.dev/090823/smil:ristheyamerica.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Colors Rishtey UK
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://colors.keralive.workers.dev/260723/smil:rishteyuk1.smil/playlist.m3u8
+#https://yupp-origin-vt.keralive.workers.dev/260723/smil:rishteyukdev.smil/playlist.m3u8
+#https://d1rc86nwwc9fag.cloudfront.net/260723/rishteyuk_1800/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="tulnit",Loop HD
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 https://bhoomtv.me/tv/yet/stream.m3u8?id=1101
