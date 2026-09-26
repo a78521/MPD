@@ -10357,9 +10357,12 @@ https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IQ2n0WY.png" group-title="Yupp TV",Star Bharat
 https://d1taaads3ztvmu.cloudfront.net/120723/smil:lifeokuk.smil/chunklist_b2628000.m3u8
+#https://manatv.akamaized.net/120723/smil:lifeokuk.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Yupp TV",Colors APAC
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsaudev.smil/chunklist_b1928000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Yupp TV",Colors ME
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Yupp TV",Colors Rishtey UK
 https://d1rc86nwwc9fag.cloudfront.net/260723/rishteyuk_600/chunks.m3u8
@@ -10382,6 +10385,11 @@ https://yuppparoriglin.akamaized.net/181224/smil:bogglebollywood.smil/playlist.m
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/haryanvi-hits.png" group-title="Yupp TV",Haryanvi Hits
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:haryanvihits.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.9xm.in/images/video-cover.jpg" group-title="Yupp TV",9XM
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:9xmusic4.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/9xtashan-white.png" group-title="Yupp TV",9X Tashan
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:9xtashan.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/lnnuqu.png" group-title="Yupp TV",Republic Bharat
 https://d1rc86nwwc9fag.cloudfront.net/out/v1/vglive-sk-561573/534f6684a9824ef894260909ab46b4f1/main_1.m3u8
@@ -10403,7 +10411,7 @@ https://yuppparoriglin.akamaized.net/181224/smil:ndtvprofit.smil/playlist.m3u8?h
 https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-472500/abpnews/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="Yupp TV",DD India
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/dd-india.png" group-title="Yupp TV",DD India
 https://da86m1sqpm3o0.cloudfront.net/120723/smil:ddindiahd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mirror-now.png" group-title="Yupp TV",Mirror Now
@@ -10437,7 +10445,7 @@ https://yuppparoriglin.akamaized.net/181224/smil:astrotech.smil/playlist.m3u8?hd
 https://yuppparoriglin.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
 
-#EXTINF:-1 tvg-logo="" group-title="Yupp TV",Pravasi HD
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/parvasi-tv-hd.png" group-title="Yupp TV",Pravasi HD
 https://yuppparoriglin.akamaized.net/181224/smil:pravasi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-logo="" group-title="Yupp TV",Wah Punjabi
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wah-punjabi.png" group-title="Yupp TV",Wah Punjabi
 https://yuppparoriglin.akamaized.net/181224/smil:wahpunjabi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
