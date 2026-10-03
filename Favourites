@@ -7442,6 +7442,9 @@ https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
 #EXTINF:0, tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/7ccdfe2a-385a-4ba4-af56-6cdcb85aa494.jpeg" group-title="International News",Africa News
 https://africanews-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiNjdkNzUyNzQtNzI0Ni00MjI2LWI4MDUtZWQ0YTgzZTAwOGU4IiwibWt0IjoidWsiLCJjaCI6NjU3NiwicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8
 
+#EXTINF:0, tvg-logo="" group-title="International News",Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
 #EXTINF:0, tvg-logo="" group-title="International News",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8
 #https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
@@ -7457,6 +7460,8 @@ https://m113640-fcdn.mp.lura.live/live/origin-contribution-m1-bloomberg-quicktak
 https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
 #EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/GLOBAL BIZ_20260917_212713_0000-1789695274179.jpg" group-title="International News"CGTN Global Biz
 https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
+#EXTINF:0, tvg-logo="" group-title="International News"CGTN Documentary
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 
 #EXTINF:0, tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/82a28e14-7f41-4a39-b6b9-57de69feb0ef.jpeg" group-title="International News",CGTN
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8?ads_amagi_channel_id=852
@@ -7561,6 +7566,8 @@ https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=68954484dd7915fcaf0e1
 #EXTINF:-26 group-title="English Music" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/sythnwave-1742731545125.jpg",Music Synthwave
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=68ae4be1be827a4c180c9b25
 
+#EXTINF:-26 group-title="English Music" tvg-logo="",Dance TV
+https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
 
 #EXTINF:-26 group-title="English Music" tvg-logo="https://tv.minchev.eu/logos/1mus.png",1 Music Channel
 http://rtmp.one.by:1300
