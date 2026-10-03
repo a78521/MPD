@@ -3534,14 +3534,40 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/128/default_primary.mpd
 
 ========================================================== UK Channels =================================================================================================================
 
-#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://www.livetvuk.com/uploads/tv/637-bbcone.jpg",BBC One
+#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",BBC One London
+https://cdn.stmify.com/bbc/stream/BBC_ONE_LONDON/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/500px-BBC_One_logo_2021.svg.png",BBC One West
+https://cdn.stmify.com/bbc/stream/BBC_ONE_WEST/hevc_iptv_mse_v0.mpd
 
-#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://www.livetvuk.com/uploads/tv/860-bbctwo.jpg",BBC 2 HD
-https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
+#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/500px-BBC_Two_logo_2021.svg.png",BBC 2 HD
+https://cdn.stmify.com/bbc/stream/BBC_TWO/hevc_iptv_mse_v0.mpd
+
+#EXTINF:-1 group-title="UK Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png",BBC 2 Northern Island
+https://cdn.stmify.com/bbc/stream/BBC_TWO_NORTHERN_IRELAND/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png",BBC 2 Wales
+https://cdn.stmify.com/bbc/stream/BBC_TWO_WALES/hevc_iptv_mse_v0.mpd
+
+#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/960px-BBC_Three_2022.svg.png",BBC 3 HD
+https://cdn.stmify.com/bbc/stream/BBC_THREE/hevc_iptv_mse_v0.mpd
+
+#EXTINF:-1 group-title="UK Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/960px-BBC_Four_logo_2021.svg.png",BBC 4
+https://cdn.stmify.com/bbc/stream/BBC_FOUR/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 group-title="UK Channels" tvg-logo="https://i.imgur.com/36KDxLg.png",BBC Alba
+https://cdn.stmify.com/bbc/stream/BBC_ALBA/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 group-title="UK Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/960px-BBC_Scotland_2021_%28channel%29.svg.png",BBC Scotland
+https://cdn.stmify.com/bbc/stream/BBC_SCOTLAND/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 group-title="UK Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/960px-BBC_Parliament_Logo.svg.png",BBC Parliament
+https://cdn.stmify.com/bbc/stream/BBC_PARLIAMENT/hevc_iptv_mse_v0.mpd
+
 #EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://static.seriesreminder.com/network-img/BBC_THREE.png",BBC 3 CBBC
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
 #EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://www.livetvuk.com/uploads/tv/595-bbc4.jpg",BBC 4 Cbeebies
-https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-dash/bbc4cbeebies.mpd
+
+#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://i.imgur.com/tk8G4CU.png",BBC CBBC HD
+https://cdn.stmify.com/bbc/stream/CBBC/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 group-title="UK Channels" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CBEEBIES/images/LOGO_HD/image.png",CBeebies (United Kingdom) HD
+https://cdn.stmify.com/bbc/stream/CBEEBIES/hevc_iptv_mse_v0.mpd
+
 #EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://www.livetvuk.com/uploads/tv/884-bbcnews.jpg",BBC News
 
 #EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://www.livetvuk.com/uploads/tv/645-channel4.jpg",Channel 4
