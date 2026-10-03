@@ -3847,11 +3847,13 @@ https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:0, tvg-logo="" group-title="Infotainment",The Explorers 
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=662d4954fd8fcc3b9708b449&AV_CHANNEL_NAME=THE-EXPLORERS-English
 
-#EXTINF:0, tvg-logo="" group-title="Infotainment",China Travel
+#EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/china-travel-1789755595411.jpg" group-title="Infotainment",China Travel
 https://amg01314-cgtn-amg01314c7-lg-uae-10953.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01314-cgtn-cgtnchinatravel-lguae/playlist.m3u8
 #https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
-#EXTINF:0, tvg-logo="" group-title="Infotainment",Discovering China
-https://ml-pull-hwc.myco.io/CGTN/hls/index.m3u8
+#https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
+#EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/dicover-china-1789749521925.jpg" group-title="Infotainment",Discovering China
+https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
+#https://ml-pull-hwc.myco.io/CGTN/hls/index.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="Infotainment",Docubox HD
 https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
@@ -5192,7 +5194,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5d695f7db53adf96b78e7ce3/master.m3u
 
 #EXTINF:-1 tvg-id="5dc48170e280c80009a861ab" tvg-name="CBS News New York" tvg-logo="https://images.pluto.tv/channels/5dc48170e280c80009a861ab/colorLogoPNG.png" group-title="Pluto TV" tvg-chno="5180", CBS News New York
 
-#EXTINF:-1 tvg-id="5fff49cfb5cd4f0007c2b0dc" tvg-name="News 12 New York" tvg-logo="https://images.pluto.tv/channels/5fff49cfb5cd4f0007c2b0dc/colorLogoPNG.png" group-title="Local News" tvg-chno="5190", News 12 New York
+#EXTINF:-1 tvg-id="5fff49cfb5cd4f0007c2b0dc" tvg-name="News 12 New York" tvg-logo="https://images.pluto.tv/channels/5fff49cfb5cd4f0007c2b0dc/colorLogoPNG.png" group-title="Pluto TV" tvg-chno="5190", News 12 New York
 
 #EXTINF:-1 tvg-id="5eb1b05ea168cc000767ba67" tvg-name="CBS News Philadelphia" tvg-logo="https://images.pluto.tv/channels/5eb1b05ea168cc000767ba67/colorLogoPNG.png" group-title="Pluto TV" tvg-chno="5210", CBS News Philadelphia
 
@@ -7443,8 +7445,15 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
 #https://4fb3f38a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfQkJDTmV3cy0xX0hMUw/playlist.m3u8
 
+#EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/bloomberg-1732633054212.jpg" group-title="International News",Bloomberg TV
+https://m113640-fcdn.mp.lura.live/live/origin-contribution-m1-btv-plus-khabriyadigitalmedia.m3u8
+#EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/IMG_1643-1722608132541.png" group-title="International News",Bloomberg Originals
+https://m113640-fcdn.mp.lura.live/live/origin-contribution-m1-bloomberg-quicktake-khabriyadigitalmedia.m3u8
+
 #EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/cgntv-1693594532150.jpg" group-title="International News"CGTN Global
 https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
+#EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/GLOBAL BIZ_20260917_212713_0000-1789695274179.jpg" group-title="International News"CGTN Global Biz
+https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
 
 #EXTINF:0, tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/82a28e14-7f41-4a39-b6b9-57de69feb0ef.jpeg" group-title="International News",CGTN
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8?ads_amagi_channel_id=852
@@ -7509,6 +7518,9 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 #EXTINF:0, tvg-logo="" group-title="International News",Sky News Now
 https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist480p.m3u8
 #https://amg00663-skynewsau-amg00663c1-lg-au-4519.playouts.now.amagi.tv/playlist/amg00663-australiannewschannelptyltdfast-skynews-lgau/playlist.m3u8
+
+#EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/IMG_3739-1711106235894.webp" group-title="International News",Ticker
+https://live-hls-7agy.livepush.io/live_abr_cdn/nsitWAl1pTZtwca/emnmZbKZcO8RfwJR/index.m3u8
 
 #EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/trt-1739730723789.jpg" group-title="International News",TRT World
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
@@ -8219,7 +8231,9 @@ https://cc-4bl3meekcb3xc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 
 #EXTINF:0, tvg-logo="" group-title="Devotional",NH Namo
-https://vglivessai.akamaized.net/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c5e8ee47-52d3-4629-9d93-99e1d4c8df46/playlist.m3u8  
+https://vglivessai.akamaized.net/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c5e8ee47-52d3-4629-9d93-99e1d4c8df46/playlist.m3u8
+#EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/swastik-1775043332365.jpg" group-title="Devotional",Swastik Stories
+https://amg14122-amg14122c1-amgplt0835.playout.now3.amagi.tv/playout/amg14122/amg14122c1/amgplt0835/amgplt0835.m3u8
 
 
 
@@ -8228,6 +8242,9 @@ https://vglivessai.akamaized.net/in/v1/master/611d79b11b77e2f571934fd80ca1413453
 #KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.me/"
 https://techtraveleat.in/stream.m3u8?id=aashirwadtv
 
+
+#EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/sadhna-1776463668469.jpg" group-title="Devotional",Sadhna
+https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/playlist.m3u8
 #EXTINF:0, tvg-logo="" group-title="Devotional",Shubh TV HD
 https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/index.m3u8
 
@@ -8316,6 +8333,9 @@ https://gtc.ottlive.co.in/gtcpunjabi/index.m3u8
 #EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/gtc-usa-1773945969991.jpg" group-title="Punjabi",GTC Punjabi USA
 https://neotv.ottlive.co.in/gtcpunjabiusa/index.m3u8
 
+#EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/hamdard-tv-1650133223593.png" group-title="Punjabi",Hamdard TV
+https://tv.hamdardtv.com/hamdard/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:0, tvg-logo="" group-title="Punjabi",Punjab TV
 https://panjabtv.akamaized.net/panjabtv/panjabtvhlsout/playlist.m3u8 
@@ -8327,20 +8347,24 @@ https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-215
 
 #EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/375062410_746674004142191_3679713481887418192_n-1695131283758.jpg" group-title="Punjabi",Punjab Mail USA
 http://cdn12.henico.net:8080/live/punjabmailusa/index.m3u8
+#https://cdn12.henico.net:8443/live/punjabmailusa/index.m3u8
 
 #EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/Hitube_JO6tXXNanI_2024_11_17_07_19_19 2-1731846120764.jpg" "group-title="Punjabi",D5 Channel Punjabi
 https://d5.tv360.ca/p/3453/live/cd5live.m3u8
 
-#EXTINF:0, tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1622813991WhatsApp_Image_2026-04-09_at_11.15" "group-title="Punjabi",Daily Post News
+#EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/dailypost-1774906333492.jpg" "group-title="Punjabi",Daily Post News
 https://stream.ottlive.co.in/dailypost/index.m3u8
 #https://ott.vutv.in/hls/dailypost/index.m3u8
 
-#EXTINF:0, tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/5661248393.4" "group-title="Punjabi",World Punjabi TV
+#EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/World Punjabi Channel Logo 1000x1000-1761568107659.png" "group-title="Punjabi",World Punjabi TV
 https://stream.ottlive.co.in/worldpunjabitv/index.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="Punjabi",Brit Asia TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8
 #https://hls.autopo.st/hls/britasiatv/index.m3u8
+
+#EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/vii-media-1774023100562.jpg" group-title="Punjabi",Vii Media
+https://viimediacdn.wiseplayout.com/viimedia/master.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="Punjabi",Chardikala Time TV
 https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8
@@ -8427,12 +8451,12 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3bc92ffb55814535801f929a1ac96c57/in
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xds7q46n/VISION-PUNJABI.jpg" group-title="Punjabi Music",VISION PUNJABI MUSIC
 http://a-edge.bliscdn.com/Visionpunjabmusic/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/channel/logos/ejnlyj.png" group-title="Punjabi Music",balle balle
+#EXTINF:-1 tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/balle-balle-min-1732294422434.png" group-title="Punjabi Music",balle balle
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1065989006Tabbar_HIts_1920x1080_19.6%20" group-title="Punjabi Music",Tabbar Hits
+#EXTINF:-1 tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/z-1755812800468.jpg" group-title="Punjabi Music",Tabbar Hits
 https://stream.ottlive.co.in/tabbarhits/index.m3u8
 #https://livingindia.ottlive.co.in/tabbarhits/index.m3u8
-#EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/756167842Punjab_HIts_1920x1080_16.9%20" group-title="Punjabi Music",Punjabi Hits
+#EXTINF:-1 tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/punjabi hits-1739451639354-1744825294259.jpg" group-title="Punjabi Music",Punjabi Hits
 https://stream.ottlive.co.in/punjabihits/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/PURE PUNJABI.jpg" group-title="Punjabi Music",Pure Punjabi HD
@@ -8528,8 +8552,9 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3bc92ffb55814535801f929a1ac96c57/in
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
 #https://mumt04.tangotv.in/m18aqlK4PTCPUNJABI/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYLMzZpp/PTC-PUNJABI.jpg" group-title="PTC",PTC Punjabi Canada
+#EXTINF:-1 tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/ptc-1767392027848.jpg" group-title="PTC",PTC Punjabi Canada
 https://neotv.ottlive.co.in/ptccanada/index.m3u8
+#https://stream.ottlive.co.in/ptccanada/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bJyf4r23/PTC-PUNJABI-GOLD.jpg" group-title="PTC",PTC Punjabi Gold
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
@@ -8793,14 +8818,17 @@ https://server.livelegitpro.in/aajkikhabar/aajkikhabar/index.m3u8
 https://legitpro.co.in/abnews/abnews/index.m3u8
 #EXTINF:0, tvg-logo="" group-title="Local News",Abc News
 https://live.abcnews.media/abcnews/abcnews/index.m3u8
-#EXTINF:0, tvg-logo="" group-title="Hindi News",Bharat Express
+#EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/bharat-express-1732294980651.png" group-title="Hindi News",Bharat Express
 https://stream1.livebox.co.in/VCAREhls/live.m3u8
-#EXTINF:0, tvg-logo="" group-title="Local News",C News
+#https://stream.ottlive.co.in/bharatexpress/index.m3u8
+#EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/ChanJor-1762193506271.jpg" group-title="Local News",C News Bharat
 https://legitpro.co.in/cnews/cnews/index.m3u8
 #EXTINF:0, tvg-logo="" group-title="Local News",Express News
 http://103.47.14.9:8080/hls/enbnews.m3u8
 #EXTINF:0, tvg-logo="" group-title="Local News",in24 News
 https://server.livelegitpro.in/in24news/in24news/index.m3u8
+#EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/idl-1750947582479.jpg" group-title="Local News",India Daily
+https://cdn.ottlive.co.in/indiadailylive/index.m3u8
 #EXTINF:0, tvg-logo="" group-title="Local News",Janadesh
 https://5dd3981940faa.streamlock.net/janadesh/janadesh/playlist.m3u8
 #EXTINF:0, tvg-logo="" group-title="Local News",Jansetu News
@@ -8823,6 +8851,8 @@ http://publicfirst.livebox.co.in/PUBLICFIRSThls/PUBLIC.m3u8
 https://legitpro.co.in/hls9/primetv/index.m3u8
 #EXTINF:0, tvg-logo="" group-title="Local News",Sachi Report
 http://38.242.242.5:8080/hls/sachhireport/index.m3u8
+#EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/Sadhna-Plus-News-1650909668460.jpg" group-title="Local News",Sadhna Plus News
+https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/chunks.m3u8
 #EXTINF:0, tvg-logo="" group-title="Local News",SBS News
 https://sbnews.livebox.co.in/sbnewshls/live.m3u8
 #EXTINF:0, tvg-logo="" group-title="Local News",Susarshan News
@@ -8834,6 +8864,8 @@ https://server.livelegitpro.in/bnews24/bnews24/index.m3u8
 #EXTINF:0, tvg-logo="" group-title="Local News",Vande Bharat News
 https://live.ottlive.co.in/vandebharat/vandebharat/tracks-v1a1/mono.m3u8
 #https://live.ottlive.co.in/vandebharat/vandebharat/index.m3u8
+#EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/ZINGA-1789762510525.jpg" group-title="Local News",Zingabad
+https://stream.ottlive.co.in/zingabad/index.m3u8
 
 
 
