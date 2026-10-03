@@ -7538,11 +7538,21 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-26 group-title="English Music" tvg-logo="",Music EDM
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=68ae48b023fe8059c40c77ba
 
+
+
 #EXTINF:-26 group-title="English Music" tvg-logo="",Fon Music
 https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8
 
-#EXTINF:-26 group-title="English Music" tvg-logo="",Music Rising
+#EXTINF:-26 group-title="English Music" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/rising-1740063765200.jpg",Music Rising
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=68ae46694a09d1d62507f0ff
+
+#EXTINF:-26 group-title="English Music" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/epic-1740063545839.jpg",Epic Music
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=68ae4a5f5d0dcfc7650b1945
+#EXTINF:-26 group-title="English Music" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/lofi-1740063882619.jpg",Lofi Music
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=68954484dd7915fcaf0e16b7
+#EXTINF:-26 group-title="English Music" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/sythnwave-1742731545125.jpg",Music Synthwave
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=68ae4be1be827a4c180c9b25
+
 
 #EXTINF:-26 group-title="English Music" tvg-logo="https://tv.minchev.eu/logos/1mus.png",1 Music Channel
 http://rtmp.one.by:1300
