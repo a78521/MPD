@@ -8290,6 +8290,8 @@ http://primeasia.mine.nu/Patv_Ind_FHD/index.m3u8
 #EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/pitaara-1722633239590-1739730034535.jpg" group-title="Punjabi",Pitaara
 https://janya-pitaaralive.akamaized.net/ptnr-Khabriya/title-PitaaraTV_SSAI/v1/vglive-sk-326599/playlist.m3u8
 
+#EXTINF:0, tvg-logo="" group-title="Punjabi",Desi Junction
+https://neotv.ottlive.co.in/desijunction/desijunction/index.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="Punjabi",Pitaara International HD
 #EXTVLCOPT:http-referrer="https://techtraveleat.in"
