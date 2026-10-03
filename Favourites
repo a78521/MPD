@@ -2935,6 +2935,8 @@ https://cdn.ottlive.co.in/mahuakhabar/tracks-v1a1/mono.m3u8
 
 ============================================================= Wild Life & Nature===================================================================================================================
 
+#EXTINF:-1 tvg-logo="" group-title="Wild Life & Nature",Adventure Earth
+https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Wild Life & Nature",Love the Planet
 https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/ts-eu-w1-n2/playlist/amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Wild Life & Nature",Earth Touch TV
@@ -3064,6 +3066,7 @@ https://dmr1h4skdal9h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://linear-938.frequency.stream/dist/lg-us/938/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BBC",BBC Earth
 https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+#https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BBC",BBC Top Gear
 https://amg00793-bbcstudios-amg00793c4-lg-us-2527.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctopgear8min-lgus/playlist.m3u8
@@ -7982,6 +7985,9 @@ https://mumt04.tangotv.in/m18aqlK4GOLDMINEMOVIES/index.m3u8
 ======================================================== English Movies ===========================================================================================================
 
 
+#EXTINF:-1 tvg-logo="" group-title="English Movies",24 Hour Free Movies 
+https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="English Movies",Filmbox+ Love & Crime
 https://webtvstream.bhtelecom.ba/filmbox_stars.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English Movies",Filmbox+ Emotion
@@ -8831,8 +8837,12 @@ https://cdn-4.pishow.tv/live/1627/master.m3u8
 https://server.livelegitpro.in/aajkikhabar/aajkikhabar/index.m3u8
 #EXTINF:0, tvg-logo="" group-title="Local News",Ab News
 https://legitpro.co.in/abnews/abnews/index.m3u8
+#EXTINF:0, tvg-logo="" group-title="Local News",ABP Ganga
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ganga-livetv/master.m3u8
 #EXTINF:0, tvg-logo="" group-title="Local News",Abc News
 https://live.abcnews.media/abcnews/abcnews/index.m3u8
+#EXTINF:0, tvg-logo="" group-title="Local News",Bansal News
+	https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8
 #EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/bharat-express-1732294980651.png" group-title="Hindi News",Bharat Express
 https://stream1.livebox.co.in/VCAREhls/live.m3u8
 #https://stream.ottlive.co.in/bharatexpress/index.m3u8
