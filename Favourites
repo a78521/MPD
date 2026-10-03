@@ -7272,9 +7272,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2774c390ad884e06a7b0257c8489e23d/in
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10593.jpg" group-title="Hindi News",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
 #https://backupndtvindiaelemarchana.akamaized.net/hls/live/2004134/ndtvindia/master_1.m3u8
-#
-
-
+#https://jmp2.uk/stvp-INBC2800002WJ
 
 
 #EXTINF:0, tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1930298847Sudarshan_channel_Mob_384x216.webp" group-title="Hindi News",Sudarshan News
@@ -7697,21 +7695,25 @@ https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u
 https://wiselp.wiseplayout.com/9XM/master.m3u8
 #https://d14c63magvk61v.cloudfront.net/strm/channels/9xm/master.m3u8
 #https://9x.cdn.runn.tv/9XM/master.m3u8
+#https://jmp2.uk/stvp-IN38000050P
+
 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10605.jpg" group-title="Hindi Music",9X Jalwa
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
 #https://d14c63magvk61v.cloudfront.net/strm/channels/9xjalwa/master.m3u8
 #https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/70fca4d1-156e-4c03-baa4-9a4b602e33d5/0.m3u8
 #https://9x.cdn.runn.tv/9X_Jalwa/master.m3u8
-
+#https://jmp2.uk/stvp-INBC2800013L6
 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10607.jpg" group-title="Hindi Music",9X Tashan
 https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
 #https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/c18ba53f-d825-4f26-971c-65ec6ab892cc/0.m3u8
+#https://jmp2.uk/stvp-INBC2800011JL
 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10606.jpg" group-title="Hindi Music",9X Jhakaas
 https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
 #https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/ec26ed6c-3d9d-47d3-ac70-d23e781adbdf/0.m3u8
+#https://jmp2.uk/stvp-INBC28000144H
 
 #EXTINF:0, tvg-logo="https://a.jsrdn.com/hls/23146/yrf-music/logo_20240322_175611_70.png" group-title="Hindi Music",YRF Music
 https://amg00223-unisys-amg00223c2-lg-in-2045.playouts.now.amagi.tv/playlist/amg00223-sevencolorsbroadcastingprivatelimited-yfrmusic-lgin/playlist.m3u8
@@ -7783,7 +7785,7 @@ https://amg13643-amg13643c2-amgplt0173.playout.now3.amagi.tv/playlist/amg13643-a
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/160c818d-4a57-4b89-ae62-0423e18110cf/3.m3u8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10543.jpg" group-title="Hindi Music",B4U Bhojpuri
 https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
-
+#https://jmp2.uk/stvp-IN3900017KM
 
 #EXTINF:0, tvg-logo="" group-title="Hindi Music",Shemaroo Filmigane
 https://smr-runntv-flmgn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
@@ -7794,12 +7796,13 @@ https://cc-up9j649x4thrj.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #https://prod-runn.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8
 #https://nh-runntv-blyrag.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8
 #https://209a7ee785af4abf93eeff4c5a7a62cf.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollyraga-airtel/playlist.m3u8
-
+#https://jmp2.uk/stvp-IN460001373
 
 #EXTINF:0, tvg-logo="" group-title="Hindi Movies",NH Bolly Gold
 https://prod-runn.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
 #https://nh-runntv-blygld.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
 #https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8
+#https://jmp2.uk/stvp-IN4000600Q
 
 
 #EXTINF:0, tvg-logo="" group-title="Hindi Movies",Bolly Gold
@@ -7901,6 +7904,7 @@ https://d1bnb20pevkrom.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:0, tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000600Q_20260722T004208SQUARE.png" group-title="Hindi Movies",BollyGold
 https://nhstudio.vgcdn.net/v1/019c6f6ccfb71567ee931d808fa98f/019c6f7cedea1567ee931d808fa993/playlist.m3u8
 #https://d3hhl0gm4nhbkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ovyg974fme8fw/playlist.m3u8?ads.ads_cdn=cf&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=cf&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D
+#https://jmp2.uk/stvp-IN46000140Q
 
 #EXTINF:0, tvg-logo="" group-title="Hindi Movies",Bollywood Max
 https://vods2.aynaott.com/hindimovies/playlist.m3u8
@@ -8481,6 +8485,8 @@ http://a-edge.bliscdn.com/Visionpunjabmusic/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/balle-balle-min-1732294422434.png" group-title="Punjabi Music",balle balle
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
+#https://jmp2.uk/stvp-INBC2800008VD
+
 #EXTINF:-1 tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/z-1755812800468.jpg" group-title="Punjabi Music",Tabbar Hits
 https://stream.ottlive.co.in/tabbarhits/index.m3u8
 #https://livingindia.ottlive.co.in/tabbarhits/index.m3u8
@@ -8540,8 +8546,10 @@ https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10553.jpg"" group-title="Punjabi Movies",Pitaara Movies
 https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/index.m3u8
+
 #EXTINF:0, tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/PITCOM/TV/thumbnail/ef6777fd-5ad9-40d1-9aae-d28c5ca8881b.png" group-title="Punjabi Movies",Pitaara Comedy
 https://pitaaratv.cdn.runn.tv/ptnr-RunnTV/title-Pitaara_Comedy/v1/vglive-sk-217489/playlist.m3u8
+#https://jmp2.uk/stvp-IN1600001OG
 
 
 ======================================================== Punjabi Devotional ===========================================================================================================
