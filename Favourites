@@ -7496,6 +7496,11 @@ https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
 https://nowushls.wns.live/hls/stream.m3u8
 
 
+
+#EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/rgm-1789064869535.jpg" group-title="International News",RGM News
+https://5790d294af2dc.streamlock.net:443/RGM/RGM/playlist.m3u8
+
+
 #EXTINF:0, tvg-logo=""https://cdn.neotvapp.com/file/quickfox/top-tv/channels/IMG-20260313-WA0002-1773408425170.jpg" group-title="International News",RT
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #https://wisehttott.wiseplayout.com/RT/master.m3u8
