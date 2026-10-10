@@ -1385,6 +1385,15 @@ https://ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/inpyms8ezu/o
 https://ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports",Starzplay Cricket 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd
+
+
 #EXTINF:-1 tvg-logo="" group-title="Sports",LALIGA TV FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
