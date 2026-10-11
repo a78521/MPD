@@ -442,8 +442,13 @@ https://tvsen6.aynaott.com/cgtnDocumentary/index.m3u8?e=1779358103&u=78be6644-0a
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Cricbuzz
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/302020.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports 1 HD
+http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/302025.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Fox 501 HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19146/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",PTV Sports HD
+http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/302016.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Amazon Prime English
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1364,7 +1369,8 @@ http://66.102.126.10:8000/play/a008/index.m3u8
 
 
 #EXTINF:-1 tvg-id="star-bharat-hd" tvg-logo="https://live.dinesh29.com.np/logos/star-bharat-hd.png" group-title="Temp",Star Bharat HD
-https://d1taaads3ztvmu.cloudfront.net/120723/smil:lifeokuk.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/200441.m3u8
+#https://d1taaads3ztvmu.cloudfront.net/120723/smil:lifeokuk.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
 #EXTINF:-1 tvg-logo="" group-title="Temp",NDTV Good Times
 https://d1taaads3ztvmu.cloudfront.net/120723/smil:ndtvgoodtimes.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
@@ -1387,19 +1393,23 @@ http://66.102.126.10:8000/play/a021/index.m3u8
 #http://202.70.146.135:8000/play/a06r/index.m3u8
 
 #EXTINF:-1 tvg-id="star-gold-select-hd" tvg-logo="" group-title="Temp",Star Movies Select HD
-http://66.102.126.10:8000/play/a020/index.m3u8
+http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/21109.m3u8
+
+
 
 
 
 
 #EXTINF:-1 tvg-id="colors-hd" tvg-logo="https://tv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Temp",Colors HD
+http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/200466.m3u8
 
 #EXTINF:-1 tvg-id="cineplex-hd" tvg-logo="" group-title="Temp",Colors Cineplex HD
 http://66.102.126.10:8000/play/a06z/index.m3u8
 #http://66.102.126.10:8000/play/a076/index.m3u8
 
 #EXTINF:-1 tvg-id="187" tvg-logo="" group-title="Temp",Colors Infinity HD
-http://66.102.126.10:8000/play/a014/index.m3u8
+http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/21103.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="Temp",MTV HD
