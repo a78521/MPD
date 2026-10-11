@@ -969,6 +969,11 @@ https://delta13tatasky.akamaized.net/out/i/5615195.mpd
 #KODIPROP:inputstream.adaptive.license_key=3666ce00058a4aaba1caf68ec7430f78:26390647041d20a80ea1b7a1972a5861
 https://delta13tatasky.akamaized.net/out/i/5616001.mpd
 
+#EXTINF:-1 tvg-id="ts789" tvg-logo="https://tatalogo.pages.dev/1167.png" group-title="Tata Play",Tata Play Hollywood Local
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=07062db056b14a819ddf64152184bc03:9ea0ec35f48bcc846c5b68bc069a3450
+https://delta13tatasky.akamaized.net/out/i/6282177.mpd
+
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/MAHAK_Thumbnail-v3/MAHAK_Thumbnail.png" group-title="Tata Play",Mahakaleshwar Temple, Ujjain
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6fd09e551bf34bb6a7a1e3b45b00017c:1b4fb576686bb7b62489f904c770b617
