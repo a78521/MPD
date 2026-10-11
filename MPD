@@ -1012,6 +1012,16 @@ https://delta45tatasky.akamaized.net/out/i/554.mpd
 
 ========================================================== Sports ==========================================================================================================
 
+#EXTINF:-1 tvg-id="ts502" group-title="Sports" tvg-logo="https://i.ibb.co/h1gBmjbj/Unite8-1.png",Unite8 Sports 1 HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=99a9bb0ff42447a09a3b25400e149709:18cb2e6e1d447a2f36e09889ae68bde7
+https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd
+
+#EXTINF:-1 tvg-id="ts506" group-title="Sports" tvg-logo="https://i.ibb.co/d4JpmFN9/Unite8-2.png",Unite8 Sports 2 HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=699559cee0184a35bdc809844d0db02c:344d97e15feaad4a6807cb6628aeb62e
+https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_2_HD/dash/Unite8_Sports_2_HD.mpd
+
 #EXTINF:-1 tvg-id="onfootball" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnFootball.png",ON Football HD (VTV Prime) 
 #KODIPROP:inputstream=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
