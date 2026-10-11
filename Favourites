@@ -440,6 +440,11 @@ https://tvsen6.aynaott.com/cgtnDocumentary/index.m3u8?e=1779358103&u=78be6644-0a
 
 ======================================================== Cricket ===========================================================================================================
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Cricbuzz
+http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/302020.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Fox 501 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19146/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Amazon Prime English
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
