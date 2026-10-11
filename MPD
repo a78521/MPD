@@ -1433,7 +1433,7 @@ https://wbd.skandha.tv/DSC_HD_India/DSC_HD_India.isml/.mpd
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
 https://wbd.skandha.tv/APL_HD_World_India/APL_HD_World_India.isml/.mpd
 
-#EXTINF:-1 tvg-id="" group-title="watcho" tvg-logo="",TLC HD
+#EXTINF:-1 tvg-id="" group-title="watcho" tvg-logo="https://tatalogo.pages.dev/480.png",TLC HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=12ed56d780abcfebcd23aa27e4ac5009:6784567890abcfebcd23aa27e4ac2808
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
@@ -1447,8 +1447,12 @@ https://wbd.skandha.tv/TLC_HD_India/TLC_HD_India.isml/.mpd
 https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd
 
 
+#EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/113.png" group-title="watcho",Discovery Science
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=12ed56d780abcfebcd23aa27e4ac5003:6784567890abcfebcd23aa27e4ac2802
+https://wbd.skandha.tv/SC_India/SC_India.isml/.mpd
 
-https://wbd.skandha.tv/TLC_HD_India/TLC_HD_India.isml/.mpd
+
 
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY_HD/images/LOGO_HD/image.png" group-title="watcho",Discovery ID HD
