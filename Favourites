@@ -5325,6 +5325,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-ndtvindia-samsung
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA490002119_20240925T102255SQUARE.png" group-title="Samsung TV",Republic Bharat
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/samsungin-republicbharat-samsungindia/playlist.m3u8
+#https://samsung-republicbharat.amagi.tv/playlist/samsungin-republicbharat-samsungindia/playlist.m3u8
 #https://jmp2.uk/stvp-INBA490002119
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900020A5_20240131T032253SQUARE.png_20240131032254.png" group-title="Samsung TV",Republic TV
@@ -5377,6 +5378,10 @@ https://cc-uc14dlptwy7lw.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600001OG_20240612T015018SQUARE.png" group-title="Samsung TV",Pitaara Comedy
 https://amg01864-amg01864c1-samsung-in-3266.playouts.now.amagi.tv/playlist/amg01864-pitaaratvfast-pitaaracomedy-samsungin/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900027S7_20261013T051753SQUARE.png" group-title="Samsung TV",Aashirwad TV
+https://dn4ljckqdn6h9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-8glmqdhl5qd67/vglive-sk-868063/v1/019ed421ec3215fc60e916b474e5b8/019ed42e04231ea540a8171c8e8017/playlist.m3u8?ads.ads_cdn=cf&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=cf&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT
+#https://jmp2.uk/stvp-IN3900027S7
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD13000053R_20241024T054024SQUARE.png" group-title="Samsung TV",Divya
 https://cc-bbm8etf5o08pz.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bbm8etf5o08pz/Live/Divya_Samsung/playlist.m3u8
