@@ -3501,21 +3501,21 @@ https://a1xs.vip/2000001
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="Sky",Sky Sports News FHD
-https://a1xs.vip/2000004
+https://streamhub.dhruvpatil681.workers.dev/289.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" group-title="Sky",Sky Sports Cricket FHD
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" group-title="Sky",Sky Sports Cricket
+https://streamhub.dhruvpatil681.workers.dev/4340.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" group-title="Sky",Sky Sports Cricket FHD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/9258/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="Sky",Sky Sports Mix
-https://a1xs.vip/2000008
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="Sky",Sky Sports Mix
-
+https://streamhub.dhruvpatil681.workers.dev/1969.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="Sky",Sky Sports Laliga
+http://181.78.106.127:5000/play/ca029/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QvhY4tX/sky-golf.png" group-title="Sky",Sky Sports Golf
-
+https://streamhub.dhruvpatil681.workers.dev/1962.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ccNV9ppd/Sky-Sportsplus.png" group-title="Sky",Sky Sports+ Live
 
@@ -3523,22 +3523,24 @@ https://a1xs.vip/2000008
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZNUDU1r.png" group-title="Sky",Sky Sports Tennis 
-
+https://streamhub.dhruvpatil681.workers.dev/2452.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="Sky",Sky Sports F1
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/7342/index.m3u8
+https://streamhub.dhruvpatil681.workers.dev/288.m3u8
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/7342/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VqtQrDq/sky-action.png" group-title="Sky",Sky Sports Action
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/9155/index.m3u8
+https://streamhub.dhruvpatil681.workers.dev/1961.m3u8
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/9155/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="Sky",Sky Sports Premier League
-
+https://streamhub.dhruvpatil681.workers.dev/1963.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png" group-title="Sky",Sky Sports Football
+https://streamhub.dhruvpatil681.workers.dev/1968.m3u8
 
-
-#EXTINF:-1 tvg-logo="" group-title="Sky",Sky Sports Arena
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4qN4nsM/Sky-Sports-Arena.png" group-title="Sky",Sky Sports Arena
+https://streamhub.dhruvpatil681.workers.dev/4340.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sky",Sky Atlantic FHD
 https://a1xs.vip/210001
