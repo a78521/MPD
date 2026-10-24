@@ -475,25 +475,38 @@ https://aynaott.unosottor.workers.dev/bpk-tv/Ptvsports.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",A Sports HD
 https://aynaott.unosottor.workers.dev/bpk-tv/asports.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="Cricket",Star Sports 1 HD
+https://streamhub.dhruvpatil681.workers.dev/290.m3u8
+#https://streamhub.dhruvpatil681.workers.dev/1088.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="Cricket",Star Sports 1 Hindi HD
+https://streamhub.dhruvpatil681.workers.dev/1965.m3u8
+#https://streamhub.dhruvpatil681.workers.dev/1966.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports 2 HD
+https://streamhub.dhruvpatil681.workers.dev/1446.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports 2 Hindi HD
+https://streamhub.dhruvpatil681.workers.dev/6166.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star Sports Tamil
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Cricbuzz
-http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1163988.ts
+https://streamhub.dhruvpatil681.workers.dev/2028.m3u8
+#https://streamhub.dhruvpatil681.workers.dev/2027.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Willow
-http://4kgood.org:80/live/4o48up5evz/r4fiast66u/13141.ts
+https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Star 4K
 http://fastshare1.com:80/live/Anthony2/Anthony123/333368.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Sky Sports Cricket
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/9258/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cricket",Fox 501 HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/19146/index.m3u8
-
+#https://streamhub.dhruvpatil681.workers.dev/1972.m3u8
 
 #EXTINF:-1 tvg-id="WillowSports.us" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/willow_sports_stacked_logo_full_white.png" group-title="Cricket",Willow Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
