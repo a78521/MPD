@@ -7533,6 +7533,9 @@ https://amg01314-cgtn-amg01314c6-rakuten-gb-10205.playouts.now.amagi.tv/ts-eu-w1
 https://dai4s4shjeg0o.cloudfront.net/HTMediaLabsInd760b6cd7/5b3b64baca764020a525dd7ce42e27e6/master.m3u8 
 #https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #http://d2e1asnsl7br7b.cloudfront.net/4c152bfc7ad2463d928bfbec0990eaeb/index.m3u8
+
+
+#EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/099260397.jpeg" group-title="International News",CNA Singapore
 #https://amg01082-amg01082c1-cna-worldwide-2842.playouts.now.amagi.tv/cna-cnanews-samsung/playlist.m3u8
 
 #EXTINF:0, tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD8000016N_20251125T100002SQUARE.png" group-title="International News",CNN
