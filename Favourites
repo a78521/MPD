@@ -1429,7 +1429,7 @@ http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/21103.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Temp",CN HD+
-
+https://2025.telegram-akshaybk29.workers.dev/channel?id=4
 #EXTINF:-1 tvg-id="63" tvg-logo="" group-title="Temp",Zee TV HD
 
 
@@ -1457,8 +1457,8 @@ http://66.102.126.10:8000/play/a078/index.m3u8
 #http://202.70.146.135:8000/play/a04p/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Temp",Disney Channel HD
-http://66.102.126.10:8000/play/a013/index.m3u8
-#http://202.70.146.135:8000/play/a01q/index.m3u8
+https://2025.telegram-akshaybk29.workers.dev/channel?id=7
+
 
 
 #EXTINF:-1 tvg-id="sony-entertainment-hd" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Temp",Sony Entertainment HD
@@ -1569,6 +1569,8 @@ https://n18syndication-amagi.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/ou
 #https://techtraveleat.in/leo/live.m3u8?id=578&format=.m3u8
 
 
+#EXTINF:-1 tvg-logo="" group-title="Temp",ETV Bal Bharat HD
+https://2025.telegram-akshaybk29.workers.dev/channel?id=5
 
 ================================================== Tplay ===============================================================================================================
 
