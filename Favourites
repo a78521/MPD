@@ -165,6 +165,10 @@ https://amg00627-banijaygroup-fearfactor-samsungnz-zhrro.amagi.tv/playlist/amg00
 #https://live-manifest.production-public.tubi.io/live/dde54a14-3364-49f8-a1f2-4a56c7e9ebb2/playlist.m3u8
 #https://tubi.apollo.adrise.io/live/fear-factor-usa-vkcnhe.m3u8
 
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" group-title="24x7",Baywatch
+https://amg00145-fremantlemedian-baywatch-samsungau-gtsd6.amagi.tv/playlist/amg00145-fremantlemedian-baywatch-samsungau/playlist.m3u8
+
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" group-title="24x7", Ghost Hunters Channel
 https://amg00353-amg00353c30-samsung-nz-3439.playouts.now.amagi.tv/playlist.m3u8
 #https://amg00353-amg00353c30-samsung-au-3440.playouts.now.amagi.tv/playlist.m3u8
@@ -3833,7 +3837,6 @@ https://amg00136-wbd-amg00136c44-lg-us-5704.playouts.now.amagi.tv/playlist/amg00
 
 #EXTINF:0, tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Curiosity%20Now/LG_800X200.png" group-title="Infotainment",Curiosity Now
 https://amg00170-amg00170c1-lg-us-3478.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynow-lgus/playlist.m3u8
-
 
 #EXTINF:0, tvg-logo="" group-title="Infotainment",History & Warfare
 https://dym0m3hpk8pit.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-twag9lr2sgbxc/History_and_Warfare_CA.m3u8
