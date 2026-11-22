@@ -7971,9 +7971,15 @@ https://pb-dkdpz5so0aqqr.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73d
 https://cc-el8oh7stk6uz8.akamaized.net/RMNK/Amagi/TMC2_IN/TMC2_IN.m3u8
 
 #EXTINF:0, tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/B4UMOV/TV/thumbnail/d4287ab1-409a-4afb-9e92-57f185f83bda.png" group-title="Hindi Movies",B4U Movies
-https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/f7db623e-05ce-46f3-8589-22dd210f1aa4/3.m3u8
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
+#https://amg01408-amg01408c7-amgplt0747.playout.now3.amagi.tv/b4umo001/playlist.m3u8
+#http://163.61.226.31:9981/stream/channelid/1547127176?profile=pass
+
+
 #EXTINF:0, tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/B4UKAD/TV/thumbnail/03b91d0d-88bf-4dce-89fe-70f9fcf78b95.png" group-title="Hindi Movies",B4U Kadak
-https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/ab542e60-6c6f-4273-80ea-0ce19dcb9801/3.m3u8
+https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
+#https://amg01408-amg01408c6-amgplt0747.playout.now3.amagi.tv/b4ua001/playlist.m3u8
+#http://163.61.226.31:9981/stream/channelid/282021969?profile=pass
 
 
 #EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/bollywood-hd.jpg" group-title="Hindi Movies",BOLLYWOOD HD
@@ -7982,9 +7988,9 @@ https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 
 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10647.jpg" group-title="Hindi Movies",Abzy Movies
-http://57.129.53.130:21001/ABZY_Movies/master.m3u8
+
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10648.jpg" group-title="Hindi Movies",Abzy Dhakhad
-http://57.129.53.130:21001/ABZY_Dhakad/master.m3u8
+
 
 #EXTINF:0, tvg-logo="" group-title="Hindi Movies",Shemaroo Bollywood
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
@@ -8073,17 +8079,22 @@ http://cdn12.henico.net:8080/live/sursangam/index.m3u8
 #KODIPROP:inputstream.adaptive.http-referrer="https://bhoomtv.me/"
 https://bhoomtv.me/tv/restream-tv/stream.m3u8?id=1160e0e7ca2d&t=1783781864
 
-#EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Goldmines
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/Goldmines.in.png" group-title="Hindi Movies",Goldmines
 https://mumt04.tangotv.in/m18aqlK4GOLDMINES/index.m3u8
+#http://163.61.226.31:9981/stream/channelid/863672695?profile=pass
+
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Goldmines 2
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Goldmines Action
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G90YhWRg/goldmine-bollywood.jpg" group-title="Hindi Movies",Goldmines Bollywood
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Goldmines Movies
-https://mumt04.tangotv.in/m18aqlK4GOLDMINEMOVIES/index.m3u8
+http://163.61.226.31:9981/stream/channelid/1393052638?profile=pass 
+#https://mumt04.tangotv.in/m18aqlK4GOLDMINEMOVIES/index.m3u8
 
 ======================================================== English Movies ===========================================================================================================
 
