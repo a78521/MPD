@@ -762,6 +762,96 @@ http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=75502
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wasmer",Sky Sports Live 1 (tata)
 http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=75507
 
+
+
+=================================================================== Free Dish ================================================================================================
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.theq.tv/wp-content/uploads/2023/10/The-Q-new-Logo.png" group-title="Free Dish",Q TV
+http://163.61.226.31:9981/stream/channelid/359164420?profile=pass
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/H1jhHDl.png" group-title="Free Dish",Star Utsav
+http://163.61.226.31:9981/stream/channelid/894286890?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/k5QHfH2.png" group-title="Free Dish",Star Utsav Movies
+http://163.61.226.31:9981/stream/channelid/1225596390?profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/s157974_ld_h15_aa.png?lock=720x540" group-title="Free Dish",Sony Wah
+http://163.61.226.31:9981/stream/channelid/1743466790?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Free Dish",Sony Pal
+http://163.61.226.31:9981/stream/channelid/1571254341?profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Free Dish",Manoranjan TV
+http://163.61.226.31:9981/stream/channelid/889274687?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/s143303_ld_h15_aa.png?lock=720x540" group-title="Free Dish",Manoranjan Movies
+http://163.61.226.31:9981/stream/channelid/509213855?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Free Dish",Manoranjan Grand
+http://163.61.226.31:9981/stream/channelid/1752367052?profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Unique_Tv.png" group-title="Free Dish",Unique TV
+http://163.61.226.31:9981/stream/channelid/1687023184?profile=pass
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOLDMINES/images/LOGO_HD/image.png" group-title="Free Dish",Goldmimes
+http://163.61.226.31:9981/stream/channelid/863672695?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540" group-title="Free Dish",Goldmimes Movies
+http://163.61.226.31:9981/stream/channelid/1393052638?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6mNQ9mM.png" group-title="Free Dish",Goldmimes Bollywood
+http://163.61.226.31:9981/stream/channelid/1436412639?profile=pass
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_RISHTEY/images/LOGO_HD/LOGO_HD_image.png" group-title="Free Dish",Colors Rishtey
+http://163.61.226.31:9981/stream/channelid/297962113?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_BOLLYWOOD/images/LOGO_HD/image.png" group-title="Free Dish",Colors Cineplex Bollywood
+http://163.61.226.31:9981/stream/channelid/1709941389?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_SUPERHITS/images/LOGO_HD/image.png" group-title="Free Dish",Colors Cineplex Superhits
+http://163.61.226.31:9981/stream/channelid/2039746374?profile=pass
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Free Dish",B4U Movies
+http://163.61.226.31:9981/stream/channelid/1547127176?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Free Dish",B4U Kadak
+http://163.61.226.31:9981/stream/channelid/282021969?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Free Dish",B4U Music
+http://163.61.226.31:9981/stream/channelid/494430938?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Free Dish",B4U Bhojpuri
+http://163.61.226.31:9981/stream/channelid/1866402338?profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Free Dish",Dangal
+http://163.61.226.31:9981/stream/channelid/359795895?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Free Dish",Dangal 2
+http://163.61.226.31:9981/stream/channelid/568470441?profile=pass
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20National.png" group-title="Free Dish",DD National
+http://163.61.226.31:9981/stream/channelid/1991369999?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Free Dish",DD News
+http://163.61.226.31:9981/stream/channelid/920088460?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/s142800_ld_h15_aa.png?lock=720x540" group-title="Free Dish",DD Punjabi
+http://163.61.226.31:9981/stream/channelid/2094424586?profile=pass
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Free Dish",ABP News
+http://163.61.226.31:9981/stream/channelid/326226352?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Free Dish",Republic Bharat
+http://163.61.226.31:9981/stream/channelid/1090287783?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Free Dish",GNT
+http://163.61.226.31:9981/stream/channelid/1288881331?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Free Dish",TV9 Bharatvarsh
+http://163.61.226.31:9981/stream/channelid/581061846?profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IqgrV92.png" group-title="Free Dish",Astha TV
+http://163.61.226.31:9981/stream/channelid/565086134?profile=pass
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Fashion%20TV.png" group-title="Free Dish",FTV
+http://163.61.226.31:9981/stream/channelid/448803688?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Fashion%20TV.png" group-title="Free Dish",FTV
+http://163.61.226.31:9981/stream/channelid/943090988?profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Free Dish",GTC Punjabi
+http://163.61.226.31:9981/stream/channelid/836075567?profile=pass
 =================================================================== Ottera TV ================================================================================================
 
 
