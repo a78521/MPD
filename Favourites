@@ -6717,49 +6717,71 @@ https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 ================================================================Pakistan ==========================================================================================================
 
 #EXTINF:-1 tvg-logo="" group-title="Pakistan",24 News HD
-https://s4.ideationtec.live/Channel_24_HD/Channel_24_HD.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Pakistan",Bol News HD
-https://s5.ideationtec.live/BOL_News_HD/BOL_News_HD.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Pakistan",Dawn News
-https://s5.ideationtec.live/Dawn/Dawn.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Pakistan",Express News
-https://s5.ideationtec.live/Express_News/Express_News.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Pakistan",News 365
-https://s4.ideationtec.live/News_365/News_365.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Pakistan",Hindi Streaming
+https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Pakistan",GS TV
+https://online.godstands.tv:5443/WebRTCApp/streams/mainlive.m3u8
+#https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="" group-title="Pakistan",Aaj News
-https://s4.ideationtec.live/Aaj_News/Aaj_News.m3u8
+https://cdn01.medialive.one:2096/AAJNEWSFHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Pakistan",Aik News
-https://s2.ideationtec.live/Pnn/Pnn.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Pakistan",Such News
+https://video.primexsports.com/suchnews/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Pakistan",Al Jazeera HD
+https://cdn01.medialive.one:2096/ALJAZEERAFHD/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="" group-title="Pakistan",Mix TV
+https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Pakistan",Green HD
+https://cdn01.medialive.one:2096/GREENENTFHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Pakistan",Aan HD
-https://s5.ideationtec.live/AAN_HD/AAN_HD.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Pakistan",Aur Life HD
-https://s3.ideationtec.live/Aur_Life/Aur_Life.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Pakistan",Bol Entertainment HD
-https://s2.ideationtec.live/BOL_Entertainment_HD/BOL_Entertainment_HD.m3u8
+https://cdn01.medialive.one:2096/BOLENTFHD/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Pakistan",Geo Entertainment HD
-https://s3.ideationtec.live/GEO_Entertainment/GEO_Entertainment.m3u8
+https://cdn01.medialive.one:2096/GEOENTFHD/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Pakistan",Express Entertainment HD
-https://s3.ideationtec.live/Express_Entertainment/Express_Entertainment.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Pakistan",Aaj Entertainment
-https://s2.ideationtec.live/AAJ_Entertainment/AAJ_Entertainment.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Pakistan",A Plus
-https://s3.ideationtec.live/A_Plus/A_Plus.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="Pakistan",Discover Pakistan
-https://s3.ideationtec.live/Discover_Pakistan/Discover_Pakistan.m3u8
+https://cdn01.medialive.one:2096/DISCOVERPAKFHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Pakistan",Filmax
-https://s3.ideationtec.live/Filmax/Filmax.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Pakistan",Film World
-https://s3.ideationtec.live/Film_World/Film_World.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Pakistan",Film World
+
+#EXTINF:-1 tvg-logo="" group-title="Pakistan",BuyPass TV
+https://cdn01.medialive.one:2096/BUYPASSTVFHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Pakistan",92 News UK
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Pakistan",Sky News Urdu
-https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Pakistan",Lahore News
 https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
 
@@ -6773,31 +6795,29 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 https://ml-pull-dvc-myco.io:2096/8XM_MUSIC/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/90ecb9218167821.Y3JvcCw1NzUzLDQ1MDAsMTEyNSww.jpg" group-title="Pakistan",Ary Digital HD
-https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/90ecb9218167821.Y3JvcCw1NzUzLDQ1MDAsMTEyNSww.jpg" group-title="Pakistan",Ary Digital HD
-
+https://cdn01.medialive.one:2096/ARYDIGITALFHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpLH0TvJ/geo-ent.jpg" group-title="Pakistan",Geo Entertainment HD
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/dU-Bp46E2XlBaw376I_Boc-0lTEHgBrFJffOK4g1qQvQW5Ah00qL1IYGfWTYjekh8HibJb7nsQ=s900-c-k-c0x00ffffff-no-rj" group-title="Pakistan",Aaj Entertainment
-https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HstckCdt/bol-ent.jpg" group-title="Pakistan",Bol Entertainment
-https://ml-pull-dvc-myco.io:2096/BOL_ENTERTAINMENT/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Pakistan",Capital News
-https://ml-pull-dvc-myco.io:2096/CAPITAL_NEWS/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpLH0TvJ/geo-ent.jpg" group-title="Pakistan",Geo Entertainment HD
-https://ml-pull-dvc-myco.io:2096/GEO_ENTERTAINEMNT/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYOMJrXPGx1YIFBC6ogdcJ87M35xQjneLhKA&s" group-title="Pakistan",Green Entertainment HD
-https://ml-pull-dvc-myco.io:2096/GREEN_ENTERTAINMENT/index.m3u8
+https://cdn01.medialive.one:2096/GREENENTFHD/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sswurt1476662766.png" group-title="Pakistan",Express Entertainment HD
-https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NMyGY6FT/hum.jpg" group-title="Pakistan",Hum TV HD
-https://ml-pull-dvc-myco.io:2096/HUM_ENTERTAINMENT/index.m3u8
+https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://d2gpx7np84fwh1.cloudfront.net/external/d2y2efdi5wgkcl.cloudfront.net/fit-in/688x464/media-io/2025/10/17/Channel_Logo.80dcf707.png?width=1920" group-title="Pakistan",CGTN Discovering China
-https://ml-pull-hwc.myco.io/CGTN/hls/index.m3u8"
+
 
 #EXTINF:-1 tvg-logo="" group-title="Pakistan",HUM HD
 http://45.148.145.57/PAK_HUMTVG/index.m3u8
