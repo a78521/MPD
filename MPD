@@ -1468,6 +1468,21 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
 
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="Sports",ESPN HD
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="Sports",ESPN 2 HD
+http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HiBrysh.png" group-title="Sports",ESPN U HD
+http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",Fox Sports 1
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports",NBC HD
+http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
+
 ======================================================== Watcho ==========================================================================================================================
 
 
