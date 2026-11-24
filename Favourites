@@ -2868,6 +2868,15 @@ https://runn-tv.keralive.workers.dev/runntv/stream/p_supjio/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="tulnit",9XM
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://9xmusic2.keralive.workers.dev/28072023/smil:9xmusic4.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="tulnit",9X Jalwa
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://9xmusic2.keralive.workers.dev/28072023/smil:9xjalwa.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="tulnit",9XM
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
 https://yupp-tv.keralive.workers.dev/28072023/smil:9xmusic4.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="tulnit",9X Jalwa
@@ -2881,6 +2890,10 @@ https://yupp-tv.keralive.workers.dev/28072023/smil:9xtashan.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="tulnit",9X Jhakkas
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 https://yupp-tv.keralive.workers.dev/28072023/smil:9xjhakaas.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="tulnit",MTV India
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="tulnit",B4U Movies
@@ -2911,6 +2924,10 @@ https://kableone.keralive.workers.dev/hls/live/2111218/SagaHits/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="tulnit",Saga Music
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 https://kableone.keralive.workers.dev/hls/live/2111218/SagaMusic/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Saga Music Haryanvi
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://kableone.keralive.workers.dev/hls/live/2111218/SagaHaryanvi/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5ZW0MTk/1.png" group-title="tulnit",YRF Music
@@ -2951,6 +2968,14 @@ https://shemaroo.keralive.workers.dev/du_comedy/du_comedy_1080/playlist.m3u8
 https://erose.keralive.workers.dev/manifest/live/nhstudioz/blyrag/airtel/master.m3u8
 #https://runn-tv.keralive.workers.dev/nhstdz/stream/blyrag/playlist.m3u8
 
+#EXTINF:-1 tvg-logo=" group-title="tulnit",NH BollyFlix
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://erose.keralive.workers.dev/manifest/live/nhstudioz/blyflx/airtel/master.m3u8
+
+#EXTINF:-1 tvg-logo=" group-title="tulnit",NH BollyGold
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://runn-tv.keralive.workers.dev/nhstdz/stream/blygld/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="tulnit",Epic Crimes
@@ -2964,6 +2989,85 @@ https://techtraveleat.in/stream.m3u8?id=zcineclassic
 #EXTINF:-1 tvg-logo="" group-title="tulnit",Zee Cine South Flix
 #EXTVLCOPT:http-referrer=https://bhoomtv.org
 https://techtraveleat.in/stream.m3u8?id=zsouthflix
+
+
+#EXTINF:-1 tvg-logo="" group-title="tulnit",70s Cinema Pluto TV
+#EXTVLCOPT:http-referrer=https://bhoomtv.org
+https://plutotv.keralive.workers.dev/plu-5f4d878d3d19b30007d2e782.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="tulnit",80s Cinema Pluto TV
+#EXTVLCOPT:http-referrer=https://bhoomtv.org
+https://plutotv.keralive.workers.dev/plu-5dbfeb961b411c00090b52b3.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="tulnit",90s-throwback Pluto TV
+#EXTVLCOPT:http-referrer=https://bhoomtv.org
+https://plutotv.keralive.workers.dev/plu-5f4d86f519358a00072b978e.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="tulnit",00s Replay Pluto TV
+#EXTVLCOPT:http-referrer=https://bhoomtv.org
+https://plutotv.keralive.workers.dev/plu-62ba60f059624e000781c436.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Pluto TV Action
+#EXTVLCOPT:http-referrer=https://bhoomtv.org
+https://plutotv.keralive.workers.dev/plu-561d7d484dc7c8770484914a.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Pluto TV Comedy
+#EXTVLCOPT:http-referrer=https://bhoomtv.org
+https://plutotv.keralive.workers.dev/plu-5c363c2411c5ca053f198f97.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Pluto TV Crime
+#EXTVLCOPT:http-referrer=https://bhoomtv.org
+https://plutotv.keralive.workers.dev/plu-5f4d8594eb979c0007706de7.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Pluto TV Cult
+#EXTVLCOPT:http-referrer=https://bhoomtv.org
+https://plutotv.keralive.workers.dev/plu-5c665db3e6c01b72c4977bc2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Pluto TV Drama
+#EXTVLCOPT:http-referrer=https://bhoomtv.org
+https://plutotv.keralive.workers.dev/plu-6a065830853a01a827f6dd65.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Pluto TV Fantasy & Thriller
+#EXTVLCOPT:http-referrer=https://bhoomtv.org
+https://plutotv.keralive.workers.dev/plu-685041d936c9361b1921c26c.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Pluto TV Horror
+#EXTVLCOPT:http-referrer=https://bhoomtv.org
+https://plutotv.keralive.workers.dev/plu-569546031a619b8f07ce6e25.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Pluto TV Sci-Fi
+#EXTVLCOPT:http-referrer=https://bhoomtv.org
+https://plutotv.keralive.workers.dev/plu-5dc02a44a9518600094273ac.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Pluto TV Thrillers
+#EXTVLCOPT:http-referrer=https://bhoomtv.org
+https://plutotv.keralive.workers.dev/plu-6a300571cdfd39da91df9159.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Mission Impossible Pluto TV
+#EXTVLCOPT:http-referrer=https://bhoomtv.org
+https://plutotv.keralive.workers.dev/plu-5f77977bd924d80007eee60c.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="tulnit",BET Cinema Pluto TV
+#EXTVLCOPT:http-referrer=https://bhoomtv.org
+https://plutotv.keralive.workers.dev/plu-58af4c093a41ca9d4ecabe96.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Paramount Movie Channel
+#EXTVLCOPT:http-referrer=https://bhoomtv.org
+https://plutotv.keralive.workers.dev/plu-5cb0cae7a461406ffe3f5213.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Movies Action
+#EXTVLCOPT:http-referrer=https://bhoomtv.org
+https://mbc-shahid.keralive.workers.dev/tx011/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Movies Thriller
+#EXTVLCOPT:http-referrer=https://bhoomtv.org
+https://mbc-shahid.keralive.workers.dev/tx012/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="tulnit",Nick Jr. Pluto TV
+#EXTVLCOPT:http-referrer=https://bhoomtv.org
+https://plutotv.keralive.workers.dev/plu-62bdb75c3afd1200079146a6.m3u8
 
 ============================================================= 4K===================================================================================================================
 
@@ -8502,6 +8606,9 @@ https://samacar.hk.harekrsnatv.com/harekrsna/tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bhakti_Dhara.png" group-title="Devotional",Bhakti Dhara
 https://newsliveindia.com:4433/bhaktidhara/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://bhaktiplay.com/images/icons/logo.png" group-title="Devotional",Bhakti Play
+https://qn-01273-mum-2-07-1---7247-gbsv.http.global.dns.qwilted-cds.cqloud.com/OTM/OTM_BhaktiFlix-SCTE_CDN/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shri_Shyam_TV.png" group-title="Devotional",Sri Shyam TV
 https://cloudcdn.in/live/shreeshyamtv/index.m3u8
@@ -8742,8 +8849,10 @@ https://nagaratv.gigabitcdn.net/in-nagara-tv/nagara-tv-SP/playlist.m3u8
 http://livestream.unlimitedcdn.com/onlymusic/index.m3u8
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/738780686.jpeg" group-title="Punjabi Music",Global Desi
 https://live.ottlive.co.in/globaldesi/globaldesi/index.m3u8
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/a578dc90-8ad4-4d06-a7ae-13e3325af2d3.jpg" group-title="Punjabi Music",7x Punjabi
+#EXTINF:0, tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/7X_Music.png" group-title="Punjabi Music",7x Punjabi
 https://cdn2.in/7xPunjabihls/live.m3u8
+#https://7xshreeshyam.akamaized.net/7XPunjabi/index.m3u8
+
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Indoo z tv 004.jpg" group-title="Punjabi Music",Indo Oz
 https://cdn2.in/IndozeTvhls/live.m3u8
 #EXTINF:0, tvg-logo="" group-title="Punjabi Music",Pure Punjabi HD
@@ -10837,6 +10946,7 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:9xmusic4.smil/playlist.m3u8
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:9xtashan.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Yupp TV",9X Jalwa
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:9xjalwa.smil/playlist.m3u8
+#https://yupplivegcp2.yuppcdn.net/28072023/smil:9xjalwa.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
 #EXTINF:-1 tvg-logo="" group-title="Yupp TV",Balle Balle
 #https://d1msejlow1t3l4.cloudfront.net/fta/balleballe/chunks.m3u8
