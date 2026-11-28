@@ -8749,6 +8749,8 @@ https://cc-m6zq76ijc87jw.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://gtc.ottlive.co.in/gtcpunjabi/index.m3u8
 #EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/gtc-usa-1773945969991.jpg" group-title="Punjabi",GTC Punjabi USA
 https://neotv.ottlive.co.in/gtcpunjabiusa/index.m3u8
+#EXTINF:0, tvg-logo="https://media.thegtcnetwork.com/uploads/gtc-pujabin-s.jpg" group-title="Punjabi",GTC Punjabi UK
+https://neotv.ottlive.co.in/gtcpunjabiuk/index.m3u8
 
 #EXTINF:0, tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/hamdard-tv-1650133223593.png" group-title="Punjabi",Hamdard TV
 https://tv.hamdardtv.com/hamdard/tracks-v1a1/mono.m3u8
