@@ -7563,6 +7563,7 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99951264/hls/master.m3u8?ads.xumo_cha
 https://live-content.xumo.com/2623/content/XM0DRAHH2TS056/23340439/master.m3u8
 #EXTINF:-1 tvg-id="9999615" tvg-name="Dark Matter TV" tvg-logo="https://image.xumo.com/v1/channels/channel/9999615/168x168.png?type=color_onBlack" group-title="Xumo",Dark Matter TV
 https://live-content.xumo.com/3346/content/XM0PXTAAR32HJW/23831769/master.m3u8
+
 ======================================================== Hindi News ===========================================================================================================
 
 #EXTINF:-1 tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/bemisaal-20-saal/at-hd-191x84.png" group-title="Hindi News",Aaj Tak HD
@@ -7591,6 +7592,7 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/75f3183e143240a29fbddd502a6a3f8d/in
 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10827.jpg" group-title="Hindi News",Reublic Bharat
 https://d2lk5u59tns74c.cloudfront.net/out/v1/7e8b490d6b9c4013a3e3e874aa352212/index.m3u8
+#https://amg01218-amg01218c7-amgplt0915.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg01218-amg01218c7-amgplt0915/playlist.m3u8
 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10585.jpg" group-title="Hindi News",Times Now Navbharat HD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a5ee7c4e7a2a4b15a22a3bcf523b9776/index.m3u8
@@ -7677,6 +7679,7 @@ https://amg01106-tv9-amg01106c3-lg-in-2095.playouts.now.amagi.tv/playlist/amg011
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/695950420.jpeg" group-title="English News",Republic India
 https://samsung-republictv.amagi.tv/ts-ap-s1-n1/playlist/samsungin-republictv-samsungindia/playlist.m3u8
 #https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8?ads.partner=PlayBox
+#https://amg01218-amg01218c6-amgplt0915.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg01218-amg01218c6-amgplt0915/playlist.m3u8
 #https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8
 
 #EXTINF:0, tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10547.jpg" group-title="English News",India Today
