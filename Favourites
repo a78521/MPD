@@ -1162,6 +1162,7 @@ https://cinshf.cdn.runn.tv/runntv/stream/p_cinshf/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_PKTFLM/Web/thumbnail/logo_web.png" group-title="Runn TV",Pocket Films
 https://pktflm.cdn.runn.tv/runntv/stream/p_pktflm/playlist.m3u8
 #https://prod-runn.cdn.runn.tv/runntv/stream/p_pktflm/playlist.m3u8
+#https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8
 
 
 
@@ -5558,8 +5559,11 @@ https://cc-ejrl4az77gvl4.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20241211T020400SQUARE.png" group-title="Samsung TV",The Movie Club
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
+#https://mumbai-edge.smartplaytv.in/TheMovieClub/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN40000100Y_20260812T011014SQUARE.png" group-title="Samsung TV",The Movie Club+2
 https://cc-el8oh7stk6uz8.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-el8oh7stk6uz8/RMNK/Amagi/TMC2_IN/TMC2_IN.m3u8
+#https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf
 
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000140Q_20260623T015335SQUARE.png" group-title="Samsung TV",NH BollyFlix
@@ -8790,10 +8794,12 @@ https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playl
 #EXTINF:0, tvg-logo="" group-title="Punjabi",Chardikala Time TV North America
 https://chardikalanorthamerica.gigabitcdn.net/in-chardikala/chardikala-north-usa/playlist.m3u8
 
-#EXTINF:0, tvg-logo="" group-title="Punjabi",mh1
-https://mumt04.tangotv.in/MHONE/index.m3u8
+#EXTINF:0, tvg-logo="https://dtil.tmsimg.com/assets/s143539_ld_h15_aa.png?lock=720x540" group-title="Punjabi",mh1
+https://livestream.jswk.online/playlisttest/live/playlist.m3u8
+
 #EXTINF:0, tvg-logo="https://dtil.tmsimg.com/assets/s143540_ld_h15_aa.png" group-title="Punjabi",mh1 News
 https://livestream.jswk.online/mhonenews/live/index.m3u8
+
 #EXTINF:0, tvg-logo="" group-title="Punjabi",mh1 Dil Se
 https://mumt01.tangotv.in/MHONEDILSE/index.m3u8
 #EXTINF:0, tvg-logo="" group-title="Punjabi",mh1 Shraddha
@@ -9332,6 +9338,17 @@ https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio00464k
 
 
 ======================================================== Stringray ===========================================================================================================
+
+#EXTINF:-1 tvg-logo=https://i.imgur.com/FBgu8yB.png" group-title="Stingray",Stingray Classic Rock
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/960px-Stingray_Djazz.png" group-title="Stingray",Stingray Classic Diazz
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png" group-title="Stingray",Stingray Easy Listening
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/882kd90.png" group-title="Stingray",Stingray Naturescape
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
 
 #EXTINF:-1 tvg-id="StingrayFlashback70s.ca" tvg-logo="https://i.imgur.com/jf5C9QF.png" group-title="Stingray",Stingray Flashback 70s
 https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
